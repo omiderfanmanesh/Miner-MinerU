@@ -1,0 +1,782 @@
+{
+  "page_map": {
+    "3": [
+      {
+        "id": "h10",
+        "title": "Summary"
+      }
+    ],
+    "6": [
+      {
+        "id": "h11",
+        "title": "ANNEX “A1” 106"
+      },
+      {
+        "id": "h12",
+        "title": "ANNEX “A2” 107"
+      },
+      {
+        "id": "h13",
+        "title": "ANNEX “B” 119"
+      },
+      {
+        "id": "h14",
+        "title": "ANNEX “C” 120"
+      },
+      {
+        "id": "h15",
+        "title": "ANNEX “C1” 132"
+      },
+      {
+        "id": "h16",
+        "title": "ANNEX “D” 133"
+      },
+      {
+        "id": "h17",
+        "title": "ANNEX “E” 134"
+      }
+    ],
+    "10": [
+      {
+        "id": "h18",
+        "title": "Ministerial Decree 1320/2021 art 2 points d) (PhDs) and e) (Specialisation Schools), Criteria of the Piedmont Region for the publication by EDISU of calls for applications relating to the disbursement of scholarships and other benefits for the academic year 2025/26"
+      },
+      {
+        "id": "h19",
+        "title": "Regional Criteria 2025/26 sec. II point 4."
+      }
+    ],
+    "11": [
+      {
+        "id": "h20",
+        "title": "8, 5 \\% , according to the ranking defined in art. 17(1), for enrolled students:"
+      },
+      {
+        "id": "h21",
+        "title": "1, 5 \\% , according to the ranking defined in art. 12(1), for students enrolled in the first years of bachelor’s degree, single-cycle master’s degree, master's degree courses. The number of places thus identified is further divided by reserving 1, 5 \\% for students with non-EU citizenship with their family residing in a non-EU country and for students with International Protection status, while the remaining 8, 5 \\% is reserved for students with Italian and EU citizenship and for students with non-EU citizenship with their family residing in an EU country."
+      },
+      {
+        "id": "h22",
+        "title": "Regional Criteria 2025/26 sec. X."
+      },
+      {
+        "id": "h23",
+        "title": "Ministerial Decree 509/99, Ministerial Decree 270/04."
+      },
+      {
+        "id": "h24",
+        "title": "Legislative Decree. 210/98 and Ministerial Decree 1320/2021"
+      }
+    ],
+    "12": [
+      {
+        "id": "h25",
+        "title": "The duration of the benefits for disabled students is indicated in art. 29(1) and in Section X as regards “Extraordinary contributions for students with disabilities of 4, 6 \\% or more registered for targeted employment pursuant to Law no. 68 of 12 March 1999”"
+      },
+      {
+        "id": "h26",
+        "title": "Ministerial Decree 509/99."
+      },
+      {
+        "id": "h27",
+        "title": "“Similar” means one allocated on the basis of income and merit requirements"
+      },
+      {
+        "id": "h28",
+        "title": "Prime Ministerial Decree 9/4/01, art. 10(1)."
+      },
+      {
+        "id": "h29",
+        "title": "Legislative Decree 68/12, art. 10(3)."
+      }
+    ],
+    "13": [
+      {
+        "id": "h30",
+        "title": "For international students applying with Temporary Access Code academic year 2025/26 (art. 7(1.2)): The absence of the following attachments, which must be submitted online together with the application by the deadline:"
+      },
+      {
+        "id": "h31",
+        "title": "For international students with their family residing abroad, failure to deliver the required documentation in accordance with the methods and time frames indicated in art. 31(1.1) (first-year students with entry into Italy for enrolment in the academic year 2025/26), 1.2 (first-year students regularly residing in Italy) and 31 para. 1.3 (subsequent-year students) para. 1.5 (PhDs and specialisation schools) and para. 2 (EU students)."
+      },
+      {
+        "id": "h32",
+        "title": "PRESIDENTIAL DECREE 445/00, art. 75."
+      },
+      {
+        "id": "h33",
+        "title": "PRESIDENTIAL DECREE 445/00, art. 71(3)."
+      },
+      {
+        "id": "h34",
+        "title": "“Similar” means one allocated on the basis of income and merit requirements"
+      },
+      {
+        "id": "h35",
+        "title": "Prime Ministerial Decree 9/4/01, art. 10(1)."
+      }
+    ],
+    "15": [
+      {
+        "id": "h36",
+        "title": "Ministerial Decree 1320/2021 and Regional Criteria 2025/26, Annex A"
+      },
+      {
+        "id": "h37",
+        "title": "Prime Ministerial Decree 9/4/01, art. 11(4)."
+      },
+      {
+        "id": "h38",
+        "title": "Prime Ministerial Decree 9/4/01 art. 11(4) and Regional Criteria 2025/26 sec. IIII art. 1( 7)"
+      },
+      {
+        "id": "h39",
+        "title": "Ministerial Decree 1320 art. 3(3): ISEE less than or equal to 5, 0 \\% limit"
+      },
+      {
+        "id": "h40",
+        "title": "Ministerial Decree 1320 art. 3(8): 2/3 ISEE limit"
+      },
+      {
+        "id": "h41",
+        "title": "Regional Criteria 2025/26 Sec. VII art. 1(6)"
+      }
+    ],
+    "16": [
+      {
+        "id": "h42",
+        "title": "Regional Criteria 2025/26, Annex A"
+      },
+      {
+        "id": "h43",
+        "title": "Ministerial Decree 1320 art. 3(3): ISEE less than or equal to 5, 0 \\% limit"
+      },
+      {
+        "id": "h44",
+        "title": "Regional Criteria, Section IIII art. 1"
+      },
+      {
+        "id": "h45",
+        "title": "Regional Criteria 2025/26, Annex A"
+      },
+      {
+        "id": "h46",
+        "title": "Ministerial Decree 1320 art. 3(3): ISEE less than or equal to 5, 0 \\% limit"
+      },
+      {
+        "id": "h47",
+        "title": "Annex A Regional Criteria: amount equal to 5, 0 \\% of the basic amount increased by 20 \\% for female STEM students"
+      }
+    ],
+    "17": [
+      {
+        "id": "h48",
+        "title": "SUMMARY TABLE OF NON-RESIDENT STUDENTS REQUESTING ACCOMMODATION SERVICES*"
+      }
+    ],
+    "18": [
+      {
+        "id": "h49",
+        "title": "Ministerial Decree 509/99, art. 11."
+      }
+    ],
+    "20": [
+      {
+        "id": "h50",
+        "title": "Ministerial Decree 204/2023"
+      }
+    ],
+    "21": [
+      {
+        "id": "h51",
+        "title": "pursuant to art. 27 of Presidential Decree 223/89 see art. 6 para. 5."
+      }
+    ],
+    "22": [
+      {
+        "id": "h52",
+        "title": "Council of State Ruling Nos. 838, 841 and 842 of 2016"
+      },
+      {
+        "id": "h53",
+        "title": "Arts. 4 and 5 of Prime Ministerial Decree 159/2013"
+      }
+    ],
+    "23": [
+      {
+        "id": "h54",
+        "title": "Art. 8(2) Prime Ministerial Decree 159/2013"
+      },
+      {
+        "id": "h55",
+        "title": "The income received must derive from employment or self-employment (INPS FAQ MB2_14 of 2016)"
+      },
+      {
+        "id": "h56",
+        "title": "INPS FAQ MB2_15, 2017"
+      },
+      {
+        "id": "h57",
+        "title": "Ministerial Decree 1320/2021 art. 3(1)"
+      },
+      {
+        "id": "h58",
+        "title": "INPS FAQ MB2_10, 2015"
+      },
+      {
+        "id": "h59",
+        "title": "INPS FAQ MB2_13, 2016"
+      }
+    ],
+    "24": [
+      {
+        "id": "h60",
+        "title": "Students will be listed as “excluded” in the provisional ranking when:"
+      },
+      {
+        "id": "h61",
+        "title": "Art. 8 Prime Ministerial Decree 159/2013 Sec. IV Regional Criteria academic year 2025/26"
+      },
+      {
+        "id": "h62",
+        "title": "At https://servizi2.inps.it/servizi/Iseeriforma/home.aspx"
+      },
+      {
+        "id": "h63",
+        "title": "INPS Circular No. 171/2014 point 10.4"
+      }
+    ],
+    "25": [
+      {
+        "id": "h64",
+        "title": "Art. 9 of Prime Ministerial Decree 159/2013 and art. 5 Ministerial Decree 347/2019"
+      },
+      {
+        "id": "h65",
+        "title": "Decree of 5 July 2021 (Official Gazette no. 203 of 25/08/2021, implementing para. 4 art. 10 Legislative Decree 147/2017"
+      }
+    ],
+    "28": [
+      {
+        "id": "h66",
+        "title": "Submit the online application and the above-mentioned documents exclusively online, by clicking on the “SEND” button, by 12:00 p.m. on the deadline day."
+      },
+      {
+        "id": "h67",
+        "title": "Regulated by the CAD Legislative Decree 82/2005 and European Regulation 910/2014. For information on qualified electronic (or digital) signatures go to www.agid.gov.it."
+      }
+    ],
+    "29": [
+      {
+        "id": "h68",
+        "title": "The first confirmation, with the subject “Acquisizione dati via web” (acquisition of web data), is sent after the online transmission of the application."
+      },
+      {
+        "id": "h69",
+        "title": "The second confirmation, with the subject “Ricezione pratica” (receipt of file), is sent after the application has been imported into the EDISU database. The protocol number assigned to the application is indicated in the text."
+      }
+    ],
+    "31": [
+      {
+        "id": "h70",
+        "title": "Via the “DATA MODIFICATION” button, available by accessing the application for benefits from your personal Online Helpdesk page."
+      },
+      {
+        "id": "h71",
+        "title": "Non-resident students who have applied for a scholarship only may add a request for accommodation service using the special “Add accommodation service application request” button, available by accessing the benefits application from their personal Online Helpdesk page. Similarly, students who have applied for a scholarship and accommodation, but only intended to apply for the scholarship may delete the request for accommodation service using the special “Delete the accommodation service application” button, available by accessing the benefits application from their personal Online Helpdesk page."
+      },
+      {
+        "id": "h72",
+        "title": "CHANGES TO DATA AND REQUESTS AFTER SUBMISSION BUT BEFORE THE APPLICATION SUBMISSION DEADLINE"
+      }
+    ],
+    "32": [
+      {
+        "id": "h73",
+        "title": "CHANGES TO DATA AND REQUESTS SENT ONLINE AFTER THE APPLICATION SUBMISSION DEADLINE"
+      }
+    ],
+    "33": [
+      {
+        "id": "h74",
+        "title": "△ △"
+      },
+      {
+        "id": "h75",
+        "title": "INPS and Ministry of Labour Message No. 8415 of 26/10/2020"
+      }
+    ],
+    "34": [
+      {
+        "id": "h76",
+        "title": "Prime Ministerial Decree 09/04/2001, art. 4(8) Prime Ministerial Decree 1320/2021"
+      }
+    ],
+    "36": [
+      {
+        "id": "h77",
+        "title": "between 5 and 13 March 2026 at 12 noon"
+      },
+      {
+        "id": "h78",
+        "title": "DM 418/2025 and DM 447/2025."
+      }
+    ],
+    "39": [
+      {
+        "id": "h79",
+        "title": "Bachelor’s degrees courses"
+      },
+      {
+        "id": "h80",
+        "title": "Master’s degree courses"
+      },
+      {
+        "id": "h81",
+        "title": "Single-cycle master’s degree courses"
+      },
+      {
+        "id": "h82",
+        "title": "before submitting the application: students are required to declare this by means of the special option available under the “Scholastic data” section of the application;"
+      },
+      {
+        "id": "h83",
+        "title": "Regional Criteria 2025/26 Sec. V, art. 3"
+      }
+    ],
+    "40": [
+      {
+        "id": "h84",
+        "title": "9(3) SPECIFIC PROVISIONS FOR STUDENTS OF COURSES WITH A \"FILTER SEMESTER\" (CLASSES LM-41, LM-46, LM-42)"
+      },
+      {
+        "id": "h85",
+        "title": "9(3.1) STUDENTS ATTENDING THE \"FILTER SEMESTER\" IN PIEDMONT"
+      },
+      {
+        "id": "h86",
+        "title": "9(3.2) STUDENTS NOT ATTENDING THE \"FILTER SEMESTER\" IN PIEDMONT"
+      }
+    ],
+    "43": [
+      {
+        "id": "h87",
+        "title": "Regional Criteria academic year 2025/26 Sec. VII art. 2a"
+      }
+    ],
+    "45": [
+      {
+        "id": "h88",
+        "title": "credits"
+      },
+      {
+        "id": "h89",
+        "title": "credits"
+      }
+    ],
+    "47": [
+      {
+        "id": "h90",
+        "title": "A first 50 \\% of the total amount is paid automatically as per the table* below:"
+      },
+      {
+        "id": "h91",
+        "title": "A second instalment, equal to the remaining 50 \\% of the total amount, is disbursed based on when the merit requirements set out in paragraph 3 above are achieved and, if required, self-certified, as per the table below:"
+      }
+    ],
+    "48": [
+      {
+        "id": "h92",
+        "title": "\\% INCREASE FOR ENROLMENT IN A SECOND COURSE"
+      }
+    ],
+    "49": [
+      {
+        "id": "h93",
+        "title": "Prime Ministerial Decree 9/4/01, art. 6(3)"
+      },
+      {
+        "id": "h94",
+        "title": "Regional Criteria 2025/26 Sec. VI art. 2(5)"
+      }
+    ],
+    "52": [
+      {
+        "id": "h95",
+        "title": "Winning the grant in the previous academic year 2025/26."
+      },
+      {
+        "id": "h96",
+        "title": "Ministerial Decree 509/99, Ministerial Decree 270/04"
+      }
+    ],
+    "54": [
+      {
+        "id": "h97",
+        "title": "Students enrolled full-time."
+      },
+      {
+        "id": "h98",
+        "title": "Students enrolled part-time."
+      },
+      {
+        "id": "h99",
+        "title": "Please note:"
+      }
+    ],
+    "55": [
+      {
+        "id": "h100",
+        "title": "Regional Criteria 2025/26 Sec. V, art. 3"
+      },
+      {
+        "id": "h101",
+        "title": "Regional Criteria 2025/26 Sec. VI art. 1(2)"
+      }
+    ],
+    "56": [
+      {
+        "id": "h102",
+        "title": "after 30 November 2025: students are required to promptly notify EDISU of this by opening a ticket as an accredited user but will not be subject to changes in the academic year 2025/26. In the academic year 2026/27, on the other hand, the academic year of first enrolment of students will be backdated according to the number of credits recognised and therefore the credits for that year will be required."
+      }
+    ],
+    "60": [
+      {
+        "id": "h103",
+        "title": "Winner: students meet the requirements of the notice of competition and have the right to take up the benefits applied for."
+      },
+      {
+        "id": "h104",
+        "title": "Eligible: students who meet the requirements of the notice of competition but cannot take up the benefit applied for due to a lack of available resources."
+      },
+      {
+        "id": "h105",
+        "title": "Suspended: students who do not meet the requirements due to the following 2 reasons will be included in the final December scholarship rankings with the result “suspended”:"
+      },
+      {
+        "id": "h106",
+        "title": "Excluded: students do not meet the requirements of the notice of competition or have not rectified material errors present in the application via complaint."
+      }
+    ],
+    "61": [
+      {
+        "id": "h107",
+        "title": "the first instalment (equal to 50 \\% of the total amount) is disbursed starting from the end of December 2025;"
+      },
+      {
+        "id": "h108",
+        "title": "the second instalment, equal to the remaining 50 \\% of the total amount, is disbursed from the end of June 2026, by crediting an IBAN from mid-July 2026. per IBAN inseriti entro il 30 giugno 2026"
+      }
+    ],
+    "64": [
+      {
+        "id": "h109",
+        "title": "to 29 April, 12:00 p.m."
+      }
+    ],
+    "65": [
+      {
+        "id": "h110",
+        "title": "May 2026"
+      },
+      {
+        "id": "h111",
+        "title": "May to 26 May 2026"
+      },
+      {
+        "id": "h112",
+        "title": "June 2026"
+      }
+    ],
+    "67": [
+      {
+        "id": "h113",
+        "title": "Ministerial Decree 224/99. Ministerial Decree 1320/2021"
+      }
+    ],
+    "68": [
+      {
+        "id": "h114",
+        "title": "NOVEMBER 2025, 12:00"
+      },
+      {
+        "id": "h115",
+        "title": "p.m.."
+      }
+    ],
+    "69": [
+      {
+        "id": "h116",
+        "title": "Winner: students meet the requirements of the notice of competition and have the right to take up the benefits applied for. Scholarship winners must follow the provisions indicated in art. 27."
+      }
+    ],
+    "73": [
+      {
+        "id": "h117",
+        "title": "course level (bachelor’s degree, single-cycle master's degree, or master’s degree);"
+      },
+      {
+        "id": "h118",
+        "title": "Legislative Decree 210/98. Ministerial Decree 1320/2021"
+      },
+      {
+        "id": "h119",
+        "title": "Ministerial Decree 509/99, Ministerial Decree 270/04."
+      }
+    ],
+    "74": [
+      {
+        "id": "h120",
+        "title": "Paragraph 3.2 point A Merit requirements with full-time enrolment"
+      },
+      {
+        "id": "h121",
+        "title": "Paragraph 3.2 point B Merit requirements with part-time enrolment"
+      }
+    ],
+    "77": [
+      {
+        "id": "h122",
+        "title": "the total gross annual income produced abroad by each individual member of the household aged 18 or over on 1 January 2025, including any siblings and the applicant for benefits. See Annex E for the exchange rate applied."
+      },
+      {
+        "id": "h123",
+        "title": "Prime Ministerial Decree 159/2013"
+      }
+    ],
+    "78": [
+      {
+        "id": "h124",
+        "title": "the existence of movable assets (deposits, current accounts, savings accounts) belonging to each individual household member over 18 years of age on 1 January 2025."
+      },
+      {
+        "id": "h125",
+        "title": "the existence or no of real estate owned abroad for each household member aged 18 and over on 1 January 2025. In the case of real estate (first home and/or other buildings), the certificate must contain the specification of the square metres of the same."
+      },
+      {
+        "id": "h126",
+        "title": "Students wishing to benefit from independent student status, in addition to the documentation listed above, must also submit certification proving that they have earned an income from employment of at least € 9,000.00 (or equivalent in foreign currency) for the 2023 and 2024 tax years and that they have been residing outside their family of origin (in a property that is not owned by a member of their household or other relative) for at least two years from the date of application. When completing the online application, you will be asked to attach documentation proving the residency requirement."
+      },
+      {
+        "id": "h127",
+        "title": "Art. 3 Presidential Decree 445/00"
+      },
+      {
+        "id": "h128",
+        "title": "Art. 33 Presidential Decree 445/00"
+      }
+    ],
+    "79": [
+      {
+        "id": "h129",
+        "title": "Prime Ministerial Decree 9 April 2001 art. 13(5)"
+      },
+      {
+        "id": "h130",
+        "title": "Prime Ministerial Decree of 9 April 2001 art. 5"
+      }
+    ],
+    "80": [
+      {
+        "id": "h131",
+        "title": "INTERNATIONAL STUDENTS ENROLLED IN A PHD COURSE OR SPECIALISATION SCHOOL WHO MUST CALCULATE THE ISEE PARIFICATO"
+      },
+      {
+        "id": "h132",
+        "title": "NON-EU OR EU INTERNATIONAL STUDENTS WITH PART OF THEIR FAMILY IN DIFFERENT COUNTRIES (EU/NON-EU, NON-EU/ITALY AND EU/ITALY)"
+      },
+      {
+        "id": "h133",
+        "title": "Hague Convention of 5/10/1961, London Convention of 07/06/1968, Brussels Convention of 25/05/1987, REGULATION (EU) 2016/1191 of 06/07/2016, Convention between the Italian Republic and the Federal Republic of Germany on the exemption from legalisation of documents. Section V art. 2 point 5 Regional Criteria 2025/26"
+      }
+    ],
+    "83": [
+      {
+        "id": "h134",
+        "title": "Visa delay"
+      },
+      {
+        "id": "h135",
+        "title": "B) Students enrolled in the subsequent years of a bachelor’s degree, master's degree or single-cycle master's degree:"
+      },
+      {
+        "id": "h136",
+        "title": "C) Students enrolled in a PhD course or specialisation school who must calculate the ISEE Parificato"
+      },
+      {
+        "id": "h137",
+        "title": "Step 3: submission of consular documentation via the upload procedure available when completing the online application Students must attach, via the online procedure, translated and legalised consular documentation relating to the composition, income, and assets of the student's household (art. 30 (3) and (7)) by the deadline for submitting the application for the benefit they intend to apply for. Both the documentation in the original language and the translation into Italian must be attached."
+      }
+    ],
+    "84": [
+      {
+        "id": "h138",
+        "title": "For students who have postage tracking, please note that the date of sending the acknowledgement of receipt may be different from that of the postal or courier service."
+      }
+    ],
+    "85": [
+      {
+        "id": "h139",
+        "title": "• CONSULAR DOCUMENTS FOR EU STUDENTS ATTACHED WHEN COMPLETING THE ONLINE BENEFITS APPLICATION"
+      }
+    ],
+    "87": [
+      {
+        "id": "h140",
+        "title": "International students"
+      }
+    ],
+    "88": [
+      {
+        "id": "h141",
+        "title": "NOVITÀ"
+      }
+    ],
+    "91": [
+      {
+        "id": "h142",
+        "title": "If students have declared “I am interested”, or “I am interested with the Erasmus Option” but it turns out that they have NOT been allocated accommodation, they are included in the single scrolling rankings (paragraph 3 of this article) and compete for the amount of the scholarship including the monetised value of the unused accommodation service (art. 5(1.3) point a), should they be scholarship winners and submit the declaration of paid accommodation;"
+      },
+      {
+        "id": "h143",
+        "title": "If students have declared “I am interested with the Renato Einaudi Option” they must follow the provisions set out in paragraph 5 of this article."
+      }
+    ],
+    "92": [
+      {
+        "id": "h144",
+        "title": "the allocation or non-allocation of accommodation. For students who have declared “I am interested” or “I am interested with the Erasmus Month” Option, the allocation of accommodation can take place at course type or University level. Initially, the spots remaining after the winners’ acceptance are redistributed to eligible students of the same course level. Any spots still left over are redistributed within the University and, finally, if there are additional seats to be allocated, a final distribution is made based on the course location only."
+      }
+    ],
+    "95": [
+      {
+        "id": "h145",
+        "title": "Law no. 68 of 27 May 2007, arts. 34 and 35."
+      }
+    ],
+    "96": [
+      {
+        "id": "h146",
+        "title": "Students receiving the accommodation service for an additional semester who graduate by 31 March 2026 must:"
+      }
+    ],
+    "97": [
+      {
+        "id": "h147",
+        "title": "First years (Section III)"
+      },
+      {
+        "id": "h148",
+        "title": "Subsequent years, additional semesters (Section IV)"
+      },
+      {
+        "id": "h149",
+        "title": "Students who lose their right to residence due to the withdrawal of benefits in accordance with the articles of the Internal Regulations for University Residences who will not benefit from the possibility of applying for the accommodation service."
+      }
+    ],
+    "101": [
+      {
+        "id": "h150",
+        "title": "Available at https://www.edisu.piemonte.it/it/servizi/borse-di-studio-e-altri-contributi/borsa-di-studio/accertamenti"
+      },
+      {
+        "id": "h151",
+        "title": "Art. 11(6) Prime Ministerial Decree 159/2013."
+      }
+    ],
+    "102": [
+      {
+        "id": "h152",
+        "title": "Art. 75 Presidential Decree 445/00."
+      },
+      {
+        "id": "h153",
+        "title": "Art. 10(3) Legislative Decree 68/2012."
+      },
+      {
+        "id": "h154",
+        "title": "Chapter II, art. 2, point 2 of the “EDISU Piemonte Financial Assessment Regulation”"
+      },
+      {
+        "id": "h155",
+        "title": "Art. 76 Presidential Decree 445/00."
+      }
+    ],
+    "103": [
+      {
+        "id": "h156",
+        "title": "Students who have won scholarships, students eligible for scholarships, and those assigned the accommodation service Notification will be sent by registered letter with return receipt containing notice of withdrawal of the benefit granted, information on the amount to be returned, the date by which payment must be made, and the methods for making payment in accordance with the current regulations on debt collection."
+      },
+      {
+        "id": "h157",
+        "title": "Students eligible for the scholarship but not assigned the accommodation service"
+      }
+    ],
+    "105": [
+      {
+        "id": "h158",
+        "title": "ANNEX “A1”"
+      },
+      {
+        "id": "h159",
+        "title": "MERIT REQUIREMENTS CONFIRMATION OF MERIT BENEFITS FULL-TIME ENROLMENT NUMBER OF CREDITS AS AT 10/08/2025"
+      }
+    ],
+    "106": [
+      {
+        "id": "h160",
+        "title": "ANNEX “A2”"
+      },
+      {
+        "id": "h161",
+        "title": "NUMBER OF CREDITS AS AT 10/08/2025"
+      }
+    ],
+    "115": [
+      {
+        "id": "h162",
+        "title": "BACHELOR’S DEGREE"
+      }
+    ],
+    "118": [
+      {
+        "id": "h163",
+        "title": "ANNEX “B”"
+      }
+    ],
+    "119": [
+      {
+        "id": "h164",
+        "title": "ANNEX “C”"
+      }
+    ],
+    "128": [
+      {
+        "id": "h165",
+        "title": "UNIVERSITÀ DEL PIEMONTE ORIENTALE"
+      }
+    ],
+    "131": [
+      {
+        "id": "h166",
+        "title": "ANNEX “C1”"
+      }
+    ],
+    "132": [
+      {
+        "id": "h167",
+        "title": "ANNEX “D”"
+      }
+    ],
+    "133": [
+      {
+        "id": "h168",
+        "title": "ANNEX “E”"
+      },
+      {
+        "id": "h169",
+        "title": "SPECIFICATIONS AND SPECIAL CASES CONCERNING INFORMATION TO BE INCLUDED IN THE CONSULAR DOCUMENTATION OF INTERNATIONAL STUDENTS"
+      }
+    ]
+  }
+}
