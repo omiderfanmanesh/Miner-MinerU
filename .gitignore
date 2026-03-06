@@ -11,10 +11,26 @@ build/
 dist/
 *.egg-info/
 .idea/
+.env
 
 .codex
 .claude
 
-# MinerU generated outputs (very long paths)
-data/**/MinerU_*
+# MinerU generated outputs — binaries and exports (keep .md for test fixtures)
+data/**/*.json
+data/**/*.docx
+data/**/*.zip
+data/**/*.html
 data/**/MinerU_*/**
+
+# Orphaned loose data files (properly organized docs live in named subdirs)
+data/*.md
+
+# Pipeline/agent output
+output/
+
+# Temporary test/scratch files
+tmp_*.py
+
+# Root specs dir (feature specs managed by .specify/)
+specs/

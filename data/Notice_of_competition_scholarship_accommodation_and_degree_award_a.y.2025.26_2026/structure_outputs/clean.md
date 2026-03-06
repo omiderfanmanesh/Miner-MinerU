@@ -22,19 +22,13 @@ Degree Awards
 
 # Interventoco-finanziatoda
 
+# ITALIA21-27 COESIONE
 
-
-ITALIA21-27 COESIONE
-
-
-
-PIEMONTE
+# PIEMONTE
 
 # Cofinanziato dall`Unione europea
 
-
-
-REGIONE PIEMONTE
+# REGIONE PIEMONTE
 
 # Finanziato dall`Unione europea
 
@@ -52,27 +46,19 @@ allo Studio Universitario del Piemonte
 
 # C∧IIIPUS
 
-
-
-PIEIIIONTE
+# PIEIIIONTE
 
 
 
 日
 
-
-
-ANDISU
+# ANDISU
 
 
 
 DirittllStud Univii
 
-
-
-UPDATE
-
-
+# UPDATE
 
 1. NEW AMOUNTS
 
@@ -80,19 +66,19 @@ UPDATE
 
 Adjusted in line with Managerial Decree 181/2025 scholarship amounts for full-time students (art. 5(1))
 
-# 2 SCHOLARSHIP AMOUNT FOR STUDENTS ELIGIBLE FOR A PLACE WHO DO NOT SUBMIT A DECLARATION OF INTEREST OR GIVE IT UP AT CHECK-IN
+1. SCHOLARSHIP AMOUNT FOR STUDENTS ELIGIBLE FOR A PLACE WHO DO NOT SUBMIT A DECLARATION OF INTEREST OR GIVE IT UP AT CHECK-IN
 
 
 
 students who are eligible in the final accommodation service ranking but state that they are not interested in the interest declaration step or do not submit the interest declaration procedure art. 33(2) or give up the place attributed in the “interest declaration outcomes” step (give up the place when the residence is assigned or fail to turn up at the assigned residence on time) To compete for the scholarship amount as a non-resident, they will need to submit the paid housing declaration
 
-# 3 LEASE UPDATE PROCEDURE(art. 8 par 2)
+1. LEASE UPDATE PROCEDURE(art. 8 par 2)
 
 
 
 In the event of a change of accommodation subsequent to submitting the declaration, the student, only and exclusively if he/she is a scholarship winner with a "non-resident" amount, is obliged to communicate the updated data within one month of the registration of the new lease (or stipulation of the same in the case of a different payment basis). This is done via the specific online procedure: "aggiornamento contratto di locazione” (“lease update”) relating to the change of lease and the receipt of registration of the new lease must be attached to guarantee coverage of the minimum period of 10 months. Read art. 8 carefully.
 
-# 4 SPECIFIC PROVISIONS FOR STUDENTS ATTENDING THE “FILTER SEMESTER” OF MEDICINA E CHIRURGIA, MEDICINA VETERINARIA E ODONTOIATRIA E PROTESI DENTARIA (art 9 par 3)
+1. SPECIFIC PROVISIONS FOR STUDENTS ATTENDING THE “FILTER SEMESTER” OF MEDICINA E CHIRURGIA, MEDICINA VETERINARIA E ODONTOIATRIA E PROTESI DENTARIA (art 9 par 3)
 
 
 
@@ -106,7 +92,7 @@ Students attending the filter semester at a non-Piedmont university must submit 
 
 All provisions for both types of students are included in art 9(3) and (10) of this notice.
 
-# 5 SECTION DEDICATED TO EXTRAORDINARY CONTRIBUTIONS FOR STUDENTS WITH A DISABILITY OF 46% OR MORE REGISTERED FOR TARGETED EMPLOYMENT UNDER LAW NO. 68 OF 12 MARCH 1999
+1. SECTION DEDICATED TO EXTRAORDINARY CONTRIBUTIONS FOR STUDENTS WITH A DISABILITY OF 46% OR MORE REGISTERED FOR TARGETED EMPLOYMENT UNDER LAW NO. 68 OF 12 MARCH 1999
 
 
 
@@ -122,9 +108,7 @@ For the academic year 2025-26 a special notice will be prepared in October
 
 TABLE OF MAIN PROCEDURAL DEADLINES AND CLASSIFICATION DATES <table><tr><td>REGISTRATION TYPE</td><td>APPLICATION SUBMISSION PERIOD</td><td>PROVISIONAL CLASSIFICATIONS</td><td>COMPLAINTS</td><td>DEFINITIVE RANKINGS</td><td>ACCEPTANCE/EXPRESSION OF INTEREST IN ACCOMMODATION</td><td>DECLARATION OF PAID ACCOMMODATION</td></tr></table>
 
-
-
-ACCOMMODATION SERVICE
+# ACCOMMODATION SERVICE
 
 
 [table]
@@ -132,9 +116,7 @@ ACCOMMODATION SERVICE
 
 <table><tr><td>BACHELOR&#x27;S DEGREE, SINGLE-CYCLE MASTER&#x27;S DEGREE, MASTER&#x27;S DEGREE</td><td>From 25/07 to 09/09/2025, 12:00 P.M.</td><td>17/09/2025</td><td>From 17/09 to 22/09/2025, 12:00 P.M.</td><td>26/09/2025</td><td>From 26/09 to 30/09/2025, 12:00 P.M.</td><td></td></tr></table>
 
-
-
-SCHOLARSHIP
+# SCHOLARSHIP
 
 
 [table]
@@ -142,9 +124,7 @@ SCHOLARSHIP
 
 <table><tr><td>BACHELOR&#x27;S DEGREE, SINGLE-CYCLE MASTER&#x27;S DEGREEFIRST-YEAR STUDENTS WITHENROLMENT BY 31 OCTOBER</td><td>From 25/07 to09/09/202512:00 P.M.</td><td>22/10/2025</td><td>From 22/10 to29/10/202512:00 P.M.</td><td>07/11/2025</td><td></td><td>From 22/10 to04/11/202512:00 P.M.</td></tr><tr><td>BACHELOR&#x27;S DEGREE, SINGLE-CYCLE MASTER&#x27;S DEGREE,MASTER&#x27;S DEGREEFIRST-YEAR STUDENTS(INCLUDING STUDENTS OFCLASSES LM-41, LM-46 E LM-42COURS WHO ARE ATTENDINGTHE FILTER SEMESTER AT APIEDMONT UNIVERSITY*),SUBSEQUENT-YEAR STUDENTS(including ADDITIONALSEMESTERS)</td><td>From 25/07 to09/09/202512:00 P.M.</td><td>22/10/2025</td><td>From 22/10 to12/11/202512:00 P.M.</td><td>16/12/2025</td><td></td><td>From 22/10 to19/11/202512:00 P.M.</td></tr><tr><td>BACHELOR&#x27;S DEGREE, SINGLE-CYCLE MASTER&#x27;S DEGREE,MASTER&#x27;S DEGREEFIRST-YEAR STUDENTS,SUBSEQUENT-YEAR STUDENTSSUSPENDED IN DECEMBERCLASSIFICATION</td><td>From 25/07 to09/09/202512:00 P.M.</td><td>20/03/2026</td><td>From 20/03 to03/04/202612:00 P.M.</td><td>30/04/2026</td><td></td><td>From 20/03 to10/04/202612:00 P.M.</td></tr><tr><td>PhDs AND SPECIALISATIONSCHOOLS</td><td>From 28/10 to28/11/202512:00 P.M.</td><td>20/03/2026</td><td>From 20/03 to03/04/202612:00 P.M.</td><td>30/04/2026</td><td></td><td>From 20/03 to10/04/202612:00 P.M.</td></tr><tr><td>STUDENTS ENROLLED IN THEFILTER SEMESTER OF DEGREEPROGRAMS IN CLASSES LM-41,LM-46, AND LM-42 AT A NON-PIEDMONT UNIVERSITY WHAHAVE SUBMITTED A SCHOLARSHIPAPPLICATION TO THECOMPETENT STUDENT SUPPORTAUTHORITY IN THEIR REGION OFATTENDANCE</td><td>From 26/01/2026to 16/02/202612:00 P.M.</td><td>05/03/2026</td><td>From 05/03 to13/03/202612:00 P.M.</td><td>26/03/2026</td><td></td><td>From 05/03 to13/03/202612:00 P.M.</td></tr></table>
 
-
-
-DEGREE PRIZE
+# DEGREE PRIZE
 
 
 [table]
@@ -162,37 +142,23 @@ The table is intended as an indication of the main dates and deadlines in the no
 
 # Summary
 
+# SECTION I . RECIPIENTS AND AMOUNTS
 
-
-SECTION I. RECIPIENTS AND AMOUNTS 10
-
-
-
-ART. 1 COURSES AND UNIVERSITIES FOR WHICH BENEFITS ARE GRANTED 11
+# 1 Art. 1 COURSES AND UNIVERSITIES FOR WHICH BENEFITS ARE GRANTED
 
 - ART. 1(1) COURSES 11 ART. 1(2) UNIVERSITIES ART. 1(3) COURSE LOCATIONS ART. 1(4) DISTRIBUTION OF SCHOLARSHIPS AND ACCOMMODATION
 
+# 2 Art. 2 DURATION OF BENEFITS
 
-
-ART. 2 DURATION OF BENEFITS 12
-
-
-
-ART. 3 GROUNDS FOR INELIGIBILITY AND EXCLUSION 13
+# 3 Art. 3 GROUNDS FOR INELIGIBILITY AND EXCLUSION
 
 - ART. 3(1) GROUNDS FOR INELIBIGILITY ART. 3(2) GROUNDS FOR EXCLUSION
 
+# 4 Art. 4 “STUDENT TYPE” FOR SCHOLARSHIP PURPOSES
 
+# 5 Art. 5 SCHOLARSHIP AMOUNTS
 
-ART. 4 “STUDENT TYPE” FOR SCHOLARSHIP PURPOSES 15
-
-
-
-ART. 5 SCHOLARSHIP AMOUNTS 16
-
-
-
-ART. 5(1) STUDENTS ENROLLED FULL-TIME
+# ART. 5(1) STUDENTS ENROLLED FULL-TIME
 
 - Art. 5(1.1) RESIDENT STUDENTS Art. 5(1.2) COMMUTER STUDENTS Art. 5(1.3) NON-RESIDENT STUDENTS
 
@@ -200,39 +166,25 @@ ART. 5(1) STUDENTS ENROLLED FULL-TIME
 
 Paragraph 1.3. point A Non-resident students assigned to EDISU residences for the academic year 2025/26
 
+# ART. 5(2) STUDENTS ENROLLED PART TIME
 
+# SECTION II . GENERAL PROVISIONS
 
-ART. 5(2) STUDENTS ENROLLED PART TIME
-
-
-
-SECTION II. GENERAL PROVISIONS 20
-
-
-
-ART. 6 ECONOMIC REQUIREMENTS 21
+# 6 Art. 6 ECONOMIC REQUIREMENTS
 
 - Art. 6(1.1) SUBMISSION OF ISEE UNIVERSITARIO OR CALCULATION OF ISEE PARIFICATO Art. 6(1.2) INCOME ACCRUED IN THE 2023 TAX YEAR FOR ISEE CALCULATION Art. 6(1.3) SCHOLARSHIP AMOUNTS RECEIVED IN THE 2023 TAX YEAR FOR ISEE CALCULATION Art. 6(1.4) HOUSEHOLD FOR ISEE PURPOSES Art. 6(1.5) “INDEPENDENT STUDENT” HOUSEHOLD Art. 6(1.6) CASES WITH A HOUSEHOLD COMPOSED OF JUST THE STUDENT Art. 6(1.7) REGISTERED COHABITATION PURSUANT TO ART. 5 OF PRESIDENTIAL DECREE 223/89
 
 - ART. 6(1) ECONOMIC REQUIREMENTS (ISEE UNIVERSITARIO, ISEE PARIFICATO, ISEE DOTTORATO E ISEE NUCLEO RISTRETTO) ART. 6(2) ECONOMIC REQUIREMENTS WITH SUBMISSION OF ISEE UNIVERSITARIO Art. 6(2.1) NON-ACCEPTANCE OF THE ISEE CERTIFICATE BY EDISU PIEMONTE Art. 6(2.2) INPS DATA RECEIPT . 6(3) ISEE CORRENTE (CURRENT ISEE) . 6 PARA. 4 ISEE FOR PHD COURSES . 6(5) ECONOMIC REQUIREMENTS FOR CALCULATION OF ISEE PARIFICATO Art. 6 paragraph 5.1 SPECIFICATIONS FOR STUDENTS WITH ITALIAN CITIZENSHIP WHO NEED TO CALCULATE THE ISEE PARIFICATO
 
+# 7 Art. 7 HOW TO SUBMIT AN APPLICATION
 
-
-ART. 7 HOW TO SUBMIT AN APPLICATION 29
-
-
-
-ART. 7 PARA. 1 ACCESS CREDENTIALS AND ONLINE PROCEDURE
+# 7 PARA. 1 ACCESS CREDENTIALS AND ONLINE PROCEDURE
 
 - Art. 7 paragraph 1.1 SPID AND CIE Art. 7(1.2) TEMPORARY ACCESS CODE 2025/26
 
+# ART. 7(2) RECEIPTS (CONFIRMATIONS)
 
-
-ART. 7(2) RECEIPTS (CONFIRMATIONS)
-
-
-
-ART. 7(3) IBAN
+# ART. 7(3) IBAN
 
 
 
@@ -246,67 +198,43 @@ ART. 7(5) CHANGES TO THE DATA INCLUDED IN THE APPLICATION
 
 - ART. 7(6) COMPLAINTS AGAINST PROVISIONAL RANKINGS Art. 7(6.1) COMPLAINTS AGAINST PROVISIONAL RANKINGS RELATING TO ECONOMIC DATA ART. 7(7) WAIVER OF BENEFITS 2025/26
 
-
-
-ART. 8 PAID ACCOMMODATION 35
+# 8 Art. 8 PAID ACCOMMODATION
 
 - ART. 8(1) NON-RESIDENT STUDENTS WHO MUST SUBMIT THE SELF-CERTIFICATION OF PAID ACCOMMODATION Art. 8(1.1) FOREIGN/EXCHANGE STUDENTS ART. 8(2) METHODS AND DEADLINES FOR SUBMITTING THE PAID ACCOMMODATION SELF-CERTIFICATION Art. 8(2.1) SPECIFIC PROVISIONS FOR STUDENTS OF COURSES WITH A "FILTER SEMESTER". (CLASSES LM-41, LM-46, LM-42)
 
+# SECTION III . SPECIFIC PROVISIONS FOR THE FIRST-YEAR STUDENTS
 
-
-SECTION III. SPECIFIC PROVISIONS FOR THE FIRST-YEAR STUDENTS 38
-
-
-
-ART. 9 WHO CAN APPLY: ADMISSION REQUIREMENTS 39
+# 9 Art. 9 WHO CAN APPLY: ADMISSION REQUIREMENTS
 
 - ART. 9(1) REQUIREMENTS FOR ADMISSION TO THE COMPETITION Art. 9(1.1) COURSE TRANSFERS AND TRANSFERS FROM OTHER UNIVERSITIES ART. 9(2) CREDIT RECOGNITION (SHORTENING OF CAREER, SINGLE COURSES, PREVIOUS CAREERS) 9(3) SPECIFIC PROVISIONS FOR STUDENTS OF COURSES WITH A "FILTER SEMESTER"
 
+# (CLASSES LM-41, LM-46, LM-42)
 
-
-(CLASSES LM-41, LM-46, LM-42)
-
-
-
-ART. 10 METHODS AND DEADLINES FOR SUBMITTING AN APPLICATION 42
+# 10 Art. 10 METHODS AND DEADLINES FOR SUBMITTING AN APPLICATION
 
 - ART. 10(1) METHOD FOR SUBMITTING THE APPLICATION ART. 10(2) DEADLINE FOR SUBMITTING THE APPLICATION
 
+# 11 Art. 11 SPECIFIC PROVISIONS FOR THE FIRST YEARS OF A MASTER’S DEGREE
 
-
-ART. 11 SPECIFIC PROVISIONS FOR THE FIRST YEARS OF A MASTER’S DEGREE 42
-
-
-
-ART. 11(1) APPLICATION CONVERSION
+# ART. 11(1) APPLICATION CONVERSION
 
 
 
 ART. 11(2) FAILURE TO ENROL BY 30 NOVEMBER 2025 43
 
-
-
-ART. 12 RANKINGS AND COMPLAINTS 43
+# 12 Art. 12 RANKINGS AND COMPLAINTS
 
 
 
 ART. 12(1) CRITERIA FOR DRAWING UP THE RANKINGS 44
 
+# ART. 12(2) PROVISIONAL RANKINGS 44
 
+# ART. 12(3) COMPLAINTS 44
 
-ART. 12(2) PROVISIONAL RANKINGS 44
+# ART. 12(4) FINAL ACCOMMODATION RANKINGS 44
 
-
-
-ART. 12(3) COMPLAINTS 44
-
-
-
-ART. 12(4) FINAL ACCOMMODATION RANKINGS 44
-
-
-
-ART. 12(5) FINAL SCHOLARSHIP RANKINGS 45
+# ART. 12(5) FINAL SCHOLARSHIP RANKINGS 45
 
 
 
@@ -324,33 +252,23 @@ Art. 12(5.3) DEFINITIVE RANKINGS FOR STUDENTS SUSPENDED” IN DECEMBER 45
 
 Art. 12(5.4) DEFINITIVE RANKINGS FOR STUDENTS SUSPENDED IN DECEMBER FOR "ENROLLMENT IN FILTER SEMESTER" AT A PIEDMONT UNIVERSITY AND STUDENTS APPLYING AFTER
 
-
-
-FILTER SEMESTER 45
+# FILTER SEMESTER 45
 
 
 
 ART. 12(6) PUBLICATION DATES FOR RANKINGS AND DEADLINES FOR SUBMITTING COMPLAINTS 46
 
+# 13 Art. 13 MERIT REQUIREMENTS, SCHOLARSHIP INCREASE FOR ENROLMENT IN SECOND COURSE, DISBURSEMENT PERIOD
 
-
-ART. 13 MERIT REQUIREMENTS, SCHOLARSHIP INCREASE FOR ENROLMENT IN SECOND COURSE, DISBURSEMENT PERIOD 46
-
-
-
-ART. 13(1) MERIT REQUIREMENTS FOR SECOND INSTALMENT 46
+# ART. 13(1) MERIT REQUIREMENTS FOR SECOND INSTALMENT 46
 
 
 
 ART. 13(2) 20% INCREASE OF GRANT AMOUNT FOR SECOND-COURSE ENROLMENT 47
 
+# ART. 13(3) MERIT SELF-CERTIFICATION 47
 
-
-ART. 13(3) MERIT SELF-CERTIFICATION 47
-
-
-
-ART. 13(4) SCHOLARSHIP DISBURSEMENT PERIODUPDATE 48
+# ART. 13(4) SCHOLARSHIP DISBURSEMENT PERIODUPDATE 48
 
 
 
@@ -360,9 +278,7 @@ Art. 13(4.1) 20% INCREASE FOR ENROLMENT IN A SECOND COURSE 49
 
 ART. 13(5) MERIT REQUIREMENTS TO KEEP THE FIRST INSTALMENT ONLY 49
 
-
-
-ART. 13(6) MERIT REQUIREMENTS FOR MAINTAINING ELIGIBILITY 50
+# ART. 13(6) MERIT REQUIREMENTS FOR MAINTAINING ELIGIBILITY 50
 
 
 
@@ -376,33 +292,21 @@ ART. 13(7) DEFERRAL OF LAST 30 NOVEMBER 2026 DEADLINE 50
 
 ART. 13(8) PROVISIONS FOR SUCCESSFUL ASSIGNEES OF A SPOT IN AN EDISU RESIDENCE 50
 
-
-
-ART. 13(9) CASES OF SUSPENSION OF PAYMENT 51
+# ART. 13(9) CASES OF SUSPENSION OF PAYMENT 51
 
 
 
 ART. 13(10) VERIFICATION OF MERIT AND WITHDRAWAL OF BENEFIT 51
 
+# ART. 13(11) REFUND OF REGIONAL TAX 51
 
+# 14 Art. 14 FIRST-YEAR ACCOMMODATION SERVICE ACCEPTANCE
 
-ART. 13(11) REFUND OF REGIONAL TAX 51
+# SECTION IV . SPECIFIC PROVISIONS FOR SUBSEQUENT YEARS
 
+# 15 Art. 15 WHO CAN APPLY: ADMISSION AND MERIT REQUIREMENTS
 
-
-ART. 14 FIRST-YEAR ACCOMMODATION SERVICE ACCEPTANCE 51
-
-
-
-SECTION IV. SPECIFIC PROVISIONS FOR SUBSEQUENT YEARS 52
-
-
-
-ART. 15 WHO CAN APPLY: ADMISSION AND MERIT REQUIREMENTS 53
-
-
-
-ART. 15(1) ADMISSION REQUIREMENTS 53
+# ART. 15(1) ADMISSION REQUIREMENTS 53
 
 
 
@@ -416,9 +320,7 @@ Art. 15(1.2) CONFIRMATION OF MERIT BENEFITS 53
 
 Art. 15(1.3) SPECIAL CASES
 
-
-
-ART. 15(2) MERIT REQUIREMENTS 54
+# ART. 15(2) MERIT REQUIREMENTS 54
 
 
 
@@ -432,13 +334,9 @@ Art. 15(2.2) MERIT REQUIREMENTS FOR STANDARD APPLICATION with FULL-TIME ENROLMEN
 
 Art. 15(2.3) MERIT REQUIREMENTS FOR STANDARD APPLICATION with PART-TIME ENROLMENT 55
 
+# ART. 15(3) BONUS CREDITS 55
 
-
-ART. 15(3) BONUS CREDITS 55
-
-
-
-ART. 15(4) TRANSFERS56
+# ART. 15(4) TRANSFERS56
 
 
 
@@ -448,45 +346,27 @@ ART. 15(5) CREDIT RECOGNITION (CAREER SHORTENING, SINGLE COURSES, PREVIOUS CAREE
 
 ART. 15(6) PARTICIPANTS IN FOREIGN STUDY/EXCHANGE PROJECTS ACADEMIC YEAR 2024/25 57
 
+# 16 Art. 16 : METHODS AND DEADLINES FOR SUBMITTING AN APPLICATION
 
+# ART. 16(1) METHOD FOR SUBMITTING THE APPLICATION 58
 
-ART. 16: METHODS AND DEADLINES FOR SUBMITTING AN APPLICATION 58
+# ART. 16(2) DEADLINE FOR SUBMITTING THE APPLICATION 58
 
+# ART. 16(3) APPLICATION CONVERSION 58
 
-
-ART. 16(1) METHOD FOR SUBMITTING THE APPLICATION 58
-
-
-
-ART. 16(2) DEADLINE FOR SUBMITTING THE APPLICATION 58
-
-
-
-ART. 16(3) APPLICATION CONVERSION 58
-
-
-
-ART. 17 RANKINGS AND COMPLAINTS 59
+# 17 Art. 17 RANKINGS AND COMPLAINTS
 
 
 
 ART. 17(1) CRITERIA FOR DRAWING UP THE RANKINGS 59
 
+# ART. 17(2) MERIT SCORE AND RANKING 60
 
+# ART. 17(3) PROVISIONAL RANKINGS 60
 
-ART. 17(2) MERIT SCORE AND RANKING 60
+# ART. 17(4) COMPLAINTS 60
 
-
-
-ART. 17(3) PROVISIONAL RANKINGS 60
-
-
-
-ART. 17(4) COMPLAINTS 60
-
-
-
-ART. 17(5) DEFINITIVE RANKINGS 61
+# ART. 17(5) DEFINITIVE RANKINGS 61
 
 
 
@@ -496,113 +376,65 @@ ART. 17(6) PUBLICATION DATES FOR RANKINGS AND DEADLINES FOR SUBMITTING COMPLAINT
 
 ART. 17(7) 20 \% INCREASE OF SCHOLARSHIP AMOUNT FOR SECOND-COURSE ENROLMENT 61
 
+# 18 Art. 18 SCHOLARSHIP DISBURSEMENT
 
+# ART. 18(1) DISBURSEMENT PERIOD 62
 
-ART. 18 SCHOLARSHIP DISBURSEMENT 62
+# ART. 18(2) CASES OF SUSPENSION OF PAYMENT 62
 
+# ART. 18(3) REFUND OF REGIONAL TAX 63
 
+# 19 Art. 19 SUBSEQUENT-YEAR ACCOMMODATION SERVICE ACCEPTANCE
 
-ART. 18(1) DISBURSEMENT PERIOD 62
+# SECTION V . DEGREE AWARD
 
+# 20 Art. 20 ADMISSION REQUIREMENTS AND AMOUNTS
 
+# ART. 20(1) ADMISSION REQUIREMENTS 65
 
-ART. 18(2) CASES OF SUSPENSION OF PAYMENT 62
+# ART. 20(2) AMOUNT 65
 
+# 21 Art. 21 APPLICATION SUBMISSION: METHODS AND DEADLINE
 
+# 22 Art. 22 RESULTS AND COMPLAINTS
 
-ART. 18(3) REFUND OF REGIONAL TAX 63
+# ART. 22(1) PROVISIONAL RESULTS 65
 
+# ART. 22(2) COMPLAINTS 65
 
-
-ART. 19 SUBSEQUENT-YEAR ACCOMMODATION SERVICE ACCEPTANCE 63
-
-
-
-SECTION V. DEGREE AWARD 64
-
-
-
-ART. 20 ADMISSION REQUIREMENTS AND AMOUNTS 65
-
-
-
-ART. 20(1) ADMISSION REQUIREMENTS 65
-
-
-
-ART. 20(2) AMOUNT 65
-
-
-
-ART. 21 APPLICATION SUBMISSION: METHODS AND DEADLINE 65
-
-
-
-ART. 22 RESULTS AND COMPLAINTS 65
-
-
-
-ART. 22(1) PROVISIONAL RESULTS 65
-
-
-
-ART. 22(2) COMPLAINTS 65
-
-
-
-ART. 22(3) FINAL RESULTS 65
+# ART. 22(3) FINAL RESULTS 65
 
 
 
 ART. 22(4) PUBLICATION DATES FOR RESULTS AND DEADLINES FOR SUBMITTING COMPLAINTS 66
 
+# 23 PAYMENT 66
 
+# ART. 23(1) CASES OF SUSPENSION OF PAYMENT 66
 
-ART. 23 PAYMENT 66
+# SECTION VI. PHDS AND SPECIALISATION SCHOOLS 67
 
-
-
-ART. 23(1) CASES OF SUSPENSION OF PAYMENT 66
-
-
-
-SECTION VI. PHDS AND SPECIALISATION SCHOOLS 67
-
-
-
-ART. 24 WHO CAN APPLY: ADMISSION, MERIT, AND FINANCIAL REQUIREMENTS 68
+# 24 WHO CAN APPLY: ADMISSION, MERIT, AND FINANCIAL REQUIREMENTS 68
 
 - ART. 24(1) ADMISSION REQUIREMENTS 68 ART. 24(2) MERIT REQUIREMENTS 68 ART. 24(3) FINANCIAL REQUIREMENTS 68
 
-
-
-ART. 25 METHODS AND DEADLINES FOR SUBMITTING AN APPLICATION 69
+# 25 METHODS AND DEADLINES FOR SUBMITTING AN APPLICATION 69
 
 - ART. 25(1) METHOD FOR SUBMITTING THE APPLICATION 69 ART. 25(2) DEADLINES FOR SUBMITTING THE APPLICATION 69 ART. 25(3) CHANGES TO DATA AND REQUESTS SENT ONLINE BY THE APPLICATION SUBMISSION DEADLINE 70
 
-
-
-ART. 26 RANKINGS AND COMPLAINTS 70
+# 26 RANKINGS AND COMPLAINTS 70
 
 - ART. 26(1) CRITERIA FOR DRAWING UP THE RANKINGS 70 ART. 26(2) PROVISIONAL RANKINGS 70 ART. 26(3) COMPLAINTS 70 ART. 26(4) DEFINITIVE RANKINGS 70 ART. 26(5) PUBLICATION DATES FOR RANKINGS AND DEADLINES FOR SUBMITTING COMPLAINTS 71 ART. 26(6) SELF-CERTIFICATION OF PAID ACCOMMODATION 71
 
-
-
-ART. 27 SCHOLARSHIP DISBURSEMENT 71
+# 27 SCHOLARSHIP DISBURSEMENT 71
 
 - ART. 27(1) DISBURSEMENT PERIOD 71 ART. 27(2) CASES OF SUSPENSION OF PAYMENT 72 ART. 27(3) WITHDRAWAL OF BENEFITS 72
 
+# 28 PROVISIONS FOR NON-RESIDENT STUDENTS 72
 
+# SECTION VII. SPECIFIC PROVISIONS FOR DISABLED STUDENTS 73
 
-ART. 28 PROVISIONS FOR NON-RESIDENT STUDENTS 72
-
-
-
-SECTION VII. SPECIFIC PROVISIONS FOR DISABLED STUDENTS 73
-
-
-
-ART. 29 SPECIFIC PROVISIONS FOR DISABLED STUDENTS 74
+# 29 SPECIFIC PROVISIONS FOR DISABLED STUDENTS 74
 
 - ART. 29(1) BENEFIT DURATION 74 ART. 29(2) FINANCIAL REQUIREMENTS 74 ART. 29(3) MERIT REQUIREMENTS 74
 
@@ -618,13 +450,9 @@ Art. 29(3.4) CONFIRMATION OF MERIT BENEFITS 75
 
 - ART. 29(4) SCHOLARSHIP AMOUNT 75 ART. 29(5) ACCOMMODATION SERVICE 76
 
+# SECTION VIII. SPECIFIC PROVISIONS FOR INTERNATIONAL STUDENTS 77
 
-
-SECTION VIII. SPECIFIC PROVISIONS FOR INTERNATIONAL STUDENTS 77
-
-
-
-ART. 30 CONSULAR DOCUMENTATION 78
+# 30 CONSULAR DOCUMENTATION 78
 
 - ART. 30(1) INTERNATIONAL STUDENTS WHO DON’T HAVE TO SUBMIT CONSULAR DOCUMENTATION 78 ART. 30(2) INTERNATIONAL STUDENTS WHO HAVE TO SUBMIT CONSULAR DOCUMENTATION 78 ART. 30(3) CONSULAR DOCUMENTATION 78
 
@@ -642,19 +470,13 @@ Art. 30(7.1) SPECIFICATIONS FOR CONSULAR DOCUMENTATION OF INTERNATIONAL EU STUDE
 
 ART. 30(8) INTERNATIONAL STUDENTS ENROLLED IN A PHD COURSE OR SPECIALISATION SCHOOL WHO MUST CALCULATE THE ISEE PARIFICATO 81
 
+# 31 APPLICATION PROCEDURE FOR INTERNATIONAL STUDENTS (NON-EU OR EU) WITH CONSULAR DOCUMENTATION 82
 
-
-ART.31 APPLICATION PROCEDURE FOR INTERNATIONAL STUDENTS (NON-EU OR EU) WITH CONSULAR DOCUMENTATION 82
-
-
-
-ART. 31(1) INTERNATIONAL NON-EU STUDENTS 82
+# ART. 31(1) INTERNATIONAL NON-EU STUDENTS 82
 
 - Art. 31(1.1) OBTAINING CREDENTIALS TO ACCESS THE ONLINE APPLICATION 82 Art. 31(1.2) ONLINE APPLICATION SUBMISSION 83 Art. 31(1.3) SENDING CONSULAR DOCUMENTATION TO EDISU 83 Art. 31(1.4) DEADLINES FOR SENDING CONSULAR DOCUMENTATION 83
 
-
-
-ART. 31(2) INTERNATIONAL EU STUDENTS 84
+# ART. 31(2) INTERNATIONAL EU STUDENTS 84
 
 - ART. 31(3) ASSESSMENT AND POTENTIAL SUPPLEMENTING OF CONSULAR DOCUMENTATION OF NON-EU AND EU INTERNATIONAL STUDENTS 85 Art. 31(3.1) ASSESSMENT OF CONSULAR DOCUMENTATION SENT TO EDISU 85 Art. 31(3.2) SUPPLEMENTING CONSULAR DOCUMENTATION ASSESSED AS INVALID OR INCOMPLETE BY EDISU PIEMONTE 86 ART. 31(4) ADDRESSES FOR SENDING CONSULAR DOCUMENTATION AND ASSISTANCE 87
 
@@ -664,29 +486,19 @@ ART. 31(2) INTERNATIONAL EU STUDENTS 84
 
 TION IX. SPECIFIC PROVISIONS FOR THE ACCOMMODATION SERVICE 89
 
-
-
-ART. 32 COMPETITION ACCOMMODATION 90
+# 32 COMPETITION ACCOMMODATION 90
 
 
 
 ART. 32(1) SPECIFIC PROVISIONS FOR STUDENTS ENROLLED IN THE FILTER SEMESTER ASSIGNED TO ACCOMMODATION SERVICE 90
 
+# 33 Art. 33 ACCEPTANCE OF THE ACCOMMODATION SERVICE
 
+# ART. 33(1) WINNERS: ONLINE ACCEPTANCE 91
 
-ART. 33 ACCEPTANCE OF THE ACCOMMODATION SERVICE 90
+# ART. 33(2) ELIGIBLE: EXPRESSION OF INTEREST 92
 
-
-
-ART. 33(1) WINNERS: ONLINE ACCEPTANCE 91
-
-
-
-ART. 33(2) ELIGIBLE: EXPRESSION OF INTEREST 92
-
-
-
-ART. 33(3) ELIGIBLE: SINGLE SCROLLING RANKINGS 93
+# ART. 33(3) ELIGIBLE: SINGLE SCROLLING RANKINGS 93
 
 
 
@@ -696,9 +508,7 @@ Art. 33(3.1) STUDENTS ACCEPTING ACCOMMODATION ALLOCATED BY SCROLLING RANKING 93
 
 Art. 33(3.2) STUDENTS REFUSING ACCOMMODATION ALLOCATED BY SCROLLING RANKING 93
 
-
-
-ART. 33(4) FOREIGN STUDY/EXCHANGE STUDENTS 94
+# ART. 33(4) FOREIGN STUDY/EXCHANGE STUDENTS 94
 
 
 
@@ -712,13 +522,9 @@ Art. 33(4.2) Erasmus Year Option 94
 
 ART. 33(5) GUESTS OF THE RENATO EINAUDI COLLEGE: RENATO EINAUDI OPTION 95
 
+# 34 Art. 34 ALLOCATION OF ACCOMMODATION AT EDISU RESIDENCES
 
-
-ART. 34 ALLOCATION OF ACCOMMODATION AT EDISU RESIDENCES 95
-
-
-
-ART. 34(1) ALLOCATION CRITERIA 95
+# ART. 34(1) ALLOCATION CRITERIA 95
 
 
 
@@ -732,25 +538,15 @@ Art. 34(1.2) TRANSFERS FOR HEALTH OR PERSONAL SAFETY REASONS 96
 
 Art. 34(1.3) MOBILITY BETWEEN DIFFERENT RESIDENCES 96
 
+# ART. 34(2) ALLOCATION PROCEDURE 96
 
+# ART. 34(3) RULES FOR ASSIGNEES 96
 
-ART. 34(2) ALLOCATION PROCEDURE 96
+# ART. 34(4) ALLOCATION PERIODS 97
 
+# ART. 34(5) SUMMER CLOSURE 97
 
-
-ART. 34(3) RULES FOR ASSIGNEES 96
-
-
-
-ART. 34(4) ALLOCATION PERIODS 97
-
-
-
-ART. 34(5) SUMMER CLOSURE 97
-
-
-
-ART. 34(6) SPECIAL CASES 97
+# ART. 34(6) SPECIAL CASES 97
 
 
 
@@ -768,9 +564,7 @@ Art. 34(6.3) STUDENTS WHO MUST LEAVE THEIR RESIDENCE FOR SERIOUS REASONS 97
 
 Art. 34(6.4) STUDENTS GRADUATING IN JULY AND WINNERS OF THIRD YEAR OF COURSE 98
 
-
-
-ART. 35 REVOCATION OF ACCOMMODATION SERVICE DUE TO RENUNCIATION OR LOSS OF REQUIREMENTS 98
+# 35 Art. 35 REVOCATION OF ACCOMMODATION SERVICE DUE TO RENUNCIATION OR LOSS OF REQUIREMENTS
 
 
 
@@ -780,37 +574,21 @@ ART. 35(1) REVOCATION FOR WAIVER OF ACCOMMODATION SERVICE 2025/26 98
 
 ART. 35(2) WITHDRAWAL OF THE ACCOMMODATION SERVICE DUE TO LOSS OF REQUIREMENTS 98
 
+# SECTION XI . FINAL PROVISIONS
 
+# 36 Art. 36 POLICY PURSUANT TO ARTICLES 12, 13 AND 14 OF REGULATION (EU) NO. 679 OF 27 APRIL 2016 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL ON THE PROTECTION OF INDIVIDUALS WITH REGARD TO PERSONAL DATA PROCESSING AND THE FREE MOVEMENT OF SUCH DATA
 
-SECTION XI. FINAL PROVISIONS 99
+# 37 Art. 37 CHECKING THE VERACITY OF SELF-CERTIFIED FINANCIAL CONDITIONS AND SANCTIONS
 
+# ART. 37(1) CHECKING FINANCIAL CONDITIONS 102
 
+# ART. 37(2) SANCTIONS103
 
-ART. 36 POLICY PURSUANT TO ARTICLES 12, 13 AND 14 OF REGULATION (EU) NO. 679 OF 27 APRIL 2016 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL ON THE PROTECTION OF INDIVIDUALS WITH REGARD TO PERSONAL DATA PROCESSING AND THE FREE MOVEMENT OF SUCH DATA 100
+# 38 Art. 38 WITHDRAWAL OF THE SCHOLARSHIP AND ACCOMMODATION SERVICE FOLLOWING MERIT CHECK, WITHDRAWAL AND LOSS OF ELIGIBILITY
 
+# ART. 38(1) ENROLMENT AND MERIT CHECK 103
 
-
-ART. 37 CHECKING THE VERACITY OF SELF-CERTIFIED FINANCIAL CONDITIONS AND SANCTIONS 102
-
-
-
-ART. 37(1) CHECKING FINANCIAL CONDITIONS 102
-
-
-
-ART. 37(2) SANCTIONS103
-
-
-
-ART.38 WITHDRAWAL OF THE SCHOLARSHIP AND ACCOMMODATION SERVICE FOLLOWING MERIT CHECK, WITHDRAWAL AND LOSS OF ELIGIBILITY 103
-
-
-
-ART. 38(1) ENROLMENT AND MERIT CHECK 103
-
-
-
-ART. 38(2) BENEFIT WITHDRAWAL 104
+# ART. 38(2) BENEFIT WITHDRAWAL 104
 
 
 
@@ -820,21 +598,13 @@ Art. 38(2.1) FIRST YEARS LACK OF MERIT 104
 
 Art. 38(2.2) FIRST YEARS AND SUBSEQUENT YEARS LOSS OF ELIGIBILITY 104
 
+# ART. 38(3) REPAYMENT OF BENEFITS: METHODS 104
 
+# ART. 38(4) STUDENT CAREER BLOCKS 105
 
-ART. 38(3) REPAYMENT OF BENEFITS: METHODS 104
+# ART. 38(5) COMMUNICATION TO THE UNIVERSITY 105
 
-
-
-ART. 38(4) STUDENT CAREER BLOCKS 105
-
-
-
-ART. 38(5) COMMUNICATION TO THE UNIVERSITY 105
-
-
-
-ART. 38(6) ENTRY IN TAXPAYERS’ LIST 105
+# ART. 38(6) ENTRY IN TAXPAYERS’ LIST 105
 
 
 
@@ -854,9 +624,7 @@ ART. 38(7) WITHDRAWAL OF ADDITIONAL SERVICES AND BENEFITS 105
 
 # ANNEX “E” 134
 
-
-
-GUIDE TO READING THE NOTICE OF COMPETITION
+# GUIDE TO READING THE NOTICE OF COMPETITION
 
 
 
@@ -870,49 +638,29 @@ Here are some pointers that may help you in your reading.
 
 Each section of the notice of competition is in a different colour:
 
+# SECTION I. RECIPIENTS AND AMOUNTS
 
+# SECTION II. GENERAL PROVISIONS
 
-SECTION I. RECIPIENTS AND AMOUNTS
+# SECTION III. SPECIFIC PROVISIONS FOR THE FIRST YEARS
 
+# SECTION IV. SPECIFIC PROVISIONS FOR SUBSEQUENT YEARS
 
-
-SECTION II. GENERAL PROVISIONS
-
-
-
-SECTION III. SPECIFIC PROVISIONS FOR THE FIRST YEARS
-
-
-
-SECTION IV. SPECIFIC PROVISIONS FOR SUBSEQUENT YEARS
-
-
-
-SECTION V. DEGREE PRIZE
+# SECTION V. DEGREE PRIZE
 
 
 
 SECTION VI. PhDs AND SPECIALISATION SCHOOLS
 
+# SECTION VII. SPECIFIC PROVISIONS FOR DISABLED STUDENTS
 
+# SECTION VIII. SPECIFIC PROVISIONS FOR INTERNATIONAL STUDENTS
 
-SECTION VII. SPECIFIC PROVISIONS FOR DISABLED STUDENTS
+# SECTION IX. SPECIFIC PROVISIONS FOR THE ACCOMMODATION SERVICE
 
+# SECTION XI. FINAL PROVISIONS
 
-
-SECTION VIII. SPECIFIC PROVISIONS FOR INTERNATIONAL STUDENTS
-
-
-
-SECTION IX. SPECIFIC PROVISIONS FOR THE ACCOMMODATION SERVICE
-
-
-
-SECTION XI. FINAL PROVISIONS
-
-
-
-ATTACHMENTS
+# ATTACHMENTS
 
 
 
@@ -946,17 +694,13 @@ Don't forget to consult the annexes. In particular, please note the tables on sc
 
 Enjoy!
 
-
-
-FOR MORE INFORMATION SEE
+# FOR MORE INFORMATION SEE
 
 
 
 www.edisu.piemonte.it
 
-
-
-AND CONTACT US THROUGH THE TICKETING
+# AND CONTACT US THROUGH THE TICKETING
 
 
 
@@ -974,21 +718,13 @@ Students are advised not to delegate enquiries to other people, but to contact u
 
 Please note that the information not included in these sections or present in the text boxes also constitutes notice of competition provisions
 
+# SECTION I
 
+# RECIPIENTS AND AMOUNTS
 
-SECTION I
+# 1 Art. 1 COURSES AND UNIVERSITIES FOR WHICH BENEFITS ARE GRANTED
 
-
-
-RECIPIENTS AND AMOUNTS
-
-
-
-ART. 1 COURSES AND UNIVERSITIES FOR WHICH BENEFITS ARE GRANTED
-
-
-
-Art. 1(1) COURSES
+# 1 Art. 1 (1) COURSES
 
 
 
@@ -1032,13 +768,9 @@ Students enrolled at the Polytechnic University of Turin in the Master's Degree 
 
 Students enrolled in Double Degrees or in international programmes within the Erasmus Mundus Joint Master's initiative whose primary enrolment is at an extended university (lead university) are not eligible to apply for an EDISU scholarship. However, these students will be able to access the canteen at a reduced cost (first bracket) as incoming foreign/exchange students. The university will send EDISU the list of these students they year they attend in Turin, so they do not have to register on EDISU's online services.
 
+# 9 sets out specific provisions for students attending the “filter semester” of medicina e chirurgia, medicina veterinaria e Odontoiatria e protesi dentaria courses.
 
-
-Art. 9 sets out specific provisions for students attending the “filter semester” of medicina e chirurgia, medicina veterinaria e Odontoiatria e protesi dentaria courses.
-
-
-
-Art. 1(2) UNIVERSITIES
+# 1 Art. 1 (2) UNIVERSITIES
 
 
 
@@ -1048,17 +780,13 @@ Students enrolled in Piedmont Universities, SSMLs (Scuole Superiori per Mediator
 
 For the academic year 2025/26 students enrolled at the University of Turin, Turin Polytechnic, University of Eastern Piedmont, University of Gastronomic Sciences, Academy of Fine Arts of Turin, Giuseppe Verdi Conservatory of Turin, Language Mediation and Intercultural Communication School of Turin, Cuneo Academy of Fine Arts, European Academy of Media Arts of Novara, “A Vivaldi” Conservatory of Alessandria, “Guido Cantelli” Conservatory of Novara, “G.F. Ghedini” State Conservatory of Cuneo, “A Macagno” Language Mediation and Intercultural Communication School of Cuneo, Novara Musical Theatre School, and IAAD may apply
 
-
-
-Art. 1(3) COURSE LOCATIONS
+# 1 Art. 1 (3) COURSE LOCATIONS
 
 
 
 All course locations established by the Universities referred to in paragraph 2 above are recognised for the purposes of applying for benefits.
 
-
-
-Art. 1(4) DISTRIBUTION OF SCHOLARSHIPS AND ACCOMMODATION
+# 1 Art. 1 (4) DISTRIBUTION OF SCHOLARSHIPS AND ACCOMMODATION
 
 
 
@@ -1112,9 +840,7 @@ For each location, the available spaces are allocated according to the following
 
 There are no places reserved for students enrolled in doctoral courses and specialisation schools.
 
-
-
-ART. 2 DURATION OF BENEFITS
+# 2 Art. 2 DURATION OF BENEFITS
 
 
 
@@ -1132,9 +858,7 @@ Benefits may be claimed for the first enrolment at each course level according t
 
 # 5 Legislative Decree. 210/98 and Ministerial Decree 1320/2021
 
-
-
-ART. 3 GROUNDS FOR INELIGIBILITY AND EXCLUSION
+# 3 Art. 3 GROUNDS FOR INELIGIBILITY AND EXCLUSION
 
 
 
@@ -1144,9 +868,7 @@ Applications that are not completed and submitted in accordance with the terms o
 
 The application submission procedures for non-EU or EU international students with their families residing abroad are set out in arts. 30 and 31.
 
-
-
-Art. 3(1) GROUNDS FOR INELIBIGILITY
+# 3 Art. 3 (1) GROUNDS FOR INELIBIGILITY
 
 
 
@@ -1166,9 +888,7 @@ The following cases constitute grounds for ineligibility for the benefits.
 
 # 9 Legislative Decree 68/12, art. 10(3).
 
-
-
-Art. 3(2) GROUNDS FOR EXCLUSION
+# 3 Art. 3 (2) GROUNDS FOR EXCLUSION
 
 
 
@@ -1250,9 +970,7 @@ If EDISU establishes the existence of such grounds for ineligibility or exclusio
 
 # 13 Prime Ministerial Decree 9/4/01, art. 10(1).
 
-
-
-ART. 4 “STUDENT TYPE” FOR SCHOLARSHIP PURPOSES
+# 4 Art. 4 “STUDENT TYPE” FOR SCHOLARSHIP PURPOSES
 
 
 
@@ -1296,9 +1014,7 @@ The routes taken into account are those between the railway or bus station of th
 
 For the purposes of the calculation, only municipalities are observed and any places and administrative divisions belonging to them are not taken into account.
 
-
-
-ART. 5 SCHOLARSHIP AMOUNTS
+# 5 Art. 5 SCHOLARSHIP AMOUNTS
 
 
 
@@ -1330,9 +1046,7 @@ If all available funds are used up:
 
 1. students applying for the accommodation service who are eligible in the accommodation service and final scholarship ranking are granted, if available, a place in EDISU residences or in residences that have an agreement with the organisation.
 
-
-
-Art. 5(1) STUDENTS ENROLLED FULL-TIME
+# 5 Art. 5 (1) STUDENTS ENROLLED FULL-TIME
 
 
 
@@ -1350,6 +1064,8 @@ Students awarded a grant for enrolment in a STEM course who transfer to a NON-ST
 
 The scholarship consists of a cash amount, net of € 150.00 as a contribution towards the catering service at EDISU canteens or alternative services (the amounts below are already calculated net of € 150.00).
 
+
+[table]
 
 
 Art. 5(1.1) RESIDENT STUDENTS <table><tr><td colspan="4"></td><td colspan="3">FEMALE STEM COURSE STUDENTS</td></tr><tr><td>ISEE ≤ € 13,153.1217</td><td>€ 13,153.12&lt; ISEE ≤ € 17,537.5018</td><td>€ 17,537.50&lt; ISEE ≤ € 23,626.00</td><td>€ 23,626.00&lt; ISEE ≤ € 26,306.25</td><td>ISEE ≤ € 17,537.50</td><td>€ 17,537.50&lt; ISEE ≤ € 23,626.00</td><td>€ 23,626.00&lt; ISEE ≤ € 26,306.25</td></tr><tr><td>€ 3.127,80</td><td>€ 2.700,26</td><td>€ 2.130,21</td><td>€ 1.275,13</td><td>€ 3.270,31</td><td>€ 2.586,25</td><td>€ 1.560,13</td></tr></table>
@@ -1382,13 +1098,9 @@ For the purposes of the scholarship amount, “COMMUTER” students also include
 
 - students who are successful in the final accommodation service ranking but refuse their place in the online acceptance procedure or fail to submit the acceptance procedure or renounce the place when the residence is assigned (or fail to turn up at the assigned residence on time) and will not be able to submit the paid housing declaration; 2. students who give up their place after accepting the allocation and checking in, even if they are included in the scrolling ranking. Such students will not be able to make the paid residence declaration; 3. students who have been awarded an INPS grant or another type of grant for allocation to a university college with payment of part of the tuition fee.
 
+# 5 Art. 5 (1.3)
 
-
-Art. 5(1.3)
-
-
-
-NON-RESIDENT STUDENTS23
+# NON-RESIDENT STUDENTS23
 
 
 [table]
@@ -1432,13 +1144,9 @@ For the students referred to in art. 9(3.2), this scholarship amount will be wei
 
 If the place is allocated by sliding scale during the year and accepted, this grant amount will have the value of the accommodation service deducted calculated at € 245.45 per month (the month is counted if students enter residence until the 1, 5 ^ { \mathrm { t h } } day of the month). More information in art. 33(3.1.)
 
+# 5 Art. 5 (1.2)
 
-
-Art. 5(1.2)
-
-
-
-COMMUTER STUDENTS20
+# COMMUTER STUDENTS20
 
 # 20 Regional Criteria 2025/26, Annex A
 
@@ -1494,9 +1202,7 @@ In order to receive the scholarship with the non-resident amount, non-resident s
 
 For non-EU international first-year students with entry visa for enrolment in academic year 2025/26, the provisions of art. 31(1.1) (Table) apply.
 
-
-
-Art. 5(2) STUDENTS ENROLLED PART TIME
+# 5 Art. 5 (2) STUDENTS ENROLLED PART TIME
 
 
 
@@ -1530,25 +1236,17 @@ Section X contains the provisions on “Extraordinary contributions for students
 
 # 27 Ministerial Decree 509/99, art. 11.
 
+# SECTION II
 
+# GENERAL PROVISIONS
 
-SECTION II
-
-
-
-GENERAL PROVISIONS
-
-
-
-ART. 6 ECONOMIC REQUIREMENTS
+# 6 Art. 6 ECONOMIC REQUIREMENTS
 
 
 
 Students wishing to apply for the benefits provided for in this notice of competition must meet the financial requirements set out below when submitting their application.
 
-
-
-Art. 6(1) ECONOMIC REQUIREMENTS (ISEE UNIVERSITARIO, ISEE PARIFICATO, ISEE DOTTORATO E ISEE NUCLEO RISTRETTO)
+# 6 Art. 6 (1) ECONOMIC REQUIREMENTS (ISEE UNIVERSITARIO, ISEE PARIFICATO, ISEE DOTTORATO E ISEE NUCLEO RISTRETTO)
 
 
 
@@ -1634,9 +1332,7 @@ For students enrolled in a doctoral course or specialisation school, please refe
 
 Students of Medicina e chirurgia, Medicina veterinaria and Odontoiatria e protesi dentaria courses who do NOT attend the filter semester in Piedmont but who subsequently enrol in Piedmont must be in possession of the 2025 ISEE Universitario Certificate they submitted for the 2025-26 scholarship application with the agency for the right to education in the region where they attended the filter semester.
 
-
-
-Art. 6(1.1) SUBMISSION OF ISEE UNIVERSITARIO OR CALCULATION OF ISEE PARIFICATO
+# 6 Art. 6 (1.1) SUBMISSION OF ISEE UNIVERSITARIO OR CALCULATION OF ISEE PARIFICATO
 
 
 
@@ -1670,9 +1366,7 @@ Students from Ukraine holding a temporary residence permit do NOT have to submit
 
 For non-EU or EU international students with family wholly or partly resident abroad, the provisions of art. 30 of this notice of competition apply.
 
-
-
-Art. 6(1.2) INCOME ACCRUED IN THE 2023 TAX YEAR FOR ISEE CALCULATION
+# 6 Art. 6 (1.2) INCOME ACCRUED IN THE 2023 TAX YEAR FOR ISEE CALCULATION
 
 
 
@@ -1694,9 +1388,7 @@ For the purposes of completing the ISEE Universitario/Parificato statement, the 
 
 For the purpose of determining the Asset Situation Indicator (ISP), the amount of movable assets (including the average stock) and immovable assets of all the members of the household for ISEE Universitario/Parificato purposes as at 31/12/2023 must be indicated31; non-EU students must instead refer to the date of 31/12/2024 (please refer to the section on international students, art. 30 below).
 
-
-
-Art. 6(1.3) SCHOLARSHIP AMOUNTS RECEIVED IN THE 2023 TAX YEAR FOR ISEE CALCULATION
+# 6 Art. 6 (1.3) SCHOLARSHIP AMOUNTS RECEIVED IN THE 2023 TAX YEAR FOR ISEE CALCULATION
 
 
 
@@ -1706,9 +1398,7 @@ For the purpose of calculating the ISEE for subsidised benefits for the right to
 
 Non-EU international students who are required to submit income for the 2024 tax year must also indicate any scholarship amount received in the 2023 tax year when calculating the ISEE Parificato.
 
-
-
-Art. 6(1.4) HOUSEHOLD FOR ISEE PURPOSES
+# 6 Art. 6 (1.4) HOUSEHOLD FOR ISEE PURPOSES
 
 
 
@@ -1742,9 +1432,7 @@ Students from Ukraine holding a temporary residence permit do NOT have to submit
 
 These documents include: the identity document and copy of the residence permit of all the family members and any current account balance, including average balance as of 31 December 2024, for the processing of the ISEE Parificato by the EDISU Piemonte CAAF operators.
 
-
-
-Art. 6(1.5) “INDEPENDENT STUDENT” HOUSEHOLD
+# 6 Art. 6 (1.5) “INDEPENDENT STUDENT” HOUSEHOLD
 
 
 
@@ -1782,9 +1470,7 @@ Please note: students enrolled in a doctoral course or specialisation school can
 
 SEPARATE or DIVORCED students, even if they have children, but WITHOUT the requirements for independent student status, must compulsorily do the ISEE Universitario with their family of origin (paragraph 1.4).
 
-
-
-Art. 6(1.6) CASES WITH A HOUSEHOLD COMPOSED OF JUST THE STUDENT
+# 6 Art. 6 (1.6) CASES WITH A HOUSEHOLD COMPOSED OF JUST THE STUDENT
 
 
 
@@ -1832,9 +1518,7 @@ The categories envisaged for registered cohabitation are:
 
 In the event that the student who is in a registered cohabitation (military, host community, or subject to detention) is “MARRIED”, they must refer to the household of their spouse and any children, as described in section 1.4 above, for the purpose of preparing the ISEE Universitario certificate. If the applicant and their minor child live in the registered cohabitation, the latter must be considered a member of the parent's household (see the document “List of certifications to be attached to the application for students with a student-only household, international protection seekers and the disabled” available in the “Scholarships > attachments” section of the EDISU website).
 
-
-
-Art. 6(2) ECONOMIC REQUIREMENTS WITH SUBMISSION OF ISEE UNIVERSITARIO
+# 6 Art. 6 (2) ECONOMIC REQUIREMENTS WITH SUBMISSION OF ISEE UNIVERSITARIO
 
 
 
@@ -1852,9 +1536,7 @@ Please note that the issue of the ISEE Universitario is NOT immediate. On the ba
 
 EDISU Piemonte is NOT in any way responsible for the failure to transmit the data contained in the DSU and/or processing of the ISEE Universitario for the application for the benefits referred to in this Notice of competition.
 
-
-
-Art. 6(2.1) NON-ACCEPTANCE OF THE ISEE CERTIFICATE BY EDISU PIEMONTE
+# 6 Art. 6 (2.1) NON-ACCEPTANCE OF THE ISEE CERTIFICATE BY EDISU PIEMONTE
 
 
 
@@ -1876,9 +1558,7 @@ It is the students’ responsibility to verify any reasons for the non-availabil
 
 EDISU Piemonte is not responsible for the non-availability or non-calculability of the ISEE Universitario certificate.
 
-
-
-Art. 6 para. 1.7 REGISTERED COHABITATION PURSUANT TO ART. 5 OF PRESIDENTIAL DECREE 223/89
+# 6 Art. 6 para. 1.7 REGISTERED COHABITATION PURSUANT TO ART. 5 OF PRESIDENTIAL DECREE 223/89
 
 # 38 Art. 8 Prime Ministerial Decree 159/2013 Sec. IV Regional Criteria academic year 2025/26
 
@@ -1914,9 +1594,7 @@ If students, when completing the online application in the appropriate box in th
 
 Students who find themselves in possession of an “INPS Data” receipt that indicates the non-acceptance or failure to find the ISEE certificate, may enter new economic data considered valid for the competition by means of the data modification procedure by the deadline of the application for benefits, as described subsequently in art. 7(5), or, after the deadline of the application, by submitting a formal complaint as described subsequently in article 7(6).
 
-
-
-Art. 6(3) ISEE CORRENTE (CURRENT ISEE)
+# 6 Art. 6 (3) ISEE CORRENTE (CURRENT ISEE)
 
 
 
@@ -1930,21 +1608,15 @@ The ISEE Corrente must be valid on the date of submission of the application for
 
 Students in receipt of a reduced scholarship whose financial situation has deteriorated since the declaration submitted when the grant was awarded may submit appropriate documentation to recalculate the amount of the second scholarship instalment by submitting the ISEE Corrente.
 
+# 6 Art. 6 (2.2)
 
-
-Art. 6(2.2)
-
-
-
-INPS DATA RECEIPT
+# INPS DATA RECEIPT
 
 # 41 Art. 9 of Prime Ministerial Decree 159/2013 and art. 5 Ministerial Decree 347/2019
 
 # 42 Decree of 5 July 2021 (Official Gazette no. 203 of 25/08/2021, implementing para. 4 art. 10 Legislative Decree 147/2017
 
-
-
-Art. 6 para. 4 ISEE FOR PhD COURSES
+# 6 Art. 6 para. 4 ISEE FOR PhD COURSES
 
 
 
@@ -1966,9 +1638,7 @@ The above information is NOT to be considered in any way a substitute for the re
 
 Students enrolled in doctoral courses or specialisation schools are advised that the ISEE and ISPE thresholds are the same as those indicated in Article 6(1) above
 
-
-
-Art. 6(5) ECONOMIC REQUIREMENTS FOR CALCULATION OF ISEE PARIFICATO
+# 6 Art. 6 (5) ECONOMIC REQUIREMENTS FOR CALCULATION OF ISEE PARIFICATO
 
 
 
@@ -2026,9 +1696,7 @@ The ISEE Parificato is calculated on the basis of the data obtained from the fir
 
 If a student believes that the ISEE Parificato calculation carried out by EDISU does not reflect the real economic situation of their family and that there have been errors in its calculation, they may communicate this exclusively through the complaints procedure (art. 7 paragraph 6). For this reason, too, students are invited to submit their documentation by the deadlines indicated in art. 31, paragraphs 1, 2 and 3, so that their ISEE value can be displayed in the provisional ranking.
 
-
-
-Art. 6 paragraph 5.1 SPECIFICATIONS FOR STUDENTS WITH ITALIAN CITIZENSHIP WHO NEED TO CALCULATE THE ISEE PARIFICATO
+# 6 Art. 6 paragraph 5.1 SPECIFICATIONS FOR STUDENTS WITH ITALIAN CITIZENSHIP WHO NEED TO CALCULATE THE ISEE PARIFICATO
 
 
 
@@ -2070,9 +1738,7 @@ After the new documentation has been received at EDISU via attachment in the onl
 
 The procedure for uploading the required documentation involves uploading a maximum of 5 attachments in .pdf version, each no larger than 1MB. Students must combine the different types of documents in a single file, e.g. a single file containing the ordinary and ISEE Parificato, another containing the composition of the household and any divorce decrees or death certificates, another containing all the income received by the household and one relating to movable assets (current accounts, savings, deposits, etc.) and real estate (buildings expressed in square metres).
 
-
-
-ART. 7 HOW TO SUBMIT AN APPLICATION
+# 7 Art. 7 HOW TO SUBMIT AN APPLICATION
 
 
 
@@ -2094,9 +1760,7 @@ Non-EU or EU international students with a household partly or wholly resident a
 
 Italian students who are required to submit an ISEE Parificato certificate must also submit the application by referring to the provisions of art. 6 paragraph 5.1 above.
 
-
-
-Art. 7 para. 1 ACCESS CREDENTIALS AND ONLINE PROCEDURE
+# 7 Art. 7 para. 1 ACCESS CREDENTIALS AND ONLINE PROCEDURE
 
 
 
@@ -2122,9 +1786,7 @@ Any change in the e-mail address must be promptly communicated via the appropria
 
 During the year, communications may also be sent to the student emails provided by the University.
 
-
-
-Art. 7 paragraph 1.1 SPID AND CIE
+# 7 Art. 7 paragraph 1.1 SPID AND CIE
 
 
 
@@ -2142,9 +1804,7 @@ Students in possession of the SPID or CIE must take the following steps.
 
 EDISU cannot offer assistance to students accessing the procedure via SPID, who will have to apply to the body responsible for issuing it. If the problem occurs close to the deadline, open a ticket before the deadline itself, in the appropriate section of the www.edisu.piemonte.it website
 
-
-
-Art. 7(1.2) TEMPORARY ACCESS CODE 2025/26
+# 7 Art. 7 (1.2) TEMPORARY ACCESS CODE 2025/26
 
 
 
@@ -2216,9 +1876,7 @@ Further information on the use of and application for codes can be found at www.
 
 In the event of problems related to the loss of the Temporary Access Code or password, the wrong e-mail address or a change of e-mail address, students should use the procedures available on the Online Helpdesk login page, under “Temporary Access Code 2025/26 Assistance”.
 
-
-
-Art. 7(2) RECEIPTS (CONFIRMATIONS)
+# 7 Art. 7 (2) RECEIPTS (CONFIRMATIONS)
 
 
 
@@ -2264,9 +1922,7 @@ Applications submitted even partially differently from those described in this a
 
 !
 
-
-
-Art. 7(3) IBAN
+# 7 Art. 7 (3) IBAN
 
 
 
@@ -2312,9 +1968,7 @@ In the absence of such a notarial deed, students who are minors must wait until 
 
 The sums must be collected by 31 December 2027. If the IBAN is not communicated by that date, the benefit amount is no longer payable.
 
-
-
-Art. 7(4) TRANSFER OF APPLICATIONS SUBMITTED TO OTHER BODIES
+# 7 Art. 7 (4) TRANSFER OF APPLICATIONS SUBMITTED TO OTHER BODIES
 
 
 
@@ -2340,9 +1994,7 @@ Students who were not “non-resident” in the region where they applied for th
 
 For students who attend the "filter semester" in other regions and have submitted an application for a scholarship at that institution, there will be a re-opening of applications between 26 January and 16 February 2026 by means of the application re-opening procedure following a transfer from the Agency for the Right to Education of another region, as indicated in art. (9)(3.2) below
 
-
-
-Art. 7(5) CHANGES TO THE DATA INCLUDED IN THE APPLICATION
+# 7 Art. 7 (5) CHANGES TO THE DATA INCLUDED IN THE APPLICATION
 
 
 
@@ -2418,9 +2070,7 @@ After submitting the online data modification to replace the ISEE data, EDISU Pi
 
 With regard to applicants for PhDs and specialisation schools, please refer to art. 25(2).
 
-
-
-Art. 7(5.1)
+# 7 Art. 7 (5.1)
 
 # CHANGES TO DATA AND REQUESTS AFTER SUBMISSION BUT BEFORE THE APPLICATION SUBMISSION DEADLINE
 
@@ -2428,9 +2078,7 @@ Art. 7(5.1)
 
 After the application submission deadline, the data entered can only be corrected online by submitting a complaint after the publication of the provisional ranking in accordance with the procedures set out in the following paragraph.
 
-
-
-Art. 7(6) COMPLAINTS AGAINST PROVISIONAL RANKINGS
+# 7 Art. 7 (6) COMPLAINTS AGAINST PROVISIONAL RANKINGS
 
 
 
@@ -2472,9 +2120,7 @@ Please refer to arts. 12(2), (3) and (6) (first years), 17(3), (4) and (6) (subs
 
 Complaints may not be used to put questions or doubts to EDISU. Therefore, questions posed in complaints will not be answered. The ticketing service at www.edisu.piemonte.it must be used for this purpose
 
-
-
-Art. 7(6.1) COMPLAINTS AGAINST PROVISIONAL RANKINGS RELATING TO ECONOMIC DATA
+# 7 Art. 7 (6.1) COMPLAINTS AGAINST PROVISIONAL RANKINGS RELATING TO ECONOMIC DATA
 
 
 
@@ -2494,9 +2140,7 @@ Below are the possible reasons for exclusion from the provisional ranking linked
 
 - the ISEE certificate contains observations on omissions or discrepancies: in this case, the data can only be rectified with a complaint if the applicant has a valid ISEE certificate for the right to university study without observations on omissions/discrepancies and processed by INPS within the deadline for complaints relating to the benefit requested.
 
-
-
-Art. 7(5.2)
+# 7 Art. 7 (5.2)
 
 # CHANGES TO DATA AND REQUESTS SENT ONLINE AFTER THE APPLICATION SUBMISSION DEADLINE
 
@@ -2536,9 +2180,7 @@ With regard to applicants for PhDs and specialisation schools, please refer to a
 
 With regard to non-EU international students who have to submit complaints concerning consular documentation, please refer to art. 31(3).
 
-
-
-Art. 7(7) WAIVER OF BENEFITS 2025/26
+# 7 Art. 7 (7) WAIVER OF BENEFITS 2025/26
 
 
 
@@ -2562,9 +2204,7 @@ Renunciation entails the withdrawal of the benefits enjoyed by students and the 
 
 # 46 INPS and Ministry of Labour Message No. 8415 of 26/10/2020
 
-
-
-Art. 8(1) NON-RESIDENT STUDENTS WHO MUST SUBMIT THE SELF-CERTIFICATION OF PAID ACCOMMODATION
+# 8 Art. 8 (1) NON-RESIDENT STUDENTS WHO MUST SUBMIT THE SELF-CERTIFICATION OF PAID ACCOMMODATION
 
 
 
@@ -2582,9 +2222,7 @@ Independent students must refer to articles 5(1.3)(8) and 6(1.5)
 
 Students attending the “filter semester” for one of the courses pertaining to the LM-41, LM-46, LM-42 classes are also required to carefully read the provisions of art. 8(2.1)
 
-
-
-Art. 8(1.1) FOREIGN/EXCHANGE STUDENTS
+# 8 Art. 8 (1.1) FOREIGN/EXCHANGE STUDENTS
 
 - Those assigned a place in EDISU residences: they must follow the provisions set out in article 33(4). Students with “Erasmus Option” status with a stay abroad of less than 8 months do not have to self-certify their paid residence for the period they are away. 2. Those who are not assigned a place in EDISU residences: they must self-certify their paid residence in the manner and time frame indicated in paragraph 2 of this article.
 
@@ -2592,9 +2230,7 @@ Art. 8(1.1) FOREIGN/EXCHANGE STUDENTS
 
 In the event that the period away takes place for part of the academic year, students must submit two self-certifications, one relating to their place of residence abroad and the other to their place of residence in the municipality in which the course attended is based, so that the total period declared covers at least 10 months of the academic year 2025/26 pursuant to paragraph 1.
 
-
-
-Art. 8(2) METHODS AND DEADLINES FOR SUBMITTING THE PAID ACCOMMODATION SELF- CERTIFICATION
+# 8 Art. 8 (2) METHODS AND DEADLINES FOR SUBMITTING THE PAID ACCOMMODATION SELF- CERTIFICATION
 
 
 
@@ -2630,9 +2266,7 @@ In addition, if the contract is renewed, both the original registration receipt 
 
 The expiry date stated in the contract registration receipt or renewal receipt must be indicated in the declaration. Therefore, you cannot declare an expiry date that is not stated on a registration receipt issued by the Italian Revenue Department even in the case of contracts providing for tacit renewal.
 
-
-
-ART. 8 PAID ACCOMMODATION
+# 8 Art. 8 PAID ACCOMMODATION
 
 # 47 Prime Ministerial Decree 09/04/2001, art. 4(8) Prime Ministerial Decree 1320/2021
 
@@ -2734,13 +2368,9 @@ For these students too, it will be possible to declare any supplement to the con
 
 # 48 DM 418/2025 and DM 447/2025.
 
+# SECTION III SPECIFIC PROVISIONS FOR FIRST YEARS
 
-
-SECTION III SPECIFIC PROVISIONS FOR FIRST YEARS
-
-
-
-ART. 9 WHO CAN APPLY: ADMISSION REQUIREMENTS
+# 9 Art. 9 WHO CAN APPLY: ADMISSION REQUIREMENTS
 
 
 
@@ -2762,9 +2392,7 @@ Students must submit their applications within the deadlines specified in art. 1
 
 Students attending the “filter semester” of medicina e chirurgia, medicina veterinaria e odontoiatria e protesi dentaria courses, even at a non-Piedmont university, must follow the instructions in paragraph 3 below
 
-
-
-Art. 9(1) REQUIREMENTS FOR ADMISSION TO THE COMPETITION
+# 9 Art. 9 (1) REQUIREMENTS FOR ADMISSION TO THE COMPETITION
 
 
 
@@ -2792,9 +2420,7 @@ Students may apply after withdrawing from studies regardless of when the withdra
 
 If they apply for a scholarship after withdrawing from their studies or losing their student status and they have benefited from the scholarship or grant and accommodation service for one or more academic years during their previous course enrolment, by enrolling in a new course, they will be prevented from applying for benefits from EDISU for the same number of years as they benefited from these benefits during their previous enrolment. This is true even if they have withdrawn from a bachelor’s degree or master's degree course and have subsequently enrolled in a single-cycle master's degree course, and vice versa. The only exception is if they return the scholarship received by 12 November 2025, the deadline for submitting complaints.
 
-
-
-Art. 9(1.1) COURSE TRANSFERS AND TRANSFERS FROM OTHER UNIVERSITIES
+# 9 Art. 9 (1.1) COURSE TRANSFERS AND TRANSFERS FROM OTHER UNIVERSITIES
 
 
 
@@ -2808,9 +2434,7 @@ A change of course within the same University is not equivalent to a career brea
 
 In the case of both course and university transfers, only the number of credits recognised pursuant to art. 15(4) will be taken into account for the calculation of the merit requirements.
 
-
-
-Art. 9(2) CREDIT RECOGNITION (SHORTENING OF CAREER, SINGLE COURSES, PREVIOUS CAREERS)
+# 9 Art. 9 (2) CREDIT RECOGNITION (SHORTENING OF CAREER, SINGLE COURSES, PREVIOUS CAREERS)
 
 
 
@@ -2928,13 +2552,9 @@ Students who do NOT submit an application to EDISU Piemonte by 9 September 2025 
 
 EDISU Piemonte will implement any provision issued by the MUR after the publication of this notice and will communicate it to students concerned
 
+# 10 Art. 10 METHODS AND DEADLINES FOR SUBMITTING AN APPLICATION
 
-
-ART. 10 METHODS AND DEADLINES FOR SUBMITTING AN APPLICATION
-
-
-
-Art. 10(1) METHOD FOR SUBMITTING THE APPLICATION
+# 10 Art. 10 (1) METHOD FOR SUBMITTING THE APPLICATION
 
 
 
@@ -2960,9 +2580,7 @@ Any event occurring after the date on which the application is submitted (award 
 
 In the event of transfer to another University outside Piedmont or withdrawal from studies after the publication of the definitive rankings and during the academic year, the benefit won or the eligibility condition will be revoked.
 
-
-
-Art. 10(2) DEADLINE FOR SUBMITTING THE APPLICATION
+# 10 Art. 10 (2) DEADLINE FOR SUBMITTING THE APPLICATION
 
 
 [table]
@@ -2982,9 +2600,7 @@ After 12:00 p.m. of the deadline, it will not be possible to submit the applicat
 
 For international students not resident in Italy who submit their application with a Temporary Access Code, transmission by 12:00 p.m. will only be possible after attaching the signed PDF of the application and a copy of their valid identity document.
 
-
-
-ART. 11 SPECIFIC PROVISIONS FOR THE FIRST YEARS OF A MASTER’S DEGREE
+# 11 Art. 11 SPECIFIC PROVISIONS FOR THE FIRST YEARS OF A MASTER’S DEGREE
 
 
 
@@ -3000,9 +2616,7 @@ All students who intend to enrol in a Master's degree course during the academic
 
 International students not residing in Italy must refer to articles 31 (1.1) (for non-EU students) and (2) (for EU students).
 
-
-
-Art. 11(1) APPLICATION CONVERSION
+# 11 Art. 11 (1) APPLICATION CONVERSION
 
 
 
@@ -3016,9 +2630,7 @@ Students who apply for a first-level degree career with enrolment prior to 2022/
 
 If students apply for the subsequent year for the additional semester of a bachelor’s degree but enrol in a master's degree course by 30 November 2025, they may inform EDISU by 12:00 p.m. on 12 November via a special complaint procedure, indicating the details of the master's degree course; the application will be converted into a first-year, master’s degree application, if they meet the requirements.
 
-
-
-Art. 11(2) FAILURE TO ENROL BY 30 NOVEMBER 2025
+# 11 Art. 11 (2) FAILURE TO ENROL BY 30 NOVEMBER
 
 
 
@@ -3056,9 +2668,7 @@ If these students also apply for the accommodation service:
 
 International students not residing in Italy must refer to articles 31 (1.1) (for non-EU students) and (1.2) (for EU students).
 
-
-
-ART. 12 RANKINGS AND COMPLAINTS
+# 12 Art. 12 RANKINGS AND COMPLAINTS
 
 
 
@@ -3084,9 +2694,7 @@ At the request of students, checks may also be carried out when the application 
 
 No individual communication will be sent regarding the outcome of the competitions. The rankings can only be consulted on your personal Online Helpdesk page (by clicking on “Ranking” in the “Scholarship” section) and at EDISU counters.
 
-
-
-Art. 12(1) CRITERIA FOR DRAWING UP THE RANKINGS
+# 12 Art. 12 (1) CRITERIA FOR DRAWING UP THE RANKINGS
 
 
 
@@ -3104,9 +2712,7 @@ The accommodation service rankings are formulated in the same way as for the sch
 
 In drawing up the accommodation service rankings, a standard first-year ranking will be drawn up for each location for students with non-EU citizenship and a household resident in a non-EU country and students with international protection status, as provided for in point 1 of art. 4(1), for which 1, 5 \% of the spots allocated to each University for first-year students will be reserved.
 
-
-
-Art. 12(2) PROVISIONAL RANKINGS
+# 12 Art. 12 (2) PROVISIONAL RANKINGS
 
 
 
@@ -3124,9 +2730,7 @@ Students who have won or been allocated a place in an EDISU residence and who ar
 
 1. they submit a complaint, shall do so in the manner indicated in art. 7(6) and within the time limits indicated in paragraph 5 of this article.
 
-
-
-Art. 12(3) COMPLAINTS
+# 12 Art. 12 (3) COMPLAINTS
 
 
 
@@ -3136,9 +2740,7 @@ Students excluded from the provisional rankings, or eligible students who need t
 
 Students who do NOT intend to accept the requested accommodation service must submit their withdrawal by 12:00 p.m. on 22 September 2025, by completing the special complaint against the provisional accommodation service ranking. Otherwise, should they be awarded accommodation and scholarship, they will receive the amount corresponding to the “commuter” type.
 
-
-
-Art. 12(4) FINAL ACCOMMODATION RANKINGS
+# 12 Art. 12 (4) FINAL ACCOMMODATION RANKINGS
 
 
 
@@ -3162,9 +2764,7 @@ With regard to the rankings for PhDs and Specialisation Schools, please refer to
 
 EDISU will publish definitive rankings according to course type and date of enrolment.
 
-
-
-Art. 12(5.1) FIRST DEFINITIVE RANKINGS FOR STUDENTS IN FIRST YEAR OF BACHELOR’S OR SINGLE- CYCLE MASTER’S DEGREE WITH ENROLMENT BY 31 OCTOBER 2025
+# 12 Art. 12 (5.1) FIRST DEFINITIVE RANKINGS FOR STUDENTS IN FIRST YEAR OF BACHELOR’S OR SINGLE- CYCLE MASTER’S DEGREE WITH ENROLMENT BY 31 OCTOBER
 
 
 
@@ -3178,9 +2778,7 @@ These rankings only include students who meet the requirements and have enrolled
 
 The eligible candidates in these rankings will be included in the subsequent December rankings, in priority position
 
-
-
-Art. 12(5.2) GENERAL DEFINITIVE RANKINGS
+# 12 Art. 12 (5.2) GENERAL DEFINITIVE RANKINGS
 
 
 
@@ -3204,9 +2802,7 @@ These rankings include all students applying for scholarships, with the exceptio
 
 Students who are not included in the rankings of November 7 will be able to submit a new appeal from 12:00 PM on November 7 to 12:00 PM on November 12
 
-
-
-Art. 12(5.3) DEFINITIVE RANKINGS FOR STUDENTS SUSPENDED IN DECEMBER FOR "ENROLLMENT IN FILTER SEMESTER" AT A PIEDMONT UNIVERSITY AND STUDENTS APPLYING AFTER FILTER SEMESTER
+# 12 Art. 12 (5.3) DEFINITIVE RANKINGS FOR STUDENTS SUSPENDED IN DECEMBER FOR "ENROLLMENT IN FILTER SEMESTER" AT A PIEDMONT UNIVERSITY AND STUDENTS APPLYING AFTER FILTER SEMESTER
 
 
 
@@ -3228,9 +2824,7 @@ These rankings include students who were “suspended” in the December ranking
 
 Students assigned a spot in an EDISU residence who are excluded from the final scholarship rankings must vacate the residence within 3 working days of the date of publication of the final scholarship rankings and pay the daily rate of \in 8 . 1, 8 for the period of residence.
 
-
-
-Art. 12(5.4) DEFINITIVE RANKINGS FOR STUDENTS SUSPENDED” IN DECEMBER
+# 12 Art. 12 (5.4) DEFINITIVE RANKINGS FOR STUDENTS SUSPENDED” IN DECEMBER
 
 
 
@@ -3246,13 +2840,9 @@ These rankings include students who were “suspended” in the December ranking
 
 1. Excluded: students do not meet the requirements of the notice of competition or have not rectified material errors present in the application via complaint.
 
+# 12 Art. 12 (5) FINAL SCHOLARSHIP RANKINGS
 
-
-Art. 12(5) FINAL SCHOLARSHIP RANKINGS
-
-
-
-Art. 12(6) PUBLICATION DATES FOR RANKINGS AND DEADLINES FOR SUBMITTING COMPLAINTS
+# 12 Art. 12 (6) PUBLICATION DATES FOR RANKINGS AND DEADLINES FOR SUBMITTING COMPLAINTS
 
 
 
@@ -3320,17 +2910,13 @@ Students who are interested may complaint against the final results of the ranki
 
 They may also complaint to the Head of State within 120 days of publication.
 
-
-
-ART. 13 MERIT REQUIREMENTS, SCHOLARSHIP INCREASE FOR ENROLMENT IN SECOND COURSE, DISBURSEMENT PERIOD
+# 13 Art. 13 MERIT REQUIREMENTS, SCHOLARSHIP INCREASE FOR ENROLMENT IN SECOND COURSE, DISBURSEMENT PERIOD
 
 
 
 Students enrolled in the first years who are successful in the final scholarship rankings receive the scholarship amounts in accordance with paragraph 4 below: “Scholarship disbursement period”
 
-
-
-Art. 13(1) MERIT REQUIREMENTS FOR SECOND INSTALMENT
+# 13 Art. 13 (1) MERIT REQUIREMENTS FOR SECOND INSTALMENT
 
 
 
@@ -3404,13 +2990,9 @@ If students switch courses during the first academic year after having obtained 
 
 To obtain early payment of the second grant instalment at the end of June 2025, students must achieve merit by 31 May 2026 and self-certify it by 12:00 p.m. on 8 June 2026, in the manner set out in paragraph 3.
 
+# 13 Art. 13 (2) 20 \% INCREASE OF GRANT AMOUNT FOR SECOND-COURSE ENROLMENT
 
-
-Art. 13(2) 20 \% INCREASE OF GRANT AMOUNT FOR SECOND-COURSE ENROLMENT
-
-
-
-Art. 6 of Ministerial Decree 1320/2022 provides that students enrolled at the same time in more than one course are allowed to obtain and keep the scholarship, increased by 2, 0 \% , if they meet and maintain the merit requirements, set out in the decree itself, for the entire duration of the courses. The increase is not due if the student loses eligibility for the grant. Nor is it paid if the student loses eligibility for the increase itself. Students enrolling in the filter semester may NOT indicate a related course as their second course and must follow the provisions of art. 9(3) of this notice.
+# 6 of Ministerial Decree 1320/2022 provides that students enrolled at the same time in more than one course are allowed to obtain and keep the scholarship, increased by 2, 0 \% , if they meet and maintain the merit requirements, set out in the decree itself, for the entire duration of the courses. The increase is not due if the student loses eligibility for the grant. Nor is it paid if the student loses eligibility for the increase itself. Students enrolling in the filter semester may NOT indicate a related course as their second course and must follow the provisions of art. 9(3) of this notice.
 
 
 
@@ -3436,9 +3018,7 @@ If 20 credits are not obtained in the course for which the scholarship was appli
 
 In the event that the increase is requested for a subsequent year, the merit requirements on 10 August 2025, as referred to in art. 15 below, are not attainable with the use of bonus credits.
 
-
-
-Art. 13(3) MERIT SELF-CERTIFICATION
+# 13 Art. 13 (3) MERIT SELF-CERTIFICATION
 
 
 
@@ -3460,9 +3040,7 @@ date, credits must be entered. The self-certification must be completed and sent
 
 After the closure of the self-certification procedure, EDISU will carry out checks with the University to verify the actual achievement of the credits declared by the students in order to obtain the disbursement of the instalments referred to in points 1 and 2 of this paragraph.
 
-
-
-Art. 13(4) SCHOLARSHIP DISBURSEMENT PERIOD
+# 13 Art. 13 (4) SCHOLARSHIP DISBURSEMENT PERIOD
 
 
 
@@ -3524,9 +3102,7 @@ If the IBAN is not communicated by 31 December 2027, the instalments will no lon
 
 Students who do NOT self-certify their merit between 1 April and 8 June 2026, 12:00 p.m. will not receive any payment from the end of June 2026. If they achieve at least 20 credits by 10 August 2025, the entire second instalment (equal to 50% of the total amount) is paid out from the end of November 2026, without the need to self-certify your merit. The same provisions apply for the 20% increase of the grant for the second course referred to in paragraph 2 above.
 
-
-
-Art. 13(5) MERIT REQUIREMENTS TO KEEP THE FIRST INSTALMENT ONLY
+# 13 Art. 13 (5) MERIT REQUIREMENTS TO KEEP THE FIRST INSTALMENT ONLY
 
 
 
@@ -3554,9 +3130,7 @@ Failure to meet the merit requirements set out in this paragraph will result in 
 
 1. if the students have used the accommodation service in EDISU residences, the refund of the value of the accommodation service used in accordance with the provisions set out in paragraph 5 of this article.
 
-
-
-Art. 13(4.1)
+# 13 Art. 13 (4.1)
 
 # 20 \% INCREASE FOR ENROLMENT IN A SECOND COURSE
 
@@ -3568,9 +3142,7 @@ Art. 13(4.1)
 
 ！
 
-
-
-Art. 13(6) MERIT REQUIREMENTS FOR MAINTAINING ELIGIBILITY
+# 13 Art. 13 (6) MERIT REQUIREMENTS FOR MAINTAINING ELIGIBILITY
 
 
 
@@ -3580,9 +3152,7 @@ Eligible students who are not successful in the final scholarship ranking may ma
 
 1. if the students have used the accommodation service in EDISU residences, the refund of the value of the accommodation service used in accordance with the provisions set out in paragraph 5 of this article.
 
-
-
-Art. 13(6.1) ELIGIBLE ASSIGNEES OF A SPOT IN AN EDISU RESIDENCE
+# 13 Art. 13 (6.1) ELIGIBLE ASSIGNEES OF A SPOT IN AN EDISU RESIDENCE
 
 
 
@@ -3596,9 +3166,7 @@ Students who do not meet the merit requirements set out in paragraph 1 of this a
 
 1. must achieve 20 credits by 30 November 2026, otherwise they will be required to repay the amount of \notin 8 . 1, 8 per day for the entire period used (used being understood as the entire allocation period even in the case of justified short absences, without prejudice to the provisions of art. 33(4.1) for the “Erasmus Option”).
 
-
-
-Art. 13(7) DEFERRAL OF LAST 30 NOVEMBER 2026 DEADLINE
+# 13 Art. 13 (7) DEFERRAL OF LAST 30 NOVEMBER 2026 DEADLINE
 
 
 
@@ -3618,9 +3186,7 @@ For the birth of a child, the last deadline of 30 November 2026 is deferred by 5
 
 Students wishing to apply for this extension must go in person to the EDISU helpdesks by 16 December 2026 and make a request, enclosing documentation proving their circumstances54.
 
-
-
-Art. 13(8) PROVISIONS FOR SUCCESSFUL ASSIGNEES OF A SPOT IN AN EDISU RESIDENCE
+# 13 Art. 13 (8) PROVISIONS FOR SUCCESSFUL ASSIGNEES OF A SPOT IN AN EDISU RESIDENCE
 
 1. may return for the month of September to a residence identified by the administration, which may be different from the one to which they were assigned during the months preceding the summer closure; must achieve 20 credits by 30 November 2026, otherwise they will be required to repay the amount of € 8.18 per day for the entire period used (used being understood as the entire allocation period even in the case of justified short absences, without prejudice to the provisions of art. 33(4.1) for the “Erasmus Option”).
 
@@ -3628,9 +3194,7 @@ Art. 13(8) PROVISIONS FOR SUCCESSFUL ASSIGNEES OF A SPOT IN AN EDISU RESIDENCE
 
 # 54 Regional Criteria 2025/26 Sec. VI art. 2(5)
 
-
-
-Art. 13(9) CASES OF SUSPENSION OF PAYMENT
+# 13 Art. 13 (9) CASES OF SUSPENSION OF PAYMENT
 
 
 
@@ -3640,17 +3204,13 @@ Students who find they owe debt that has arisen or is ascertained after the publ
 
 A similar suspension is applied to students in respect of whom proceedings are in progress for financial verification, verification of merit, or forfeiture of benefits, including in relation to previous academic years, and, for students seeking international protection or stateless persons only, verification of their residence permit.
 
-
-
-Art. 13(10) VERIFICATION OF MERIT AND WITHDRAWAL OF BENEFIT
+# 13 Art. 13 (10) VERIFICATION OF MERIT AND WITHDRAWAL OF BENEFIT
 
 
 
 EDISU subjects all winning students and students eligible for scholarships and those who may be assigned a place to verification of enrolment and merit conditions, in implementation of art. 6 of the Prime Ministerial Decree 9 April 2001 and art. 38 of this notice of competition.
 
-
-
-Art. 13(11) REFUND OF REGIONAL TAX
+# 13 Art. 13 (11) REFUND OF REGIONAL TAX
 
 
 
@@ -3678,33 +3238,21 @@ Students enrolled at the Polytechnic University of Turin as first-years do not h
 
 For any other information on tuition fees, students should contact their university by consulting the Tuition Fees Regulations and contacting the relevant offices (Fees Office, Student Administrative Office).
 
-
-
-ART. 14 FIRST-YEAR ACCOMMODATION SERVICE ACCEPTANCE
+# 14 Art. 14 FIRST-YEAR ACCOMMODATION SERVICE ACCEPTANCE
 
 
 
 Detailed provisions on the acceptance of the accommodation service can be found in art. 33.
 
+# SECTION IV
 
+# SPECIFIC
 
-SECTION IV
+# PROVISIONS FOR
 
+# SUBSEQUENT YEARS
 
-
-SPECIFIC
-
-
-
-PROVISIONS FOR
-
-
-
-SUBSEQUENT YEARS
-
-
-
-ART. 15 WHO CAN APPLY: ADMISSION AND MERIT REQUIREMENTS
+# 15 Art. 15 WHO CAN APPLY: ADMISSION AND MERIT REQUIREMENTS
 
 
 
@@ -3718,9 +3266,7 @@ Students graduating by 30 September 2025 may check the requirements for applying
 
 Students attending the “filter semester” of medicina e chirurgia, medicina veterinaria e odontoiatria e protesi dentaria courses courses (LM-41, LM-46, LM-42), even at a non-Piedmont university, must follow the instructions in articles 9(3), 10 and 12 and 13(4) of this Competitive Notice.
 
-
-
-Art. 15(1) ADMISSION REQUIREMENTS
+# 15 Art. 15 (1) ADMISSION REQUIREMENTS
 
 
 
@@ -3730,9 +3276,7 @@ There are different requirements to be admitted to the competition depending on 
 
 Submission of the application as a Confirmation of Merit Benefits does not entail the disbursement of a different scholarship amount if the student wins but only priority in the ranking.
 
-
-
-Art. 15(1.1) STANDARD APPLICATION
+# 15 Art. 15 (1.1) STANDARD APPLICATION
 
 
 
@@ -3742,9 +3286,7 @@ The requirements for submitting a Standard Application are as follows.
 
 1. Possession of the financial (art. 6) and merit (paragraphs 2.2, 3, 4, 5 and 6 of this article) requirements.
 
-
-
-Art. 15(1.2) CONFIRMATION OF MERIT BENEFITS
+# 15 Art. 15 (1.2) CONFIRMATION OF MERIT BENEFITS
 
 
 
@@ -3776,9 +3318,7 @@ Students who fulfil the above-mentioned conditions and in 2024/25 accepted the a
 
 - Students who have are transferring from another University, including from outside Piedmont, may not apply as a first-year but must apply as a subsequent-year student. For more information, please refer to paragraph 4 of this article. 2. If students have to repeat the same year, the merit requirements, set out in the table in paragraph 2, will in any case be calculated on the basis of the academic year of first absolute enrolment for the same course level. 3. Students who enrol after waiving their studies and obtain credit validation must check, based on the number of credits recognised, whether they can apply as a subsequent-year student, or whether they will be considered first-year students again. Please note that the scholarship cannot be applied for in respect of course years for which it was already obtained56. 4. If the students who withdraw from their studies or lose their student status have benefited from a scholarship or scholarship and accommodation service for more than one academic year during their previous course enrolment, by enrolling in a new course, they will be prevented from applying for benefits from EDISU for the same number of years as they benefited from these during their previous enrolment. This is also true if they have withdrawn from a bachelor’s degree or master's degree course and have subsequently enrolled in a single-cycle master's degree course, and vice versa. The only exception is if they return the scholarship, they benefited from by the deadline established for scholarship complaints for the academic year 2025/26. 5. International student visa applicants who wish to change their course of study must check with their University whether or not they can opt out of their studies without having to apply for a new visa, based on the MUR circular for the academic year 2025/26. In the event of a transfer of course or university, reference is made to paragraph 4 of this article. 6. If students have regularly frozen or suspended57 their student career in previous academic years, the period of freezing/suspension will not be taken into account if no degree-related action (passing examinations, submitting a career plan, etc.) has been taken during that period. To this end, EDISU will modify the year of enrolment of students in such a way that the freezing/suspension period does not negatively affect the calculation of merit requirements (e.g. if a student enrolled in 2023/24 has frozen/suspended their career in 2024/25, by applying for 2025/26 they will be considered as having enrolled in 2024/25). When submitting their application, students must notify the freezing of their previous career by opening a ticket. 7. Students who “enrol early” from March 2025 must follow the provisions of art. 9(2) and (5) of this article.
 
-
-
-Art. 15(2) MERIT REQUIREMENTS
+# 15 Art. 15 (2) MERIT REQUIREMENTS
 
 
 
@@ -3810,17 +3350,13 @@ These credits must also be duly registered by your University on or before 10 Au
 
 Students enrolled part-time cannot confirm merit-based benefits.
 
-
-
-Art. 15(2.1) MERIT REQUIREMENTS FOR CONFIRMATION OF MERIT-BASED BENEFITS with FULL TIME ENROLMENT
+# 15 Art. 15 (2.1) MERIT REQUIREMENTS FOR CONFIRMATION OF MERIT-BASED BENEFITS with FULL TIME ENROLMENT
 
 
 
 The table containing the credits required for the “confirmation of merit-based benefits” scholarship can be found in Appendix A1.
 
-
-
-Art. 15(2.2) MERIT REQUIREMENTS FOR STANDARD APPLICATION with FULL-TIME ENROLMENT
+# 15 Art. 15 (2.2) MERIT REQUIREMENTS FOR STANDARD APPLICATION with FULL-TIME ENROLMENT
 
 
 
@@ -3858,9 +3394,7 @@ Art. 15(2.3) MERIT REQUIREMENTS FOR STANDARD APPLICATION with PART-TIME ENROLMEN
 
 The table containing the credits required for part-time enrolment in bachelor’s degree, single-cycle master’s degree, and master’s degree courses can be found in Appendix B., pursuant to the Regional Criteria59
 
-
-
-Art. 15(3) BONUS CREDITS
+# 15 Art. 15 (3) BONUS CREDITS
 
 
 
@@ -3966,9 +3500,7 @@ When submitting their applications, students must declare validation or pending 
 
 Students who have declared a change of course or transfer by 30 November 2025, for whom the Validation procedure will not have been completed by the University as of 30 November 2025, will be “suspended” in the definitive rankings of 16 December and may be included in the rankings of 30 April 2026 if the required credits are validated by 3 April 2026. The awarding of the scholarship is subject to the availability of funds.
 
-
-
-Art. 15(5) CREDIT RECOGNITION (CAREER SHORTENING, SINGLE COURSES, PREVIOUS CAREERS)
+# 15 Art. 15 (5) CREDIT RECOGNITION (CAREER SHORTENING, SINGLE COURSES, PREVIOUS CAREERS)
 
 
 
@@ -3982,9 +3514,7 @@ In the rankings, the academic year of first enrolment will be backdated for EDIS
 
 - a. 0 to 24 credits: no change b. 25 to 79 credits: backdated by one year
 
-
-
-Art. 15(4) TRANSFERS
+# 15 Art. 15 (4) TRANSFERS
 
 # 60 Regional Criteria 2025/26 Sec. V, art. 3
 
@@ -4032,9 +3562,7 @@ Changes may also occur as a result of automatic checks during the academic year.
 
 For the purposes of calculating marks, if the university does not award a mark for validated examinations, the average of the examinations taken in Italy will be taken into account. If students have not taken any examinations in Italy, the average lowest C- level grade of the ECTS average of the course attended, which the University that establishes it each year for each course of study communicates to EDISU, will be taken into account for calculating the merit mark.
 
-
-
-Art. 15(6) PARTICIPANTS IN FOREIGN STUDY/EXCHANGE PROJECTS ACADEMIC YEAR 2024/25
+# 15 Art. 15 (6) PARTICIPANTS IN FOREIGN STUDY/EXCHANGE PROJECTS ACADEMIC YEAR 2024/25
 
 
 
@@ -4056,13 +3584,9 @@ Following the recognition of credits obtained during the foreign study/exchange 
 
 1. If students are already in possession of the validation at the time of completing the application, but with a date after 10 August 2025, they must select the relevant entry and indicate the credits and score of the relevant validation, but they do not have to indicate them in the merit self-certification. Students must calculate their merit points as set out in art. 17(2) below.
 
+# 16 Art. 16 : METHODS AND DEADLINES FOR SUBMITTING AN APPLICATION
 
-
-ART. 16: METHODS AND DEADLINES FOR SUBMITTING AN APPLICATION
-
-
-
-Art. 16(1) METHOD FOR SUBMITTING THE APPLICATION
+# 16 Art. 16 (1) METHOD FOR SUBMITTING THE APPLICATION
 
 
 
@@ -4072,17 +3596,13 @@ Applications can be submitted from 25 July 2025. The application submission meth
 
 Any event occurring after the date on which the application is submitted (award of another scholarship or other financial aid, transfer to another university, withdrawal from studies, change of commitment from part-time to full-time and vice versa, inability to continue studies, withdrawal from enrolment, change of department or course of study, etc.) must be promptly communicated to the EDISU offices and documented. EDISU will check that the requirements are still met and will take any measures necessary to revoke benefits. If this is not the case, EDISU reserves the right to take action in relation to the failure to notify. In the event of transfer to another University outside Piedmont or withdrawal from studies after the publication of the definitive rankings and during the academic year, the benefit won or the eligibility condition will be revoked.
 
-
-
-Art. 16(2) DEADLINE FOR SUBMITTING THE APPLICATION
+# 16 Art. 16 (2) DEADLINE FOR SUBMITTING THE APPLICATION
 
 
 
 For students who submit their application with a Temporary Access Code, transmission by 12:00 p.m. will only be possible after attaching the signed PDF of the application and a copy of their valid identity document.
 
-
-
-Art. 16(3) APPLICATION CONVERSION
+# 16 Art. 16 (3) APPLICATION CONVERSION
 
 
 
@@ -4092,9 +3612,7 @@ If students apply for the subsequent year for the additional semester of a bache
 
 If students enrolled in a degree course during the academic year 2022/23 apply for the first year of a master’s degree but do not enrol, they may inform EDISU by means of a special complaint procedure by 12 November to be included in the rankings of 16 December or by 3 April if “suspended” in the rankings of 16 December to be included in those of 30 April 2026. They will need to indicate the data for the bachelor's degree course. The application will be converted into an application for subsequent years for the additional semester of a bachelor's degree, if they have not graduated by September 2025 and if they meet the merit requirements.
 
-
-
-ART. 17 RANKINGS AND COMPLAINTS
+# 17 Art. 17 RANKINGS AND COMPLAINTS
 
 
 
@@ -4108,9 +3626,7 @@ After the deadline for the submission of grant applications, before the publicat
 
 The accommodation service rankings will instead be drawn up on the basis of self-certified data from students. At the request of students, checks may also be carried out when the application is being completed in particular situations. Changes will also be automatically made following checks carried out with the Universities on the applicant's merit conditions
 
-
-
-Art. 17(1) CRITERIA FOR DRAWING UP THE RANKINGS
+# 17 Art. 17 (1) CRITERIA FOR DRAWING UP THE RANKINGS
 
 
 
@@ -4206,17 +3722,13 @@ Now consider the “merit” without a grade:
 
 1. Add the result to the merit score obtained in the first step: 7, 0, 7 + 3, 7, 4 . 7, 6 = 1 , 0, 2, 7 . 7, 6
 
-
-
-Art. 17(3) PROVISIONAL RANKINGS
+# 17 Art. 17 (3) PROVISIONAL RANKINGS
 
 1. they do not wish to lodge a complaint, must leave the residence within 3 working days from the date of publication of the provisional grant ranking and pay the daily rate of \notin 8 . 1, 8 for the period of residence;
 
 1. they submit a complaint, shall do so in the manner indicated in art. 7(6) and within the time limits indicated in paragraph 6 of this article.
 
-
-
-Art. 17(4) COMPLAINTS
+# 17 Art. 17 (4) COMPLAINTS
 
 
 
@@ -4226,9 +3738,7 @@ Students excluded from the provisional rankings, or eligible students who need t
 
 Students who do not intend to accept the requested accommodation service must submit their withdrawal by 22 September 2025 (12:00 p.m.) by completing the special procedure on the online Helpdesk. Otherwise, should they be awarded accommodation and scholarship, they will receive the amount corresponding to the “Commuter student” type.
 
-
-
-Art. 17(2) MERIT SCORE AND RANKING
+# 17 Art. 17 (2) MERIT SCORE AND RANKING
 
 
 
@@ -4256,9 +3766,7 @@ These students will compete in the provisional rankings of 20 March 2026 and def
 
 Winning students or those assigned a spot in an EDISU residence who are excluded from the final scholarship rankings must vacate the residence within 3 working days of the date of publication of the final scholarship rankings and pay the daily rate of \in 8 . 1, 8 for the period in the residence.
 
-
-
-Art. 17(6) PUBLICATION DATES FOR RANKINGS AND DEADLINES FOR SUBMITTING COMPLAINTS
+# 17 Art. 17 (6) PUBLICATION DATES FOR RANKINGS AND DEADLINES FOR SUBMITTING COMPLAINTS
 
 
 [table]
@@ -4278,13 +3786,9 @@ Students can check the rankings published after that date by accessing their per
 
 Students who are interested may promptly complaint against the final results of the ranking to the Regional Administrative Court of Piedmont and, in any case, within 60 days of publication.
 
+# 17 Art. 17 (7) 20 \% INCREASE OF SCHOLARSHIP AMOUNT FOR SECOND-COURSE ENROLMENT
 
-
-Art. 17(7) 20 \% INCREASE OF SCHOLARSHIP AMOUNT FOR SECOND-COURSE ENROLMENT
-
-
-
-Art. 6 of Ministerial Decree 1320/2021 provides that students enrolled at the same time in more than one course are allowed to obtain and keep the scholarship, increased by 2, 0 \% , , if they meet and maintain the merit requirements, set out in the decree itself, for the entire duration of the courses. The increase is not due if the student loses eligibility for the grant. Nor is it paid if the student loses eligibility for the increase itself.
+# 6 of Ministerial Decree 1320/2021 provides that students enrolled at the same time in more than one course are allowed to obtain and keep the scholarship, increased by 2, 0 \% , , if they meet and maintain the merit requirements, set out in the decree itself, for the entire duration of the courses. The increase is not due if the student loses eligibility for the grant. Nor is it paid if the student loses eligibility for the increase itself.
 
 
 
@@ -4294,9 +3798,7 @@ The request for a 20 \% increase must be submitted when completing the scholarsh
 
 Students applying for a full scholarship for a full time year subsequent to the first may apply for an increase for a first year full time or a subsequent year full time equal to or lower than the year for which the scholarship is applied for (e.g. a grant applicant for a second year may apply for an increase for a first or second year but not for a third)
 
-
-
-Art. 17(5) DEFINITIVE RANKINGS
+# 17 Art. 17 (5) DEFINITIVE RANKINGS
 
 
 
@@ -4306,13 +3808,9 @@ In the event that the increase is requested for a subsequent year, the merit req
 
 Students enrolling in the “filter semester” of medicina e chirurgia, medicina veterinaria e odontoiatria e protesi dentaria courses courses may NOT indicate a related course as their second course and must follow the provisions of art. 9(3) of this notice.
 
+# 18 Art. 18 SCHOLARSHIP DISBURSEMENT
 
-
-ART. 18 SCHOLARSHIP DISBURSEMENT
-
-
-
-Art. 18(1) DISBURSEMENT PERIOD
+# 18 Art. 18 (1) DISBURSEMENT PERIOD
 
 
 
@@ -4370,13 +3868,9 @@ It should be noted that the disbursement of the instalment means the start of th
 
 Winners may only receive the scholarship by crediting a current account or prepaid card with a SEPA-circuit IBAN in their name or jointly in their name. Postal savings books are excluded. For more information on how to communicate the IBAN, please refer to art. 7(3).
 
+# 18 Art. 18 (2) CASES OF SUSPENSION OF PAYMENT
 
-
-Art. 18(2) CASES OF SUSPENSION OF PAYMENT
-
-
-
-Art. 18(3) REFUND OF REGIONAL TAX
+# 18 Art. 18 (3) REFUND OF REGIONAL TAX
 
 
 
@@ -4412,25 +3906,15 @@ Reimbursement of the regional tax will not be granted to:
 
 - students who renounce their studies after the enrolment deadline
 
+# 19 Art. 19 ACCEPTANCE
 
+# SUBSEQUENT-YEAR ACCOMMODATION SERVICE
 
-ART. 19 ACCEPTANCE
+# SECTION V
 
+# 20 Art. 20 ADMISSION REQUIREMENTS AND AMOUNTS
 
-
-SUBSEQUENT-YEAR ACCOMMODATION SERVICE
-
-
-
-SECTION V
-
-
-
-ART. 20 ADMISSION REQUIREMENTS AND AMOUNTS
-
-
-
-Art. 20(1) ADMISSION REQUIREMENTS
+# 20 Art. 20 (1) ADMISSION REQUIREMENTS
 
 
 
@@ -4452,17 +3936,13 @@ The degree award is incompatible with the scholarship for the additional semeste
 
 If students have already received the grant for the additional semester for the academic year 2024/25 or for the academic year 2025/26, they cannot apply for the degree award.
 
-
-
-Art. 20(2) AMOUNT
+# 20 Art. 20 (2) AMOUNT
 
 
 
 The amount of the degree award is equal to half of the net 2024/25 grant amount minus the value of the accommodation service, even if this has been monetised for students who have received a scholarship with a non-resident amount. The value of the accommodation service that is deducted is € 2,700.00 and net of any scholarship supplement for enrolment in the second course.
 
-
-
-ART. 21 APPLICATION SUBMISSION: METHODS AND DEADLINE
+# 21 Art. 21 APPLICATION SUBMISSION: METHODS AND DEADLINE
 
 
 
@@ -4474,9 +3954,7 @@ The application for a degree award must be completed and submitted exclusively o
 
 No new ISEE universitario nor consular documents are required
 
-
-
-ART. 22 RESULTS AND COMPLAINTS
+# 22 Art. 22 RESULTS AND COMPLAINTS
 
 
 
@@ -4486,9 +3964,7 @@ Students must check the result of their application by consulting the results pu
 
 No individual communication will be sent regarding the outcome of the competitions. The results can only be consulted on your personal Online Helpdesk page (by clicking on “Ranking” in the “Degree award” section) and at EDISU counters.
 
-
-
-Art. 22(1) PROVISIONAL RESULTS
+# 22 Art. 22 (1) PROVISIONAL RESULTS
 
 
 
@@ -4498,9 +3974,7 @@ There are two possible provisional outcomes:
 
 1. Excluded: students do not meet the requirements of the notice of competition or have made material errors when completing the application.
 
-
-
-Art. 22(2) COMPLAINTS
+# 22 Art. 22 (2) COMPLAINTS
 
 
 
@@ -4510,9 +3984,7 @@ Students with a provisional, “excluded” result may submit a complaint in the
 
 After the deadline for submitting applications, before the publication of the provisional results, and in the period between the publication of the provisional and final results, checks will begin with the Universities to verify that they meet the requirements set out in paragraph 1 of this article. The provisional and final results will incorporate the result of these assessments.
 
-
-
-Art. 22(3) FINAL RESULTS
+# 22 Art. 22 (3) FINAL RESULTS
 
 
 
@@ -4522,31 +3994,21 @@ There are two possible final outcomes:
 
 1. Excluded: students do not meet the requirements of the notice of competition or have not rectified material errors present in the application via complaint.
 
+# 22 Art. 22 (4) PUBLICATION DATES FOR RESULTS AND DEADLINES FOR SUBMITTING COMPLAINTS
 
-
-Art. 22(4) PUBLICATION DATES FOR RESULTS AND DEADLINES FOR SUBMITTING COMPLAINTS
-
-
-
-PROVISIONAL RESULTS
+# PROVISIONAL RESULTS
 
 # 14 May 2026
 
-
-
-COMPLAINTS
+# COMPLAINTS
 
 # 14 May to 26 May 2026
 
-
-
-FINAL RESULTS
+# FINAL RESULTS
 
 # 10 June 2026
 
-
-
-ART. 23 PAYMENT
+# 23 Art. 23 PAYMENT
 
 
 
@@ -4564,33 +4026,21 @@ Winners may only receive the degree award by crediting a current account or prep
 
 Disbursements will only be made according to the above time frames if students provide their IBAN by 10 July 2026.
 
-
-
-Art. 23(1) CASES OF SUSPENSION OF PAYMENT
+# 23 Art. 23 (1) CASES OF SUSPENSION OF PAYMENT
 
 
 
 Students who find they owe debt that has arisen or is ascertained after the publication of the final results or who have an instalment plan in place and are in the process of paying their debt to EDISU, have their degree award payment suspended until the debt is settled.
 
+# SECTION VI
 
+# PHDS AND
 
-SECTION VI
+# SPECIALISATION
 
+# SCHOOLS
 
-
-PHDS AND
-
-
-
-SPECIALISATION
-
-
-
-SCHOOLS
-
-
-
-ART. 24 WHO CAN APPLY: ADMISSION, MERIT, AND FINANCIAL REQUIREMENTS
+# 24 Art. 24 WHO CAN APPLY: ADMISSION, MERIT, AND FINANCIAL REQUIREMENTS
 
 
 
@@ -4608,17 +4058,13 @@ The admission and merit requirements for participation in the competition, the d
 
 Students enrolled in doctoral and specialisation school courses cannot apply for the accommodation service but only for the scholarship
 
-
-
-Art. 24(1) ADMISSION REQUIREMENTS
+# 24 Art. 24 (1) ADMISSION REQUIREMENTS
 
 
 
 For both the first years and subsequent years, in addition to the financial requirements (art. 6 and Section VII Specific Provisions for international Students - and paragraph 3 below), only admission to or enrolment in a doctoral course or specialisation school is required, which will be verified when the provisional and final scholarship rankings are drawn up.
 
-
-
-Art. 24(2) MERIT REQUIREMENTS
+# 24 Art. 24 (2) MERIT REQUIREMENTS
 
 
 
@@ -4632,9 +4078,7 @@ The scholarship will be withdrawn if students renounce their PhD during the acad
 
 If students have regularly frozen or suspended63 their student career in previous academic years, the period of freezing/suspension will not be taken into account if no degree-related action has been taken during that period. To this end, EDISU will amend the year of enrolment of students in such a way that the freezing/suspension period does not adversely affect the calculation of merit requirements. When submitting their application, students must notify the freezing of their previous career by opening a ticket.
 
-
-
-Art. 24(3) FINANCIAL REQUIREMENTS
+# 24 Art. 24 (3) FINANCIAL REQUIREMENTS
 
 
 
@@ -4684,13 +4128,9 @@ If non-EU or EU international students residing in Italy benefit from the ISEE D
 
 Non-EU and EU international students who need to have their ISEE Parificato calculated must refer to arts. 30 and 31 of this Notice of competition.
 
+# 25 Art. 25 METHODS AND DEADLINES FOR SUBMITTING AN APPLICATION
 
-
-ART. 25 METHODS AND DEADLINES FOR SUBMITTING AN APPLICATION
-
-
-
-Art. 25(1) METHOD FOR SUBMITTING THE APPLICATION
+# 25 Art. 25 (1) METHOD FOR SUBMITTING THE APPLICATION
 
 
 
@@ -4704,13 +4144,9 @@ There are no spots for students enrolled in doctoral courses and specialisation 
 
 Students must submit their applications within the deadlines specified in the following table, even if they were not yet duly enrolled at the time of submitting the application.
 
+# 25 Art. 25 (2) DEADLINES FOR SUBMITTING THE APPLICATION
 
-
-Art. 25(2) DEADLINES FOR SUBMITTING THE APPLICATION
-
-
-
-DEADLINE
+# DEADLINE
 
 # 28 NOVEMBER 2025, 12:00
 
@@ -4732,9 +4168,7 @@ After the online submission of the application, the data entered can only be edi
 
 For the students referred to in this section, the same procedure for the “ISEE financial data” section may be carried out by submitting a valid certificate for ISEE Dottorato or Nucleo Ristretto for the benefit applicant, free of observations regarding omissions/discrepancies.
 
-
-
-ART. 26 RANKINGS AND COMPLAINTS
+# 26 Art. 26 RANKINGS AND COMPLAINTS
 
 
 
@@ -4752,9 +4186,7 @@ Only after the deadline for submitting applications, before publishing the provi
 
 Changes will also be automatically made following checks carried out with the Universities on the applicant's merit conditions.
 
-
-
-Art. 26(1) CRITERIA FOR DRAWING UP THE RANKINGS
+# 26 Art. 26 (1) CRITERIA FOR DRAWING UP THE RANKINGS
 
 
 
@@ -4764,15 +4196,11 @@ According to art. 1(4), those enrolled in the first years of doctoral and specia
 
 According to art. 1(4), those enrolled in years subsequent to the first of doctoral and specialisation school courses are included in the allocation of 85 \% of the grants assigned to each University. The allocation is made based on students applying for the grant as subsequent-year students. The rankings are formulated according to the University they attend in an ascending manner based on the students' ISEE Dottorato. Where the ISEE Dottorato is equal, preference is given to younger applicants.
 
-
-
-Art. 26(2) PROVISIONAL RANKINGS
+# 26 Art. 26 (2) PROVISIONAL RANKINGS
 
 - Eligible: students meet the requirements of the notice of competition; they must therefore wait for the publication of the definitive ranking. 2. Excluded: students do not meet the requirements of the notice of competition or have made material errors when completing the application. If errors can be rectified at the complaint stage, the words “can be rectified by complaint” will be indicated. If students do not rectify their exclusion at the provisional ranking complaint stage, they will be disqualified.
 
-
-
-Art. 26(3) COMPLAINTS
+# 26 Art. 26 (3) COMPLAINTS
 
 
 
@@ -4790,9 +4218,7 @@ Please note that, if submitting a new ISEE Dottorato certificate with the “nuc
 
 The definitive rankings will take into account the results of the complaints lodged against the provisional rankings and any further checks with the Universities.
 
-
-
-Art. 26(4) DEFINITIVE RANKINGS
+# 26 Art. 26 (4) DEFINITIVE RANKINGS
 
 
 
@@ -4800,13 +4226,9 @@ Three outcomes are possible in the provisional ranking:
 
 # 1 Winner: students meet the requirements of the notice of competition and have the right to take up the benefits applied for. Scholarship winners must follow the provisions indicated in art. 27.
 
+# 25 Art. 25 (3)
 
-
-Art. 25(3)
-
-
-
-CHANGES TO DATA AND REQUESTS SENT ONLINE BY THE APPLICATION SUBMISSION DEADLINE
+# CHANGES TO DATA AND REQUESTS SENT ONLINE BY THE APPLICATION SUBMISSION DEADLINE
 
 - Eligible: students who meet the requirements of the notice of competition but cannot take up the benefit applied for due to a lack of available resources. Students eligible for scholarships must follow the provisions indicated in art(5). 3. Excluded: students do not meet the requirements of the notice of competition or have not rectified material errors present in the application via complaint.
 
@@ -4815,6 +4237,8 @@ CHANGES TO DATA AND REQUESTS SENT ONLINE BY THE APPLICATION SUBMISSION DEADLINE
 Any event occurring after the date on which the application is submitted (award of another scholarship or other financial aid, transfer to another university, withdrawal from studies, inability to continue studies, withdrawal from enrolment, etc.) must be promptly communicated to the EDISU offices and documented. EDISU will check that the requirements are still met and will take any measures necessary to revoke benefits. If this is not the case, EDISU reserves the right to take action in relation to the failure to notify. In the event of transfer to another University outside Piedmont or withdrawal from studies after the publication of the definitive rankings and during the academic year, the benefit won or the eligibility condition will be revoked.
 
 
+[table]
+
 
 Art. 26(5) PUBLICATION DATES FOR RANKINGS AND DEADLINES FOR SUBMITTING COMPLAINTS <table><tr><td>Benefit type</td><td>PROVISIONAL RANKINGS</td><td>COMPLAINTS</td><td>DEFINITIVE RANKINGS</td></tr><tr><td>Scholarship PhDs and Specialisation Schools</td><td>20 March 2026 12:00 p.m.</td><td>From 20 March to 3 April 2026, 12:00 p.m.</td><td>30 April 2026 12:00 p.m.</td></tr></table>
 
@@ -4822,9 +4246,7 @@ Art. 26(5) PUBLICATION DATES FOR RANKINGS AND DEADLINES FOR SUBMITTING COMPLAINT
 
 Since the accommodation service cannot be applied for, only provisional and final scholarship rankings are provided. Non-resident students who submitted their declaration of paid accommodation between 20 March and 10 April 2026 will compete for the non- resident scholarship amount
 
-
-
-Art. 26(6) SELF-CERTIFICATION OF PAID ACCOMMODATION
+# 26 Art. 26 (6) SELF-CERTIFICATION OF PAID ACCOMMODATION
 
 
 
@@ -4834,13 +4256,9 @@ Non-resident students are required to self-certify their paid accommodation to r
 
 It should be noted that students enrolled in a PhD course or in a specialisation school cannot apply as independent students (art. 6(1.5)) since this case only applies to the ISEE Universitario – not to the ISEE Dottorato. Therefore, all students wishing to apply for the non-resident amount must self-certify the paid basis of their residence, pursuant to art. 8(2).
 
+# 27 Art. 27 SCHOLARSHIP DISBURSEMENT
 
-
-ART. 27 SCHOLARSHIP DISBURSEMENT
-
-
-
-Art. 27(1) DISBURSEMENT PERIOD
+# 27 Art. 27 (1) DISBURSEMENT PERIOD
 
 1. the first instalment (equal to 50 \% of the total amount) is disbursed starting from the end of May 2, 0, 2, 6 ;
 
@@ -4862,21 +4280,15 @@ It should be noted that the disbursement of the instalment means the start of th
 
 Winners may only receive the scholarship by crediting a current account or prepaid card with an IBAN in their name or jointly in their name. Postal savings books are excluded. For more information on how to communicate the IBAN, please refer to art. 7(3).
 
+# 27 Art. 27 (2) CASES OF SUSPENSION OF PAYMENT
 
-
-Art. 27(2) CASES OF SUSPENSION OF PAYMENT
-
-
-
-Art. 27(3) WITHDRAWAL OF BENEFITS
+# 27 Art. 27 (3) WITHDRAWAL OF BENEFITS
 
 
 
 EDISU will withdraw the benefits if it cannot establish the existence of the admission requirements, following checks carried out with the Universities.
 
-
-
-ART. 28 PROVISIONS FOR NON-RESIDENT STUDENTS
+# 28 Art. 28 PROVISIONS FOR NON-RESIDENT STUDENTS
 
 
 
@@ -4886,17 +4298,11 @@ There are no spots for students enrolled in doctoral courses and specialisation 
 
 If using a ISEE Dottorato and/or ISEE with “nucleo ristretto” (restricted household) option, it should be noted that the non-resident condition is subject to the registered residence of the students requesting the benefit, as governed by art. 4 of this notice of competition.
 
+# SECTION VII
 
+# SPECIFIC PROVISIONS FOR DISABLED STUDENTS
 
-SECTION VII
-
-
-
-SPECIFIC PROVISIONS FOR DISABLED STUDENTS
-
-
-
-ART. 29 SPECIFIC PROVISIONS FOR DISABLED STUDENTS
+# 29 Art. 29 SPECIFIC PROVISIONS FOR DISABLED STUDENTS
 
 
 
@@ -4922,9 +4328,7 @@ Students who, at the time of submitting their application, do not yet have certi
 
 This certification does not have to be attached if students have submitted it in previous academic years and it is of the “non- revisable” type.
 
-
-
-Art. 29(1) BENEFIT DURATION
+# 29 Art. 29 (1) BENEFIT DURATION
 
 
 
@@ -4936,29 +4340,21 @@ For students with disabilities, benefits are granted for first-time enrolment ac
 
 <table><tr><td>Enrolled in full-time degree courses</td><td>Nine semesters, starting from the year of first enrolment.</td></tr><tr><td>Enrolled in part-time degree courses</td><td>Eight semesters, starting from the year of first enrolment. These students may apply for the scholarship only, without the accommodation service.</td></tr><tr><td>Enrolled in full-time, single-cycle master&#x27;s degree courses</td><td>Fifteen semesters (for those enrolled in courses with a statutory duration of 6 years) or thirteen (for those enrolled in courses with a statutory duration of 5 years), starting from the year of first enrolment.</td></tr><tr><td>Enrolled in part-time, single-cycle master&#x27;s degree courses</td><td>Fourteen semesters (for those enrolled in courses with a statutory duration of 6 years) or twelve (for those enrolled in courses with a statutory duration of 5 years), starting from the year of first enrolment.</td></tr><tr><td>Enrolled in full-time master&#x27;s degree courses65</td><td>Seven semesters, starting from the year of first enrolment.</td></tr><tr><td>Enrolled in part-time master&#x27;s degree courses</td><td>Six semesters, starting from the year of first enrolment</td></tr><tr><td>Enrolled in a PhD or specialisation school</td><td>Planned number of years for the course of study</td></tr></table>
 
-
-
-Art. 29(2) FINANCIAL REQUIREMENTS
+# 29 Art. 29 (2) FINANCIAL REQUIREMENTS
 
 
 
 The financial requirements are those set out in art 6. An increase in the equivalence scale of 1.05 is also stipulated.
 
+# 29 Art. 29 (3) MERIT REQUIREMENTS
 
-
-Art. 29(3) MERIT REQUIREMENTS
-
-
-
-Art. 29(3.1) MERIT REQUIREMENTS FOR FIRST-YEAR STUDENTS
+# 29 Art. 29 (3.1) MERIT REQUIREMENTS FOR FIRST-YEAR STUDENTS
 
 
 
 For disabled students, the provisions relating to the achievement of merit requirements for the disbursement of the second instalment of the grant (art. 13(1)), and its possible revocation (art. 13(10)), do NOT apply.
 
-
-
-Art. 29(3.2) MERIT REQUIREMENTS FOR SUBSEQUENT-YEAR STUDENTS
+# 29 Art. 29 (3.2) MERIT REQUIREMENTS FOR SUBSEQUENT-YEAR STUDENTS
 
 
 
@@ -4998,17 +4394,13 @@ The tables containing the credits required for disabled students have been prepa
 
 The merit requirements for students enrolled on a part-time basis can be found in Annex C1.
 
-
-
-Art. 29(3.3) BONUS CREDITS
+# 29 Art. 29 (3.3) BONUS CREDITS
 
 
 
 If they do not achieve the minimum credits required to apply, students enrolled in years subsequent to the first year may use the bonus credits available to them in addition to the credits actually achieved. More information is available in art. 15(3).
 
-
-
-Art. 29(3.4) CONFIRMATION OF MERIT BENEFITS
+# 29 Art. 29 (3.4) CONFIRMATION OF MERIT BENEFITS
 
 
 
@@ -5018,9 +4410,7 @@ Students can confirm their merit benefits for 2025/26:
 
 1. who renew the application in the manner and within the time limits set out in art. 15.
 
-
-
-Art. 29(4) SCHOLARSHIP AMOUNT
+# 29 Art. 29 (4) SCHOLARSHIP AMOUNT
 
 
 
@@ -5072,25 +4462,17 @@ Applicants will be contacted by the Residence Department for an informational in
 
 Should the student be unable to find a companion, he or she may not be assigned to an EDISU residence and may be eligible for the scholarship amount including the value of the accommodation service if they certify paid residence in accordance with the procedures and within the deadlines laid down in art. 8(2) above. The student will still have to complete the online acceptance procedure (if a winner) or expression of interest (if eligible) and declare their status via a ticket.
 
+# 29 Art. 29 (5) ACCOMMODATION SERVICE
 
+# SECTION VIII SPECIFIC PROVISIONS FOR INTERNATIONAL STUDENTS
 
-Art. 29(5) ACCOMMODATION SERVICE
-
-
-
-SECTION VIII SPECIFIC PROVISIONS FOR INTERNATIONAL STUDENTS
-
-
-
-ART. 30 CONSULAR DOCUMENTATION
+# 30 Art. 30 CONSULAR DOCUMENTATION
 
 
 
 After filling in the online application (see art. 31), international students must submit the consular documentation explained in the following paragraphs.
 
-
-
-Art. 30(1) INTERNATIONAL STUDENTS WHO DON’T HAVE TO SUBMIT CONSULAR DOCUMENTATION
+# 30 Art. 30 (1) INTERNATIONAL STUDENTS WHO DON’T HAVE TO SUBMIT CONSULAR DOCUMENTATION
 
 
 
@@ -5110,9 +4492,7 @@ The following categories of students are NOT required to submit consular documen
 
 1. Stateless or internationally protected students (see section 5 below for more information).
 
-
-
-Art. 30(2) INTERNATIONAL STUDENTS WHO HAVE TO SUBMIT CONSULAR DOCUMENTATION
+# 30 Art. 30 (2) INTERNATIONAL STUDENTS WHO HAVE TO SUBMIT CONSULAR DOCUMENTATION
 
 
 
@@ -5136,9 +4516,7 @@ Students belonging to the following categories must submit the consular document
 
 The methods for submitting the application and consular documents are set out in art. 31 below.
 
-
-
-Art. 30(3) CONSULAR DOCUMENTATION
+# 30 Art. 30 (3) CONSULAR DOCUMENTATION
 
 
 
@@ -5214,9 +4592,7 @@ The documentation referred to above must be produced and certified by the compet
 
 In the event of the loss or theft of consular documentation on arrival in Italy, students must present a copy of the report made to the competent Italian authority, a copy of their passport, visa or residence permit and a copy of the consular documentation transmitted; only in this case will they be able to submit the new documentation during a complaint for the benefit.
 
-
-
-Art. 30(3.1) Translation and legalisation procedures
+# 30 Art. 30 (3.1) Translation and legalisation procedures
 
 
 
@@ -5268,9 +4644,7 @@ The Italian language translation of the consular document must be associated wit
 
 Please note that EDISU only takes official translations into account; any errors found in the translations and reported by students via the ticketing system and/or other means cannot be taken into account. A new original copy with new translation and legalisation must be submitted within the deadlines of the benefit applied for.
 
-
-
-Art. 30(4) STUDENTS FROM PARTICULARLY POOR COUNTRIES
+# 30 Art. 30 (4) STUDENTS FROM PARTICULARLY POOR COUNTRIES
 
 
 
@@ -5284,9 +4658,7 @@ No scholarships or accommodation are reserved for these students, apart from the
 
 The list of particularly poor countries, established by M.U.R. (Ministry of Education, University and Research) Decree No. 440/2024, can be found in table D at the bottom of the notice of competition70.
 
-
-
-Art. 30(5) STUDENTS HOLDING INTERNATIONAL PROTECTION AND STATELESS PERSONS
+# 30 Art. 30 (5) STUDENTS HOLDING INTERNATIONAL PROTECTION AND STATELESS PERSONS
 
 
 
@@ -5352,9 +4724,7 @@ In the case of multiple citizenships, the benefit application methods are identi
 
 If the part of the household residing in Italy has a member who generates income and/or possesses assets, in the online procedure, non- EU or EU international students must indicate “family in Italy”. The type of scholarship will be awarded according to the registered residence that the students assumed with the part of their family in Italy. Please consult art. 4 of this notice of competition for more information on the type of scholarship that may be awarded to international students with part of their family in Italy.
 
-
-
-Art. 30(7) INTERNATIONAL EU STUDENTS
+# 30 Art. 30 (7) INTERNATIONAL EU STUDENTS
 
 
 
@@ -5364,9 +4734,7 @@ International EU students must submit the online application by enclosing transl
 
 The correctness of the documentation attached to the application for benefits will be assessed by EDISU Piemonte and, through their personal Online Helpdesk page, students will be able to view the outcome after the publication of the provisional rankings. If EDISU finds that the documentation is incomplete or erroneous, students may rectify or supplement what has been sent by submitting a formal complaint, as governed by art. 7(6.1) and art. 31(3.2) of this notice of competition.
 
-
-
-Art. 30(7.1) SPECIFICATIONS FOR CONSULAR DOCUMENTATION OF INTERNATIONAL EU STUDENTS
+# 30 Art. 30 (7.1) SPECIFICATIONS FOR CONSULAR DOCUMENTATION OF INTERNATIONAL EU STUDENTS
 
 
 
@@ -5400,9 +4768,7 @@ Students enrolled in a doctoral course or specialisation school who need to have
 
 1. in paragraph 3 and paragraph 7 above for non-EU international students.
 
-
-
-Art. 30(6)
+# 30 Art. 30 (6)
 
 # NON-EU OR EU INTERNATIONAL STUDENTS WITH PART OF THEIR FAMILY IN DIFFERENT COUNTRIES (EU/NON-EU, NON-EU/ITALY AND EU/ITALY)
 
@@ -5412,9 +4778,7 @@ Art. 30(8)
 
 # 72 Hague Convention of 5/10/1961, London Convention of 07/06/1968, Brussels Convention of 25/05/1987, REGULATION (EU) 2016/1191 of 06/07/2016, Convention between the Italian Republic and the Federal Republic of Germany on the exemption from legalisation of documents. Section V art. 2 point 5 Regional Criteria 2025/26
 
-
-
-ART.31 APPLICATION PROCEDURE FOR INTERNATIONAL STUDENTS (NON-EU OR EU) WITH CONSULAR DOCUMENTATION
+# 31 Art. 31 APPLICATION PROCEDURE FOR INTERNATIONAL STUDENTS (NON-EU OR EU) WITH CONSULAR DOCUMENTATION
 
 
 
@@ -5430,17 +4794,13 @@ Students should therefore check the table below to find out how to submit the be
 
 <table><tr><td>Students&#x27; citizenship</td><td>Type of enrolment</td><td>How to submit a benefits application CHECK ARTICLES 7(1.1) AND (1.2) ON HOW TO ACCESS THE ONLINE HELPDESK</td><td>How to submit the consular documentation</td></tr><tr><td rowspan="5">NON-EU</td><td>Enrolment in a FIRST YEAR non-EU students entering Italy for enrolment in academic year 2025/26</td><td>Calculation of Tax Code for EDISU purposes (if students do not have the official one)  + Temporary Access Code request (art. 7(1.2))  + Completing the application via the online procedure</td><td>SENDING BY POST OR COURIER</td></tr><tr><td>Enrolment in a FIRST YEAR non-EU students already staying in Italy</td><td>(If not resident in Italy) Temporary Access Code request (art. 7(1.2))  + Completing the application via the online procedure</td><td>SENDING BY POST OR COURIER</td></tr><tr><td>Enrolment in a SUBSEQUENT YEAR</td><td>(If not resident in Italy) Temporary Access Code request (art. 7(1.2))  + Completing the application via the online procedure</td><td>SENDING BY POST OR COURIER</td></tr><tr><td>Enrolment in a SUBSEQUENT YEAR (DATA CONFIRMATION)</td><td>(If not resident in Italy) Temporary Access Code request (art. 7(1.2))  + Completing the application via the online procedure</td><td>NOT REQUIRED</td></tr><tr><td>Enrolment in a PHD COURSE or SPECIALISATION SCHOOL with ISEE Parificato calculation through EDISU Piemonte</td><td>(If not resident in Italy) Temporary Access Code request (art. 7(1.2))  + Completing the application via the online procedure</td><td>SENDING BY POST OR COURIER</td></tr><tr><td>EU</td><td>EACH TYPE OF STUDENT:</td><td>(If not resident in Italy) Temporary Access Code request (art. 7(1.2))  + Completing the application via the online procedure</td><td>ATTACHMENT VIA PROCEDURE</td></tr></table> The online helpdesk for submission of applications can be accessed by: SPID or CIE: for students resident in Italy Temporary Access Code: for students without residence in Italy.
 
-
-
-Art. 31(1) INTERNATIONAL NON-EU STUDENTS
+# 31 Art. 31 (1) INTERNATIONAL NON-EU STUDENTS
 
 
 
 Non-EU international students must submit benefits applications using the methods described in the following paragraphs, each of which corresponds to a step in the procedure.
 
-
-
-Art. 31(1.1) OBTAINING CREDENTIALS TO ACCESS THE ONLINE APPLICATION
+# 31 Art. 31 (1.1) OBTAINING CREDENTIALS TO ACCESS THE ONLINE APPLICATION
 
 1. Students enrolled in the first years with an entry visa to Italy for academic year 2025/26: students in this category must calculate their tax code if they do not already have an official one. In the online registration procedure on the EDISU website, students will find information on how to calculate their tax code. After calculating the tax code, they have to register on the EDISU website by requesting a Temporary Access Code 2025/
 
@@ -5468,9 +4828,7 @@ After obtaining the necessary credentials and logging in to the online counter, 
 
 Art. 31(1.3)
 
-
-
-SENDING CONSULAR DOCUMENTATION TO EDISU
+# SENDING CONSULAR DOCUMENTATION TO EDISU
 
 
 
@@ -5486,9 +4844,7 @@ Following the transmission of the online application (art. 31(1.2)), students re
 
 Documentation should be sent to:
 
-
-
-EDISU PIEMONTE
+# EDISU PIEMONTE
 
 
 
@@ -5508,9 +4864,7 @@ The envelope must be marked with:
 
 Art. 31(1.4)
 
-
-
-DEADLINES FOR SENDING CONSULAR DOCUMENTATION
+# DEADLINES FOR SENDING CONSULAR DOCUMENTATION
 
 
 
@@ -5528,13 +4882,9 @@ Documentation must be received by EDISU by 25 September 2025 to apply for the sc
 
 The evaluation of documentation not received by 9 September 2025 (application for scholarship and accommodation service) or 25 September 2025 (application for a scholarship only) will not be published in the provisional ranking but, if the documentation is received by the deadline for the submission of complaints, it will be published directly in the definitive ranking, without any further possibility of complaint. Therefore, students are invited to submit the required documentation in advance of the deadline to be able to have a provisional outcome and rectify any shortcomings.
 
+# 31 Art. 31 (1.2)
 
-
-Art. 31(1.2)
-
-
-
-ONLINE APPLICATION SUBMISSION
+# ONLINE APPLICATION SUBMISSION
 
 
 
@@ -5586,9 +4936,7 @@ For information on the evaluation of consular documentation, please refer to par
 
 Please note that checks will be carried out on the presence of valid Ordinary ISEEs issued to students.
 
-
-
-Art. 31(2) INTERNATIONAL EU STUDENTS
+# 31 Art. 31 (2) INTERNATIONAL EU STUDENTS
 
 
 
@@ -5624,17 +4972,13 @@ EDISU must receive the above-mentioned documentation by 28 November 2025 at 12:0
 
 The evaluation of documentation not received by 9 September 2025 (application for those enrolled in a bachelor’s degree, master’s degree, or single-cycle master’s degree course) or 28 November 2025 (application for those enrolled in a doctoral course or specialisation school) will not be published in the provisional ranking. However, if the documentation is received by the deadline for the submission of complaints, it will be published directly in the definitive ranking, without any further possibility of complaint. Therefore, students are invited to submit the required documentation in advance of the deadline to be able to have a provisional outcome and rectify any shortcomings.
 
-
-
-Art. 31(3) ASSESSMENT AND POTENTIAL SUPPLEMENTING OF CONSULAR DOCUMENTATION OF NON-EU AND EU INTERNATIONAL STUDENTS
+# 31 Art. 31 (3) ASSESSMENT AND POTENTIAL SUPPLEMENTING OF CONSULAR DOCUMENTATION OF NON-EU AND EU INTERNATIONAL STUDENTS
 
 
 
 All consular documentation transmitted to EDISU Piemonte will be subject to evaluation based on the provisions of Article 30(3) and following paragraphs. If the certificates submitted to EDISU are assessed as invalid or incomplete, students applying for benefits will be given the opportunity to supplement the required documentation in the manner and within the time frames described in paragraph 3.2 below.
 
-
-
-Art. 31(3.1) ASSESSMENT OF CONSULAR DOCUMENTATION SENT TO EDISU
+# 31 Art. 31 (3.1) ASSESSMENT OF CONSULAR DOCUMENTATION SENT TO EDISU
 
 
 
@@ -5680,9 +5024,7 @@ Once the online application has been completed and sent, the consular documentat
 
 The evaluation of documentation not received by 9 September 2025 at 12:00 p.m. (scholarship and accommodation service application for those enrolled in a bachelor’s degree, master’s degree, or single-cycle master's degree), 25 September 2025 at 12:00 p.m. (only scholarship application for those enrolled in a bachelor’s degree, master’s degree, or single-cycle master’s degree course), or 28 November 2025 (application for those enrolled in a doctoral course or specialisation school) will not be published in the provisional ranking. However, if the documentation is received by the deadline for the submission of complaints, it will be published directly in the definitive ranking, without any further possibility of complaint. Therefore, students are invited to submit the required documentation in advance of the deadline to be able to have a provisional outcome and rectify any shortcomings.
 
-
-
-Art. 31(3.2) SUPPLEMENTING CONSULAR DOCUMENTATION ASSESSED AS INVALID OR INCOMPLETE BY EDISU PIEMONTE
+# 31 Art. 31 (3.2) SUPPLEMENTING CONSULAR DOCUMENTATION ASSESSED AS INVALID OR INCOMPLETE BY EDISU PIEMONTE
 
 
 
@@ -5720,33 +5062,19 @@ The procedures and deadlines for supplementing documentation assessed as incompl
 
 Art. 31(4)
 
+# ADDRESSES
 
+# FOR
 
-ADDRESSES
+# SENDING
 
+# CONSULAR
 
+# DOCUMENTATION
 
-FOR
+# AND
 
-
-
-SENDING
-
-
-
-CONSULAR
-
-
-
-DOCUMENTATION
-
-
-
-AND
-
-
-
-ASSISTANCE
+# ASSISTANCE
 
 
 
@@ -5764,9 +5092,7 @@ The ticketing system is the main tool for communicating with EDISU Piemonte's of
 
 More information is available on the institutional website www.edisu.piemonte.it
 
-
-
-Art. 31(5) CAREER SHORTENING
+# 31 Art. 31 (5) CAREER SHORTENING
 
 
 
@@ -5778,9 +5104,7 @@ International students who obtain a career shortening74, due to recognition of c
 
 For students changing course type from a bachelor’s degree or single-cycle master's degree to a master’s degree and vice versa, the year of enrolment at the previous level is not taken into account for the purposes of the scholarship. These students will have to submit new consular documentation.
 
-
-
-Art. 31(6) CHANGES TO DATA SENT VIA WEB
+# 31 Art. 31 (6) CHANGES TO DATA SENT VIA WEB
 
 
 
@@ -5790,9 +5114,7 @@ International students may edit the data declared in the application in accordan
 
 With regard to amending or supplementing consular documentation, please refer to paragraph 3 above.
 
-
-
-Art. 31(7) CHANGES TO THE APPLICATION
+# 31 Art. 31 (7) CHANGES TO THE APPLICATION
 
 
 
@@ -5804,17 +5126,13 @@ International students may edit their applications in accordance with the proced
 
 1. 7(6), for the submission of complaints after the provisional rankings;
 
-
-
-Art. 31(8) RENOUNCING BENEFITS 2025/26
+# 31 Art. 31 (8) RENOUNCING BENEFITS 2025/26
 
 
 
 International students may renounce the benefits applied for in accordance with the procedures and time frames indicated in art. 7(7).
 
-
-
-Art. 31(9) ACCEPTANCE OF ACCOMMODATION SERVICE
+# 31 Art. 31 (9) ACCEPTANCE OF ACCOMMODATION SERVICE
 
 
 
@@ -5824,17 +5142,13 @@ International students must accept the accommodation they have won or been alloc
 
 There is no accommodation service application for doctoral and specialisation school courses
 
-
-
-Art. 31(10) ASSIGNMENT OF ACCOMMODATION SERVICE
+# 31 Art. 31 (10) ASSIGNMENT OF ACCOMMODATION SERVICE
 
 
 
 The procedures for assignment and transfer of residence are set out in art. 34.
 
-
-
-Art. 31(11) NON-RESIDENT STATUS
+# 31 Art. 31 (11) NON-RESIDENT STATUS
 
 # International students
 
@@ -5846,9 +5160,7 @@ Art. 31(11) NON-RESIDENT STATUS
 
 Are considered as non-resident only if they self-certify their paid residence in accordance with the procedures and time frames identified in art. 8(2). Otherwise, if they are awarded a grant, they will be paid the amount provided for commuter students (art. 5(1.2)).
 
-
-
-Art. 31(12) VERIFICATION OF MERIT AND WITHDRAWAL OF BENEFIT
+# 31 Art. 31 (12) VERIFICATION OF MERIT AND WITHDRAWAL OF BENEFIT
 
 
 
@@ -5858,13 +5170,9 @@ International students are subject to merit checks and possible withdrawal of th
 
 Regional Criteria 2025/26 Section V art. 3(1)
 
+# SECTION IX
 
-
-SECTION IX
-
-
-
-SPECIFIC PROVISIONS FOR THE ACCOMMODATION SERVICE
+# SPECIFIC PROVISIONS FOR THE ACCOMMODATION SERVICE
 
 
 
@@ -5904,17 +5212,13 @@ Upon publication of the respective rankings in the notice of competition section
 
 # NOVITÀ
 
-
-
-Art. 32(1) SPECIFIC PROVISIONS FOR STUDENTS ENROLLED IN THE FILTER SEMESTER ASSIGNED TO ACCOMMODATION SERVICE
+# 32 Art. 32 (1) SPECIFIC PROVISIONS FOR STUDENTS ENROLLED IN THE FILTER SEMESTER ASSIGNED TO ACCOMMODATION SERVICE
 
 
 
 Students enrolled in the filter semester, as referred in Legislative Decree No. 71 of May 15, 2025, and the regulations for the implementation of the new methods of access to single-cycle master's degree programs in medicina e chirurgia, medicina veterinaria and odontoiatria e protesi dentaria, a.y. 2025/2026, in case that semester is composed of at least 5, 1 \% of teaching activities in presence, an accomodation may be assigned at Edisu residences at the rate of 245.50 euros per month, corresponding to the rate applied to students receiving scholarships (2,700.00 euros/11 months= 245.50 euros).75
 
-
-
-ART. 33 ACCEPTANCE OF THE ACCOMMODATION SERVICE
+# 33 Art. 33 ACCEPTANCE OF THE ACCOMMODATION SERVICE
 
 
 
@@ -5930,9 +5234,7 @@ Students who have been successful in the final accommodation service ranking mus
 
 In the following days, students will receive an e-mail from noreply@EDISU-piemonte.it with the details of the assignment, indicating the destination residence and entry period in accordance with the provisions of art. 34 below.
 
-
-
-ART. 32 COMPETITION ACCOMMODATION
+# 32 Art. 32 COMPETITION ACCOMMODATION
 
 
 
@@ -5960,9 +5262,7 @@ Students who enter the residence and subsequently give up their allocated accomm
 
 Students who have been awarded scholarships and are eligible for the accommodation service because they attend course venues that do not have EDISU residences do not have to accept online (paragraph 1 of this article) or declare their interest (paragraph 2 of this article). To receive the grant amount inclusive of the monetised value of the unused accommodation spot (art. 5(1.3)), they must self-certify their paid accommodation, in accordance with the methods and time frames indicated in art. 8(2).
 
-
-
-Art. 33(1) WINNERS: ONLINE ACCEPTANCE
+# 33 Art. 33 (1) WINNERS: ONLINE ACCEPTANCE
 
 
 
@@ -6094,9 +5394,7 @@ The outcome for first-year students is broken down by course level and indicated
 
 1. the option chosen by the students in the expression of interest;
 
-
-
-Art. 33(2) ELIGIBLE: EXPRESSION OF INTEREST
+# 33 Art. 33 (2) ELIGIBLE: EXPRESSION OF INTEREST
 
 # 3 the allocation or non-allocation of accommodation. For students who have declared “I am interested” or “I am interested with the Erasmus Month” Option, the allocation of accommodation can take place at course type or University level. Initially, the spots remaining after the winners’ acceptance are redistributed to eligible students of the same course level. Any spots still left over are redistributed within the University and, finally, if there are additional seats to be allocated, a final distribution is made based on the course location only.
 
@@ -6110,9 +5408,7 @@ The outcome for subsequent-year students is broken down by department and indica
 
 1. the result of the allocation. For students who have declared “I am interested” or “I am interested with the Erasmus Month” Option, the allocation can take place at the department, course type, or University level. Initially, the spots remaining after the acceptance of the winners are redistributed to eligible students of the same department. After this distribution, any places left over are redistributed among all departments at the same course level among the students still to be allocated. Any spots still left over are redistributed within the University and, finally, if there are additional seats to be allocated, a final distribution is made based on the course location only.
 
-
-
-Art. 33(3) ELIGIBLE: SINGLE SCROLLING RANKINGS
+# 33 Art. 33 (3) ELIGIBLE: SINGLE SCROLLING RANKINGS
 
 
 
@@ -6138,9 +5434,7 @@ If accommodation becomes available, the Accommodation Service Department will co
 
 For those who have been allocated accommodation using the scrolling ranking, the scholarship amounts vary as follows.
 
-
-
-Art. 33(3.1) STUDENTS ACCEPTING ACCOMMODATION ALLOCATED BY SCROLLING RANKING
+# 33 Art. 33 (3.1) STUDENTS ACCEPTING ACCOMMODATION ALLOCATED BY SCROLLING RANKING
 
 
 
@@ -6158,9 +5452,7 @@ If allocated the accommodation service, eligible students in the final grant ran
 
 Inclusion in the single scrolling ranking does not necessarily imply the allocation of accommodation during the academic year, as it is subject to the availability of accommodation. In December 2025, the scrolling rankings will be suspended to allow the final scholarship rankings to be drawn up until they are published.
 
-
-
-Art. 33(3.2) STUDENTS REFUSING ACCOMMODATION ALLOCATED BY SCROLLING RANKING
+# 33 Art. 33 (3.2) STUDENTS REFUSING ACCOMMODATION ALLOCATED BY SCROLLING RANKING
 
 
 
@@ -6186,9 +5478,7 @@ For all the cases referred to in paragraphs 3.1 and 3.2 above, the provisions on
 
 Students who in the academic year 2025/26 participate in foreign study/exchange programmes of their Universities or AFAM must select the option “Erasmus Month” (to participate in a foreign study/exchange programme of less than 8 months) or “Erasmus Year” (to participate in a foreign study/exchange programme of 8 months or more) when accepting or expressing their interest.
 
-
-
-Art. 33(4.1) Erasmus Month Option
+# 33 Art. 33 (4.1) Erasmus Month Option
 
 
 
@@ -6242,9 +5532,7 @@ No supplements of the grant amount will be made for projects in the academic yea
 
 The same provisions concerning foreign study/exchange may also be applied in cases of Theses or Internships planned by the University in locations other than those of the University.
 
-
-
-Art. 33(4.2) Erasmus Year Option
+# 33 Art. 33 (4.2) Erasmus Year Option
 
 
 
@@ -6262,13 +5550,9 @@ If they return early, the Accommodation Service sector will assess the possible 
 
 In addition to submitting the document from the University certifying the extension of the period, students participating in exchange/study projects as Erasmus Month students who, following extensions of the period fall into the “Erasmus Year” category, must also submit the contract certifying their paid accommodation for the entire period of away by sending the above-mentioned documentation by ticket.
 
+# 33 Art. 33 (4) FOREIGN STUDY/EXCHANGE STUDENTS
 
-
-Art. 33(4) FOREIGN STUDY/EXCHANGE STUDENTS
-
-
-
-Art. 33(5) GUESTS OF THE RENATO EINAUDI COLLEGE: RENATO EINAUDI OPTION
+# 33 Art. 33 (5) GUESTS OF THE RENATO EINAUDI COLLEGE: RENATO EINAUDI OPTION
 
 
 
@@ -6282,17 +5566,13 @@ Students who have won a place at the Renato Einaudi College for 2025/26 and are 
 
 Guest students at the Renato Einaudi College with an INPS grant o or other scholarships type of accommodation service scholarship are not eligible for this option.
 
-
-
-ART. 34 ALLOCATION OF ACCOMMODATION AT EDISU RESIDENCES
+# 34 Art. 34 ALLOCATION OF ACCOMMODATION AT EDISU RESIDENCES
 
 
 
 Accommodation allocation consists of the right to use one of the places on offer at university residences located in the region. Allocation does not amount to a student's choice of the type of accommodation but consists solely of the right to use the service.
 
-
-
-Art. 34(1) ALLOCATION CRITERIA
+# 34 Art. 34 (1) ALLOCATION CRITERIA
 
 
 
@@ -6362,9 +5642,7 @@ The room type (single, double, triple) is allocated based on academic seniority,
 
 Single rooms that become vacant during the year, following the attainment of qualifications or renunciation/withdrawal of the accommodation service, will be allocated firstly to students already in the residence in order of academic seniority and ranking, upon request, then to eligible students not called up.
 
-
-
-Art. 34(1.2) TRANSFERS FOR HEALTH OR PERSONAL SAFETY REASONS
+# 34 Art. 34 (1.2) TRANSFERS FOR HEALTH OR PERSONAL SAFETY REASONS
 
 
 
@@ -6374,9 +5652,7 @@ Students can request transfer to another residence for documented health reasons
 
 Students enrolled in the first year of a master’s degree and subsequent years may request a transfer to any residence, while those enrolled in a first year of a bachelor's degree or single-cycle master's degree may only request a transfer to another residence with a security service.
 
-
-
-Art. 34(1.3) MOBILITY BETWEEN DIFFERENT RESIDENCES
+# 34 Art. 34 (1.3) MOBILITY BETWEEN DIFFERENT RESIDENCES
 
 
 
@@ -6386,9 +5662,7 @@ Transfers between residences will be permitted throughout the academic year. Suc
 
 Users interested in the periods (mobility windows) indicated in the relevant calendar will be able to make the request via their personal profile on the online portal.
 
-
-
-Art. 34(2) ALLOCATION PROCEDURE
+# 34 Art. 34 (2) ALLOCATION PROCEDURE
 
 
 
@@ -6402,9 +5676,7 @@ Students who have accepted accommodation will receive an e-mail from noreply@EDI
 
 1. copy of registration with the National Health Service (health card) or copy of a private insurance policy for non-EU students76.
 
-
-
-Art. 34(3) RULES FOR ASSIGNEES
+# 34 Art. 34 (3) RULES FOR ASSIGNEES
 
 
 
@@ -6430,9 +5702,7 @@ Full provisions on residence accommodation and related sanctions can be found in
 
 <table><tr><td>Student type</td><td>Allocation period</td></tr><tr><td>First and subsequent years</td><td>6 October 2025 to 25 September 2026</td></tr><tr><td>additional semester</td><td>6 October 2025 to 31 March 2026</td></tr></table>
 
-
-
-Art. 34(5) SUMMER CLOSURE
+# 34 Art. 34 (5) SUMMER CLOSURE
 
 
 
@@ -6458,17 +5728,13 @@ Payment for the summer residence must be made in advance when entering the Resid
 
 by the Internal Regulations for Residences. This rule is also applied to students already in the summer residence facilities.
 
-
-
-Art. 34(6) SPECIAL CASES
+# 34 Art. 34 (6) SPECIAL CASES
 
 
 
 Should a student who, for documented health reasons, pregnancy, or dependent children, be unable to live in an EDISU residence, they may be eligible for the scholarship amount including the value of the accommodation service if they certify paid residence in accordance with the procedures and within the deadlines laid down in art. 8(2) above. The student will still have to complete the online acceptance procedure (if a winner) or expression of interest (if eligible) and declare their status via a ticket. The same provisions apply to the cases indicated in art. 29(5).
 
-
-
-Art. 34(6.1) ADDITIONAL SEMESTERS
+# 34 Art. 34 (6.1) ADDITIONAL SEMESTERS
 
 # 1 Students receiving the accommodation service for an additional semester who graduate by 31 March 2026 must:
 
@@ -6478,9 +5744,7 @@ Art. 34(6.1) ADDITIONAL SEMESTERS
 
 Leaving before 31 March 2026 does not constitute a renouncement for students benefiting from the accommodation service for an additional semester. They will not have to pay for the period used.
 
-
-
-Art. 34(6.2) STUDENTS WITH “SUSPENDED” OUTCOME IN THE DEFINITIVE SCHOLARSHIP RANKING OF 16 DECEMBER 2025
+# 34 Art. 34 (6.2) STUDENTS WITH “SUSPENDED” OUTCOME IN THE DEFINITIVE SCHOLARSHIP RANKING OF 16 DECEMBER
 
 
 
@@ -6490,43 +5754,33 @@ They can remain in residence until the publication of the definitive scholarship
 
 1. Students who apply as subsequent-year students and are assigned the accommodation service, but do not complete their enrolment or are not awarded the credits set forth in Table A2 by 3 April 2026, will have to leave their residence within 3 working days and pay for the entire period used from the allocation date.
 
-
-
-Art. 34(6.3) STUDENTS WHO MUST LEAVE THEIR RESIDENCE FOR SERIOUS REASONS
+# 34 Art. 34 (6.3) STUDENTS WHO MUST LEAVE THEIR RESIDENCE FOR SERIOUS REASONS
 
 
 
 Students who have to leave their residence during the academic year due to natural disasters or particularly serious reasons, concerning the students themselves or their family members that are adequately documented/certified, do not have to return any amount equal to the value of the accommodation used.
 
-
-
-Art. 34(4) ALLOCATION PERIODS
+# 34 Art. 34 (4) ALLOCATION PERIODS
 
 
 
 These students can return free of charge in September if they are enrolled in the first year of a master’s degree in the academic year. 2026/27. If they do not enrol, they will have to pay for the month of September at student residence fees.
 
+# 35 Art. 35 REVOCATION OF ACCOMMODATION SERVICE DUE TO RENUNCIATION OR LOSS OF REQUIREMENTS
 
-
-ART. 35 REVOCATION OF ACCOMMODATION SERVICE DUE TO RENUNCIATION OR LOSS OF REQUIREMENTS
-
-
-
-Art. 35(1) REVOCATION FOR WAIVER OF ACCOMMODATION SERVICE 2025/26
+# 35 Art. 35 (1) REVOCATION FOR WAIVER OF ACCOMMODATION SERVICE 2025/26
 
 
 
 Please note that, as stipulated in art. 5(1.2), if students give up their place at the time of allocation or after entering the residence (check-in) for the purposes of the scholarship amount, they are demoted to “commuters”.
 
-
-
-Art. 35(2) WITHDRAWAL OF THE ACCOMMODATION SERVICE DUE TO LOSS OF REQUIREMENTS
+# 35 Art. 35 (2) WITHDRAWAL OF THE ACCOMMODATION SERVICE DUE TO LOSS OF REQUIREMENTS
 
 
 
 The cases of withdrawal of the allocated accommodation service and payment for the period used are set out in the following articles of this notice.
 
-# 1 First years (Section III)
+1. First years (Section III)
 
 - a. Students enrolled in the first year of courses who do not achieve merit for the maintenance of the first instalment of the scholarship, in accordance with the provisions of art. 13(5) “Specific provisions for winners assigned a place at an EDISU residence”. b. Eligible students in the definitive scholarship rankings who do not meet the merit requirements, in accordance with the provisions of art. 13(6.1) “Specific provisions for eligible students assigned a place at an EDISU residence”. c. Students who apply as a first-year student of a master's degree, request both the grant and the accommodation service, but do not enrol in a master's degree course by 3 April 2026:
 
@@ -6538,35 +5792,25 @@ The cases of withdrawal of the allocated accommodation service and payment for t
 
 - d. Students excluded from the provisional scholarship rankings who do not intend to lodge a complaint, in accordance with art. 12(2) “Provisional rankings”. e. Students excluded from the definitive accommodation service and scholarship rankings, in accordance with art. 12(4) and (5) “Definitive rankings”. f. Students whose benefits have been withdrawn following a financial or merit assessment, including for previous academic years. g. Students whose benefits have been withdrawn because of an offence committed in the Residence in accordance with the Internal Regulations for Residences.
 
-# 2 Subsequent years, additional semesters (Section IV)
+1. Subsequent years, additional semesters (Section IV)
 
 - a. Students excluded from the provisional scholarship rankings who do not intend to lodge a complaint, in accordance with art. 17(3) “Provisional rankings”. b. Students excluded from the definitive accommodation service and scholarship rankings, in accordance with art. 17(5) “Definitive rankings”. c. Students transferring courses for whom the University recognises an insufficient number of credits to maintain eligibility for the scholarship, in accordance with art. 15(4). d. Students who do not complete their enrolment by 3 April 2026, in accordance with art. 15. e. Students whose benefits have been withdrawn following a financial or merit assessment, including for previous academic years. f. Students enrolled in the additional semester who do not comply with the provisions of art. 34(6.1) “Allocation and use of the accommodation service - additional semesters - special cases”; g. Students whose benefits have been withdrawn because of an offence committed in the Residence in accordance with the Internal Regulations for Residences.
 
-# 3 Students who lose their right to residence due to the withdrawal of benefits in accordance with the articles of the Internal Regulations for University Residences who will not benefit from the possibility of applying for the accommodation service.
+1. Students who lose their right to residence due to the withdrawal of benefits in accordance with the articles of the Internal Regulations for University Residences who will not benefit from the possibility of applying for the accommodation service.
 
 
 
 Benefits will be withdrawn in accordance with the combined provisions of this art. 35 and art. 38 “Withdrawal of Scholarship and Accommodation Service”.
 
+# 34 Art. 34 (6.4) STUDENTS GRADUATING IN JULY AND WINNERS OF THIRD YEAR OF COURSE
 
+# SECTION XI
 
-Art. 34(6.4) STUDENTS GRADUATING IN JULY AND WINNERS OF THIRD YEAR OF COURSE
+# FINAL
 
+# PROVISIONS
 
-
-SECTION XI
-
-
-
-FINAL
-
-
-
-PROVISIONS
-
-
-
-ART. 36 POLICY PURSUANT TO ARTICLES 12, 13 AND 14 OF REGULATION (EU) NO. 679 OF 27 APRIL 2016 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL ON THE PROTECTION OF INDIVIDUALS WITH REGARD TO PERSONAL DATA PROCESSING AND THE FREE MOVEMENT OF SUCH DATA
+# 36 Art. 36 POLICY PURSUANT TO ARTICLES 12, 13 AND 14 OF REGULATION (EU) NO. 679 OF 27 APRIL 2016 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL ON THE PROTECTION OF INDIVIDUALS WITH REGARD TO PERSONAL DATA PROCESSING AND THE FREE MOVEMENT OF SUCH DATA
 
 
 
@@ -6575,8 +5819,6 @@ EDISU Piemonte processes personal data and is considered a Data Controller under
 
 
 The purpose of this policy is to specify which personal data are processed, why they are recorded, and how they are used.
-
-
 
 1. DATA CONTROLLER
 
@@ -6588,17 +5830,13 @@ The data controller is EDISU Piemonte - Via Madama Cristina, 83 - 10126 - Turin 
 
 The Data Controller can be contacted at the e-mail address privacy@EDISU-piemonte.it, as well as by writing to the postal address indicated.
 
-
-
-2. PERSONAL DATA PROTECTION OFFICER
+1. PERSONAL DATA PROTECTION OFFICER
 
 
 
 The Data Protection Officer, appointed pursuant to art. 37 of the Regulation, can be contacted at dpo@EDISU-piemonte.it
 
-
-
-3. LEGAL BASIS AND PURPOSE OF PERSONAL DATA PROCESSING
+1. LEGAL BASIS AND PURPOSE OF PERSONAL DATA PROCESSING
 
 
 
@@ -6622,9 +5860,7 @@ They will also be processed for the purposes of reporting and checks carried out
 
 Any additional, specific processing purposes, including as they arise, will be communicated with a different and more detailed policy, possibly accompanied by a request for the appropriate consent.
 
-
-
-4. PERSONAL DATA PROCESSED
+1. PERSONAL DATA PROCESSED
 
 
 
@@ -6638,9 +5874,7 @@ To provide the benefits referred to in the Notice of Competition, EDISU Piemonte
 
 Lastly, EDISU Piemonte will process data not directly communicated by the data subject but received from institutional third parties (Agenzia delle Entrate, University attended, other Universities, etc.) from which these have been requested to carry out checks on the truthfulness and/or maintenance of the conditions and status self-certified by the participant.
 
-
-
-5. RECIPIENTS OR CATEGORIES OF RECIPIENTS OF PERSONAL DATA
+1. RECIPIENTS OR CATEGORIES OF RECIPIENTS OF PERSONAL DATA
 
 
 
@@ -6666,49 +5900,41 @@ These parties will process the data in their capacity as independent Data contro
 
 The full list of recipients of personal data is available on request from the Data Controller.
 
-
-
-6. USE OF AUTOMATED DECISION-MAKING PROCESSES
+1. USE OF AUTOMATED DECISION-MAKING PROCESSES
 
 
 
 EDISU Piemonte uses automated decision-making processes in accordance with art. 22 of the Regulation for the allocation of points and the related ranking position. Pursuant to the above-mentioned article, the Data controller shall implement appropriate measures to protect the rights, freedoms and legitimate interests of the data subject, at least the right to obtain human intervention on the part of the data controller, to express their opinion, and to contest the decision.
 
-
-
-7. DISSEMINATION OF PERSONAL DATA
+1. DISSEMINATION OF PERSONAL DATA
 
 
 
 EDISU Piemonte does not disseminate personal data. The rankings can only be consulted on the personal Online Helpdesk page (by clicking on “Ranking” in the “Scholarship” section).
 
-
-
-8. PERSONAL DATA STORAGE TIME
+1. PERSONAL DATA STORAGE TIME
 
 
 
 The personal data contained in the application form, in attached documents, or subsequently transmitted and/or acquired, including at the initiative of E.DI.S.U PIEMONTE, will be stored for the time foreseen by the storage and disposal plan drawn up pursuant to Legislative Decree No. 42 of 22 January 2004 (“Cultural Heritage and Landscape Code”).
 
-
-
-9. NATURE OF PROVISION OF PERSONAL DATA AND CONSEQUENCES OF A REFUSAL TO DO SO
+1. NATURE OF PROVISION OF PERSONAL DATA AND CONSEQUENCES OF A REFUSAL TO DO SO
 
 
 
 The provision of data is necessary for the awarding of points and the related ranking. Failure to provide data will therefore result in the impossibility of obtaining the benefits included in the Notice of Competition.
 
+1. 1
 
-
-10. TRANSFER OF PERSONAL DATA TO THIRD COUNTRIES OR INTERNATIONAL ORGANISATIONS
+1. TRANSFER OF PERSONAL DATA TO THIRD COUNTRIES OR INTERNATIONAL ORGANISATIONS
 
 
 
 For the purposes listed in this Policy, personal data may be transferred to countries within or outside the European Union. In such cases, EDISU Piemonte will ensure that appropriate safeguards are in place to protect personal data in accordance with the requirements of the Regulation (arts. 44-50).
 
+1. 1
 
-
-11. RIGHTS GRANTED TO THE DATA SUBJECT
+1. RIGHTS GRANTED TO THE DATA SUBJECT
 
 
 [table]
@@ -6716,13 +5942,9 @@ For the purposes listed in this Policy, personal data may be transferred to coun
 
 <table><tr><td>Right of access (art. 15 GDPR)</td><td>The data subject has the right to obtain confirmation as to whether personal data relating to them are being processed from the Data Controller and, if so, to obtain access to the personal data and the information referred to in art. 15 of the Regulation. If personal data are transferred to a third country, the data subject also has the right to be informed of the existence of adequate safeguards relating to the transfer pursuant to art. 46 of the Regulation.</td></tr><tr><td>Right to rectification (art. 16 GDPR)</td><td>The data subject has the right to obtain the rectification of inaccurate personal data concerning them without undue delay from the Data Controller. Considering the purposes of the processing, the data subject has the right to supplement incomplete personal data, including by providing a supplementary declaration.</td></tr><tr><td>Right to erasure (art. 17 GDPR)</td><td>The data subject has the right to obtain the erasure of personal data concerning them without undue delay from the Data Controller, and the Data Controller is obliged to erase personal data without undue delay when: a) personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed; b) [letter omitted as not applicable to the processing indicated in this policy]; c) the data subject objects to the processing pursuant to art. 21(1) of the Regulation and there is no overriding legitimate reason for processing; d) personal data have been unlawfully processed; e) personal data must be erased to comply with a legal obligation under European Union or Member State law to which the Data Controller is subject; f) [letter omitted as not applicable to the processing indicated in this policy]</td></tr><tr><td>Right to restriction of processing (art. 18 GDPR)</td><td>The data subject has the right to obtain the restriction of processing from the Data Controller when one of the following cases occurs: a) the data subject contends the accuracy of the personal data, for the period necessary for the Data Controller to verify the accuracy of such personal data; b) the processing is unlawful and the data subject objects to the erasure of the personal data and requests instead that their use be restricted;</td></tr><tr><td></td><td>c) although the Data Controller no longer needs them for the purposes of the processing, the personal data are necessary for the establishment, exercise, or defence of a legal claim; d) the data subject has objected to the processing pursuant to art. 21(1), pending verification as to whether the Data controller's legitimate reasons prevail over those of the data subject.</td></tr><tr><td>Notification obligation  (art. 19 GDPR)</td><td>The Data Controller shall inform each of the recipients to whom the personal data have been transmitted of any rectification or erasure or restriction of processing carried out pursuant to articles 16, 17(1) and 18, unless this proves impossible or involves a disproportionate effort. The Data Controller shall inform the data subject of these recipients if the data subject so requests.</td></tr><tr><td>Right to data portability  (art. 20 GDPR)</td><td>[article omitted as not applicable to the processing indicated in this policy]</td></tr><tr><td>Right to object  (art. 21 GDPR)</td><td>The data subject has the right to object at any time, on grounds relating to their particular situation, to the processing of personal data concerning them in accordance with art. 6(1)(e) or (f), including profiling. The Data Controller shall refrain from further processing personal data unless they can demonstrate the existence of compelling legitimate grounds for processing that override the interests, rights, and freedoms of the data subject or for the establishment, exercise, or defence of legal claims.</td></tr><tr><td>Right to lodge a complaint with the Authority  (art. 77 GDPR)</td><td>Without prejudice to any other administrative or judicial remedy, a data subject who considers that the processing of their personal data is in breach of the Regulation has the right to lodge a complaint before the competent independent administrative Authority in the Member State of the European Union where they normally reside, where they work, or where the alleged breach has occurred.</td></tr><tr><td>Right to compensation  (art. 82 GDPR)</td><td>Anyone who suffers material or non-material damage caused by a breach of the Regulation has the right to obtain compensation for the damage from the Controller or the Processor.</td></tr></table>
 
+# 37 Art. 37 CHECKING THE VERACITY OF SELF-CERTIFIED FINANCIAL CONDITIONS AND SANCTIONS
 
-
-ART. 37 CHECKING THE VERACITY OF SELF-CERTIFIED FINANCIAL CONDITIONS AND SANCTIONS
-
-
-
-Art. 37(1) CHECKING FINANCIAL CONDITIONS
+# 37 Art. 37 (1) CHECKING FINANCIAL CONDITIONS
 
 
 
@@ -6780,9 +6002,7 @@ Regarding self-certification of paid residence (art. 8), EDISU checks with the c
 
 In accordance with the memorandum of understanding between EDISU Piemonte and the Provincial Command of the Guardia di Finanza, autonomous checks are carried out by the Provincial Command itself. These checks may also include checks on the truthfulness of the paid accommodation declaration (art. 8). Please note that, limited to these checks, EDISU Piemonte is obliged to fully implement the provisions of the Guardia di Finanza.
 
-
-
-Art. 37(2) SANCTIONS
+# 37 Art. 37 (2) SANCTIONS
 
 
 
@@ -6800,13 +6020,9 @@ Anyone who makes false statements, signs false documents or uses them82 shall be
 
 In particular, false declarations, falsification of documents, and the use of false documents will be reported by EDISU Piemonte to the Judicial Authority for the possible occurrence of the aforementioned offences.
 
+# 38 Art. 38 WITHDRAWAL OF THE SCHOLARSHIP AND ACCOMMODATION SERVICE FOLLOWING MERIT CHECK, WITHDRAWAL AND LOSS OF ELIGIBILITY
 
-
-ART.38 WITHDRAWAL OF THE SCHOLARSHIP AND ACCOMMODATION SERVICE FOLLOWING MERIT CHECK, WITHDRAWAL AND LOSS OF ELIGIBILITY
-
-
-
-Art. 38(1) ENROLMENT AND MERIT CHECK
+# 38 Art. 38 (1) ENROLMENT AND MERIT CHECK
 
 
 
@@ -6824,9 +6040,7 @@ For the purpose of checking enrolment and merit, student careers, and transfers,
 
 The first checks will start after the application deadline and will end with the payment of the second scholarship instalment. In addition, post-payment checks are still possible, including following reports by the Universities, including in years after the benefit has been paid.
 
-
-
-Art. 38(2) BENEFIT WITHDRAWAL
+# 38 Art. 38 (2) BENEFIT WITHDRAWAL
 
 
 
@@ -6836,9 +6050,7 @@ Students who incur the grounds for exclusion and forfeiture of eligibility for b
 
 Benefits are also withdrawn from students who have been subject to a serious disciplinary measure taken by their University, such as exclusion or suspension from several university progress examinations or suspension from university attendance for a period of one year or more.
 
-
-
-Art. 38(2.1) FIRST YEARS LACK OF MERIT
+# 38 Art. 38 (2.1) FIRST YEARS LACK OF MERIT
 
 
 
@@ -6852,9 +6064,7 @@ Pursuant to art. 8(1) and (2) of Law 241 of 7 August 1990, as amended and supple
 
 If the result complies with the self-certification, students will be notified of such compliance on their personal Online Helpdesk page, in the “Checks/Withdrawals” section. No further communication will be sent to inform the student of the outcome of the control. If a lack of merit is verified, reference should be made to art. 47(3) below - Repayment of Benefits.
 
-
-
-Art. 38(2.2) FIRST YEARS AND SUBSEQUENT YEARS LOSS OF ELIGIBILITY
+# 38 Art. 38 (2.2) FIRST YEARS AND SUBSEQUENT YEARS LOSS OF ELIGIBILITY
 
 
 
@@ -6864,9 +6074,7 @@ The provisions of art. 3 “Conditions of ineligibility” and “Condition of E
 
 In the case of those assigned accommodation, disciplinary measures pursuant to the provisions of the Internal Regulations for University Residences, as amended and supplemented, also constitute grounds for withdrawing the accommodation services and, where applicable, scholarships.
 
-
-
-Art. 38(3) REPAYMENT OF BENEFITS: METHODS
+# 38 Art. 38 (3) REPAYMENT OF BENEFITS: METHODS
 
 # 1 Students who have won scholarships, students eligible for scholarships, and those assigned the accommodation service Notification will be sent by registered letter with return receipt containing notice of withdrawal of the benefit granted, information on the amount to be returned, the date by which payment must be made, and the methods for making payment in accordance with the current regulations on debt collection.
 
@@ -6886,7 +6094,7 @@ This block will also be imposed on students who have not paid the balance of the
 
 Students are also asked to provide a valid telephone number.
 
-# 2 Students eligible for the scholarship but not assigned the accommodation service
+1. Students eligible for the scholarship but not assigned the accommodation service
 
 
 
@@ -6896,25 +6104,19 @@ Notice will be given on the personal Online Helpdesk page in the “Assessments/
 
 The repayment of benefits is subject to the regulations in force; in all cases of failure to repay the amounts due, any other benefits awarded will be suspended until the debt is settled.
 
-
-
-Art. 38(4) STUDENT CAREER BLOCKS
+# 38 Art. 38 (4) STUDENT CAREER BLOCKS
 
 
 
 Individuals whose benefits have been revoked and who have not paid the balance of the amount due within the deadline indicated in the notification letter, or who do not comply with the instalment plan granted pursuant to the EDISU Debt Recovery Guidelines, will be subject to an administrative freeze on their student career. Names will be reported to the offices of their University for the administrative blocking of their student career. These offices will block the student career based on the respective Regulations. As indicated in the previous paragraph, this blocking will also be carried out on students who have not indicated a valid residence or domicile address complete with any addressee for substituted service, and who are therefore unavailable.
 
-
-
-Art. 38(5) COMMUNICATION TO THE UNIVERSITY
+# 38 Art. 38 (5) COMMUNICATION TO THE UNIVERSITY
 
 
 
 The act of withdrawal will be communicated to the competent offices of the University, which will withdraw the fee waiver and request for payment of the amount due in accordance with the current Fee Regulations.
 
-
-
-Art. 38(6) ENTRY IN TAXPAYERS’ LIST
+# 38 Art. 38 (6) ENTRY IN TAXPAYERS’ LIST
 
 
 
@@ -6924,9 +6126,7 @@ In the event of failure to repay the sums due, EDISU will proceed to recover the
 
 The methods of compulsory collection and the related procedures are governed by the respective legal provisions in force for the purpose of enforcement.
 
-
-
-Art. 38(7) WITHDRAWAL OF ADDITIONAL SERVICES AND BENEFITS
+# 38 Art. 38 (7) WITHDRAWAL OF ADDITIONAL SERVICES AND BENEFITS
 
 
 
@@ -6974,9 +6174,7 @@ SPECIALIST OR SINGLE-CYCLE MASTER'S DEGREE (6 YEARS) <table><tr><td>Academic yea
 
 # ANNEX “A2”
 
-
-
-MERIT REQUIREMENTS STANDARD APPLICATION FULL-TIME ENROLMENT
+# MERIT REQUIREMENTS STANDARD APPLICATION FULL-TIME ENROLMENT
 
 # NUMBER OF CREDITS AS AT 10/08/2025
 
@@ -6984,9 +6182,7 @@ MERIT REQUIREMENTS STANDARD APPLICATION FULL-TIME ENROLMENT
 
 The table was prepared, pursuant to art. 5(12) of Ministerial Decree 1320/2021, based on data provided by the universities and AFAM
 
-
-
-UNIVERSITA' DEGLI STUDI DI TORINO
+# UNIVERSITA' DEGLI STUDI DI TORINO
 
 
 [table]
@@ -7038,9 +6234,7 @@ SINGLE-CYCLE MASTER’S DEGREE <table><tr><td>CODE</td><td>DESCRIPTION</td><td>L
 
 MASTER’S DEGREE <table><tr><td>CODE</td><td>DESCRIPTION</td><td>LOCATION</td><td>2ndyear registration academic year 2024/25</td><td>3rdyear registration academic year 2023/24</td></tr><tr><td>001406</td><td>AMMINISTRAZIONE, CONTROLSLO E PROFESSIONE</td><td>NOVARA</td><td>27</td><td>76</td></tr><tr><td>00A078</td><td>AMMINISTRAZIONE, PROFESSIONE E PERSONE</td><td>NOVARA</td><td>29</td><td>77</td></tr><tr><td>001407</td><td>MANAGEMENT E FINANZA</td><td>NOVARA</td><td>30</td><td>79</td></tr><tr><td>001777</td><td>FILOSOFIA</td><td>VERCELLI</td><td>30</td><td>80</td></tr><tr><td>001778</td><td>LINGUE E LETTERATURE MODERNE EUROPEE ED AMERICANE</td><td>VERCELLI</td><td>30</td><td>80</td></tr><tr><td>001779</td><td>FILOLOGIA MODERNA, CLASSICA E COMPARATA</td><td>VERCELLI</td><td>30</td><td>67</td></tr><tr><td>001806</td><td>SCIENZE INFERMIERISTICHE E OSTETRICHE</td><td>NOVARA</td><td>30</td><td>80</td></tr><tr><td>001981</td><td>BIOLOGIA</td><td>ALESSANDRIA, VERCELLI</td><td>27</td><td>59</td></tr><tr><td>001982</td><td>SCIENZE CHIMICHE</td><td>ALESSANDRIA</td><td>30</td><td>61</td></tr><tr><td>001983</td><td>INFORMATICA</td><td>ALESSANDRIA</td><td>30</td><td>58</td></tr><tr><td>00A071</td><td>INTELLIGENZA ARTIFICIALE E INNOVAZIONE DIGITALE</td><td>ALESSANDRIA, VERCELLI</td><td>30</td><td>72</td></tr><tr><td>002006</td><td>ECONOMIA E POLITICHE PUBBLICHE, AMBIENTE E CULTURA</td><td>ALESSANDRIA</td><td>30</td><td>80</td></tr><tr><td>002007</td><td>SOCIETA&#x27; E SVILUPPO LOCALE</td><td>ALESSANDRIA</td><td>29</td><td>70</td></tr><tr><td>00A002</td><td>LINGUE, CULTURE, TURISMO</td><td>VERCELLI</td><td>29</td><td>74</td></tr><tr><td>00A004</td><td>MEDICAL BIOTECHNOLOGY</td><td>NOVARA</td><td>30</td><td>76</td></tr><tr><td>00A005</td><td>ECONOMIA, MANAGEMENT E ISTITUZIONI</td><td>ALESSANDRIA</td><td>30</td><td>76</td></tr><tr><td>00A095</td><td>ECONOMIA E MANAGEMENT</td><td>ALESSANDRIA</td><td>30</td><td>74</td></tr><tr><td>00A041</td><td>FOOD HEALTH AND ENVIRONMENT</td><td>VERCELLI</td><td>29</td><td>70</td></tr><tr><td>00A057</td><td>BIOTECHNOLOGIE FARMACEUTICHE</td><td>NOVARA</td><td>30</td><td>70</td></tr><tr><td>00A065</td><td>FILOSOFIA, POLITICA E STUDI CULTURALI</td><td>VERCELLI</td><td>30</td><td>72</td></tr><tr><td>A103</td><td>DISASTER AND HEALTH CRISIS MANAGEMENT</td><td>VERCELLI</td><td>28</td><td>79</td></tr></table>
 
-
-
-OTHER UNIVERSITIES
+# OTHER UNIVERSITIES
 
 
 
@@ -7076,9 +6270,7 @@ SINGLE-CYCLE SPECIALIST OR MASTER'S DEGREE (6 YEARS) <table><tr><td>Academic yea
 
 # ANNEX “B”
 
-
-
-MERIT REQUIREMENTS PART-TIME ENROLMENT
+# MERIT REQUIREMENTS PART-TIME ENROLMENT
 
 
 [table]
@@ -7100,9 +6292,7 @@ MASTER’S DEGREE <table><tr><td>Academic year of first enrolment</td><td>Credit
 
 # ANNEX “C”
 
-
-
-MERIT REQUIREMENTS DISABLED STUDENTS FULL-TIME ENROLMENT
+# MERIT REQUIREMENTS DISABLED STUDENTS FULL-TIME ENROLMENT
 
 
 [table]
@@ -7122,9 +6312,7 @@ SINGLE-CYCLE MASTER’S DEGREE <table><tr><td>CODE</td><td>DESCRIPTION</td><td>L
 
 MASTER’S DEGREE <table><tr><td>CODE</td><td>DESCRIPTION</td><td>LOCATION</td><td>2ndyear registration academic year 2024/25</td><td>3rdyear registration academic year 2023/24</td><td>4thyear Registration academic year 2022/23</td></tr><tr><td>001501</td><td>SCIENZE AGRARIE</td><td>GRUGLIASCO</td><td>15</td><td>44</td><td>72</td></tr><tr><td>001503</td><td>SCIENZE E TECNOLOGIE ALIMENTARI</td><td>CUNEO</td><td>15</td><td>44</td><td>72</td></tr><tr><td>0404M21</td><td>ECONOMICS OF INNOVATION FOR SUSTAINABLE DEVELOPMENT</td><td>TORINO</td><td>15</td><td>47</td><td>72</td></tr><tr><td>004505</td><td>SCIENZE AMMINISTRATIVE E GIURIDICHE DELLE ORGANIZAZIONI PUBBLICHE E PRIVATE</td><td>TORINO</td><td>15</td><td>43</td><td>72</td></tr><tr><td>005501</td><td>FILOSOFIA</td><td>TORINO</td><td>14</td><td>38</td><td>72</td></tr><tr><td>005502</td><td>SCIENZE LINGUISTICHE</td><td>TORINO</td><td>15</td><td>38</td><td>72</td></tr><tr><td>005503</td><td>ANTROPOLOGIA CULTURALE ED ETNOLOGIA</td><td>TORINO</td><td>15</td><td>42</td><td>72</td></tr><tr><td>005505</td><td>ARCHEOLOGIA E STORIA ANTICA</td><td>TORINO</td><td>15</td><td>41</td><td>72</td></tr><tr><td>005506</td><td>COMUNICAZIONE E CULTURE DEI MEDIA</td><td>TORINO, POTSDAM</td><td>15</td><td>38</td><td>72</td></tr><tr><td>005508</td><td>FILOLOGIA, LETTERATURE E STORIA DELL'ANTICHITÀ</td><td>TORINO</td><td>15</td><td>43</td><td>72</td></tr><tr><td>005509</td><td>LETTERATURA, FILOLOGIA E LINGUISTICA ITALIANA</td><td>TORINO</td><td>15</td><td>38</td><td>72</td></tr><tr><td>005512</td><td>CULTURE MODERNE COMPARATE</td><td>TORINO, CHAMBERY</td><td>15</td><td>38</td><td>72</td></tr><tr><td>005513</td><td>STORIA DELL'ARTE</td><td>TORINO</td><td>15</td><td>38</td><td>72</td></tr><tr><td>006505</td><td>SCIENZE PEDAGOGICHE</td><td>TORINO</td><td>15</td><td>47</td><td>72</td></tr><tr><td>006507</td><td>PROGRAMMAZZIONE E GESTIONE DEI SERVIZI EDUCATIVI E FORMATIVI</td><td>TORINO</td><td>15</td><td>47</td><td>72</td></tr><tr><td>007701</td><td>BIOTECNOLOGIE MEDICHE</td><td>TORINO</td><td>13</td><td>44</td><td>72</td></tr><tr><td>008508</td><td>BIOLOGIA DELL'AMBIENTE</td><td>TORINO, GRENOBLE</td><td>15</td><td>41</td><td>72</td></tr><tr><td>008510</td><td>FISICA</td><td>TORINO</td><td>15</td><td>32</td><td>72</td></tr><tr><td>008515</td><td>INFORMATICA</td><td>TORINO</td><td>15</td><td>41</td><td>72</td></tr><tr><td>008520</td><td>CHIMICA DELL'AMBIENTE</td><td>TORINO</td><td>15</td><td>40</td><td>72</td></tr><tr><td>008527</td><td>CHIMICA CLINICA, FORENSE E DELLO SPORT</td><td>TORINO</td><td>15</td><td>40</td><td>72</td></tr><tr><td>008530</td><td>EVOLUZIONE DEL COMPORTAMENTO ANIMALE E DELL'UOMO</td><td>TORINO</td><td>15</td><td>42</td><td>72</td></tr><tr><td>008535</td><td>BIOTECHNOLOGIE INDUSTRIALI</td><td>TORINO</td><td>15</td><td>37</td><td>72</td></tr><tr><td>008538</td><td>MATematICA</td><td>TORINO</td><td>15</td><td>38</td><td>72</td></tr><tr><td>008540</td><td>CHIMICA INDUSTRIALE</td><td>TORINO</td><td>15</td><td>38</td><td>72</td></tr><tr><td>008542</td><td>SCIENZE GEOLOGICHE APPLICARE</td><td>TORINO</td><td>15</td><td>38</td><td>72</td></tr><tr><td>009501</td><td>SCIENZE INTERNAZIONALI</td><td>TORINO</td><td>15</td><td>43</td><td>72</td></tr><tr><td>009505</td><td>POLITiche E Servizi SOCIALI</td><td>TORINO</td><td>15</td><td>44</td><td>72</td></tr><tr><td>009506</td><td>COMUNICAZIONE PUBBLICA E POLITICA</td><td>TORINO</td><td>15</td><td>46</td><td>72</td></tr><tr><td>009507</td><td>SCIENZE DEL GOVERNO</td><td>TORINO</td><td>15</td><td>43</td><td>72</td></tr><tr><td rowspan="2">CODE</td><td rowspan="2">DESCRIPTION</td><td rowspan="2">LOCATION</td><td>2ndyear</td><td>3rdyear</td><td>4thyear</td></tr><tr><td>registration academic year 2024/25</td><td>registration academic year 2023/24</td><td>registration academic year 2022/23</td></tr><tr><td>0101M22</td><td>MOLECULAR BIOTECHNOLOGY</td><td>TORINO</td><td>15</td><td>45</td><td>72</td></tr><tr><td>0102M21</td><td>BIOTECHNOLOGICAL AND CHEMICAL SCIENCES IN DIAGNOSTICS</td><td>TORINO</td><td>15</td><td>46</td><td>72</td></tr><tr><td>012501</td><td>LINGUE E LETTERATURE MODERNE</td><td>TORINO, CHAMBERY</td><td>15</td><td>44</td><td>72</td></tr><tr><td>012503</td><td>LINGUE STRANIERE PER LA COMUNICAZIONE INTERNAZIONALE</td><td>TORINO, LUMIERE LIONE 2</td><td>15</td><td>44</td><td>72</td></tr><tr><td>012504</td><td>COMUNICAZIONE INTERNAZIONALE PER IL TURISMO</td><td>TORINO</td><td>15</td><td>44</td><td>72</td></tr><tr><td>012505</td><td>TRADUZIONE</td><td>TORINO, SIVIGlia</td><td>15</td><td>44</td><td>72</td></tr><tr><td>0208M21</td><td>MATERIALS SCIENCE</td><td>TORINO</td><td>15</td><td>44</td><td>72</td></tr><tr><td>0205M21</td><td>CHIMICA</td><td>TORINO</td><td>15</td><td>36</td><td>72</td></tr><tr><td>0304M21</td><td>COMUNICAZIONE, ICT E MEDIA</td><td>TORINO</td><td>15</td><td>43</td><td>72</td></tr><tr><td>0309M21</td><td>ECONOMIC ANALYSIS AND POLICY</td><td>TORINO</td><td>15</td><td>44</td><td>72</td></tr><tr><td>0401M22</td><td>AREA &amp; GLOBAL STUDIES FOR INTERNATIONAL COOPERATION</td><td>TORINO</td><td>15</td><td>43</td><td>72</td></tr><tr><td>0402M21</td><td>METODI STATISTICI ED ECONOMICI PER LE DECISIONI</td><td>TORINO</td><td>15</td><td>46</td><td>72</td></tr><tr><td>0403M21</td><td>ECONOMIA DELL'AMBIENTE, DELLA CULTURA E DEL TERRITORIO</td><td>TORINO</td><td>15</td><td>44</td><td>72</td></tr><tr><td>055503</td><td>SCLENZE STRATEGICHE</td><td>TORINO</td><td>15</td><td>48</td><td>72</td></tr><tr><td>055504</td><td>SCLENZE STRATEGICHE E MILITARI</td><td>TORINO</td><td>15</td><td>48</td><td>72</td></tr><tr><td>056502</td><td>BIOTECNOLOGIE VEGETALI</td><td>GRUGLIASCO</td><td>15</td><td>41</td><td>72</td></tr><tr><td>0703M21</td><td>EUROPEAN LEGAL STUDIES</td><td>TORINO</td><td>15</td><td>43</td><td>72</td></tr><tr><td>070503</td><td>SCLENZE INFERMIERISTICHE E OSTETRICHE</td><td>TORINO</td><td>15</td><td>48</td><td>72</td></tr><tr><td>2011M21</td><td>SCLENZE INFERMIERISTICHE E OSTETRICHE</td><td>ASTI</td><td>15</td><td>48</td><td>72</td></tr><tr><td>070505</td><td>SCLENZE DELLE PROFESSIONI SANITARIE TECNICHE DIAGNOSTICHE</td><td>TORINO</td><td>15</td><td>48</td><td>72</td></tr><tr><td>071505</td><td>SCLENZE RIABILITATIVE DELLE PROFESSIONI SANITARIE</td><td>ORBASSANO</td><td>13</td><td>48</td><td>72</td></tr><tr><td>0901M21</td><td>GEOGRAFIA E SCLENZE TERRITORIALI</td><td>TORINO</td><td>15</td><td>46</td><td>72</td></tr><tr><td>090504</td><td>SOCIOLOGIA</td><td>TORINO</td><td>15</td><td>43</td><td>72</td></tr><tr><td>090506</td><td>SCLENZE DEGLI ALIMENTI E DELLA NUTRIZIONE UMANA</td><td>TORINO</td><td>15</td><td>40</td><td>72</td></tr><tr><td>091503</td><td>SCLENZE DELL'EDUCAZIONE MOTORIA E DELLE ATTIVITA ADATTATE</td><td>TORINO</td><td>15</td><td>46</td><td>72</td></tr><tr><td>091504</td><td>SCLENZE E TECNICHE AVANZATE DELLO SPORT</td><td>TORINO</td><td>15</td><td>46</td><td>72</td></tr><tr><td>102507</td><td>FINANZA AZIENDALE E MERCATI FINANZIARI</td><td>TORINO</td><td>15</td><td>46</td><td>72</td></tr><tr><td>102512</td><td>QUANTITATIVE FINANCE AND INSURANCE - FINANZA QUANTITATIVA E ASSICURAZIONI</td><td>TORINO</td><td>15</td><td>43</td><td>72</td></tr><tr><td>102513</td><td>AMMINISTRAZIONE E CONTROLSLO AZIENDALE</td><td>TORINO</td><td>15</td><td>46</td><td>72</td></tr><tr><td>1103M21</td><td>DIREZIONE D'IMPRESA, MARKETING E STRATEGIA</td><td>TORINO</td><td>15</td><td>46</td><td>72</td></tr><tr><td>1107M21</td><td>BUSINESS ADMINISTRATION</td><td>TORINO</td><td>15</td><td>46</td><td>72</td></tr><tr><td>CODE</td><td>DESCRIPTION</td><td>LOCATION</td><td>2ndyear registration academic year 2024/25</td><td>3rdyear registration academic year 2023/24</td><td>4thyear registration academic year 2022/23</td></tr><tr><td>1109M21</td><td>AMMINISTRAZIONE E GESTIONE DIGITALE DELLE AZIENDE</td><td>TORINO</td><td>15</td><td>46</td><td>72</td></tr><tr><td>1203M21</td><td>STOCHASTICS AND DATA SCIENCE</td><td>TORINO</td><td>15</td><td>41</td><td>72</td></tr><tr><td>1301M21</td><td>BIOTECHNOLOGY FOR NEUROSCIENCE</td><td>TORINO</td><td>15</td><td>45</td><td>72</td></tr><tr><td>1501M22</td><td>PSICOLOGIA CLINICA</td><td>TORINO</td><td>15</td><td>45</td><td>72</td></tr><tr><td>1502M21</td><td>PSICOLOGIA CRIMINOLOGICA E FORENSE</td><td>TORINO</td><td>15</td><td>45</td><td>72</td></tr><tr><td>1503M21</td><td>PSICOLOGIA DEL LAVORO E DELL'ORGANIZAZIONE</td><td>TORINO</td><td>15</td><td>46</td><td>72</td></tr><tr><td>1505M21</td><td>SCIENZE DEL CORPO E DELLA MENTE</td><td>TORINO</td><td>15</td><td>46</td><td>72</td></tr><tr><td>1707M21</td><td>SCIENZE ANIMALI</td><td>GRUGLIASCO</td><td>15</td><td>46</td><td>72</td></tr><tr><td>1708M21</td><td>SCIENZE E TECNOLOGIE DEI SISTEMI E TERRITORI FORESTALI</td><td>GRUGLIASCO</td><td>15</td><td>48</td><td>72</td></tr><tr><td>2001M21</td><td>SCIENZE DELLE PROFESSIONI SANITARIE DELLA PREVENZIONE</td><td>TORINO</td><td>15</td><td>48</td><td>72</td></tr><tr><td>2102M21</td><td>MONITORAGGIO AMBIENTALE, TUTELA E RIPristINO</td><td>TORINO</td><td>15</td><td>42</td><td>72</td></tr><tr><td>2201M21</td><td>CELLULAR AND MOLECULAR BIOLOGY-BIOLOGIA CELLULARE E MOLECOLARE</td><td>TORINO</td><td>15</td><td>35</td><td>72</td></tr><tr><td>2205M22</td><td>SCIENZE DEI SISTEMI NATURALI</td><td>TORINO</td><td>15</td><td>42</td><td>72</td></tr><tr><td>2303M21</td><td>ECONOMIA E MANAGEMENT</td><td>TORINO</td><td>15</td><td>44</td><td>72</td></tr><tr><td>2304M22</td><td>ECONOMICS</td><td>TORINO</td><td>15</td><td>43</td><td>72</td></tr><tr><td>2603M21</td><td>SCIENZE DELLE RELIGIONI</td><td>TORINO</td><td>15</td><td>41</td><td>72</td></tr><tr><td>2604M21</td><td>SCIENZE STORICHE</td><td>TORINO</td><td>15</td><td>41</td><td>72</td></tr><tr><td>2607M21</td><td>SCIENZE DEL LIBRO, DEL DOCUMENTO, DEL PATrimonIO CULTURALE</td><td>TORINO</td><td>15</td><td>43</td><td>72</td></tr><tr><td>2608M21</td><td>CULTURAL HERITAGE AND CREATIVITY FOR TOURISM AND TERRITORIAL DEVELOPMENT</td><td>BIELLA</td><td>15</td><td>43</td><td>72</td></tr><tr><td>2706M21</td><td>LINGUE DELL'ASIA E DELL'AFRICA PER LA COMUNICAZIONE E LA COOPERAZIONE INTERNAZIONALE</td><td>TORINO</td><td>15</td><td>46</td><td>72</td></tr><tr><td>2711M22</td><td>CAM - CINEMA, ARTI DELLA SCENA, MUSICA E MEDIA</td><td>TORINO</td><td>15</td><td>42</td><td>72</td></tr><tr><td>2713M21</td><td>LANGUAGE TECHNOLOGIES AND DIGITAL HUMANITIES</td><td>TORINO</td><td>15</td><td>43</td><td>72</td></tr><tr><td>290501</td><td>FISICA DEI SISTEMI COMPLESSI</td><td>TORINO</td><td>15</td><td>32</td><td>72</td></tr><tr><td>290511</td><td>SCIENZE VITICOLE ED ENOLOGICHE</td><td>ASTI, GRUGLIASCO</td><td>15</td><td>40</td><td>72</td></tr><tr><td>1401M21</td><td>ARTIFICIAL INTELLIGENCE FOR BIOMEDICINE AND HEALTHCARE</td><td>ORBASSANO</td><td>13</td><td>46</td><td>72</td></tr><tr><td>1007M21</td><td>ENGLISH AND AMERICAN STUDIES</td><td>TORINO</td><td>15</td><td>44</td><td>72</td></tr><tr><td>2103M21</td><td>GEORISORE E GESTIONE ECOSOSTENIBILE D'IMPRESA</td><td>TORINO</td><td>15</td><td>48</td><td>72</td></tr><tr><td>1708M22</td><td>SCIENZE DEI SISTEMI FORESTALI E DELL'AMBIENTE</td><td>GRUGLIASCO</td><td>15</td><td>45</td><td>72</td></tr></table>
 
-
-
-POLITECNICO DI TORINO
+# POLITECNICO DI TORINO
 
 
 [table]
@@ -7184,9 +6372,7 @@ LAUREA SPECIALISTICA O MAGISTRALE, FULL-TIME <table><tr><td>Academic year of fir
 
 # ANNEX “C1”
 
-
-
-MERIT REQUIREMENTS DISABLED STUDENTS PART-TIME ENROLMENT
+# MERIT REQUIREMENTS DISABLED STUDENTS PART-TIME ENROLMENT
 
 
 [table]
@@ -7208,9 +6394,7 @@ MASTER'S DEGREE <table><tr><td>Academic year of first enrolment</td><td>Credits 
 
 # ANNEX “D”
 
-
-
-LIST OF PARTICULARLY POOR OR DEVELOPING FOREIGN COUNTRIES
+# LIST OF PARTICULARLY POOR OR DEVELOPING FOREIGN COUNTRIES
 
 
 [table]
@@ -7233,8 +6417,6 @@ The most common special cases are also indicated. If the cases listed do not inc
 
 
 You can also consult the EDISU database on documentation received in previous years, divided by country.
-
-
 
 1. HOUSEHOLD COMPOSITION
 
@@ -7264,9 +6446,7 @@ Adult members: “members aged 18 or more as of 1 January 2, 0, 2, 5 " means any
 
 New marriage: if one of the student's parents is married in a new marriage to a person other than the other parent, the new spouse must be included in the household and therefore the relevant income and assets must be submitted.
 
-
-
-2. INCOME
+1. INCOME
 
 
 
@@ -7292,9 +6472,7 @@ Please note: if you choose to submit the total gross income of each individual m
 
 - Unemployment: If one or more household members aged 18 or more as of 1 January 2025 have not produced any income in the year claimed, it is mandatory to submit a certificate of no income or unemployment for that year. For any adult siblings as of 1 January 2025 or for the student (if an adult as of 1 January 2025), proof of enrolment in a school or university in the year applied for is also acceptable by way of unemployment certificate. In this case too, the documents must be translated into Italian and legalised. • Pensions: if there are pensioners in the household, documentation must be provided on the gross pension with reference to the entire year requested; it will not be sufficient to submit only one monthly payment or less than 12 monthly payments for the year requested. In the event of the submission of pensions for all 12 individual months, EDISU will do the annual calculation considering 13 monthly payments for the entire year. In addition, it is necessary to declare any income support and/or state subsidies that a family member benefits from. • Exchange rate: EDISU uses the provisions of the Banca D’Italia (https://tassidicambio.bancaditalia.it/terzevalute-wf-ui-web/converter). For EU students the calculation is as of 31 December 2023, for non-EU students it is as of 31 December 2024 (or the first working day immediately preceding). If the documents show income in both Euro and local currency, the value expressed in Euro will not be taken into account and EDISU will convert the income expressed in local currency into Euro.
 
-
-
-3. MOVABLE ASSETS
+1. MOVABLE ASSETS
 
 
 
@@ -7306,9 +6484,7 @@ For all household members aged 18 or more as of 1 January 2025, information on t
 
 Certificates of a lack of movable assets issued by individual credit institutions, banks, finance companies or other private entities are not acceptable.
 
-
-
-4. REAL ESTATE ASSETS
+1. REAL ESTATE ASSETS
 
 
 
@@ -7324,9 +6500,7 @@ For all household members aged 18 or more as of 1 January 2025, information on t
 
 - Mortgage on a building: if a building is encumbered by a mortgage, you may submit a copy of the mortgage deed with the principal amount of debt outstanding as at 31 December 2024 [2023 FOR EU] in order to proceed with the deduction of the value up to the value of the building. In this case too, the documents must be translated into Italian and legalised.
 
-
-
-5. INDEPENDENT STUDENTS
+1. INDEPENDENT STUDENTS
 
 
 
@@ -7350,10 +6524,6 @@ Residence requirement: you must submit a document proving that your residence ha
 
 To certify this requirement, a rental contract, a certificate of residence, or a certificate of home ownership of the house of residence in the student's name can be used. In this case too, the documents must be translated into Italian and legalised.
 
+# REGIONAL AGENCY FOR THE RIGHT
 
-
-REGIONAL AGENCY FOR THE RIGHT
-
-
-
-TO UNIVERSITY EDUCATION IN PIEDMONT
+# TO UNIVERSITY EDUCATION IN PIEDMONT

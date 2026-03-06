@@ -1,0 +1,22 @@
+[
+  {"title": "DEADLINES", "kind": "topic", "depth": 1, "numbering": null, "page": 7},
+  {"title": "GENERAL PRINCIPLES AND DEFINITIONS", "kind": "section", "depth": 1, "numbering": "SECTION I", "page": 8},
+  {"title": "General principles", "kind": "article", "depth": 2, "numbering": "Art.1", "page": 8},
+  {"title": "Definitions", "kind": "article", "depth": 2, "numbering": "Art.2", "page": 9},
+  {"title": "Benefits and Services to be awarded", "kind": "article", "depth": 2, "numbering": "Art.3", "page": 12},
+  {"title": "Beneficiaries", "kind": "article", "depth": 2, "numbering": "Art.4", "page": 12},
+  {"title": "Compatibility/incompatibility", "kind": "article", "depth": 2, "numbering": "Art.5", "page": 14},
+  {"title": "Duration of benefits", "kind": "article", "depth": 2, "numbering": "Art.6", "page": 14},
+  {"title": "Allocation of the benefits", "kind": "article", "depth": 2, "numbering": "Art.7", "page": 15},
+  {"title": "Scholarship amounts", "kind": "article", "depth": 2, "numbering": "Art.8", "page": 16},
+  {"title": "Payment procedure for scholarships, graduation awards and international mobility grants", "kind": "article", "depth": 2, "numbering": "Art.9", "page": 18},
+  {"title": "Student Classification", "kind": "article", "depth": 2, "numbering": "Art.10", "page": 19},
+  {"title": "Out-of-town students", "kind": "subarticle", "depth": 3, "numbering": "10.1", "page": 19},
+  {"title": "Commuter students and calculated commuter students", "kind": "subarticle", "depth": 3, "numbering": "10.2", "page": 22},
+  {"title": "In-town students", "kind": "subarticle", "depth": 3, "numbering": "10.3", "page": 22},
+  {"title": "Merit-based requirements", "kind": "article", "depth": 2, "numbering": "Art.11", "page": 23},
+  {"title": "Economic requirements", "kind": "article", "depth": 2, "numbering": "Art.12", "page": 26},
+  {"title": "APPLICATION SUBMISSION", "kind": "section", "depth": 1, "numbering": "SECTION II", "page": 30},
+  {"title": "System access and student identification procedures", "kind": "article", "depth": 2, "numbering": "Art.13", "page": 30},
+  {"title": "Application submission: terms and procedures", "kind": "article", "depth": 2, "numbering": "Art.14", "page": 30}
+]

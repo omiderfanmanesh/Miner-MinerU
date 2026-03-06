@@ -1,0 +1,17 @@
+[
+  {"title": "RECIPIENTS AND AMOUNTS", "kind": "section", "numbering": "SECTION I", "page": 10, "depth": 1},
+  {"title": "COURSES AND UNIVERSITIES FOR WHICH BENEFITS ARE GRANTED", "kind": "article", "numbering": "ART. 1", "page": 11, "depth": 2},
+  {"title": "COURSES", "kind": "subarticle", "numbering": "ART. 1(1)", "page": 11, "depth": 3},
+  {"title": "UNIVERSITIES", "kind": "subarticle", "numbering": "ART. 1(2)", "page": null, "depth": 3},
+  {"title": "COURSE LOCATIONS", "kind": "subarticle", "numbering": "ART. 1(3)", "page": null, "depth": 3},
+  {"title": "DISTRIBUTION OF SCHOLARSHIPS AND ACCOMMODATION", "kind": "subarticle", "numbering": "ART. 1(4)", "page": null, "depth": 3},
+  {"title": "DURATION OF BENEFITS", "kind": "article", "numbering": "ART. 2", "page": 12, "depth": 2},
+  {"title": "GROUNDS FOR INELIGIBILITY AND EXCLUSION", "kind": "article", "numbering": "ART. 3", "page": 13, "depth": 2},
+  {"title": "GROUNDS FOR INELIGIBILITY", "kind": "subarticle", "numbering": "ART. 3(1)", "page": null, "depth": 3},
+  {"title": "GROUNDS FOR EXCLUSION", "kind": "subarticle", "numbering": "ART. 3(2)", "page": null, "depth": 3},
+  {"title": "STUDENT TYPE FOR SCHOLARSHIP PURPOSES", "kind": "article", "numbering": "ART. 4", "page": 15, "depth": 2},
+  {"title": "SCHOLARSHIP AMOUNTS", "kind": "article", "numbering": "ART. 5", "page": 16, "depth": 2},
+  {"title": "STUDENTS ENROLLED FULL-TIME", "kind": "subarticle", "numbering": "ART. 5(1)", "page": null, "depth": 3},
+  {"title": "GENERAL PROVISIONS", "kind": "section", "numbering": "SECTION II", "page": 20, "depth": 1},
+  {"title": "ECONOMIC REQUIREMENTS", "kind": "article", "numbering": "ART. 6", "page": 21, "depth": 2}
+]
