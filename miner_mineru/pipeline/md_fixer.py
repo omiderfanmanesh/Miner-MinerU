@@ -60,7 +60,7 @@ class CorrectionEntry:
     old_level: Optional[int]
     new_level: Optional[int]
     matched_toc_title: Optional[str]
-    match_method: str  # exact, fuzzy, demoted, unmatched
+    match_method: str  # exact, fuzzy, demoted, inferred, unmatched
 
 
 @dataclass
@@ -201,6 +201,40 @@ def kind_to_heading_level(kind: str) -> int:
     return mapping.get(kind, 3)
 
 
+def infer_heading_level_from_text(text: str) -> Optional[int]:
+    """
+    Infer heading level from text content using common document patterns.
+
+    Patterns:
+    - "SECTION I", "SECTION II", etc. → level 1 (major sections)
+    - "ART. X", "Art. X", "Article X" → level 2 (articles)
+    - "ART. X(Y)", "Art. X(Y)" → level 3 (subarticles/paragraphs)
+
+    Returns level (1-3) or None if pattern doesn't match.
+    """
+    import re
+    text_upper = text.upper()
+
+    # Major sections: SECTION I, SECTION II, etc.
+    if re.match(r'^SECTION\s+[IVXLC]+', text_upper):
+        return 1
+
+    # Articles with subsections (more specific, check first): ART. 6(1.1), Art. 5(2.1), etc.
+    # Pattern: ART. X(Y.Z...) or ARTICLE X(Y.Z...)
+    if re.match(r'^(?:ART\.|ARTICLE)\s+\d+\(\d+(?:\.\d+)+\)', text_upper):
+        return 3
+
+    # Articles with paragraphs: ART. 6(1), Art. 5(2), etc.
+    if re.match(r'^(?:ART\.|ARTICLE)\s+\d+\(\d+\)', text_upper):
+        return 3
+
+    # Plain articles: ART. 6, Art. 5, Article 3, etc.
+    if re.match(r'^(?:ART\.|ARTICLE)\s+\d+', text_upper):
+        return 2
+
+    return None
+
+
 def apply_heading_level(source_line: SourceLine, new_level: int) -> SourceLine:
     """Replace heading markers to match new level, preserving text."""
     if not source_line.heading_level:
@@ -249,6 +283,24 @@ def apply_all_corrections(source_lines: List[SourceLine], matched_pairs: Dict[in
                 matched_toc_title=None,
                 match_method='demoted',
             ))
+        elif source_line.heading_level and first_match_line and source_line.line_number > first_match_line:
+            # Unmatched heading AFTER first TOC match: try to infer level from text
+            inferred_level = infer_heading_level_from_text(source_line.stripped_text)
+            if inferred_level and inferred_level != source_line.heading_level:
+                # Heading level doesn't match pattern, re-level it
+                corrected_line = apply_heading_level(source_line, inferred_level)
+                corrected_lines.append(corrected_line)
+
+                corrections.append(CorrectionEntry(
+                    line_number=source_line.line_number,
+                    old_level=source_line.heading_level,
+                    new_level=inferred_level,
+                    matched_toc_title=None,
+                    match_method='inferred',
+                ))
+            else:
+                # No pattern match or already correct level, preserve as-is
+                corrected_lines.append(source_line)
         else:
             # Everything else: preserve as-is
             corrected_lines.append(source_line)
