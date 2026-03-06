@@ -1,5 +1,5 @@
 """Unit tests for model serialization."""
-from scripts.models import (
+from miner_mineru.models import (
     DocumentMetadata,
     ExtractionResult,
     HeadingEntry,

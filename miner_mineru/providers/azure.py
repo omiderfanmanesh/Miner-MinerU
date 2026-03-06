@@ -1,51 +1,11 @@
-"""LLM client factory.
-
-Reads LLM_PROVIDER from environment (default: anthropic).
-Supports:
-  - "anthropic": uses ANTHROPIC_API_KEY
-  - "azure": uses AZURE_OPENAI_API_KEY, AZURE_OPENAI_ENDPOINT,
-             AZURE_OPENAI_DEPLOYMENT, AZURE_OPENAI_API_VERSION
-"""
+"""Azure OpenAI provider — wraps AzureOpenAI to match the Anthropic client interface."""
 from __future__ import annotations
 
 import os
 import sys
 
 
-def build_client():
-    """Return a client object for the configured LLM provider.
-
-    The returned client is passed to toc_extractor functions which call
-    client.messages.create(...) for Anthropic, or we wrap Azure so it
-    presents the same interface.
-    """
-    provider = os.environ.get("LLM_PROVIDER", "anthropic").lower().strip()
-
-    if provider == "azure":
-        return _build_azure_client()
-    elif provider == "anthropic":
-        return _build_anthropic_client()
-    else:
-        print(f"ERROR: Unknown LLM_PROVIDER={provider!r}. Must be 'anthropic' or 'azure'.", file=sys.stderr)
-        sys.exit(3)
-
-
-def _build_anthropic_client():
-    try:
-        import anthropic
-    except ImportError:
-        print("ERROR: anthropic package not installed. Run: pip install anthropic", file=sys.stderr)
-        sys.exit(3)
-
-    api_key = os.environ.get("ANTHROPIC_API_KEY")
-    if not api_key:
-        print("ERROR: ANTHROPIC_API_KEY not set.", file=sys.stderr)
-        sys.exit(3)
-
-    return anthropic.Anthropic(api_key=api_key)
-
-
-def _build_azure_client():
+def build_azure_client():
     try:
         from openai import AzureOpenAI
     except ImportError:
@@ -69,15 +29,7 @@ def _build_azure_client():
 
 
 class _AzureClientWrapper:
-    """Wraps AzureOpenAI to present the same interface as anthropic.Anthropic.
-
-    toc_extractor calls:
-        client.messages.create(model=..., max_tokens=..., messages=[...])
-    and reads:
-        message.content[0].text
-
-    This wrapper translates those calls to the OpenAI chat completions API.
-    """
+    """Presents the same interface as anthropic.Anthropic for the pipeline."""
 
     def __init__(self, azure_client, deployment: str):
         self._client = azure_client

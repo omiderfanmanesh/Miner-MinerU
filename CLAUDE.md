@@ -9,19 +9,33 @@ Auto-generated from all feature plans. Last updated: 2026-03-06
 ## Project Structure
 
 ```text
-scripts/          # Core library + CLI
-  models.py           # Dataclasses: HeadingEntry, TOCBoundary, ExtractionResult, etc.
-  toc_extractor.py    # find_toc_boundaries(), classify_toc_entries(), extract_toc()
-  toc_extraction_agent.py  # CLI entry point
-  llm_client.py       # build_client() — Anthropic or Azure OpenAI
-  rule_engine.py      # Rule-based heading helpers
-rules/            # Rule modules (annex, article, section, etc.)
-tests/            # pytest tests
-  conftest.py         # Shared fixtures (notice_md_path, disco_md_path, bologna_md_path)
-  golden/             # Golden JSON fixtures for integration tests
-data/             # Input documents (MinerU-generated markdown per named subdir)
-output/           # Agent JSON output (gitignored)
-.specify/         # Feature specs (speckit workflow)
+miner_mineru/              # Main Python package
+  agents/                  # One LLM agent per concern
+    boundary_agent.py      # Sliding-window TOC boundary detection
+    classifier_agent.py    # TOC entry classification
+    summary_agent.py       # Document summary generation
+    metadata_agent.py      # Document metadata extraction
+  models/                  # Pure data models (no LLM calls)
+    document.py            # HeadingEntry, TOCBoundary, DocumentMetadata
+    results.py             # ExtractionResult, LogEntry
+  pipeline/                # Orchestration and utilities
+    extractor.py           # extract_toc() — runs all agents in sequence
+    reader.py              # File I/O and content slicing
+    heading_map.py         # Nested tree builder
+    rule_engine.py         # Rule-based heading classifier
+  providers/               # LLM backend abstraction
+    factory.py             # build_client() — reads LLM_PROVIDER env var
+    anthropic.py           # Anthropic Claude client
+    azure.py               # Azure OpenAI wrapper
+  cli/
+    main.py                # CLI entry point
+  __main__.py              # python -m miner_mineru
+tests/
+  conftest.py              # Shared fixtures (notice_md_path, disco_md_path, bologna_md_path)
+  golden/                  # Golden JSON fixtures for integration tests
+data/                      # Input documents (one subdir per document)
+output/                    # Agent JSON output (gitignored)
+.specify/                  # Feature specs (speckit workflow)
 ```
 
 ## Commands
@@ -31,7 +45,7 @@ output/           # Agent JSON output (gitignored)
 PYTHONNOUSERSITE=1 "/c/Users/ERO8OFO/.conda/envs/agent/python.exe" -m pytest -p no:anyio
 
 # Run CLI agent
-python -m scripts.toc_extraction_agent <markdown_file> --output <output.json>
+python -m miner_mineru <markdown_file> --output <output.json>
 ```
 
 ## Code Style

@@ -7,8 +7,18 @@ from unittest.mock import MagicMock, patch
 
 import pytest
 
-from scripts.models import HeadingEntry
-from scripts.toc_extractor import classify_toc_entries, extract_toc, find_toc_boundaries
+from miner_mineru.models import HeadingEntry
+from miner_mineru.agents.classifier_agent import ClassifierAgent
+from miner_mineru.agents.boundary_agent import BoundaryAgent
+from miner_mineru.pipeline.extractor import extract_toc
+
+
+def classify_toc_entries(toc_text, client):
+    return ClassifierAgent(client).run(toc_text)
+
+
+def find_toc_boundaries(lines, client):
+    return BoundaryAgent(client).run(lines)
 
 GOLDEN_DIR = pathlib.Path(__file__).parent / "golden"
 

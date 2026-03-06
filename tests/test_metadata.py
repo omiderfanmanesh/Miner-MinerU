@@ -2,8 +2,12 @@
 from unittest.mock import MagicMock
 import pytest
 
-from scripts.toc_extractor import extract_metadata
-from scripts.models import DocumentMetadata
+from miner_mineru.agents.metadata_agent import MetadataAgent
+from miner_mineru.models import DocumentMetadata
+
+
+def extract_metadata(pre_toc_text, client):
+    return MetadataAgent(client).run(pre_toc_text)
 
 
 # ---------------------------------------------------------------------------

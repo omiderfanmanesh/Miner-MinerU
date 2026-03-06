@@ -2,7 +2,11 @@
 import json
 import pytest
 from unittest.mock import MagicMock
-from scripts.toc_extractor import find_toc_boundaries
+from miner_mineru.agents.boundary_agent import BoundaryAgent
+
+
+def find_toc_boundaries(lines, client):
+    return BoundaryAgent(client).run(lines)
 
 
 def _lines(text: str) -> list[str]:
@@ -117,7 +121,7 @@ def test_toc_spans_two_chunks(monkeypatch):
         {"toc_start": -1, "toc_end": 110, "status": "done"},   # chunk 100-149
     ])
     # patch chunk size to 100 for this test
-    import scripts.toc_extractor as mod
+    import miner_mineru.agents.boundary_agent as mod
     original = mod._CHUNK_SIZE
     mod._CHUNK_SIZE = 100
     try:
