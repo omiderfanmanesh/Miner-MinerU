@@ -65,6 +65,8 @@ Acceptance Scenario:
 
 - **FR-011**: Heading level rendering MUST follow the agreed mapping: Section → H1; Article → H2; Decimal subsections → dynamic headings starting at H3 based on depth; Topic (short ALL-CAPS) → H4; Annex → H1. This mapping is deterministic and MUST be applied when producing `clean.md`.
 
+- **FR-012**: Node identifier scheme MUST be hybrid: use a numbering-based ID when available (e.g., `2-1-3` for numbering `2.1.3`), otherwise assign a deterministic sequential ID `hN`. IDs MUST be stable and deterministic across runs for the same input.
+
 ### Key Entities
 
 - **DocumentItem**: a single item from `MinerU_simplified.json` with `type` and `text`.
@@ -97,3 +99,5 @@ Provide a small test harness (separate task) that runs the pipeline on a curated
 
 ### Session 2026-02-26
 - Q: Heading level mapping for rendering → A: Option A - Section → H1; Article → H2; Subsection → dynamic H3+ by depth; Topic → H4; Annex → H1
+
+- Q: Node id scheme for headings → A: Option B - Hybrid: use numbering-based id when available (e.g., `2-1-3` for `2.1.3`), otherwise assign sequential `hN`. Reason: deterministic, human-readable, and stable for numbered headings.

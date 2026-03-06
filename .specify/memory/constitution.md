@@ -31,6 +31,19 @@ Tools and libraries MUST expose a CLI or lightweight programmatic interface for 
 ### Test-First (TDD)
 Tests are REQUIRED for all new functionality. Authors SHOULD write failing tests that express desired behavior before implementation (Red-Green-Refactor). Critical bug fixes MUST include regression tests. Rationale: prevents regressions and documents expected behavior.
 
+## Testing & Trust Policy
+- Every bugfix must add a regression fixture + an automated test.
+- Core logic must have unit tests:
+  - heading classification
+  - numeric prefix parenting
+  - list rendering guards (no list becomes heading)
+- End-to-end golden tests are required for at least 2 real documents.
+- The pipeline must emit report.json and tests must assert key trust metrics:
+  - no list blocks rendered as headings
+  - unmatched decimal headings <= configurable threshold
+  - unknown headings tracked and stable
+- Tests must be runnable with a single command: `pytest`.
+
 ### Integration & Contract Testing
 Changes that affect cross-module behavior, public contracts, or external integrations MUST include integration tests and contract-level checks. Define minimal end-to-end tests for each integration surface. Rationale: ensures interoperability and guards against hidden breaking changes.
 

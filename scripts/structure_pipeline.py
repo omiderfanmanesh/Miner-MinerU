@@ -22,7 +22,8 @@ import sys
 # Ensure project root is on sys.path so local packages (rules) can be imported when
 # executing the script from the scripts/ directory.
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
-from rules import PLUGINS
+sys.path.insert(0, os.path.abspath(os.path.dirname(__file__)))
+from rule_engine import make_classifier, Block
 
 BASE_DIR = os.path.join(
     "data",
@@ -77,39 +78,8 @@ def classify_item(item):
     # do not allow it to be classified as a heading by plugins or heuristics.
     enum_pattern = re.match(r"^\s*(?:\d+\.\s|[a-zA-Z]\.\s|[•\-]\s)", text)
 
-    # First, consult rule plugins (deterministic, ordered)
-    for plugin in PLUGINS:
-        try:
-            cand = plugin(item)
-        except Exception:
-            # plugin errors should not break the pipeline
-            reasons.append(f"plugin_error:{getattr(plugin,'__name__',str(plugin))}")
-            cand = None
-        if cand:
-            # merge base signals score with plugin score
-            merged = dict(cand)
-            merged_score = score + int(cand.get("score", 0))
-            merged["score"] = merged_score
-            merged_reasons = reasons + cand.get("reasons", [])
-            merged["reasons"] = merged_reasons
-            # ensure raw/title fallbacks
-            merged.setdefault("raw", text)
-            merged.setdefault("title", merged.get("title") or merged.get("raw"))
-            # Enforce heading-type constraints: only 'title' or 'header' blocks
-            # may be treated as headings. Also, enumeration lines must not be
-            # classified as headings.
-            allowed_heading_types = {"title", "header"}
-            if merged.get("kind") == "heading":
-                if ttype not in allowed_heading_types:
-                    # suppress heading classification for disallowed block types
-                    reasons.append("suppressed_heading_by_type")
-                    continue
-                if enum_pattern:
-                    # suppress heading classification for enumerations
-                    reasons.append("suppressed_heading_by_enumeration")
-                    continue
-            return merged
-
+    # Fallback heuristics for non-heading blocks (we only classify
+    # title/header via the rule_engine classifier elsewhere).
     m = re.match(r"^\s*(?:Article\s+|Art\.\s*)?(?P<num>\d+(?:\.\d+)*)[\)\.:\-\s]+(?P<title>.+)$",
                  text, flags=re.I)
     if m:
@@ -183,6 +153,25 @@ def build_tree(items, report):
     nodes = []
     prefix_map = {}  # prefix str -> node index
     stack = []  # current heading stack of node indices
+    existing_ids = set()
+    next_seq = [1]
+
+    def make_id(numbering=None):
+        # If numbering is available, use numbering-based id like '2-1-3'
+        if numbering:
+            base = numbering.replace(".", "-")
+            candidate = base
+            suffix = 1
+            while candidate in existing_ids:
+                suffix += 1
+                candidate = f"{base}-{suffix}"
+            existing_ids.add(candidate)
+            return candidate
+        # Otherwise assign sequential deterministic id hN
+        candidate = f"h{next_seq[0]}"
+        next_seq[0] += 1
+        existing_ids.add(candidate)
+        return candidate
 
     current_page = None
     headings = []
@@ -211,7 +200,7 @@ def build_tree(items, report):
                         parent_idx = prefix_map[parent_prefix]
                         break
                 node = {
-                    "id": f"h{len(nodes)+1}",
+                    "id": make_id(prefix),
                     "numbering": prefix,
                     "title": title,
                     "depth": depth,
@@ -236,7 +225,7 @@ def build_tree(items, report):
             # heuristics: if type was title -> depth 1, else attach to nearest parent
             depth = 1 if (it.get("reasons") and any(r.startswith("type_signal:title") or r=="type=title" for r in it.get("reasons",[]))) else (len(stack) or 1)
             node = {
-                "id": f"h{len(nodes)+1}",
+                "id": make_id(None),
                 "numbering": None,
                 "title": title,
                 "depth": depth,
@@ -261,7 +250,7 @@ def build_tree(items, report):
         if target_idx is None:
             # create implicit root heading if none
             node = {
-                "id": f"h{len(nodes)+1}",
+                "id": make_id(None),
                 "numbering": None,
                 "title": "__ROOT__",
                 "depth": 0,
@@ -380,13 +369,63 @@ def main():
 
     report = {"generated_at": datetime.utcnow().isoformat() + "Z", "items": [], "warnings": [], "events": []}
 
+    # Build candidate blocks (title/header) for heading classification
+    candidate_positions = []
+    candidate_blocks = []
+    for idx, it in enumerate(items):
+        ttype = (it.get("type") or "").lower()
+        if ttype in ("title", "header"):
+            candidate_positions.append(idx)
+            candidate_blocks.append(Block(type=ttype, text=it.get("text") or "", meta=it))
+
+    classifier = make_classifier()
+    headings = classifier.classify(candidate_blocks)
+
+    # Merge headings back into original order, falling back to classify_item for non-heading blocks
     classified = []
+    heading_ptr = 0
     for i, it in enumerate(items):
+        ttype = (it.get("type") or "").lower()
+        if ttype in ("title", "header"):
+            h = headings[heading_ptr]
+            heading_ptr += 1
+            # prepare classification dict for report
+            num = None
+            if h.kind == "article":
+                # ART:n -> numbering string
+                try:
+                    num = h.key.split(":")[1]
+                except Exception:
+                    num = None
+            elif h.numbering:
+                num = ".".join(str(x) for x in h.numbering)
+
+            cls = {
+                "kind": "heading",
+                "score": int(h.confidence * 100),
+                "numbering": num,
+                "title": h.title,
+                "raw": h.raw,
+                "reasons": [h.rule],
+                "page": h.page,
+            }
+            entry = {"index": i, "type": it.get("type"), "text": it.get("text"), "classification": cls}
+            report["items"].append(entry)
+            norm = {
+                "kind": cls.get("kind"),
+                "numbering": cls.get("numbering"),
+                "title": cls.get("title"),
+                "raw": cls.get("raw"),
+                "page": cls.get("page"),
+                "reasons": cls.get("reasons"),
+            }
+            classified.append(norm)
+            continue
+
+        # Non-heading blocks: reuse existing classify_item heuristic
         cls = classify_item(it)
-        # preserve original order and attach index
         entry = {"index": i, "type": it.get("type"), "text": it.get("text"), "classification": cls}
         report["items"].append(entry)
-        # normalize classification dict for pipeline
         norm = {
             "kind": cls.get("kind"),
             "numbering": cls.get("numbering"),
