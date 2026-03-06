@@ -60,7 +60,7 @@ class CorrectionEntry:
     old_level: Optional[int]
     new_level: Optional[int]
     matched_toc_title: Optional[str]
-    match_method: str  # exact, fuzzy, demoted, inferred, unmatched
+    match_method: str  # exact, fuzzy, demoted, llm_inferred, unmatched
 
 
 @dataclass
@@ -201,38 +201,27 @@ def kind_to_heading_level(kind: str) -> int:
     return mapping.get(kind, 3)
 
 
-def infer_heading_level_from_text(text: str) -> Optional[int]:
+def infer_heading_level_with_llm(
+    client,
+    heading_text: str,
+    context_headings: List[tuple],
+    toc_entries: List[dict],
+) -> Optional[int]:
     """
-    Infer heading level from text content using common document patterns.
+    Use LLM agent to determine correct heading level for unmatched heading.
 
-    Patterns:
-    - "SECTION I", "SECTION II", etc. → level 1 (major sections)
-    - "ART. X", "Art. X", "Article X" → level 2 (articles)
-    - "ART. X(Y)", "Art. X(Y)" → level 3 (subarticles/paragraphs)
+    Args:
+        client: LLM client (Anthropic or Azure)
+        heading_text: The heading text to analyze
+        context_headings: List of (level, text) tuples for context
+        toc_entries: List of TOC entry dicts for reference
 
-    Returns level (1-3) or None if pattern doesn't match.
+    Returns:
+        Correct heading level (1-4) or None if agent cannot decide
     """
-    import re
-    text_upper = text.upper()
+    from miner_mineru.agents.heading_corrector_agent import correct_heading_with_llm
 
-    # Major sections: SECTION I, SECTION II, etc.
-    if re.match(r'^SECTION\s+[IVXLC]+', text_upper):
-        return 1
-
-    # Articles with subsections (more specific, check first): ART. 6(1.1), Art. 5(2.1), etc.
-    # Pattern: ART. X(Y.Z...) or ARTICLE X(Y.Z...)
-    if re.match(r'^(?:ART\.|ARTICLE)\s+\d+\(\d+(?:\.\d+)+\)', text_upper):
-        return 3
-
-    # Articles with paragraphs: ART. 6(1), Art. 5(2), etc.
-    if re.match(r'^(?:ART\.|ARTICLE)\s+\d+\(\d+\)', text_upper):
-        return 3
-
-    # Plain articles: ART. 6, Art. 5, Article 3, etc.
-    if re.match(r'^(?:ART\.|ARTICLE)\s+\d+', text_upper):
-        return 2
-
-    return None
+    return correct_heading_with_llm(client, heading_text, context_headings, toc_entries)
 
 
 def apply_heading_level(source_line: SourceLine, new_level: int) -> SourceLine:
@@ -248,13 +237,28 @@ def apply_heading_level(source_line: SourceLine, new_level: int) -> SourceLine:
     return new_line
 
 
-def apply_all_corrections(source_lines: List[SourceLine], matched_pairs: Dict[int, TOCEntry]) -> Tuple[List[SourceLine], List[CorrectionEntry]]:
-    """Apply all heading level corrections to source lines."""
+def apply_all_corrections(
+    source_lines: List[SourceLine],
+    matched_pairs: Dict[int, TOCEntry],
+    toc_entries: List[TOCEntry],
+    client=None,
+) -> Tuple[List[SourceLine], List[CorrectionEntry]]:
+    """Apply all heading level corrections to source lines.
+
+    Args:
+        source_lines: Source markdown lines
+        matched_pairs: Matched TOC entries {line_number: TOCEntry}
+        toc_entries: All TOC entries for context
+        client: Optional LLM client for heading inference
+    """
     corrected_lines = []
     corrections = []
 
     # Find first TOC match to distinguish cover page from body
     first_match_line = find_first_toc_match_index(source_lines, matched_pairs)
+
+    # Build context of recent headings for LLM
+    recent_headings = []
 
     for source_line in source_lines:
         if source_line.line_number in matched_pairs:
@@ -263,6 +267,11 @@ def apply_all_corrections(source_lines: List[SourceLine], matched_pairs: Dict[in
             new_level = kind_to_heading_level(toc_entry.kind)
             corrected_line = apply_heading_level(source_line, new_level)
             corrected_lines.append(corrected_line)
+
+            # Track in recent headings for context
+            recent_headings.append((new_level, toc_entry.title))
+            if len(recent_headings) > 10:
+                recent_headings.pop(0)
 
             corrections.append(CorrectionEntry(
                 line_number=source_line.line_number,
@@ -284,22 +293,44 @@ def apply_all_corrections(source_lines: List[SourceLine], matched_pairs: Dict[in
                 match_method='demoted',
             ))
         elif source_line.heading_level and first_match_line and source_line.line_number > first_match_line:
-            # Unmatched heading AFTER first TOC match: try to infer level from text
-            inferred_level = infer_heading_level_from_text(source_line.stripped_text)
+            # Unmatched heading AFTER first TOC match: use LLM to determine correct level
+            inferred_level = None
+
+            if client:
+                # Use LLM agent to determine level
+                toc_dicts = [
+                    {
+                        "kind": entry.kind,
+                        "title": entry.title,
+                        "numbering": entry.numbering,
+                    }
+                    for entry in toc_entries
+                ]
+                inferred_level = infer_heading_level_with_llm(
+                    client,
+                    source_line.stripped_text,
+                    recent_headings,
+                    toc_dicts,
+                )
+
             if inferred_level and inferred_level != source_line.heading_level:
-                # Heading level doesn't match pattern, re-level it
+                # Re-level based on LLM decision
                 corrected_line = apply_heading_level(source_line, inferred_level)
                 corrected_lines.append(corrected_line)
+
+                recent_headings.append((inferred_level, source_line.stripped_text))
+                if len(recent_headings) > 10:
+                    recent_headings.pop(0)
 
                 corrections.append(CorrectionEntry(
                     line_number=source_line.line_number,
                     old_level=source_line.heading_level,
                     new_level=inferred_level,
                     matched_toc_title=None,
-                    match_method='inferred',
+                    match_method='llm_inferred',
                 ))
             else:
-                # No pattern match or already correct level, preserve as-is
+                # Cannot determine, preserve as-is
                 corrected_lines.append(source_line)
         else:
             # Everything else: preserve as-is
@@ -353,7 +384,7 @@ def write_correction_report(report: CorrectionReport, output_path: str) -> None:
 # Main Entry Point (T029)
 # ============================================================================
 
-def fix_markdown(source_path: str, toc_json_path: str, output_dir: str) -> CorrectionReport:
+def fix_markdown(source_path: str, toc_json_path: str, output_dir: str, client=None) -> CorrectionReport:
     """
     Main entry point: fix markdown heading levels using extracted TOC.
 
@@ -361,6 +392,7 @@ def fix_markdown(source_path: str, toc_json_path: str, output_dir: str) -> Corre
         source_path: Path to source markdown file
         toc_json_path: Path to step 1 output JSON (contains toc array)
         output_dir: Directory to write corrected markdown + report
+        client: Optional LLM client for heading level inference
 
     Returns:
         CorrectionReport with all metadata
@@ -371,7 +403,7 @@ def fix_markdown(source_path: str, toc_json_path: str, output_dir: str) -> Corre
 
     # Match and correct
     matched_pairs, unmatched_toc = match_toc_to_source(toc_entries, source_lines)
-    corrected_lines, corrections = apply_all_corrections(source_lines, matched_pairs)
+    corrected_lines, corrections = apply_all_corrections(source_lines, matched_pairs, toc_entries, client)
 
     # Generate outputs
     source_filename = Path(source_path).name

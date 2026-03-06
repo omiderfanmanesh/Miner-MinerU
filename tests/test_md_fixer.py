@@ -16,7 +16,6 @@ from miner_mineru.pipeline.md_fixer import (
     parse_source_markdown,
     match_toc_to_source,
     kind_to_heading_level,
-    infer_heading_level_from_text,
     apply_heading_level,
     apply_all_corrections,
     write_corrected_markdown,
@@ -65,9 +64,10 @@ class TestHeadingReleveling:
             SourceLine(line_number=3, raw_text='Some text'),
         ]
         toc_entry = TOCEntry(title='Definitions', kind='article', depth=2)
+        toc_entries = [toc_entry]
         matched_pairs = {2: toc_entry}
 
-        corrected, corrections = apply_all_corrections(source_lines, matched_pairs)
+        corrected, corrections = apply_all_corrections(source_lines, matched_pairs, toc_entries, client=None)
 
         # Line 2 should be re-leveled to ##
         assert corrected[1].raw_text == '## Art. 1 - Definitions'
@@ -81,29 +81,6 @@ class TestHeadingReleveling:
         # This would load the actual Bando document and compare output
         # Placeholder for actual golden test
         assert True
-
-    def test_infer_section_heading(self):
-        """T017: Detect SECTION headings as level 1."""
-        assert infer_heading_level_from_text('SECTION I. RECIPIENTS AND AMOUNTS') == 1
-        assert infer_heading_level_from_text('SECTION II. GENERAL PROVISIONS') == 1
-        assert infer_heading_level_from_text('Section IV. Specific Provisions') == 1
-
-    def test_infer_article_heading(self):
-        """T018: Detect ART. X as level 2."""
-        assert infer_heading_level_from_text('ART. 1 COURSES AND UNIVERSITIES') == 2
-        assert infer_heading_level_from_text('Article 2 Duration of benefits') == 2
-        assert infer_heading_level_from_text('Art. 3 Grounds for ineligibility') == 2
-
-    def test_infer_subarticle_heading(self):
-        """T019: Detect ART. X(Y) and ART. X(Y.Z) as level 3."""
-        assert infer_heading_level_from_text('ART. 6(1) ECONOMIC REQUIREMENTS') == 3
-        assert infer_heading_level_from_text('Art. 5(2.1) RESIDENT STUDENTS') == 3
-        assert infer_heading_level_from_text('Article 4(1.2.3) SOMETHING') == 3
-
-    def test_infer_no_match_returns_none(self):
-        """T020: Return None for text that doesn't match patterns."""
-        assert infer_heading_level_from_text('Some random heading') is None
-        assert infer_heading_level_from_text('CHAPTER 1') is None
 
 
 # ============================================================================
@@ -121,7 +98,7 @@ class TestContentPreservation:
         ]
         matched_pairs = {}
 
-        corrected, _ = apply_all_corrections(source_lines, matched_pairs)
+        corrected, _ = apply_all_corrections(source_lines, matched_pairs, [], client=None)
 
         assert corrected[1].raw_text == 'This is a paragraph'
 
@@ -133,7 +110,7 @@ class TestContentPreservation:
         ]
         matched_pairs = {}
 
-        corrected, _ = apply_all_corrections(source_lines, matched_pairs)
+        corrected, _ = apply_all_corrections(source_lines, matched_pairs, [], client=None)
 
         assert corrected[1].raw_text == '<table><tr><td>Cell</td></tr></table>'
 
@@ -146,7 +123,7 @@ class TestContentPreservation:
         ]
         matched_pairs = {}
 
-        corrected, _ = apply_all_corrections(source_lines, matched_pairs)
+        corrected, _ = apply_all_corrections(source_lines, matched_pairs, [], client=None)
 
         assert corrected[1].raw_text == '1. First item'
         assert corrected[2].raw_text == '2. Second item'

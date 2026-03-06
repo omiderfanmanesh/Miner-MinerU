@@ -1,0 +1,815 @@
+{
+  "source_file": "data\\MinerU_markdown_Bando_di_Concorso_a.a._2025.26_ENG_0_2029918507880611840.md",
+  "output_file": "output/fixed\\MinerU_markdown_Bando_di_Concorso_a.a._2025.26_ENG_0_2029918507880611840.md",
+  "total_lines": 1700,
+  "lines_changed": 114,
+  "lines_demoted": 4,
+  "unmatched_toc_entries": [],
+  "corrections": [
+    {
+      "line_number": 1,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 3,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 5,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 7,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 9,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "INTERNATIONAL MOBILITY GRANT",
+      "match_method": "fuzzy"
+    },
+    {
+      "line_number": 17,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "CALL FOR APPLICATIONS \u2013 RECIPIENTS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 19,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Purpose of the call",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 21,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Recipients",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 23,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Courses of study and year of first enrolment",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 25,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Achievement of the degree and duration of the courses of study",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 27,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Deadlines for enrolment in courses of study",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 29,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Career check for candidates enrolled in an additional semester or in the first year",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 31,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Transfers between HEIs",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 33,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Foreign students, stateless persons and refugees",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 35,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Students enrolled simultaneously in two courses of study at Universities and AFAM institutes",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 37,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Students simultaneously enrolled in courses of study and FIT (Education, placement and internship) courses at Universities",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 39,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Compatibility with other benefits",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 41,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Publication obligations pursuant to Law 241/1990, Law 190/2012 and Legislative Decree 33/2013 \u2013 Reserved Area \u2013 Digital address",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 43,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "ELIGIBILITY REQUIREMENTS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 45,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "MERIT REQUIREMENTS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 47,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Applicants enrolled in the first year of \"type A\" or \"type B\" courses",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 49,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Applicants enrolled in years subsequent to the first of \"type A\" or \"type B\" courses",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 51,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Applicants enrolled in \"type C\" courses",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 53,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Diversified merit requirements for students with disabilities",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 55,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Applicants who have made programme changes with credit recognition",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 57,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Bonus for achieving the minimum merit requirement",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 59,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "REQUIREMENTS RELATING TO ECONOMIC CONDITION",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 61,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Participation limits",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 63,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "University ISEE",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 65,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Applicants whose household qualified in 2021 for IRPEF-exempt income or revenue (welfare, social security, indemnity, etc.) and are previous recipients of university benefits in academic years prior to 2025/2026",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 69,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Applicant status details",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 71,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Independent student",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 73,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Applicant with political refugee or stateless status",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 75,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Applicant with citizenship of an EU country (other than Italy) and non-EU country, with household resident abroad",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 77,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Transfer of application for applicants from other HEIs/AFAM institutes",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 79,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Information and Support",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 83,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "RULES FOR PARTICIPATION IN THE COMPETITION",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 85,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "General rules \u2013 Terms",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 87,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Submission of documentation",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 89,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Specific rules for applicants with disabilities, applicants from other HEIs following withdrawal from studies or forfeiture, applicants already holding another degree and bonus usage",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 91,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Applicants with disabilities",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 93,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Applicants from HEIs other than the one for which they compete in the academic year 2025/2026 following withdrawal from studies or forfeiture",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 95,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Applicants already holding another degree",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 97,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Applicants who have benefited from bonuses",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 103,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "AMOUNT OF THE SCHOLARSHIP. INCREASES AND DECREASES",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 105,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Amount of scholarship in relation to income",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 107,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Increases and decreases",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 109,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "\"RESIDENT\", \"COMMUTER\" AND \"NON-RESIDENT\" STUDENTS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 111,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "General criteria",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 113,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Indication of venue Municipalities",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 115,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Lease agreement for non-resident applicants not housed at university residences",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 117,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Foreign students",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 119,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Independent Students",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 121,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "COMPILATION AND PUBLICATION OF RANKING LISTS, ALLOCATION OF FUNDS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 123,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Type of rankings",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 125,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Provisional rankings",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 127,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Corrections to the data used for the provisional rankings \u2013 Soccorso istruttorio",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 129,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Definitive rankings",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 131,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Conclusive rankings",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 133,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Appeals against the definitive and conclusive rankings",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 135,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Single ranking reserved for students enrolled for the first time in the first year of all courses of study",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 137,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Rankings reserved for applicants enrolled in years subsequent to the first",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 139,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Eligible scholarship recipients",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 141,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Eligible non-recipients of a scholarship",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 143,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Tax refund to eligible applicants",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 145,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "FINANCING OF THE COMPETITION",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 147,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "PROCEDURES FOR THE USE OF SCHOLARSHIPS AND SERVICES",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 149,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Tuition bursary and services bursary",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 151,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Payment of tuition bursaries",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 153,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Housing service and related costs",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 155,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Residences",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 157,
+      "old_level": null,
+      "new_level": 3,
+      "matched_toc_title": "Fees and payment methods",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 159,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Catering service and related costs",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 161,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 163,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "INCOME STATEMENT ASSESSMENTS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 165,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "VERIFICATION OF MERIT. RESTITUTION OF UNDUE BURSARY OR OTHER AMOUNTS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 167,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "SUMMARY OF GROUNDS FOR EXCLUSION",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 169,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "CASES OF DISQUALIFICATION AND WITHDRAWAL",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 171,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "PROTECTION OF PERSONAL DATA \u2013 INFORMATION",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 173,
+      "old_level": null,
+      "new_level": 4,
+      "matched_toc_title": "Data processing purposes and methods",
+      "match_method": "fuzzy"
+    },
+    {
+      "line_number": 175,
+      "old_level": null,
+      "new_level": 4,
+      "matched_toc_title": "Communication and dissemination of data",
+      "match_method": "fuzzy"
+    },
+    {
+      "line_number": 177,
+      "old_level": null,
+      "new_level": 4,
+      "matched_toc_title": "Data controller",
+      "match_method": "fuzzy"
+    },
+    {
+      "line_number": 179,
+      "old_level": null,
+      "new_level": 4,
+      "matched_toc_title": "Data processor",
+      "match_method": "fuzzy"
+    },
+    {
+      "line_number": 181,
+      "old_level": null,
+      "new_level": 4,
+      "matched_toc_title": "Data protection officer",
+      "match_method": "fuzzy"
+    },
+    {
+      "line_number": 183,
+      "old_level": null,
+      "new_level": 4,
+      "matched_toc_title": "Rights of data subjects",
+      "match_method": "fuzzy"
+    },
+    {
+      "line_number": 185,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "REFERENCE REGULATIONS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 187,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "PROCEDURE MANAGER",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 189,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "PROCEDURE DEADLINES",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 191,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "JURISDICTION",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 193,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "ANNEXES",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 195,
+      "old_level": 1,
+      "new_level": 4,
+      "matched_toc_title": "DEADLINES",
+      "match_method": "fuzzy"
+    },
+    {
+      "line_number": 197,
+      "old_level": 1,
+      "new_level": 4,
+      "matched_toc_title": "List of particularly poor countries based on low human development indicators (Decreto MUR n. 115 del 28 febbraio 2023)",
+      "match_method": "fuzzy"
+    },
+    {
+      "line_number": 199,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "Modulo 1",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 201,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 425,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 459,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 563,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 589,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 753,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 855,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 901,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 993,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 1205,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 1219,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 1413,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 1423,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 1449,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 1461,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 1495,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 1533,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 1569,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 1607,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 1611,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 1631,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 1635,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    }
+  ]
+}

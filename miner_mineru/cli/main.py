@@ -46,9 +46,12 @@ def main():
     # Handle fix subcommand
     if args.command == "fix":
         from miner_mineru.pipeline.md_fixer import fix_markdown
+        from miner_mineru.providers.factory import build_client
         try:
             print(f"INFO: Fixing markdown: {args.markdown_file}", file=sys.stderr)
-            report = fix_markdown(args.markdown_file, args.toc, args.output_dir)
+            # Build LLM client for heading inference
+            client = build_client()
+            report = fix_markdown(args.markdown_file, args.toc, args.output_dir, client=client)
             print(f"INFO: Lines changed: {report.lines_changed}, Lines demoted: {report.lines_demoted}", file=sys.stderr)
             print(f"INFO: Output written to {args.output_dir}", file=sys.stderr)
             print(json.dumps(report.to_dict(), indent=2, ensure_ascii=False))

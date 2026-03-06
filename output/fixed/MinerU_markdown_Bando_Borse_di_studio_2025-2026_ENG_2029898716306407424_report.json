@@ -1,0 +1,297 @@
+{
+  "source_file": "data\\MinerU_markdown_Bando_Borse_di_studio_2025-2026_ENG_2029898716306407424.md",
+  "output_file": "output/fixed\\MinerU_markdown_Bando_Borse_di_studio_2025-2026_ENG_2029898716306407424.md",
+  "total_lines": 885,
+  "lines_changed": 41,
+  "lines_demoted": 3,
+  "unmatched_toc_entries": [],
+  "corrections": [
+    {
+      "line_number": 1,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 3,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 5,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 7,
+      "old_level": null,
+      "new_level": 2,
+      "matched_toc_title": "Definitions",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 9,
+      "old_level": null,
+      "new_level": 2,
+      "matched_toc_title": "Purpose of the call",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 11,
+      "old_level": null,
+      "new_level": 2,
+      "matched_toc_title": "Categories of students who can apply for a Scholarship",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 13,
+      "old_level": null,
+      "new_level": 2,
+      "matched_toc_title": "Deadlines and procedures for submitting applications",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 15,
+      "old_level": null,
+      "new_level": 2,
+      "matched_toc_title": "Definition of student status",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 17,
+      "old_level": null,
+      "new_level": 2,
+      "matched_toc_title": "Loans and amounts",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 19,
+      "old_level": null,
+      "new_level": 2,
+      "matched_toc_title": "I.S.E.E. and criteria for the evaluation of the financial situation",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 21,
+      "old_level": null,
+      "new_level": 2,
+      "matched_toc_title": "Criteria for determining merit",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 23,
+      "old_level": null,
+      "new_level": 2,
+      "matched_toc_title": "Ranking formation",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 25,
+      "old_level": null,
+      "new_level": 2,
+      "matched_toc_title": "Methods of payment of the scholarship",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 27,
+      "old_level": null,
+      "new_level": 2,
+      "matched_toc_title": "Revocation/forfeiture of the scholarship and relative eligibility",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 29,
+      "old_level": null,
+      "new_level": 2,
+      "matched_toc_title": "Supplements and benefits for international mobility",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 31,
+      "old_level": null,
+      "new_level": 2,
+      "matched_toc_title": "Foreign students",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 33,
+      "old_level": null,
+      "new_level": 2,
+      "matched_toc_title": "Students with disabilities",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 35,
+      "old_level": null,
+      "new_level": 2,
+      "matched_toc_title": "Part-time students",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 37,
+      "old_level": null,
+      "new_level": 2,
+      "matched_toc_title": "Declarations: corrections and verifications",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 39,
+      "old_level": null,
+      "new_level": 2,
+      "matched_toc_title": "Head of the procedure",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 41,
+      "old_level": null,
+      "new_level": 2,
+      "matched_toc_title": "Information references",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 43,
+      "old_level": null,
+      "new_level": 2,
+      "matched_toc_title": "Regulatory references",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 45,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 145,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 151,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 271,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 325,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 437,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 489,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 571,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 603,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 619,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 649,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 679,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 695,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 725,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 781,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 797,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 801,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 819,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    },
+    {
+      "line_number": 829,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": null,
+      "match_method": "inferred"
+    }
+  ]
+}
