@@ -9,18 +9,30 @@ source lines by title/numbering, and corrects heading levels per the TOC kind ma
   - topic → #### (H4)
   - annex → # (H1)
 
-Demotes unmatched # lines before the first TOC match (cover page junk) to plain text.
-Preserves all non-heading content unchanged.
+Strategy:
+  1. Matched TOC headings → correct level based on their kind
+  2. Unmatched headings BEFORE first TOC match → remove heading marker (cover page junk)
+  3. Unmatched headings AFTER first TOC match → remove heading marker (not in TOC = not real headings)
 
+This preserves ONLY the TOC structure in markdown. Any heading not in the TOC is
+treated as a label/marker and the heading marker is removed entirely.
+
+Preserves all non-heading content unchanged.
 Produces corrected markdown + JSON correction report for auditability.
 """
 
 import json
 import os
+import re
 from dataclasses import dataclass, field, asdict
 from difflib import SequenceMatcher
 from typing import List, Dict, Tuple, Optional
 from pathlib import Path
+
+
+# Pattern to detect TOC listing lines: end with page number like ". 5", ".. 44",
+# " 12", etc.  Matches trailing whitespace/dots followed by digits at end of line.
+_TOC_PAGE_NUMBER_RE = re.compile(r'[\.\s]+\d+\s*$')
 
 
 # ============================================================================
@@ -90,8 +102,13 @@ class CorrectionReport:
 # Loading & Parsing Functions (T006, T007)
 # ============================================================================
 
-def load_toc_from_json(toc_json_path: str) -> List[TOCEntry]:
-    """Load TOC entries from step 1 output JSON."""
+def load_toc_from_json(toc_json_path: str) -> Tuple[List[TOCEntry], Optional[Tuple[int, int]]]:
+    """Load TOC entries and optional TOC section boundaries from step 1 output JSON.
+
+    Returns:
+        (toc_entries, toc_section_range) where toc_section_range is
+        (start_line, end_line) or None if boundaries are not available.
+    """
     with open(toc_json_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
@@ -105,7 +122,14 @@ def load_toc_from_json(toc_json_path: str) -> List[TOCEntry]:
             page=entry_dict.get('page'),
             confidence=entry_dict.get('confidence', 1.0),
         ))
-    return toc_entries
+
+    # Load TOC section boundaries so the matcher can skip the TOC listing
+    toc_section_range = None
+    boundaries = data.get('toc_boundaries', {})
+    if boundaries.get('start_line') is not None and boundaries.get('end_line') is not None:
+        toc_section_range = (int(boundaries['start_line']), int(boundaries['end_line']))
+
+    return toc_entries, toc_section_range
 
 
 def parse_source_markdown(source_path: str) -> List[SourceLine]:
@@ -122,36 +146,78 @@ def parse_source_markdown(source_path: str) -> List[SourceLine]:
 # Matching & Matching Helper Functions (T008, T009)
 # ============================================================================
 
-def match_toc_to_source(toc_entries: List[TOCEntry], source_lines: List[SourceLine]) -> Tuple[Dict[int, TOCEntry], List[str]]:
+def match_toc_to_source(
+    toc_entries: List[TOCEntry],
+    source_lines: List[SourceLine],
+    toc_section_range: Optional[Tuple[int, int]] = None,
+) -> Tuple[Dict[int, TOCEntry], List[str]]:
     """
-    Match each TOC entry to a source line using exact + fuzzy matching.
+    Match each TOC entry to a source line in the BODY using exact + fuzzy matching.
+    Lines inside the TOC listing section are skipped so that matches land on the
+    actual body headings, not on their echo in the table of contents.
+
+    Args:
+        toc_entries: Extracted TOC entries from step 1
+        source_lines: Parsed source markdown lines
+        toc_section_range: (start_line, end_line) of the TOC listing to skip,
+                           or None to match against all lines
+
     Returns: (matched_pairs dict {source_line_num: toc_entry}, unmatched_toc_titles)
     """
     matched_pairs = {}
     used_source_indices = set()
     unmatched_toc = []
 
+    # Only match against heading lines that are NOT part of the TOC listing.
+    # A TOC listing line is a heading that ends with a page number (e.g. ". 5", ".. 44").
+    # Non-heading lines (paragraphs, tables, etc.) are also excluded.
+    def _is_toc_listing_line(sl: SourceLine) -> bool:
+        """Return True if this heading line looks like a TOC entry (has trailing page number)."""
+        return bool(_TOC_PAGE_NUMBER_RE.search(sl.stripped_text))
+
+    candidate_lines = [
+        sl for sl in source_lines
+        if sl.heading_level is not None and not _is_toc_listing_line(sl)
+    ]
+
     for toc_entry in toc_entries:
-        # Try exact match first: check if numbering or title appears in any source line
+        # Try exact match first
         found = False
-        for source_line in source_lines:
+        title_lower = toc_entry.title.lower()
+        num_lower = toc_entry.numbering.lower() if toc_entry.numbering else None
+
+        for source_line in candidate_lines:
             if source_line.line_number - 1 in used_source_indices:
                 continue
 
             search_text = source_line.stripped_text.lower()
 
-            # Exact match: numbering or title is a substring
-            if toc_entry.numbering and toc_entry.numbering.lower() in search_text:
-                matched_pairs[source_line.line_number] = toc_entry
-                used_source_indices.add(source_line.line_number - 1)
-                found = True
-                break
+            # PRIORITY 1: If entry has numbering, match by numbering FIRST (strong signal)
+            # Numbering is typically unique and reliable, even if title differs.
+            if num_lower:
+                idx = search_text.find(num_lower)
+                if idx != -1:
+                    end_pos = idx + len(num_lower)
+                    # Numbering must be a whole token (not part of "1.2.1" when looking for "1.2")
+                    if end_pos >= len(search_text) or search_text[end_pos] in (' ', '\t'):
+                        matched_pairs[source_line.line_number] = toc_entry
+                        used_source_indices.add(source_line.line_number - 1)
+                        found = True
+                        break
 
-            if toc_entry.title.lower() in search_text:
-                matched_pairs[source_line.line_number] = toc_entry
-                used_source_indices.add(source_line.line_number - 1)
-                found = True
-                break
+            # PRIORITY 2: If no numbering, match by title
+            else:
+                if title_lower == search_text:
+                    matched_pairs[source_line.line_number] = toc_entry
+                    used_source_indices.add(source_line.line_number - 1)
+                    found = True
+                    break
+
+                if title_lower in search_text:
+                    matched_pairs[source_line.line_number] = toc_entry
+                    used_source_indices.add(source_line.line_number - 1)
+                    found = True
+                    break
 
         if found:
             continue
@@ -159,7 +225,7 @@ def match_toc_to_source(toc_entries: List[TOCEntry], source_lines: List[SourceLi
         # Fuzzy match: SequenceMatcher ratio >= 0.8
         best_ratio = 0.0
         best_line = None
-        for source_line in source_lines:
+        for source_line in candidate_lines:
             if source_line.line_number - 1 in used_source_indices:
                 continue
 
@@ -188,15 +254,17 @@ def find_first_toc_match_index(source_lines: List[SourceLine], matched_pairs: Di
 # Heading Level Mapping & Correction Functions (T014, T015, T016)
 # ============================================================================
 
-def kind_to_heading_level(kind: str) -> Optional[int]:
-    """Map TOC entry kind to heading level for supported kinds only."""
+def kind_to_heading_level(kind: str) -> int:
+    """Map TOC entry kind to heading level (1-4)."""
     mapping = {
         'section': 1,
         'article': 2,
         'subarticle': 3,
         'subsection': 3,
+        'topic': 4,
+        'annex': 1,
     }
-    return mapping.get(kind)
+    return mapping.get(kind, 3)
 
 
 def collect_unmatched_headings(
@@ -273,37 +341,75 @@ def apply_all_corrections(
 ) -> Tuple[List[SourceLine], List[CorrectionEntry]]:
     """Apply all heading level corrections to source lines.
 
+    Strategy:
+    1. Matched TOC headings → correct level based on kind (##, ###, ####, etc.)
+    2. Unmatched headings BEFORE first TOC match → demote to plain text
+    3. Unmatched headings AFTER first TOC match → demote to #### (details/items level)
+
     Args:
         source_lines: Source markdown lines
         matched_pairs: Matched TOC entries {line_number: TOCEntry}
         toc_entries: All TOC entries for context
-        client: Optional LLM client for heading inference
+        client: Ignored (no LLM inference for unmatched headings)
     """
     corrected_lines = []
     corrections = []
 
-    # Apply TOC-based corrections only for supported kinds.
+    # Find first TOC match to distinguish cover page from body
+    first_match_line = find_first_toc_match_index(source_lines, matched_pairs)
+
+    # Apply corrections
     for source_line in source_lines:
         if source_line.line_number in matched_pairs:
-            # Matched TOC entry: re-level only for supported kinds
+            # MATCHED TO TOC: re-level based on kind
             toc_entry = matched_pairs[source_line.line_number]
             new_level = kind_to_heading_level(toc_entry.kind)
-            if new_level is not None:
-                corrected_line = apply_heading_level(source_line, new_level)
-                corrected_lines.append(corrected_line)
+            corrected_line = apply_heading_level(source_line, new_level)
+            corrected_lines.append(corrected_line)
 
-                corrections.append(CorrectionEntry(
-                    line_number=source_line.line_number,
-                    old_level=source_line.heading_level,
-                    new_level=new_level,
-                    matched_toc_title=toc_entry.title,
-                    match_method='exact' if toc_entry.numbering and toc_entry.numbering.lower() in source_line.stripped_text.lower() else 'fuzzy',
-                ))
+            match_method = 'exact'
+            if toc_entry.numbering and toc_entry.numbering.lower() in source_line.stripped_text.lower():
+                match_method = 'exact'
             else:
-                # Unsupported kind: preserve as-is
-                corrected_lines.append(source_line)
+                match_method = 'fuzzy'
+
+            corrections.append(CorrectionEntry(
+                line_number=source_line.line_number,
+                old_level=source_line.heading_level,
+                new_level=new_level,
+                matched_toc_title=toc_entry.title,
+                match_method=match_method,
+            ))
+
+        elif source_line.heading_level and first_match_line and source_line.line_number < first_match_line:
+            # UNMATCHED BEFORE FIRST TOC MATCH: demote to plain text (cover page junk)
+            demoted_line = SourceLine(line_number=source_line.line_number, raw_text=source_line.stripped_text)
+            corrected_lines.append(demoted_line)
+
+            corrections.append(CorrectionEntry(
+                line_number=source_line.line_number,
+                old_level=source_line.heading_level,
+                new_level=None,
+                matched_toc_title=None,
+                match_method='demoted',
+            ))
+
+        elif source_line.heading_level and first_match_line and source_line.line_number > first_match_line:
+            # UNMATCHED AFTER FIRST TOC MATCH: remove heading marker
+            # If it's not in the TOC, it's not a real heading - it's just a label/marker
+            demoted_line = SourceLine(line_number=source_line.line_number, raw_text=source_line.stripped_text)
+            corrected_lines.append(demoted_line)
+
+            corrections.append(CorrectionEntry(
+                line_number=source_line.line_number,
+                old_level=source_line.heading_level,
+                new_level=None,
+                matched_toc_title=None,
+                match_method='demoted',
+            ))
+
         else:
-            # Unmatched lines: preserve as-is
+            # Non-heading content: preserve as-is
             corrected_lines.append(source_line)
 
     return corrected_lines, corrections
@@ -379,11 +485,11 @@ def fix_markdown(
     active_inference_client = inference_client if inference_client else client
 
     # Load inputs
-    toc_entries = load_toc_from_json(toc_json_path)
+    toc_entries, toc_section_range = load_toc_from_json(toc_json_path)
     source_lines = parse_source_markdown(source_path)
 
-    # Match and correct
-    matched_pairs, unmatched_toc = match_toc_to_source(toc_entries, source_lines)
+    # Match TOC entries to body headings (skip the TOC listing section)
+    matched_pairs, unmatched_toc = match_toc_to_source(toc_entries, source_lines, toc_section_range)
     corrected_lines, corrections = apply_all_corrections(source_lines, matched_pairs, toc_entries, active_inference_client)
 
     # Generate outputs

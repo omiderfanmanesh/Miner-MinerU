@@ -4,8 +4,10 @@ Batch pipeline runner: Extract TOC and fix markdown for all documents in /data.
 
 Usage:
     python scripts/run_pipeline_all.py [--skip-extract] [--skip-fix]
+    python scripts/run_pipeline_all.py --file <markdown_file> [--skip-extract] [--skip-fix]
 
 Options:
+    --file <path>     Process a single markdown file (absolute or relative path)
     --skip-extract    Skip TOC extraction (use existing JSON files)
     --skip-fix        Skip markdown fixing (only extract TOC)
 """
@@ -40,9 +42,10 @@ def run_pipeline(
     client=None,
     fix_client=None,
     inference_client=None,
+    single_file: str = None,
 ):
     """
-    Run full pipeline for all markdown files in data_dir.
+    Run full pipeline for markdown files in data_dir.
 
     Args:
         data_dir: Directory containing markdown files
@@ -53,9 +56,19 @@ def run_pipeline(
         fix_client: LLM client for markdown fixing (optional, can be None to skip LLM heading correction)
         inference_client: Optional separate LLM client for heading inference only
                          (if provided, overrides fix_client for inference tasks)
+        single_file: If provided, only process this specific file (absolute or relative path)
     """
-    # Find all markdown files
-    md_files = sorted(data_dir.glob("*.md"))
+    # Find markdown files
+    if single_file:
+        file_path = Path(single_file)
+        if not file_path.is_absolute():
+            file_path = data_dir / file_path.name
+        if not file_path.exists():
+            logger.error(f"File not found: {file_path}")
+            return
+        md_files = [file_path]
+    else:
+        md_files = sorted(data_dir.glob("*.md"))
 
     if not md_files:
         logger.error(f"No markdown files found in {data_dir}")
@@ -190,7 +203,12 @@ def run_pipeline(
 
 def main():
     parser = argparse.ArgumentParser(
-        description='Run full pipeline (TOC extraction + markdown fixing) for all documents'
+        description='Run full pipeline (TOC extraction + markdown fixing) for all documents or a single file'
+    )
+    parser.add_argument(
+        '--file',
+        default=None,
+        help='Process a single markdown file (absolute or relative path). If not specified, processes all files in /data'
     )
     parser.add_argument(
         '--skip-extract',
@@ -268,6 +286,7 @@ def main():
             client=client,
             fix_client=fix_client,
             inference_client=inference_client,
+            single_file=args.file,
         )
     except KeyboardInterrupt:
         logger.info("\nPipeline interrupted by user")

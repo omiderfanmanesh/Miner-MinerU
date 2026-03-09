@@ -58,6 +58,46 @@ python -m miner_mineru fix <source.md> --toc <toc.json> --output-dir <output/fix
 
 Python 3.11+ (conda `agent` environment): Follow standard conventions
 
+## File Organization Rules
+
+**IMPORTANT**: Keep root directory clean. Follow these rules strictly:
+
+### ✅ Files Allowed in Root
+- `README.md` - Main project documentation
+- `CLAUDE.md` - Development guidelines (this file)
+- `.gitignore` - Git configuration
+- `pyproject.toml` / `setup.py` - Package configuration
+- `.github/` - GitHub workflows
+
+### ❌ DO NOT Create in Root
+- Documentation files (`.md`, `.txt`) → Must go in `docs/` folder
+- Analysis reports → Must go in `docs/` or `output/`
+- Quick reference guides → Must go in `docs/`
+- Implementation guides → Must go in `docs/`
+- Feature plans → Must go in `.specify/` folder
+
+### Where Things Go
+
+| Type | Location |
+|------|----------|
+| Feature specifications | `.specify/` |
+| Documentation | `docs/` |
+| Test fixtures | `tests/fixtures/` |
+| Data files | `data/` |
+| Output/results | `output/` |
+| Code | `miner_mineru/` |
+| Tests | `tests/` |
+
+### Current Root Cleanup
+These files should be moved to `docs/`:
+- `BATCH_INFERENCE_QUICK_START.md` → `docs/`
+- `COST_OPTIMIZATION_SUMMARY.md` → `docs/`
+- `MATCHING_IMPROVEMENTS.md` → `docs/`
+- `NUMBERING_PRIORITY_MATCHING.md` → `docs/`
+- `SESSION_CHANGES_SUMMARY.md` → `docs/`
+- `STRATEGY_CHANGE_DEMOTING.md` → `docs/`
+- `JSON_DOCS.md` → `docs/INDEX.md` (or keep only if it's the main index)
+
 ## Recent Changes
 - 002-fix-source-markdown: Added Python 3.11+ (conda `agent` environment) + `json` (stdlib), `difflib` (stdlib for fuzzy matching), `os`/`pathlib` (stdlib)
 
