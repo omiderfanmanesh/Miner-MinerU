@@ -1,8 +1,8 @@
 {
-  "source_file": "data\\MinerU_markdown_Bando_di_Concorso_a.a._2025.26_ENG_0_2029918507880611840.md",
-  "output_file": "output/fixed\\MinerU_markdown_Bando_di_Concorso_a.a._2025.26_ENG_0_2029918507880611840.md",
+  "source_file": "C:\\Projects\\personal\\Miner-MinerU\\data\\MinerU_markdown_Bando_di_Concorso_a.a._2025.26_ENG_0_2029918507880611840.md",
+  "output_file": "C:\\Projects\\personal\\Miner-MinerU\\output\\fixed\\MinerU_markdown_Bando_di_Concorso_a.a._2025.26_ENG_0_2029918507880611840.md",
   "total_lines": 1700,
-  "lines_changed": 114,
+  "lines_changed": 91,
   "lines_demoted": 4,
   "unmatched_toc_entries": [],
   "corrections": [
@@ -518,13 +518,6 @@
       "match_method": "exact"
     },
     {
-      "line_number": 161,
-      "old_level": 1,
-      "new_level": 2,
-      "matched_toc_title": null,
-      "match_method": "inferred"
-    },
-    {
       "line_number": 163,
       "old_level": 1,
       "new_level": 2,
@@ -656,160 +649,6 @@
       "new_level": 1,
       "matched_toc_title": "Modulo 1",
       "match_method": "exact"
-    },
-    {
-      "line_number": 201,
-      "old_level": 1,
-      "new_level": 2,
-      "matched_toc_title": null,
-      "match_method": "inferred"
-    },
-    {
-      "line_number": 425,
-      "old_level": 1,
-      "new_level": 2,
-      "matched_toc_title": null,
-      "match_method": "inferred"
-    },
-    {
-      "line_number": 459,
-      "old_level": 1,
-      "new_level": 2,
-      "matched_toc_title": null,
-      "match_method": "inferred"
-    },
-    {
-      "line_number": 563,
-      "old_level": 1,
-      "new_level": 2,
-      "matched_toc_title": null,
-      "match_method": "inferred"
-    },
-    {
-      "line_number": 589,
-      "old_level": 1,
-      "new_level": 2,
-      "matched_toc_title": null,
-      "match_method": "inferred"
-    },
-    {
-      "line_number": 753,
-      "old_level": 1,
-      "new_level": 2,
-      "matched_toc_title": null,
-      "match_method": "inferred"
-    },
-    {
-      "line_number": 855,
-      "old_level": 1,
-      "new_level": 2,
-      "matched_toc_title": null,
-      "match_method": "inferred"
-    },
-    {
-      "line_number": 901,
-      "old_level": 1,
-      "new_level": 2,
-      "matched_toc_title": null,
-      "match_method": "inferred"
-    },
-    {
-      "line_number": 993,
-      "old_level": 1,
-      "new_level": 2,
-      "matched_toc_title": null,
-      "match_method": "inferred"
-    },
-    {
-      "line_number": 1205,
-      "old_level": 1,
-      "new_level": 2,
-      "matched_toc_title": null,
-      "match_method": "inferred"
-    },
-    {
-      "line_number": 1219,
-      "old_level": 1,
-      "new_level": 2,
-      "matched_toc_title": null,
-      "match_method": "inferred"
-    },
-    {
-      "line_number": 1413,
-      "old_level": 1,
-      "new_level": 2,
-      "matched_toc_title": null,
-      "match_method": "inferred"
-    },
-    {
-      "line_number": 1423,
-      "old_level": 1,
-      "new_level": 2,
-      "matched_toc_title": null,
-      "match_method": "inferred"
-    },
-    {
-      "line_number": 1449,
-      "old_level": 1,
-      "new_level": 2,
-      "matched_toc_title": null,
-      "match_method": "inferred"
-    },
-    {
-      "line_number": 1461,
-      "old_level": 1,
-      "new_level": 2,
-      "matched_toc_title": null,
-      "match_method": "inferred"
-    },
-    {
-      "line_number": 1495,
-      "old_level": 1,
-      "new_level": 2,
-      "matched_toc_title": null,
-      "match_method": "inferred"
-    },
-    {
-      "line_number": 1533,
-      "old_level": 1,
-      "new_level": 2,
-      "matched_toc_title": null,
-      "match_method": "inferred"
-    },
-    {
-      "line_number": 1569,
-      "old_level": 1,
-      "new_level": 2,
-      "matched_toc_title": null,
-      "match_method": "inferred"
-    },
-    {
-      "line_number": 1607,
-      "old_level": 1,
-      "new_level": 2,
-      "matched_toc_title": null,
-      "match_method": "inferred"
-    },
-    {
-      "line_number": 1611,
-      "old_level": 1,
-      "new_level": 2,
-      "matched_toc_title": null,
-      "match_method": "inferred"
-    },
-    {
-      "line_number": 1631,
-      "old_level": 1,
-      "new_level": 2,
-      "matched_toc_title": null,
-      "match_method": "inferred"
-    },
-    {
-      "line_number": 1635,
-      "old_level": 1,
-      "new_level": 2,
-      "matched_toc_title": null,
-      "match_method": "inferred"
     }
   ]
 }

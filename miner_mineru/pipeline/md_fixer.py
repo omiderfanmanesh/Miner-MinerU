@@ -201,27 +201,57 @@ def kind_to_heading_level(kind: str) -> int:
     return mapping.get(kind, 3)
 
 
-def infer_heading_level_with_llm(
+def collect_unmatched_headings(
+    source_lines: List[SourceLine],
+    matched_pairs: Dict[int, TOCEntry],
+    first_match_line: Optional[int],
+) -> List[str]:
+    """
+    Collect all unmatched headings AFTER first TOC match for batch LLM inference.
+
+    Args:
+        source_lines: All source lines
+        matched_pairs: Matched TOC entries {line_number: TOCEntry}
+        first_match_line: Line number of first TOC match (or None)
+
+    Returns:
+        List of unmatched heading texts to be inferred
+    """
+    unmatched_headings = []
+    for source_line in source_lines:
+        # Collect unmatched headings AFTER first TOC match
+        if (source_line.heading_level and
+            first_match_line and
+            source_line.line_number > first_match_line and
+            source_line.line_number not in matched_pairs):
+            unmatched_headings.append(source_line.stripped_text)
+    return unmatched_headings
+
+
+def infer_headings_batch(
     client,
-    heading_text: str,
+    headings: List[str],
     context_headings: List[tuple],
     toc_entries: List[dict],
-) -> Optional[int]:
+) -> Dict[str, Optional[int]]:
     """
-    Use LLM agent to determine correct heading level for unmatched heading.
+    Use LLM agent to determine correct heading levels for multiple headings in ONE call.
 
     Args:
         client: LLM client (Anthropic or Azure)
-        heading_text: The heading text to analyze
+        headings: List of heading texts to analyze
         context_headings: List of (level, text) tuples for context
         toc_entries: List of TOC entry dicts for reference
 
     Returns:
-        Correct heading level (1-4) or None if agent cannot decide
+        Dict mapping heading text -> level (1-4) or None
     """
-    from miner_mineru.agents.heading_corrector_agent import correct_heading_with_llm
+    if not headings or not client:
+        return {h: None for h in headings}
 
-    return correct_heading_with_llm(client, heading_text, context_headings, toc_entries)
+    from miner_mineru.agents.heading_corrector_agent import correct_headings_batch
+
+    return correct_headings_batch(client, headings, context_headings, toc_entries)
 
 
 def apply_heading_level(source_line: SourceLine, new_level: int) -> SourceLine:
@@ -260,6 +290,23 @@ def apply_all_corrections(
     # Build context of recent headings for LLM
     recent_headings = []
 
+    # Step 1: Collect all unmatched headings AFTER first match for batch inference
+    unmatched_headings = collect_unmatched_headings(source_lines, matched_pairs, first_match_line)
+
+    # Step 2: Call LLM ONCE for all unmatched headings (batch inference)
+    inferred_levels_map = {}
+    if client and unmatched_headings:
+        toc_dicts = [
+            {
+                "kind": entry.kind,
+                "title": entry.title,
+                "numbering": entry.numbering,
+            }
+            for entry in toc_entries
+        ]
+        inferred_levels_map = infer_headings_batch(client, unmatched_headings, recent_headings, toc_dicts)
+
+    # Step 3: Apply corrections using pre-computed inferred levels
     for source_line in source_lines:
         if source_line.line_number in matched_pairs:
             # Matched TOC entry: re-level based on kind
@@ -293,25 +340,8 @@ def apply_all_corrections(
                 match_method='demoted',
             ))
         elif source_line.heading_level and first_match_line and source_line.line_number > first_match_line:
-            # Unmatched heading AFTER first TOC match: use LLM to determine correct level
-            inferred_level = None
-
-            if client:
-                # Use LLM agent to determine level
-                toc_dicts = [
-                    {
-                        "kind": entry.kind,
-                        "title": entry.title,
-                        "numbering": entry.numbering,
-                    }
-                    for entry in toc_entries
-                ]
-                inferred_level = infer_heading_level_with_llm(
-                    client,
-                    source_line.stripped_text,
-                    recent_headings,
-                    toc_dicts,
-                )
+            # Unmatched heading AFTER first TOC match: use pre-computed batch inference result
+            inferred_level = inferred_levels_map.get(source_line.stripped_text)
 
             if inferred_level and inferred_level != source_line.heading_level:
                 # Re-level based on LLM decision
@@ -384,7 +414,13 @@ def write_correction_report(report: CorrectionReport, output_path: str) -> None:
 # Main Entry Point (T029)
 # ============================================================================
 
-def fix_markdown(source_path: str, toc_json_path: str, output_dir: str, client=None) -> CorrectionReport:
+def fix_markdown(
+    source_path: str,
+    toc_json_path: str,
+    output_dir: str,
+    client=None,
+    inference_client=None,
+) -> CorrectionReport:
     """
     Main entry point: fix markdown heading levels using extracted TOC.
 
@@ -392,18 +428,23 @@ def fix_markdown(source_path: str, toc_json_path: str, output_dir: str, client=N
         source_path: Path to source markdown file
         toc_json_path: Path to step 1 output JSON (contains toc array)
         output_dir: Directory to write corrected markdown + report
-        client: Optional LLM client for heading level inference
+        client: Optional LLM client for heading level inference (used if inference_client not provided)
+        inference_client: Optional separate LLM client for heading level inference only
+                         (if provided, overrides client for inference tasks)
 
     Returns:
         CorrectionReport with all metadata
     """
+    # Use inference_client if provided, otherwise fall back to client
+    active_inference_client = inference_client if inference_client else client
+
     # Load inputs
     toc_entries = load_toc_from_json(toc_json_path)
     source_lines = parse_source_markdown(source_path)
 
     # Match and correct
     matched_pairs, unmatched_toc = match_toc_to_source(toc_entries, source_lines)
-    corrected_lines, corrections = apply_all_corrections(source_lines, matched_pairs, toc_entries, client)
+    corrected_lines, corrections = apply_all_corrections(source_lines, matched_pairs, toc_entries, active_inference_client)
 
     # Generate outputs
     source_filename = Path(source_path).name

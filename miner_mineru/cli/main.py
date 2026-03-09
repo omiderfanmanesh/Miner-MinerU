@@ -40,6 +40,11 @@ def main():
     fix_parser.add_argument("markdown_file", help="Path to source markdown file")
     fix_parser.add_argument("--toc", required=True, help="Path to step 1 output JSON (contains toc array)")
     fix_parser.add_argument("--output-dir", "-o", required=True, help="Output directory for corrected markdown + report")
+    fix_parser.add_argument(
+        "--inference-model",
+        default=None,
+        help="Optional separate LLM model for heading inference (if not provided, uses same model as TOC extraction)"
+    )
 
     args = parser.parse_args()
 
@@ -49,9 +54,26 @@ def main():
         from miner_mineru.providers.factory import build_client
         try:
             print(f"INFO: Fixing markdown: {args.markdown_file}", file=sys.stderr)
-            # Build LLM client for heading inference
+
+            # Build main LLM client
             client = build_client()
-            report = fix_markdown(args.markdown_file, args.toc, args.output_dir, client=client)
+
+            # Build optional separate inference client if specified
+            inference_client = None
+            if args.inference_model:
+                import os
+                original_model = os.getenv("LLM_MODEL")
+                try:
+                    os.environ["LLM_MODEL"] = args.inference_model
+                    inference_client = build_client()
+                    print(f"INFO: Using separate model for heading inference: {args.inference_model}", file=sys.stderr)
+                finally:
+                    if original_model:
+                        os.environ["LLM_MODEL"] = original_model
+                    else:
+                        os.environ.pop("LLM_MODEL", None)
+
+            report = fix_markdown(args.markdown_file, args.toc, args.output_dir, client=client, inference_client=inference_client)
             print(f"INFO: Lines changed: {report.lines_changed}, Lines demoted: {report.lines_demoted}", file=sys.stderr)
             print(f"INFO: Output written to {args.output_dir}", file=sys.stderr)
             print(json.dumps(report.to_dict(), indent=2, ensure_ascii=False))

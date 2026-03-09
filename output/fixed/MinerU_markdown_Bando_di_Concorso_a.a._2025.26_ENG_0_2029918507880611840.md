@@ -158,7 +158,7 @@ Published on August 4, 2025 Deadline for application: 12:00 AM on September 18, 
 
 ### 10.4 Catering service and related costs. 37
 
-## ARTICLE 11 – INTERNATIONAL MOBILITY GRANT. 38
+# ARTICLE 11 – INTERNATIONAL MOBILITY GRANT. 38
 
 ## ARTICLE 12 – INCOME STATEMENT ASSESSMENTS. 39
 
@@ -198,7 +198,7 @@ Published on August 4, 2025 Deadline for application: 12:00 AM on September 18, 
 
 # Allegato Modulo 1. 49
 
-## ARTICLE 1 – CALL FOR APPLICATIONS – RECIPIENTS
+# ARTICLE 1 – CALL FOR APPLICATIONS – RECIPIENTS
 
 # 1.1 Purpose of the call
 
@@ -422,7 +422,7 @@ Each applicant has their own reserved area pursuant to Articles 4 and 41 of Legi
 
 The processing of sensitive data and the exchange of communications are understood to be carried out in full compliance with the rules safeguarding privacy and in compliance with the criteria laid down by Legislative Decree 196/2003 and Regulation (EU) 2016/679 of the European Parliament and Council of 27 April 2016. 
 
-## ARTICLE 2 – ELIGIBILITY REQUIREMENTS
+# ARTICLE 2 – ELIGIBILITY REQUIREMENTS
 
 # All applicants wishing to participate in the competition must pay the regional student services fee or qualify for one of the exemption conditions established by the HEIs.
 
@@ -456,7 +456,7 @@ Special merit criteria are provided for students with a recognised disability pu
 
 All the requirements provided for in this call for applications must be met on the deadline date for this call under penalty of exclusion from participation. 
 
-## ARTICLE 3 – MERIT REQUIREMENTS
+# ARTICLE 3 – MERIT REQUIREMENTS
 
 # 3.1 Applicants enrolled in the first year of "type A" or "type B" courses
 
@@ -560,7 +560,7 @@ b) their university position is registered at the HEI/AFAM institute in time for
 
 Applicants who, in academic years prior to the academic year 2025/2026, have made one of the programme changes referred to in this article and are again enrolled in a first year of the course for the academic year 2025/2026 are excluded pursuant to 
 
-## art. 1.2.2 of this call.
+# art. 1.2.2 of this call.
 
 Applicants enrolled by abbreviation of course, after obtaining the three-year degree, from the first to the third year of a single-cycle degree course for the a.y. 2025/2026, are excluded from the competition for possession of a qualification of the same level. These candidates will be able to compete if enrolled in the fourth and fifth year of the new singlecycle degree course. 
 
@@ -586,7 +586,7 @@ Applicants who are eligible due to "bonus" credits awarded are placed in the ran
 
 Bonuses cannot be awarded to applicants enrolled in the first year of a “Type A” or “Type B” course. 
 
-## ARTICLE 4 – REQUIREMENTS RELATING TO ECONOMIC CONDITION
+# ARTICLE 4 – REQUIREMENTS RELATING TO ECONOMIC CONDITION
 
 # 4.1 Participation limits
 
@@ -750,7 +750,7 @@ For benefits related to doctoral research courses, the applicant may select the 
 
 This 'restricted household' ISEE may be used for this competition in place of the UNIVERSITY ISEE. 
 
-## ARTICLE 5 – RULES FOR PARTICIPATION IN THE COMPETITION
+# ARTICLE 5 – RULES FOR PARTICIPATION IN THE COMPETITION
 
 # 5.1 General rules – Terms
 
@@ -852,7 +852,7 @@ The service is not available on Saturdays, Sundays and public holidays or betwee
 
 No reply can be guaranteed if support requests are received after 12 pm on 12th september 2025. 
 
-## ARTICLE 6 – AMOUNT OF THE SCHOLARSHIP. INCREASES AND DECREASES
+# ARTICLE 6 – AMOUNT OF THE SCHOLARSHIP. INCREASES AND DECREASES
 
 # 6.1 Amount of scholarship in relation to income
 
@@ -898,7 +898,7 @@ Increases and reductions are implemented automatically by the Agency following c
 
 The increases cannot be cumulated; in case of conflict, the highest increase will be applied. 
 
-## ARTICLE 7 – "RESIDENT", "COMMUTER" AND "NON-RESIDENT" STUDENTS
+# ARTICLE 7 – "RESIDENT", "COMMUTER" AND "NON-RESIDENT" STUDENTS
 
 # 7.1 General criteria
 
@@ -990,7 +990,7 @@ Foreign students are considered "non-resident" regardless of their residence in 
 
 Independent students as per art. 4.5 of the call, are considered "non-resident" regardless of their residence in Italy. Applicants availing of this status will automatically be subject to an economic and financial assessment. 
 
-## ARTICLE 8 – COMPILATION AND PUBLICATION OF RANKING LISTS, ALLOCATION OF FUNDS
+# ARTICLE 8 – COMPILATION AND PUBLICATION OF RANKING LISTS, ALLOCATION OF FUNDS
 
 # 8.1 Type of rankings
 
@@ -1202,7 +1202,7 @@ After completing the definitive rankings referred to in art. 8.4 and the conclus
 
 referred to in art. 8.5, the Agency sends the names of the eligible students to the relevant university, which shall reimburse the enrolment fees. 
 
-## ARTICLE 9 – FINANCING OF THE COMPETITION
+# ARTICLE 9 – FINANCING OF THE COMPETITION
 
 This competition is financed through: 
 
@@ -1216,7 +1216,7 @@ This competition is financed through:
 
 The total amount of resources is allocated on the basis of the definitive ranking referred to in art. 8.4 and conclusive ranking pursuant to art. 8.5. Allocation is therefore compatible with the availability of the resources referred to in points 1 to 6, based on ranking position; some eligible applicants might not receive a scholarship (art. 8.11 and 8.12). 
 
-## ARTICLE 10 - PROCEDURES FOR THE USE OF SCHOLARSHIPS AND SERVICES
+# ARTICLE 10 - PROCEDURES FOR THE USE OF SCHOLARSHIPS AND SERVICES
 
 # 10.1 Tuition bursary and services bursary
 
@@ -1410,7 +1410,7 @@ Beneficiary students enrolled in additional semesters, not subject to a mandator
 
 The Company will inform students about the activation of new production and distribution units through its website and any other useful information channels. 
 
-## ARTICLE 11 – INTERNATIONAL MOBILITY GRANT
+# ARTICLE 11 – INTERNATIONAL MOBILITY GRANT
 
 Students receiving a scholarship may apply, one time only for each degree course referred to in art. 1, for a scholarship supplement for participation in international mobility programmes, equal to the difference between the € 600,00 amount and the monthly contribution assigned by the University, so that the total contribution between the University and ADiSURC is equal to € 600,00 on a monthly basis. This sum is paid according to the actual number of days abroad, up to a maximum of 10 months, certified by the university running the mobility program, regardless of the country of destination and provided that the period abroad entails recognition of credits. 
 
@@ -1420,7 +1420,7 @@ The grant will be paid, if necessary, provided that the applicants are recipient
 
 In case of availability of economic resources beyond the scholarships, ADiSURC disburses the grant at the end of the mobility period, after verifying the achievement of at least 6 credits. 
 
-## ARTICLE 12 – INCOME STATEMENT ASSESSMENTS
+# ARTICLE 12 – INCOME STATEMENT ASSESSMENTS
 
 The Agency checks the veracity of the declarations produced by subsidy recipients, carrying out the necessary checks pursuant to applicable legislation and in particular Article 10 of Legislative Decree no. 68 of 29 March 2012. Pursuant to Article 10, paragraph 3 of Legislative Decree 29 March 2012, no. 68 "Anyone who, without being in the conditions established by the state and regional provisions, submits untruthful statements, for themselves or members of the household, in order to qualify for the subsidies, shall be subject to an administrative penalty consisting of the payment of a sum of three times the amount received, or the value of the services unduly used, and shall forfeit the right to obtain other disbursements for the duration of the course of studies, without prejudice to the application of the penalties referred to in Article 38, paragraph 3, of the decree-law of 31 May 2010, no. 78 converted, with amendments, by the law of 30 July 2010, no. 122, as well as the criminal laws for the acts constituting an offence." 
 
@@ -1446,7 +1446,7 @@ In all cases of where a false declaration is identified, the Agency shall report
 
 In addition, the Administration reserves the right to avail of the assistance of the Guardia di Finanza (Finance Police) for preliminary checks, reserving the right to suspend payments in any capacity if it deems it necessary to further verify self-certification. 
 
-## ARTICLE 13 - VERIFICATION OF MERIT. RESTITUTION OF UNDUE BURSARY OR OTHER AMOUNTS
+# ARTICLE 13 - VERIFICATION OF MERIT. RESTITUTION OF UNDUE BURSARY OR OTHER AMOUNTS
 
 Students enrolled in the first year of an undergraduate, single-cycle master's degree or master's degree course who have not obtained at least 20 credits by 30 November 2024 are 
 
@@ -1458,7 +1458,7 @@ In the above case, any sums already redeemed by the student and the amount corre
 
 Where there is a difference in fees applied to students eligible for the competition and nonparticipating students, failure to achieve at least 20 CFU by 30/11/2025 shall entail payment of this difference. 
 
-## ARTICLE 14 – SUMMARY OF GROUNDS FOR EXCLUSION
+# ARTICLE 14 – SUMMARY OF GROUNDS FOR EXCLUSION
 
 The following applicants shall be excluded from the competition: 
 
@@ -1492,7 +1492,7 @@ n) applicants who are recipients of a scholarship from another public or private
 
 o) applicants subject to exclusion from the competition as provided for by the Prime Ministerial Decree of 9 April 2001, by Legislative Decree no. 68 of 29 March 2012 and by the Campania Region "Annual university access intervention plan for the academic year 2025/2026". 
 
-## ARTICLE 15 – CASES OF DISQUALIFICATION AND WITHDRAWAL
+# ARTICLE 15 – CASES OF DISQUALIFICATION AND WITHDRAWAL
 
 Applicants shall lose the right to the scholarship or associated benefits where the following circumstances are established and including after this selection procedure has been completed: 
 
@@ -1530,7 +1530,7 @@ g) application of the penalties referred to in art. 12, in the event of a negati
 
 Students enrolled for the first time in the first year of a course of study and who do not reach a minimum level of merit equal to 20 credits by the deadline of 30/11/2026 – with the exception of students with recognition of disability pursuant to Article 3, paragraph 1, of Law no. 104 of 5 February 1992, or with a disability equal to or greater than $66 \%$ – retain eligibility for the competition, but are subject to withdrawal of the scholarship and the benefits associated with it, retaining only the right to reimbursement of the regional fee. 
 
-## ARTICLE 16 – PROTECTION OF PERSONAL DATA – INFORMATION
+# ARTICLE 16 – PROTECTION OF PERSONAL DATA – INFORMATION
 
 The following information is provided pursuant to Article 13 of Regulation (EU) 2016/679 of the European Parliament and Council of 27 April 2016: 
 
@@ -1566,7 +1566,7 @@ The data protection officer is Mr Diego Cordua.
 
 The data controller ADiSURC may be contacted by applicants to assert the rights provided for by Regulation (EU) 2016/679 of the European Parliament and Council of 27 April 2016. 
 
-## ARTICLE 17 – REFERENCE REGULATIONS
+# ARTICLE 17 – REFERENCE REGULATIONS
 
 The rules of the call are binding. 
 
@@ -1604,11 +1604,11 @@ Prime Ministerial Decree no. 159 of 5 December 2013, containing the "Regulation 
 
 circulars, opinions, rulings and any other interpretative act issued by the competent offices. 
 
-## ARTICLE 18 – PROCEDURE MANAGER
+# ARTICLE 18 – PROCEDURE MANAGER
 
 The Procedure manager is the officer in charge of the ADiSURC Financial Benefits Service. 
 
-## ARTICLE 19 – PROCEDURE DEADLINES
+# ARTICLE 19 – PROCEDURE DEADLINES
 
 The procedure deadlines are indicated in this call pursuant to Article 2, paragraphs 4 and 29, paragraphs 2 and 2-bis, of Law no. 241/1990, considering the sustainability of the deadlines in terms of administrative organisation and the complexity of the administrative procedure and without prejudice to the provisions of Article 17 of Law no. 241/1990. The deadline for the conclusion of the definitive ranking procedure is a maximum of one hundred and eighty days. Grounds which may justify failure to fulfil an act within the final deadline may, by way of example, include: 
 
@@ -1628,11 +1628,11 @@ Considering the number of recipients of this call and for the purposes of facili
 
 The deadlines indicated in this call may be subject to deferral as required by the circumstances described above. 
 
-## ARTICLE 20 – JURISDICTION
+# ARTICLE 20 – JURISDICTION
 
 Without prejudice to the jurisdiction of the Regional administrative court of Campania for disputes of an administrative nature, all other civil disputes shall be subject to the exclusive jurisdiction of the court of Naples. 
 
-## ARTICLE 21 – ANNEXES
+# ARTICLE 21 – ANNEXES
 
 1. Deadlines 
 
