@@ -14,12 +14,20 @@ except ImportError:  # pragma: no cover
 
 from docstruct.application.extract_toc import extract_toc
 from docstruct.application.fix_markdown import fix_markdown
+from docstruct.application.normalize_markdown import normalize_markdown
 from docstruct.application.pageindex_workflow import (
     answer_question,
     build_search_indexes,
 )
 from docstruct.infrastructure.llm.factory import build_client
-from docstruct.output_layout import FIXED_MARKDOWN_DIR, FIX_REPORTS_DIR, PAGEINDEX_DIR, TOC_DIR
+from docstruct.output_layout import (
+    FIXED_MARKDOWN_DIR,
+    FIX_REPORTS_DIR,
+    NORMALIZED_MARKDOWN_DIR,
+    NORMALIZE_REPORTS_DIR,
+    PAGEINDEX_DIR,
+    TOC_DIR,
+)
 
 
 def main() -> None:
@@ -42,6 +50,17 @@ def main() -> None:
     fix_parser.add_argument("--toc", required=True, help="Path to extraction JSON (contains toc array)")
     fix_parser.add_argument("--output-dir", "-o", default=str(FIXED_MARKDOWN_DIR), help="Output directory for corrected markdown")
     fix_parser.add_argument("--report-dir", default=str(FIX_REPORTS_DIR), help="Output directory for correction reports")
+    fix_parser.add_argument("--no-llm", action="store_true", help="Skip LLM fallback and use exact heading matching only")
+
+    normalize_parser = subparsers.add_parser("normalize", help="Normalize markdown with a chunked local Ollama model")
+    normalize_parser.add_argument("markdown_file", help="Path to source markdown file")
+    normalize_parser.add_argument("--output-dir", "-o", default=str(NORMALIZED_MARKDOWN_DIR), help="Output directory for normalized markdown")
+    normalize_parser.add_argument("--report-dir", default=str(NORMALIZE_REPORTS_DIR), help="Output directory for normalization reports")
+    normalize_parser.add_argument("--model", default=None, help="Ollama model name to use, for example gemma4")
+    normalize_parser.add_argument("--base-url", default=None, help="Ollama base URL (default: OLLAMA_BASE_URL or http://localhost:11434)")
+    normalize_parser.add_argument("--chunk-size", type=int, default=6000, help="Approximate maximum input characters per chunk")
+    normalize_parser.add_argument("--max-tokens", type=int, default=2048, help="Maximum tokens to request from Ollama per chunk")
+    normalize_parser.add_argument("--no-progress", action="store_true", help="Disable chunk progress output")
 
     index_parser = subparsers.add_parser("index", help="Build PageIndex-backed search indexes from fixed markdown")
     index_parser.add_argument("path", nargs="?", default=str(FIXED_MARKDOWN_DIR), help="Markdown file or directory to index")
@@ -88,13 +107,45 @@ def main() -> None:
     if args.command == "fix":
         try:
             print(f"Fixing: {args.markdown_file}", file=sys.stderr)
-            report = fix_markdown(args.markdown_file, args.toc, args.output_dir, report_dir=args.report_dir)
+            report = fix_markdown(
+                args.markdown_file,
+                args.toc,
+                args.output_dir,
+                report_dir=args.report_dir,
+                use_llm_matching=not args.no_llm,
+            )
             unmatched = len(report.unmatched_toc_entries)
             print(
                 f"  Changed {report.lines_changed} headings, demoted {report.lines_demoted}"
                 + (f", {unmatched} TOC entries unmatched" if unmatched else ""),
                 file=sys.stderr,
             )
+            print(f"  Output: {args.output_dir}", file=sys.stderr)
+            print(f"  Report: {args.report_dir}", file=sys.stderr)
+            print(json.dumps(report.to_dict(), indent=2, ensure_ascii=False))
+            raise SystemExit(0)
+        except FileNotFoundError as exc:
+            print(f"ERROR: {exc}", file=sys.stderr)
+            raise SystemExit(1)
+        except Exception as exc:
+            print(f"ERROR: {exc}", file=sys.stderr)
+            raise SystemExit(1)
+
+    if args.command == "normalize":
+        try:
+            print(f"Normalizing with Ollama: {args.markdown_file}", file=sys.stderr)
+            report = normalize_markdown(
+                args.markdown_file,
+                args.output_dir,
+                report_dir=args.report_dir,
+                model=args.model,
+                base_url=args.base_url,
+                chunk_size=args.chunk_size,
+                max_tokens=args.max_tokens,
+                show_progress=False if args.no_progress else None,
+            )
+            print(f"  Chunks: {report.chunk_count}", file=sys.stderr)
+            print(f"  Model: {report.model}", file=sys.stderr)
             print(f"  Output: {args.output_dir}", file=sys.stderr)
             print(f"  Report: {args.report_dir}", file=sys.stderr)
             print(json.dumps(report.to_dict(), indent=2, ensure_ascii=False))

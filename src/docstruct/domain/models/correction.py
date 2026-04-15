@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 from dataclasses import asdict, dataclass, field
+import re
 
 
 @dataclass
@@ -28,15 +29,44 @@ class TOCEntry:
 
     def search_patterns(self) -> list[str]:
         canonical = self.heading_pattern()
+        if not canonical:
+            return []
+
+        patterns: list[str] = [canonical]
+        normalized_title = re.sub(r"\.{3,}$", "", self.title or "").rstrip(" .")
+        normalized_canonical = re.sub(r"\.{3,}$", "", canonical).rstrip(" .")
+        if normalized_canonical and normalized_canonical not in patterns:
+            patterns.append(normalized_canonical)
+
         if self.pattern or self.separator is not None or not self.numbering or not self.title:
-            return [canonical] if canonical else []
-        return [
+            if self.numbering and normalized_title:
+                alt = f"{self.numbering} {normalized_title}"
+                if alt not in patterns:
+                    patterns.append(alt)
+            return patterns
+
+        for candidate in [
             f"{self.numbering} - {self.title}",
             f"{self.numbering} – {self.title}",
             f"{self.numbering} -{self.title}",
             f"{self.numbering}: {self.title}",
             f"{self.numbering} {self.title}",
-        ]
+        ]:
+            if candidate not in patterns:
+                patterns.append(candidate)
+
+        if normalized_title:
+            for candidate in [
+                f"{self.numbering} - {normalized_title}",
+                f"{self.numbering} – {normalized_title}",
+                f"{self.numbering} -{normalized_title}",
+                f"{self.numbering}: {normalized_title}",
+                f"{self.numbering} {normalized_title}",
+            ]:
+                if candidate not in patterns:
+                    patterns.append(candidate)
+
+        return patterns
 
     def needle(self) -> str | None:
         return self.heading_pattern()

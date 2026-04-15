@@ -13,6 +13,7 @@ from docstruct.application.fix_markdown import (
     load_toc_from_json,
     match_toc_to_source,
 )
+from docstruct.domain.heading_matcher import _collect_llm_candidate_lines
 from docstruct.domain.level_mapper import (
     apply_all_corrections,
     apply_heading_level,
@@ -345,6 +346,209 @@ class TestIntegration:
             assert report.unmatched_toc_entries == []
             assert any(c.match_method == 'llm' for c in report.corrections)
 
+    def test_fix_markdown_logs_when_llm_fallback_is_used(self, capsys):
+        """Terminal output should announce when LLM fallback runs."""
+        with tempfile.TemporaryDirectory() as tmpdir:
+            source_path = os.path.join(tmpdir, 'source.md')
+            with open(source_path, 'w') as f:
+                f.write('# COVER\n')
+                f.write('Art. 1 - Definitions\n')
+                f.write('Art. 20 - Regulatory references University Statute\n')
+
+            toc_path = os.path.join(tmpdir, 'toc.json')
+            with open(toc_path, 'w') as f:
+                json.dump(
+                    {
+                        'toc': [
+                            {
+                                'title': 'Definitions',
+                                'kind': 'article',
+                                'depth': 2,
+                                'pattern': 'Art. 1 - Definitions',
+                            },
+                            {
+                                'title': 'Regulatory references',
+                                'kind': 'article',
+                                'depth': 2,
+                                'pattern': 'Art. 19 - Regulatory references',
+                            },
+                        ]
+                    },
+                    f,
+                )
+
+            output_dir = os.path.join(tmpdir, 'output')
+            os.makedirs(output_dir)
+
+            with patch('docstruct.application.fix_markdown.build_client', return_value=object()):
+                with patch(
+                    'docstruct.application.agents.llm_heading_matcher.LLMHeadingMatcher.batch_match',
+                    return_value={3: (0, 'Art. 20 - Regulatory references', 'University Statute')},
+                ):
+                    fix_markdown(source_path, toc_path, output_dir, use_llm_matching=True)
+
+            captured = capsys.readouterr()
+            assert 'Using LLM fallback for' in captured.err
+            assert 'LLM fallback matched 1 additional heading occurrences.' in captured.err
+
+    def test_fix_markdown_uses_canonical_toc_heading_for_llm_matched_heading_lines(self):
+        """Existing heading lines matched by LLM should be rewritten as one canonical TOC heading."""
+        with tempfile.TemporaryDirectory() as tmpdir:
+            source_path = os.path.join(tmpdir, 'source.md')
+            with open(source_path, 'w', encoding='utf-8') as f:
+                f.write('# COVER\n')
+                f.write("# 8.1 Studenti iscritti ai primi anni dei corsi di studio in Medicina e Chirurgia e Odontoatria e protesi dentaria presso l'Università di Genova\n")
+                f.write('Body text.\n')
+
+            toc_path = os.path.join(tmpdir, 'toc.json')
+            with open(toc_path, 'w', encoding='utf-8') as f:
+                json.dump(
+                    {
+                        'toc': [
+                            {
+                                'title': "Studenti iscritti ai primi anni dei corsi di studio in Medicina e Chirurgia e Odontoiatria e protesi dentaria presso l'Università di Genova",
+                                'kind': 'subarticle',
+                                'depth': 3,
+                                'numbering': '8.1',
+                                'separator': ' ',
+                                'pattern': "8.1 Studenti iscritti ai primi anni dei corsi di studio in Medicina e Chirurgia e Odontoiatria e protesi dentaria presso l'Università di Genova",
+                            }
+                        ]
+                    },
+                    f,
+                )
+
+            output_dir = os.path.join(tmpdir, 'output')
+            os.makedirs(output_dir)
+
+            with patch('docstruct.application.fix_markdown.build_client', return_value=object()):
+                with patch(
+                    'docstruct.application.agents.llm_heading_matcher.LLMHeadingMatcher.batch_match',
+                    return_value={
+                        2: (
+                            0,
+                            '8.1',
+                            "8.1 Studenti iscritti ai primi anni dei corsi di studio in Medicina e Chirurgia e Odontoatria e protesi dentaria presso l'Università di Genova",
+                        )
+                    },
+                ):
+                    report = fix_markdown(source_path, toc_path, output_dir, use_llm_matching=True)
+
+            corrected_path = os.path.join(output_dir, 'source.md')
+            with open(corrected_path, 'r', encoding='utf-8') as f:
+                corrected_lines = f.read().splitlines()
+
+            assert "### 8.1 Studenti iscritti ai primi anni dei corsi di studio in Medicina e Chirurgia e Odontoiatria e protesi dentaria presso l'Università di Genova" in corrected_lines
+            assert '### 8.1' not in corrected_lines
+            assert not any(
+                line == "8.1 Studenti iscritti ai primi anni dei corsi di studio in Medicina e Chirurgia e Odontoatria e protesi dentaria presso l'Università di Genova"
+                for line in corrected_lines
+            )
+            assert any(c.match_method == 'llm' and c.line_number == 2 for c in report.corrections)
+
+    def test_fix_markdown_matches_dot_leader_toc_heading_without_llm(self):
+        """TOC patterns ending in leader dots should still match the real body heading exactly."""
+        with tempfile.TemporaryDirectory() as tmpdir:
+            source_path = os.path.join(tmpdir, 'source.md')
+            with open(source_path, 'w', encoding='utf-8') as f:
+                f.write('# COVER\n')
+                f.write('# 9.3 Settimo semestre + primo anni di laurea magistrale - requisiti di accesso e di merito\n')
+                f.write('Body text.\n')
+
+            toc_path = os.path.join(tmpdir, 'toc.json')
+            with open(toc_path, 'w', encoding='utf-8') as f:
+                json.dump(
+                    {
+                        'toc': [
+                            {
+                                'title': 'Settimo semestre + primo anni di laurea magistrale - requisiti di accesso e di merito............',
+                                'kind': 'subarticle',
+                                'depth': 3,
+                                'numbering': '9.3',
+                                'separator': ' ',
+                                'pattern': '9.3 Settimo semestre + primo anni di laurea magistrale - requisiti di accesso e di merito............',
+                            }
+                        ]
+                    },
+                    f,
+                )
+
+            output_dir = os.path.join(tmpdir, 'output')
+            os.makedirs(output_dir)
+
+            report = fix_markdown(source_path, toc_path, output_dir, use_llm_matching=False)
+
+            corrected_path = os.path.join(output_dir, 'source.md')
+            with open(corrected_path, 'r', encoding='utf-8') as f:
+                corrected_lines = f.read().splitlines()
+
+            assert '### 9.3 Settimo semestre + primo anni di laurea magistrale - requisiti di accesso e di merito' in corrected_lines
+            assert report.unmatched_toc_entries == []
+            assert any(c.match_method == 'exact' and c.line_number == 2 for c in report.corrections)
+
+    def test_fix_markdown_fixes_duplicate_body_headings_and_logs_it(self, capsys):
+        """Repeated body headings should all be re-leveled and reported."""
+        with tempfile.TemporaryDirectory() as tmpdir:
+            source_path = os.path.join(tmpdir, 'source.md')
+            with open(source_path, 'w', encoding='utf-8') as f:
+                f.write('# COVER\n')
+                f.write('\n')
+                f.write('# Art. 1 - Definitions\n')
+                f.write('Body A.\n')
+                f.write('\n')
+                f.write('# Art. 1 - Definitions\n')
+                f.write('Body B.\n')
+
+            toc_path = os.path.join(tmpdir, 'toc.json')
+            with open(toc_path, 'w', encoding='utf-8') as f:
+                json.dump(
+                    {
+                        'toc': [
+                            {
+                                'title': 'Definitions',
+                                'kind': 'article',
+                                'depth': 2,
+                                'pattern': 'Art. 1 - Definitions',
+                            }
+                        ]
+                    },
+                    f,
+                )
+
+            output_dir = os.path.join(tmpdir, 'output')
+            os.makedirs(output_dir)
+
+            report = fix_markdown(source_path, toc_path, output_dir, use_llm_matching=False)
+
+            corrected_path = os.path.join(output_dir, 'source.md')
+            with open(corrected_path, 'r', encoding='utf-8') as f:
+                corrected_lines = f.read().splitlines()
+
+            assert corrected_lines.count('## Art. 1 - Definitions') == 2
+            assert len([c for c in report.corrections if c.matched_toc_title == 'Definitions']) == 2
+            captured = capsys.readouterr()
+            assert 'Heading "Art. 1 - Definitions" found 2 times in the document; fixing all occurrences.' in captured.err
+
+    def test_llm_candidate_collection_skips_inline_references(self):
+        toc_entry = TOCEntry(
+            title='Settimo semestre + primo anni di laurea magistrale - requisiti di accesso e di merito............',
+            kind='subarticle',
+            depth=3,
+            numbering='9.3',
+            separator=' ',
+            pattern='9.3 Settimo semestre + primo anni di laurea magistrale - requisiti di accesso e di merito............',
+        )
+        source_lines = [
+            SourceLine(1, '3. I requisiti di merito per l\'ottenimento dei benefici in caso di domanda "settimo semestre + primo anno di laurea magistrale" sono i seguenti:'),
+            SourceLine(2, '- per gli studenti vincitori di borsa di studio come "Settimo semestre + primo anni di laurea magistrale":'),
+            SourceLine(3, "a) all'erogazione dell'importo della borsa di studio secondo le disposizioni e modalità previste al precedente art. 9.3 del presente Bando;"),
+            SourceLine(4, '9.3 Settimo semestre + primo anni di laurea magistrale - requisiti di accesso e di merito'),
+        ]
+
+        candidates = _collect_llm_candidate_lines(source_lines, [toc_entry], {}, None)
+
+        assert candidates == [(4, '9.3 Settimo semestre + primo anni di laurea magistrale - requisiti di accesso e di merito')]
+
     def test_fix_markdown_keeps_trailing_body_text_out_of_headings_after_nested_split(self):
         """Nested embedded matches should not promote trailing body text into a heading."""
         with tempfile.TemporaryDirectory() as tmpdir:
@@ -428,6 +632,69 @@ class TestIntegration:
 
             assert os.path.exists(os.path.join(markdown_dir, 'source.md'))
             assert os.path.exists(os.path.join(report_dir, 'source_report.json'))
+
+    def test_fix_markdown_skips_toc_listing_when_body_repeats_same_heading(self):
+        """TOC entries should match the body heading, not the earlier TOC listing line."""
+        with tempfile.TemporaryDirectory() as tmpdir:
+            source_path = os.path.join(tmpdir, 'source.md')
+            with open(source_path, 'w', encoding='utf-8') as f:
+                f.write('# DOCUMENT TITLE\n')
+                f.write('\n')
+                f.write('# Indice\n')
+                f.write('\n')
+                f.write('Articolo 1 - Benefici a concorso 3\n')
+                f.write('Articolo 2 - Destinatari 4\n')
+                f.write('\n')
+                f.write('# Articolo 1 - Benefici a concorso\n')
+                f.write('Body text.\n')
+
+            toc_path = os.path.join(tmpdir, 'toc.json')
+            with open(toc_path, 'w', encoding='utf-8') as f:
+                json.dump(
+                    {
+                        'toc': [
+                            {
+                                'title': 'Benefici a concorso',
+                                'kind': 'article',
+                                'depth': 2,
+                                'numbering': 'Articolo 1',
+                                'separator': ' - ',
+                                'pattern': 'Articolo 1 - Benefici a concorso',
+                            },
+                            {
+                                'title': 'Destinatari',
+                                'kind': 'article',
+                                'depth': 2,
+                                'numbering': 'Articolo 2',
+                                'separator': ' - ',
+                                'pattern': 'Articolo 2 - Destinatari',
+                            },
+                        ],
+                        'toc_boundaries': {
+                            'start_line': 0,
+                            'end_line': 6,
+                        },
+                    },
+                    f,
+                )
+
+            output_dir = os.path.join(tmpdir, 'output')
+            os.makedirs(output_dir)
+
+            report = fix_markdown(source_path, toc_path, output_dir, use_llm_matching=False)
+
+            corrected_path = os.path.join(output_dir, 'source.md')
+            with open(corrected_path, 'r', encoding='utf-8') as f:
+                corrected_lines = f.read().splitlines()
+
+            assert 'Articolo 1 - Benefici a concorso 3' in corrected_lines
+            assert '## Articolo 1 - Benefici a concorso' in corrected_lines
+            assert corrected_lines.count('## Articolo 1 - Benefici a concorso') == 1
+            assert corrected_lines.count('Articolo 1 - Benefici a concorso 3') == 1
+            assert any(
+                correction.line_number == 8 and correction.new_level == 2
+                for correction in report.corrections
+            )
 
 
 if __name__ == '__main__':

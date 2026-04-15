@@ -239,17 +239,6 @@
       "separator": " - ",
       "pattern": "Art. 4 - Deadlines and procedures for submitting applications",
       "page": null,
-      "confidence": 1.0,
-      "children": []
-    },
-    {
-      "title": "Definition of student status",
-      "kind": "article",
-      "depth": 2,
-      "numbering": "Art. 5",
-      "separator": " - ",
-      "pattern": "Art. 5 - Definition of student status",
-      "page": null,
       "confidence": 0.9,
       "children": []
     }
@@ -494,22 +483,11 @@
       "separator": " - ",
       "pattern": "Art. 4 - Deadlines and procedures for submitting applications",
       "page": null,
-      "confidence": 1.0,
-      "children": []
-    },
-    {
-      "title": "Definition of student status",
-      "kind": "article",
-      "depth": 2,
-      "numbering": "Art. 5",
-      "separator": " - ",
-      "pattern": "Art. 5 - Definition of student status",
-      "page": null,
       "confidence": 0.9,
       "children": []
     }
   ],
-  "summary": "The document outlines the call for applications for scholarships aimed at supporting the right to university education for the 2025/2026 academic year. It details eligibility criteria, application procedures, financial assessment methods, merit evaluation, ranking formation, and payment modalities, as well as conditions for revocation or forfeiture of scholarships.",
+  "summary": "The document outlines the call for applications for scholarships aimed at supporting the right to university education for the 2025/2026 academic year. It details eligibility criteria, application procedures, financial evaluation methods, merit assessment, ranking formation, and payment modalities, as well as conditions for revocation or forfeiture of scholarships.",
   "metadata": {
     "title": "Unknown",
     "source": "inferred",
@@ -519,13 +497,13 @@
   },
   "toc_boundaries": {
     "start_line": 0,
-    "end_line": 249,
+    "end_line": 199,
     "marker": "(agent-detected)"
   },
   "processing_log": [
     {
       "action": "read",
-      "detail": "Read 838 lines from /Users/omiderfanmanesh/Projects/DocStruct/data/Bando_Borse_di_studio_2025-2026_ENG.md",
+      "detail": "Read 838 lines from data/Bando_Borse_di_studio_2025-2026_ENG.md",
       "line": null
     },
     {
@@ -535,17 +513,17 @@
     },
     {
       "action": "boundary",
-      "detail": "TOC spans lines 0-249",
+      "detail": "TOC spans lines 0-199",
       "line": null
     },
     {
       "action": "classified",
-      "detail": "LLM extracted 23 TOC entries",
+      "detail": "LLM extracted 22 TOC entries",
       "line": null
     },
     {
       "action": "mapped",
-      "detail": "Built heading tree with 23 root nodes",
+      "detail": "Built heading tree with 22 root nodes",
       "line": null
     },
     {
@@ -559,5 +537,5 @@
       "line": null
     }
   ],
-  "extracted_at": "2026-04-15T09:16:56.016037Z"
+  "extracted_at": "2026-04-15T09:45:17.412726Z"
 }

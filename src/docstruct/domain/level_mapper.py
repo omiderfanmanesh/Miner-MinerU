@@ -42,6 +42,7 @@ def apply_all_corrections(
     matched_pairs: dict[int, TOCEntry],
     toc_entries: list[TOCEntry],
     match_methods: dict[int, str] | None = None,
+    progress_bar=None,
 ) -> tuple[list[SourceLine], list[CorrectionEntry]]:
     del toc_entries
     corrected_lines: list[SourceLine] = []
@@ -101,5 +102,7 @@ def apply_all_corrections(
             )
         else:
             corrected_lines.append(source_line)
+        if progress_bar is not None:
+            progress_bar.update(1)
 
     return corrected_lines, corrections

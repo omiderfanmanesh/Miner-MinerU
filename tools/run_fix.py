@@ -28,6 +28,7 @@ def main() -> None:
         help="Directory where corrected markdown will be written",
     )
     parser.add_argument("--report-dir", default=str(FIX_REPORTS_DIR), help="Directory where correction reports will be written")
+    parser.add_argument("--no-llm", action="store_true", help="Skip LLM fallback and use exact heading matching only")
     args = parser.parse_args()
 
     markdown_file = Path(args.markdown_file)
@@ -65,6 +66,8 @@ def main() -> None:
         "--report-dir",
         str(report_dir),
     ]
+    if args.no_llm:
+        cmd.append("--no-llm")
 
     print(f"Fixing: {markdown_file}")
     result = subprocess.run(cmd, env=env)
@@ -75,4 +78,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

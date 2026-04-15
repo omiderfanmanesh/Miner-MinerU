@@ -18,6 +18,7 @@ dependencies = [
   "openai",
   "pydantic",
   "python-dotenv",
+  "tqdm",
 ]
 
 [tool.setuptools]

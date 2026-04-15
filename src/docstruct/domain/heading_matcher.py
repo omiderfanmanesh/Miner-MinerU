@@ -9,7 +9,7 @@ from docstruct.domain.models import SourceLine, TOCEntry
 
 _TOC_LISTING_RE = re.compile(r"\.{3,}|Errore\.")
 _ARTICLE_SIGNAL_RE = re.compile(
-    r"(?:^|\s)(?:art\.|article|section|annex|allegato|articolo|\d+(?:\.\d+)+)\b",
+    r"^\s*(?:art\.|article|section|annex|allegato|articolo|\d+(?:\.\d+)+)\b",
     re.IGNORECASE,
 )
 
@@ -26,7 +26,8 @@ def _is_within_toc_section(source_line: SourceLine, toc_section_range: tuple[int
 
 
 def _should_skip_source_line(source_line: SourceLine, toc_section_range: tuple[int, int] | None) -> bool:
-    del toc_section_range
+    if _is_within_toc_section(source_line, toc_section_range):
+        return True
     return bool(_TOC_LISTING_RE.search(source_line.raw_text))
 
 
@@ -87,6 +88,11 @@ def _llm_candidate_signals(entry: TOCEntry) -> list[str]:
     return [signal.strip() for signal in signals if signal and signal.strip()]
 
 
+def _starts_with_signal(line_text: str, signal: str) -> bool:
+    normalized_line = line_text.lstrip(" \t\"'“”‘’([{")
+    return normalized_line.lower().startswith(signal.lower())
+
+
 def _collect_llm_candidate_lines(
     source_lines: list[SourceLine],
     unmatched_entries: list[TOCEntry],
@@ -115,7 +121,7 @@ def _collect_llm_candidate_lines(
         if source_line.heading_level is not None:
             candidates.append((source_line.line_number, line_text))
             continue
-        if any(_find_substring_ignore_case(line_text, signal) >= 0 for signal in deduped_signals):
+        if any(_starts_with_signal(line_text, signal) for signal in deduped_signals):
             candidates.append((source_line.line_number, line_text))
             continue
         if _ARTICLE_SIGNAL_RE.search(line_text):
@@ -128,6 +134,7 @@ def match_toc_patterns_exactly(
     source_lines: list[SourceLine],
     toc_section_range: tuple[int, int] | None = None,
     verbose: bool = False,
+    progress_bar=None,
 ) -> tuple[list[SourceLine], dict[int, TOCEntry], list[TOCEntry], dict[int, str]]:
     del verbose
     working_lines = list(source_lines)
@@ -139,16 +146,23 @@ def match_toc_patterns_exactly(
         patterns = entry.search_patterns()
         if not patterns:
             unmatched_entries.append(entry)
+            if progress_bar is not None:
+                progress_bar.update(1)
             continue
 
         found = False
-        for index, source_line in enumerate(working_lines):
+        index = 0
+        while index < len(working_lines):
+            source_line = working_lines[index]
             if source_line.line_number in matched_pairs:
+                index += 1
                 continue
             if _should_skip_source_line(source_line, toc_section_range):
+                index += 1
                 continue
 
             line_text = _line_body_text(source_line)
+            matched_current_line = False
             for pattern in patterns:
                 match_index = _find_substring_ignore_case(line_text, pattern)
                 if match_index < 0:
@@ -159,19 +173,25 @@ def match_toc_patterns_exactly(
                     matched_pairs[source_line.line_number] = entry
                     match_methods[source_line.line_number] = "exact"
                     found = True
+                    matched_current_line = True
                     break
 
-                working_lines[index : index + 1] = _split_source_line(source_line, pattern)
+                replacement_lines = _split_source_line(source_line, pattern)
+                working_lines[index : index + 1] = replacement_lines
                 matched_pairs[source_line.line_number] = entry
                 match_methods[source_line.line_number] = "exact"
                 found = True
+                index += len(replacement_lines)
+                matched_current_line = True
                 break
 
-            if found:
-                break
+            if not matched_current_line:
+                index += 1
 
         if not found:
             unmatched_entries.append(entry)
+        if progress_bar is not None:
+            progress_bar.update(1)
 
     return working_lines, matched_pairs, unmatched_entries, match_methods
 
@@ -192,6 +212,7 @@ def match_toc_with_llm_fallback(
     toc_section_range: tuple[int, int] | None,
     matcher,
     verbose: bool = False,
+    progress_bar=None,
 ) -> tuple[list[SourceLine], dict[int, TOCEntry], list[TOCEntry], dict[int, str]]:
     del verbose
     if not toc_entries:
@@ -210,17 +231,22 @@ def match_toc_with_llm_fallback(
         }
         for entry in toc_entries
     ]
-    batch_matches = matcher.batch_match(toc_payload, candidate_lines, set(matched_pairs.keys()))
+    batch_matches = matcher.batch_match(
+        toc_payload,
+        candidate_lines,
+        set(matched_pairs.keys()),
+        progress_bar=progress_bar,
+    )
 
     working_lines = list(source_lines)
     llm_matches: dict[int, TOCEntry] = {}
     llm_match_methods: dict[int, str] = {}
-    used_toc_indexes: set[int] = set()
+    matched_toc_indexes: set[int] = set()
 
     for line_number, (toc_index, heading_text, body_text) in sorted(batch_matches.items()):
         if toc_index is None or toc_index < 0 or toc_index >= len(toc_entries):
             continue
-        if toc_index in used_toc_indexes or line_number in matched_pairs or line_number in llm_matches:
+        if line_number in matched_pairs or line_number in llm_matches:
             continue
 
         line_index = next((idx for idx, source_line in enumerate(working_lines) if source_line.line_number == line_number), None)
@@ -228,14 +254,24 @@ def match_toc_with_llm_fallback(
             continue
 
         source_line = working_lines[line_index]
-        heading_to_use = heading_text.strip() or toc_entries[toc_index].heading_pattern()
+        canonical_heading = toc_entries[toc_index].heading_pattern()
+        heading_to_use = heading_text.strip() or canonical_heading
         if not heading_to_use:
             continue
 
-        working_lines[line_index : line_index + 1] = _split_source_line(source_line, heading_to_use, body_text=body_text)
+        if source_line.heading_level is not None and canonical_heading:
+            working_lines[line_index : line_index + 1] = [
+                _build_heading_source_line(
+                    source_line.line_number,
+                    canonical_heading,
+                    existing_level=source_line.heading_level,
+                )
+            ]
+        else:
+            working_lines[line_index : line_index + 1] = _split_source_line(source_line, heading_to_use, body_text=body_text)
         llm_matches[line_number] = toc_entries[toc_index]
         llm_match_methods[line_number] = "llm"
-        used_toc_indexes.add(toc_index)
+        matched_toc_indexes.add(toc_index)
 
-    unresolved_entries = [entry for idx, entry in enumerate(toc_entries) if idx not in used_toc_indexes]
+    unresolved_entries = [entry for idx, entry in enumerate(toc_entries) if idx not in matched_toc_indexes]
     return working_lines, llm_matches, unresolved_entries, llm_match_methods

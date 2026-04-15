@@ -6,6 +6,8 @@ These scripts make it easier to run the multi-stage document pipeline in differe
 
 - `python tools/run_extract.py <markdown_file>`
   - Extract TOC JSON for one file
+- `python tools/run_normalize.py <markdown_file> --model gemma4`
+  - Normalize one file with chunked Ollama calls before extraction/fixing
 - `python tools/run_fix.py <markdown_file> --toc <toc.json>`
   - Fix one file using a previously extracted TOC JSON
 - `python tools/run_pipeline.py <markdown_file>`
@@ -62,6 +64,8 @@ Pipeline artifacts are now separated by stage:
 - `output/01_toc/` for extraction JSON
 - `output/02_fixed_markdown/` for corrected markdown
 - `output/02_fix_reports/` for markdown-fix reports
+- `output/02_normalized_markdown/` for Ollama-normalized markdown
+- `output/02_normalize_reports/` for normalization reports
 - `output/03_pageindex/` for PageIndex tree indexes
 - `output/04_answers/` for saved search-agent answers
 - `output/00_runs/` for batch pipeline summaries

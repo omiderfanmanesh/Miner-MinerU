@@ -11,6 +11,10 @@ from docstruct.domain.models.heading import (
     HeadingEntry,
     TOCBoundary,
 )
+from docstruct.domain.models.normalization import (
+    NormalizationChunk,
+    NormalizationReport,
+)
 from docstruct.domain.models.results import ExtractionResult, LogEntry
 from docstruct.domain.models.search import (
     SearchAnswer,
@@ -28,6 +32,8 @@ __all__ = [
     "ExtractionResult",
     "HeadingEntry",
     "LogEntry",
+    "NormalizationChunk",
+    "NormalizationReport",
     "SearchAnswer",
     "SearchCitation",
     "SearchDocumentIndex",
@@ -38,4 +44,3 @@ __all__ = [
     "TOCBoundary",
     "TOCEntry",
 ]
-

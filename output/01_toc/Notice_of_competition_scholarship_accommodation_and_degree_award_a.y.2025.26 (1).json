@@ -4,11 +4,11 @@
       "title": "RECIPIENTS AND AMOUNTS",
       "kind": "section",
       "depth": 1,
-      "numbering": "SECTION I",
-      "separator": ". ",
+      "numbering": "SECTION I.",
+      "separator": " ",
       "pattern": "SECTION I. RECIPIENTS AND AMOUNTS",
       "page": 10,
-      "confidence": 0.9,
+      "confidence": 1,
       "children": []
     },
     {
@@ -19,7 +19,7 @@
       "separator": " ",
       "pattern": "ART. 1 COURSES AND UNIVERSITIES FOR WHICH BENEFITS ARE GRANTED",
       "page": 11,
-      "confidence": 0.95,
+      "confidence": 1,
       "children": []
     },
     {
@@ -30,7 +30,7 @@
       "separator": " ",
       "pattern": "ART. 1(1) COURSES",
       "page": 11,
-      "confidence": 0.95,
+      "confidence": 1,
       "children": []
     },
     {
@@ -41,7 +41,7 @@
       "separator": " ",
       "pattern": "ART. 1(2) UNIVERSITIES",
       "page": 11,
-      "confidence": 0.95,
+      "confidence": 1,
       "children": []
     },
     {
@@ -52,7 +52,7 @@
       "separator": " ",
       "pattern": "ART. 1(3) COURSE LOCATIONS",
       "page": 11,
-      "confidence": 0.95,
+      "confidence": 1,
       "children": []
     },
     {
@@ -63,7 +63,7 @@
       "separator": " ",
       "pattern": "ART. 1(4) DISTRIBUTION OF SCHOLARSHIPS AND ACCOMMODATION",
       "page": 11,
-      "confidence": 0.95,
+      "confidence": 1,
       "children": []
     },
     {
@@ -74,7 +74,7 @@
       "separator": " ",
       "pattern": "ART. 2 DURATION OF BENEFITS",
       "page": 12,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -85,7 +85,7 @@
       "separator": " ",
       "pattern": "ART. 3 GROUNDS FOR INELIGIBILITY AND EXCLUSION",
       "page": 13,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -118,7 +118,7 @@
       "separator": " ",
       "pattern": "ART. 4 “STUDENT TYPE” FOR SCHOLARSHIP PURPOSES",
       "page": 15,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -129,7 +129,7 @@
       "separator": " ",
       "pattern": "ART. 5 SCHOLARSHIP AMOUNTS",
       "page": 16,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -140,51 +140,73 @@
       "separator": " ",
       "pattern": "ART. 5(1) STUDENTS ENROLLED FULL-TIME",
       "page": 16,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
       "title": "RESIDENT STUDENTS",
       "kind": "subarticle",
-      "depth": 4,
+      "depth": 3,
       "numbering": "Art. 5(1.1)",
       "separator": " ",
       "pattern": "Art. 5(1.1) RESIDENT STUDENTS",
       "page": 16,
-      "confidence": 0.95,
+      "confidence": 1,
       "children": []
     },
     {
       "title": "COMMUTER STUDENTS",
       "kind": "subarticle",
-      "depth": 4,
+      "depth": 3,
       "numbering": "Art. 5(1.2)",
       "separator": " ",
       "pattern": "Art. 5(1.2) COMMUTER STUDENTS",
       "page": 17,
-      "confidence": 0.95,
+      "confidence": 1,
       "children": []
     },
     {
       "title": "NON-RESIDENT STUDENTS",
       "kind": "subarticle",
-      "depth": 4,
+      "depth": 3,
       "numbering": "Art. 5(1.3)",
       "separator": " ",
       "pattern": "Art. 5(1.3) NON-RESIDENT STUDENTS",
       "page": 17,
-      "confidence": 0.95,
+      "confidence": 1,
       "children": []
     },
     {
-      "title": "SECTION II. GENERAL PROVISIONS",
+      "title": "NON-resident students assigned to EDISU residences for the academic year 2025/26",
+      "kind": "topic",
+      "depth": 2,
+      "numbering": "Paragraph 1.3. point A",
+      "separator": " ",
+      "pattern": "Paragraph 1.3. point A Non-resident students assigned to EDISU residences for the academic year 2025/26",
+      "page": 18,
+      "confidence": 0.7,
+      "children": []
+    },
+    {
+      "title": "STUDENTS ENROLLED PART TIME",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "ART. 5(2)",
+      "separator": " ",
+      "pattern": "ART. 5(2) STUDENTS ENROLLED PART TIME",
+      "page": 19,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "GENERAL PROVISIONS",
       "kind": "section",
       "depth": 1,
       "numbering": "SECTION II.",
       "separator": " ",
       "pattern": "SECTION II. GENERAL PROVISIONS",
       "page": 20,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -195,7 +217,7 @@
       "separator": " ",
       "pattern": "ART. 6 ECONOMIC REQUIREMENTS",
       "page": 21,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -206,84 +228,84 @@
       "separator": " ",
       "pattern": "ART. 6(1) ECONOMIC REQUIREMENTS (ISEE UNIVERSITARIO, ISEE PARIFICATO, ISEE DOTTORATO E ISEE NUCLEO RISTRETTO)",
       "page": 21,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
       "title": "SUBMISSION OF ISEE UNIVERSITARIO OR CALCULATION OF ISEE PARIFICATO",
       "kind": "subarticle",
-      "depth": 4,
+      "depth": 3,
       "numbering": "Art. 6(1.1)",
       "separator": " ",
       "pattern": "Art. 6(1.1) SUBMISSION OF ISEE UNIVERSITARIO OR CALCULATION OF ISEE PARIFICATO",
       "page": 22,
-      "confidence": 0.95,
+      "confidence": 1,
       "children": []
     },
     {
       "title": "INCOME ACCRUED IN THE 2023 TAX YEAR FOR ISEE CALCULATION",
       "kind": "subarticle",
-      "depth": 4,
+      "depth": 3,
       "numbering": "Art. 6(1.2)",
       "separator": " ",
       "pattern": "Art. 6(1.2) INCOME ACCRUED IN THE 2023 TAX YEAR FOR ISEE CALCULATION",
       "page": 23,
-      "confidence": 0.95,
+      "confidence": 1,
       "children": []
     },
     {
       "title": "SCHOLARSHIP AMOUNTS RECEIVED IN THE 2023 TAX YEAR FOR ISEE CALCULATION",
       "kind": "subarticle",
-      "depth": 4,
+      "depth": 3,
       "numbering": "Art. 6(1.3)",
       "separator": " ",
       "pattern": "Art. 6(1.3) SCHOLARSHIP AMOUNTS RECEIVED IN THE 2023 TAX YEAR FOR ISEE CALCULATION",
       "page": 23,
-      "confidence": 0.95,
+      "confidence": 1,
       "children": []
     },
     {
       "title": "HOUSEHOLD FOR ISEE PURPOSES",
       "kind": "subarticle",
-      "depth": 4,
+      "depth": 3,
       "numbering": "Art. 6(1.4)",
       "separator": " ",
       "pattern": "Art. 6(1.4) HOUSEHOLD FOR ISEE PURPOSES",
       "page": 23,
-      "confidence": 0.95,
+      "confidence": 1,
       "children": []
     },
     {
       "title": "“INDEPENDENT STUDENT” HOUSEHOLD",
       "kind": "subarticle",
-      "depth": 4,
+      "depth": 3,
       "numbering": "Art. 6(1.5)",
       "separator": " ",
       "pattern": "Art. 6(1.5) “INDEPENDENT STUDENT” HOUSEHOLD",
       "page": 24,
-      "confidence": 0.95,
+      "confidence": 1,
       "children": []
     },
     {
       "title": "CASES WITH A HOUSEHOLD COMPOSED OF JUST THE STUDENT",
       "kind": "subarticle",
-      "depth": 4,
+      "depth": 3,
       "numbering": "Art. 6(1.6)",
       "separator": " ",
       "pattern": "Art. 6(1.6) CASES WITH A HOUSEHOLD COMPOSED OF JUST THE STUDENT",
       "page": 24,
-      "confidence": 0.95,
+      "confidence": 1,
       "children": []
     },
     {
       "title": "REGISTERED COHABITATION PURSUANT TO ART. 5 OF PRESIDENTIAL DECREE 223/89",
       "kind": "subarticle",
-      "depth": 4,
+      "depth": 3,
       "numbering": "Art. 6(1.7)",
       "separator": " ",
       "pattern": "Art. 6(1.7) REGISTERED COHABITATION PURSUANT TO ART. 5 OF PRESIDENTIAL DECREE 223/89",
       "page": 25,
-      "confidence": 0.95,
+      "confidence": 1,
       "children": []
     },
     {
@@ -294,29 +316,29 @@
       "separator": " ",
       "pattern": "ART. 6(2) ECONOMIC REQUIREMENTS WITH SUBMISSION OF ISEE UNIVERSITARIO",
       "page": 25,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
       "title": "NON-ACCEPTANCE OF THE ISEE CERTIFICATE BY EDISU PIEMONTE",
       "kind": "subarticle",
-      "depth": 4,
+      "depth": 3,
       "numbering": "Art. 6(2.1)",
       "separator": " ",
       "pattern": "Art. 6(2.1) NON-ACCEPTANCE OF THE ISEE CERTIFICATE BY EDISU PIEMONTE",
       "page": 25,
-      "confidence": 0.95,
+      "confidence": 1,
       "children": []
     },
     {
       "title": "INPS DATA RECEIPT",
       "kind": "subarticle",
-      "depth": 4,
+      "depth": 3,
       "numbering": "Art. 6(2.2)",
       "separator": " ",
       "pattern": "Art. 6(2.2) INPS DATA RECEIPT",
       "page": 26,
-      "confidence": 0.95,
+      "confidence": 1,
       "children": []
     },
     {
@@ -327,7 +349,7 @@
       "separator": " ",
       "pattern": "ART. 6(3) ISEE CORRENTE (CURRENT ISEE)",
       "page": 26,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -338,7 +360,7 @@
       "separator": " ",
       "pattern": "ART. 6PARA. 4ISEE FOR PHD COURSES",
       "page": 27,
-      "confidence": 0.85,
+      "confidence": 0.8,
       "children": []
     },
     {
@@ -349,7 +371,7 @@
       "separator": " ",
       "pattern": "ART. 6(5) ECONOMIC REQUIREMENTS FOR CALCULATION OF ISEE PARIFICATO",
       "page": 27,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -360,7 +382,7 @@
       "separator": " ",
       "pattern": "Art. 6 paragraph 5.1 SPECIFICATIONS FOR STUDENTS WITH ITALIAN CITIZENSHIP WHO NEED TO CALCULATE THE ISEE PARIFICATO",
       "page": 28,
-      "confidence": 0.9,
+      "confidence": 0.8,
       "children": []
     },
     {
@@ -371,7 +393,7 @@
       "separator": " ",
       "pattern": "ART. 7 HOW TO SUBMIT AN APPLICATION",
       "page": 29,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -382,29 +404,29 @@
       "separator": " ",
       "pattern": "ART. 7PARA. 1 ACCESS CREDENTIALS AND ONLINE PROCEDURE",
       "page": 29,
-      "confidence": 0.9,
+      "confidence": 0.8,
       "children": []
     },
     {
       "title": "SPID AND CIE",
       "kind": "subarticle",
-      "depth": 4,
+      "depth": 3,
       "numbering": "Art. 7 paragraph 1.1",
       "separator": " ",
       "pattern": "Art. 7 paragraph 1.1 SPID AND CIE",
       "page": 29,
-      "confidence": 0.9,
+      "confidence": 0.8,
       "children": []
     },
     {
       "title": "TEMPORARY ACCESS CODE 2025/26",
       "kind": "subarticle",
-      "depth": 4,
+      "depth": 3,
       "numbering": "Art. 7(1.2)",
       "separator": " ",
       "pattern": "Art. 7(1.2) TEMPORARY ACCESS CODE 2025/26",
       "page": 29,
-      "confidence": 0.95,
+      "confidence": 1,
       "children": []
     },
     {
@@ -415,7 +437,7 @@
       "separator": " ",
       "pattern": "ART. 7(2) RECEIPTS (CONFIRMATIONS)",
       "page": 30,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -426,7 +448,7 @@
       "separator": " ",
       "pattern": "ART. 7(3) IBAN",
       "page": 31,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -437,7 +459,7 @@
       "separator": " ",
       "pattern": "ART. 7(4) TRANSFER OF APPLICATIONS SUBMITTED TO OTHER BODIES",
       "page": 31,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -448,29 +470,29 @@
       "separator": " ",
       "pattern": "ART. 7(5) CHANGES TO THE DATA INCLUDED INTHE APPLICATION",
       "page": 31,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
       "title": "CHANGES TO DATA AND REQUESTS AFTER SUBMISSION BUT BEFORE THE APPLICATION SUBMISSION DEADLINE",
       "kind": "subarticle",
-      "depth": 4,
+      "depth": 3,
       "numbering": "Art. 7(5.1)",
       "separator": " ",
       "pattern": "Art. 7(5.1) CHANGES TO DATA AND REQUESTS AFTER SUBMISSION BUT BEFORE THE APPLICATION SUBMISSION DEADLINE",
       "page": 32,
-      "confidence": 0.9,
+      "confidence": 1,
       "children": []
     },
     {
       "title": "CHANGES TO DATA AND REQUESTS SENT ONLINE AFTER THE APPLICATION SUBMISSION DEADLINE",
       "kind": "subarticle",
-      "depth": 4,
+      "depth": 3,
       "numbering": "Art. 7(5.2)",
       "separator": " ",
       "pattern": "Art. 7(5.2) CHANGES TO DATA AND REQUESTS SENT ONLINE AFTER THE APPLICATION SUBMISSION DEADLINE",
       "page": 33,
-      "confidence": 0.9,
+      "confidence": 1,
       "children": []
     },
     {
@@ -481,18 +503,18 @@
       "separator": " ",
       "pattern": "ART. 7(6) COMPLAINTS AGAINST PROVISIONAL RANKINGS",
       "page": 33,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
       "title": "COMPLAINTS AGAINST PROVISIONAL RANKINGS RELATING TO ECONOMIC DATA",
       "kind": "subarticle",
-      "depth": 4,
+      "depth": 3,
       "numbering": "Art. 7(6.1)",
       "separator": " ",
       "pattern": "Art. 7(6.1) COMPLAINTS AGAINST PROVISIONAL RANKINGS RELATING TO ECONOMIC DATA",
       "page": 33,
-      "confidence": 0.9,
+      "confidence": 1,
       "children": []
     },
     {
@@ -503,7 +525,7 @@
       "separator": " ",
       "pattern": "ART. 7(7) WAIVER OF BENEFITS 2025/26",
       "page": 34,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -514,7 +536,7 @@
       "separator": " ",
       "pattern": "ART. 8 PAID ACCOMMODATION",
       "page": 35,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -525,18 +547,18 @@
       "separator": " ",
       "pattern": "ART. 8(1) NON-RESIDENT STUDENTS WHO MUST SUBMIT THE SELF-CERTIFICATION OF PAID ACCOMMODATION",
       "page": 35,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
       "title": "FOREIGN/EXCHANGE STUDENTS",
       "kind": "subarticle",
-      "depth": 4,
+      "depth": 3,
       "numbering": "Art. 8(1.1)",
       "separator": " ",
       "pattern": "Art. 8(1.1) FOREIGN/EXCHANGE STUDENTS",
       "page": 35,
-      "confidence": 0.95,
+      "confidence": 1,
       "children": []
     },
     {
@@ -547,29 +569,29 @@
       "separator": " ",
       "pattern": "ART. 8(2) METHODS AND DEADLINES FOR SUBMITTING THE PAID ACCOMMODATION SELF-CERTIFICATION",
       "page": 35,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
-      "title": "SPECIFIC PROVISIONS FOR STUDENTS OF COURSES WITH A \"FILTER SEMESTER\".  (CLASSES LM-41, LM-46, LM-42)",
+      "title": "SPECIFIC PROVISIONS FOR STUDENTS OF COURSES WITH A \"FILTER SEMESTER\". 37 (CLASSES LM-41, LM-46, LM-42)",
       "kind": "subarticle",
-      "depth": 4,
+      "depth": 3,
       "numbering": "Art. 8(2.1)",
       "separator": " ",
-      "pattern": "Art. 8(2.1) SPECIFIC PROVISIONS FOR STUDENTS OF COURSES WITH A \"FILTER SEMESTER\".  (CLASSES LM-41, LM-46, LM-42)",
+      "pattern": "Art. 8(2.1) SPECIFIC PROVISIONS FOR STUDENTS OF COURSES WITH A \"FILTER SEMESTER\". 37 (CLASSES LM-41, LM-46, LM-42)",
       "page": 37,
-      "confidence": 0.9,
+      "confidence": 1,
       "children": []
     },
     {
-      "title": "SECTION III. SPECIFIC PROVISIONS FOR THE FIRST-YEAR STUDENTS",
+      "title": "SPECIFIC PROVISIONS FOR THE FIRST-YEAR STUDENTS",
       "kind": "section",
       "depth": 1,
       "numbering": "SECTION III.",
       "separator": " ",
       "pattern": "SECTION III. SPECIFIC PROVISIONS FOR THE FIRST-YEAR STUDENTS",
       "page": 38,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -580,7 +602,7 @@
       "separator": " ",
       "pattern": "ART. 9 WHO CAN APPLY: ADMISSION REQUIREMENTS",
       "page": 39,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -591,18 +613,18 @@
       "separator": " ",
       "pattern": "ART. 9(1) REQUIREMENTS FOR ADMISSION TO THE COMPETITION",
       "page": 39,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
       "title": "COURSE TRANSFERS AND TRANSFERS FROM OTHER UNIVERSITIES",
       "kind": "subarticle",
-      "depth": 4,
+      "depth": 3,
       "numbering": "Art. 9(1.1)",
       "separator": " ",
       "pattern": "Art. 9(1.1) COURSE TRANSFERS AND TRANSFERS FROM OTHER UNIVERSITIES",
       "page": 40,
-      "confidence": 0.95,
+      "confidence": 1,
       "children": []
     },
     {
@@ -613,18 +635,18 @@
       "separator": " ",
       "pattern": "ART. 9(2) CREDIT RECOGNITION (SHORTENING OF CAREER, SINGLE COURSES, PREVIOUS CAREERS)",
       "page": 40,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
-      "title": "SPECIFIC PROVISIONS FORSTUDENTS OF COURSES WITH A\"FILTER SEMESTER\"  (CLASSES LM-41, LM-46, LM-42)",
+      "title": "SPECIFIC PROVISIONS FORSTUDENTS OF COURSES WITH A\"FILTER SEMESTER\" 41 (CLASSES LM-41, LM-46, LM-42)",
       "kind": "subarticle",
       "depth": 3,
       "numbering": "9(3)",
       "separator": " ",
-      "pattern": "9(3) SPECIFIC PROVISIONS FORSTUDENTS OF COURSES WITH A\"FILTER SEMESTER\"  (CLASSES LM-41, LM-46, LM-42)",
+      "pattern": "9(3) SPECIFIC PROVISIONS FORSTUDENTS OF COURSES WITH A\"FILTER SEMESTER\" 41 (CLASSES LM-41, LM-46, LM-42)",
       "page": 41,
-      "confidence": 0.85,
+      "confidence": 0.8,
       "children": []
     },
     {
@@ -635,7 +657,7 @@
       "separator": " ",
       "pattern": "ART. 10 METHODS AND DEADLINES FOR SUBMITTING AN APPLICATION",
       "page": 42,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -646,7 +668,7 @@
       "separator": " ",
       "pattern": "ART. 10(1) METHOD FOR SUBMITTING THE APPLICATION",
       "page": 42,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -657,7 +679,7 @@
       "separator": " ",
       "pattern": "ART. 10(2) DEADLINE FOR SUBMITTING THE APPLICATION",
       "page": 42,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -668,7 +690,7 @@
       "separator": " ",
       "pattern": "ART. 11 SPECIFIC PROVISIONS FOR THE FIRST YEARS OF A MASTER’S DEGREE",
       "page": 42,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -679,18 +701,18 @@
       "separator": " ",
       "pattern": "ART. 11(1) APPLICATION CONVERSION",
       "page": 43,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
       "title": "FAILURE TO ENROL BY 30 NOVEMBER 2025",
-      "kind": "article",
+      "kind": "subarticle",
       "depth": 3,
       "numbering": "ART. 11(2)",
       "separator": " ",
       "pattern": "ART. 11(2) FAILURE TO ENROL BY 30 NOVEMBER 2025",
       "page": 43,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -712,7 +734,7 @@
       "separator": " ",
       "pattern": "ART. 12(1) CRITERIA FOR DRAWING UP THE RANKINGS",
       "page": 44,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -723,7 +745,7 @@
       "separator": " ",
       "pattern": "ART. 12(2) PROVISIONAL RANKINGS",
       "page": 44,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -734,7 +756,7 @@
       "separator": " ",
       "pattern": "ART. 12(3) COMPLAINTS",
       "page": 44,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -745,7 +767,7 @@
       "separator": " ",
       "pattern": "ART. 12(4) FINAL ACCOMMODATION RANKINGS",
       "page": 44,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -756,13 +778,13 @@
       "separator": " ",
       "pattern": "ART. 12(5) FINAL SCHOLARSHIP RANKINGS",
       "page": 45,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
       "title": "FIRST DEFINITIVE RANKINGS FOR STUDENTS IN FIRST YEAR OF BACHELOR’S OR SINGLE-CYCLE MASTER’S DEGREE WITH ENROLMENT BY 31 OCTOBER 2025",
       "kind": "subarticle",
-      "depth": 4,
+      "depth": 3,
       "numbering": "Art. 12(5.1)",
       "separator": " ",
       "pattern": "Art. 12(5.1) FIRST DEFINITIVE RANKINGS FOR STUDENTS IN FIRST YEAR OF BACHELOR’S OR SINGLE-CYCLE MASTER’S DEGREE WITH ENROLMENT BY 31 OCTOBER 2025",
@@ -773,7 +795,7 @@
     {
       "title": "GENERAL DEFINITIVE RANKINGS",
       "kind": "subarticle",
-      "depth": 4,
+      "depth": 3,
       "numbering": "Art. 12(5.2)",
       "separator": " ",
       "pattern": "Art. 12(5.2) GENERAL DEFINITIVE RANKINGS",
@@ -784,7 +806,7 @@
     {
       "title": "DEFINITIVE RANKINGS FOR STUDENTS SUSPENDED” IN DECEMBER",
       "kind": "subarticle",
-      "depth": 4,
+      "depth": 3,
       "numbering": "Art. 12(5.3)",
       "separator": " ",
       "pattern": "Art. 12(5.3) DEFINITIVE RANKINGS FOR STUDENTS SUSPENDED” IN DECEMBER",
@@ -795,7 +817,7 @@
     {
       "title": "DEFINITIVE RANKINGS FOR STUDENTS SUSPENDED IN DECEMBER FOR \"ENROLLMENT IN FILTER SEMESTER\" AT A PIEDMONT UNIVERSITY AND STUDENTS APPLYING AFTER FILTER SEMESTER",
       "kind": "subarticle",
-      "depth": 4,
+      "depth": 3,
       "numbering": "Art. 12(5.4)",
       "separator": " ",
       "pattern": "Art. 12(5.4) DEFINITIVE RANKINGS FOR STUDENTS SUSPENDED IN DECEMBER FOR \"ENROLLMENT IN FILTER SEMESTER\" AT A PIEDMONT UNIVERSITY AND STUDENTS APPLYING AFTER FILTER SEMESTER",
@@ -811,7 +833,7 @@
       "separator": " ",
       "pattern": "ART. 12(6) PUBLICATION DATES FOR RANKINGS AND DEADLINES FOR SUBMITTING COMPLAINTS",
       "page": 46,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -833,7 +855,7 @@
       "separator": " ",
       "pattern": "ART. 13(1) MERIT REQUIREMENTS FOR SECOND INSTALMENT",
       "page": 46,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -844,7 +866,7 @@
       "separator": " ",
       "pattern": "ART. 13(2) 20% INCREASE OF GRANT AMOUNT FOR SECOND-COURSE ENROLMENT",
       "page": 47,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -855,7 +877,7 @@
       "separator": " ",
       "pattern": "ART. 13(3) MERIT SELF-CERTIFICATION",
       "page": 47,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -872,7 +894,7 @@
     {
       "title": "20% INCREASE FOR ENROLMENT IN A SECOND COURSE",
       "kind": "subarticle",
-      "depth": 4,
+      "depth": 3,
       "numbering": "Art. 13(4.1)",
       "separator": " ",
       "pattern": "Art. 13(4.1) 20% INCREASE FOR ENROLMENT IN A SECOND COURSE",
@@ -884,28 +906,28 @@
       "title": "MERIT REQUIREMENTS TO KEEP THE FIRST INSTALMENT ONLY",
       "kind": "subarticle",
       "depth": 3,
-      "numbering": "Art. 13(5)",
+      "numbering": "ART. 13(5)",
       "separator": " ",
-      "pattern": "Art. 13(5) MERIT REQUIREMENTS TO KEEP THE FIRST INSTALMENT ONLY",
+      "pattern": "ART. 13(5) MERIT REQUIREMENTS TO KEEP THE FIRST INSTALMENT ONLY",
       "page": 49,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
       "title": "MERIT REQUIREMENTS FOR MAINTAINING ELIGIBILITY",
       "kind": "subarticle",
       "depth": 3,
-      "numbering": "Art. 13(6)",
+      "numbering": "ART. 13(6)",
       "separator": " ",
-      "pattern": "Art. 13(6) MERIT REQUIREMENTS FOR MAINTAINING ELIGIBILITY",
+      "pattern": "ART. 13(6) MERIT REQUIREMENTS FOR MAINTAINING ELIGIBILITY",
       "page": 50,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
       "title": "ELIGIBLE ASSIGNEES OF A SPOT IN AN EDISU RESIDENCE",
       "kind": "subarticle",
-      "depth": 4,
+      "depth": 3,
       "numbering": "Art. 13(6.1)",
       "separator": " ",
       "pattern": "Art. 13(6.1) ELIGIBLE ASSIGNEES OF A SPOT IN AN EDISU RESIDENCE",
@@ -917,11 +939,11 @@
       "title": "DEFERRAL OF LAST 30 NOVEMBER 2026 DEADLINE",
       "kind": "subarticle",
       "depth": 3,
-      "numbering": "Art. 13(7)",
+      "numbering": "ART. 13(7)",
       "separator": " ",
-      "pattern": "Art. 13(7) DEFERRAL OF LAST 30 NOVEMBER 2026 DEADLINE",
+      "pattern": "ART. 13(7) DEFERRAL OF LAST 30 NOVEMBER 2026 DEADLINE",
       "page": 50,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -932,7 +954,7 @@
       "separator": " ",
       "pattern": "ART. 13(8) PROVISIONS FOR SUCCESSFUL ASSIGNEES OF A SPOT IN AN EDISU RESIDENCE",
       "page": 50,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -943,7 +965,7 @@
       "separator": " ",
       "pattern": "ART. 13(9) CASES OF SUSPENSION OF PAYMENT",
       "page": 51,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -954,7 +976,7 @@
       "separator": " ",
       "pattern": "ART. 13(10) VERIFICATION OF MERIT AND WITHDRAWAL OF BENEFIT",
       "page": 51,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -965,7 +987,7 @@
       "separator": " ",
       "pattern": "ART. 13(11) REFUND OF REGIONAL TAX",
       "page": 51,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -1009,13 +1031,13 @@
       "separator": " ",
       "pattern": "ART. 15(1) ADMISSION REQUIREMENTS",
       "page": 53,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
       "title": "STANDARD APPLICATION",
       "kind": "subarticle",
-      "depth": 4,
+      "depth": 3,
       "numbering": "Art. 15(1.1)",
       "separator": " ",
       "pattern": "Art. 15(1.1) STANDARD APPLICATION",
@@ -1026,7 +1048,7 @@
     {
       "title": "CONFIRMATION OF MERIT BENEFITS",
       "kind": "subarticle",
-      "depth": 4,
+      "depth": 3,
       "numbering": "Art. 15(1.2)",
       "separator": " ",
       "pattern": "Art. 15(1.2) CONFIRMATION OF MERIT BENEFITS",
@@ -1037,7 +1059,7 @@
     {
       "title": "SPECIAL CASES",
       "kind": "subarticle",
-      "depth": 4,
+      "depth": 3,
       "numbering": "Art. 15(1.3)",
       "separator": " ",
       "pattern": "Art. 15(1.3) SPECIAL CASES",
@@ -1053,13 +1075,13 @@
       "separator": " ",
       "pattern": "ART. 15(2) MERIT REQUIREMENTS",
       "page": 54,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
       "title": "MERIT REQUIREMENTS FOR CONFIRMATION OF MERIT-BASED BENEFITS with FULL TIME ENROLMENT",
       "kind": "subarticle",
-      "depth": 4,
+      "depth": 3,
       "numbering": "Art. 15(2.1)",
       "separator": " ",
       "pattern": "Art. 15(2.1) MERIT REQUIREMENTS FOR CONFIRMATION OF MERIT-BASED BENEFITS with FULL TIME ENROLMENT",
@@ -1070,7 +1092,7 @@
     {
       "title": "MERIT REQUIREMENTS FOR STANDARD APPLICATION with FULL-TIME ENROLMENT",
       "kind": "subarticle",
-      "depth": 4,
+      "depth": 3,
       "numbering": "Art. 15(2.2)",
       "separator": " ",
       "pattern": "Art. 15(2.2) MERIT REQUIREMENTS FOR STANDARD APPLICATION with FULL-TIME ENROLMENT",
@@ -1081,7 +1103,7 @@
     {
       "title": "MERIT REQUIREMENTS FOR STANDARD APPLICATION with PART-TIME ENROLMENT",
       "kind": "subarticle",
-      "depth": 4,
+      "depth": 3,
       "numbering": "Art. 15(2.3)",
       "separator": " ",
       "pattern": "Art. 15(2.3) MERIT REQUIREMENTS FOR STANDARD APPLICATION with PART-TIME ENROLMENT",
@@ -1097,7 +1119,7 @@
       "separator": " ",
       "pattern": "ART. 15(3) BONUS CREDITS",
       "page": 55,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -1108,7 +1130,7 @@
       "separator": " ",
       "pattern": "ART. 15(4) TRANSFERS",
       "page": 56,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -1119,7 +1141,7 @@
       "separator": " ",
       "pattern": "ART. 15(5) CREDIT RECOGNITION (CAREER SHORTENING, SINGLE COURSES, PREVIOUS CAREERS)",
       "page": 56,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -1130,7 +1152,7 @@
       "separator": " ",
       "pattern": "ART. 15(6) PARTICIPANTS INFOREIGN STUDY/EXCHANGE PROJECTS ACADEMIC YEAR 2024/25",
       "page": 57,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -1152,7 +1174,7 @@
       "separator": " ",
       "pattern": "ART. 16(1) METHOD FOR SUBMITTING THE APPLICATION",
       "page": 58,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -1163,7 +1185,7 @@
       "separator": " ",
       "pattern": "ART. 16(2) DEADLINE FOR SUBMITTING THE APPLICATION",
       "page": 58,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -1174,7 +1196,7 @@
       "separator": " ",
       "pattern": "ART. 16(3) APPLICATION CONVERSION",
       "page": 58,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -1196,7 +1218,7 @@
       "separator": " ",
       "pattern": "ART. 17(1) CRITERIA FOR DRAWING UP THE RANKINGS",
       "page": 59,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -1207,7 +1229,7 @@
       "separator": " ",
       "pattern": "ART. 17(2) MERIT SCORE AND RANKING",
       "page": 60,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -1218,7 +1240,7 @@
       "separator": " ",
       "pattern": "ART. 17(3) PROVISIONAL RANKINGS",
       "page": 60,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -1229,7 +1251,7 @@
       "separator": " ",
       "pattern": "ART. 17(4) COMPLAINTS",
       "page": 60,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -1240,7 +1262,7 @@
       "separator": " ",
       "pattern": "ART. 17(5) DEFINITIVERANKINGS",
       "page": 61,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -1251,7 +1273,7 @@
       "separator": " ",
       "pattern": "ART. 17(6) PUBLICATION DATES FOR RANKINGS AND DEADLINES FOR SUBMITTING COMPLAINTS",
       "page": 61,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -1262,7 +1284,7 @@
       "separator": " ",
       "pattern": "ART. 17(7) 20% INCREASE OF SCHOLARSHIP AMOUNT FOR SECOND-COURSE ENROLMENT",
       "page": 61,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -1284,7 +1306,7 @@
       "separator": " ",
       "pattern": "ART. 18(1) DISBURSEMENT PERIOD",
       "page": 62,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -1295,7 +1317,7 @@
       "separator": " ",
       "pattern": "ART. 18(2) CASES OF SUSPENSION OF PAYMENT",
       "page": 62,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -1306,7 +1328,7 @@
       "separator": " ",
       "pattern": "ART. 18(3) REFUND OF REGIONAL TAX",
       "page": 63,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -1350,7 +1372,7 @@
       "separator": " ",
       "pattern": "ART. 20(1) ADMISSION REQUIREMENTS",
       "page": 65,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -1361,7 +1383,7 @@
       "separator": " ",
       "pattern": "ART. 20(2) AMOUNT",
       "page": 65,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -1394,7 +1416,7 @@
       "separator": " ",
       "pattern": "ART. 22(1) PROVISIONAL RESULTS",
       "page": 65,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -1405,7 +1427,7 @@
       "separator": " ",
       "pattern": "ART. 22(2) COMPLAINTS",
       "page": 65,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -1416,7 +1438,7 @@
       "separator": " ",
       "pattern": "ART. 22(3) FINAL RESULTS",
       "page": 65,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -1427,7 +1449,7 @@
       "separator": " ",
       "pattern": "ART. 22(4) PUBLICATION DATES FOR RESULTS AND DEADLINES FOR SUBMITTING COMPLAINTS",
       "page": 66,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -1449,7 +1471,7 @@
       "separator": " ",
       "pattern": "ART. 23(1) CASES OF SUSPENSION OF PAYMENT",
       "page": 66,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -1603,7 +1625,7 @@
       "separator": " ",
       "pattern": "ART. 26(4) DEFINITIVERANKINGS",
       "page": 70,
-      "confidence": 0.9,
+      "confidence": 1.0,
       "children": []
     },
     {
@@ -1741,31 +1763,31 @@
     {
       "title": "MERIT REQUIREMENTS FOR FIRST-YEAR STUDENTS",
       "kind": "subarticle",
-      "depth": 4,
-      "numbering": "ART. 29(3.1)",
+      "depth": 3,
+      "numbering": "Art. 29(3.1)",
       "separator": " ",
       "pattern": "Art. 29(3.1) MERIT REQUIREMENTS FOR FIRST-YEAR STUDENTS",
       "page": 74,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
       "title": "MERIT REQUIREMENTS FOR SUBSEQUENT-YEAR STUDENTS",
       "kind": "subarticle",
-      "depth": 4,
-      "numbering": "ART. 29(3.2)",
+      "depth": 3,
+      "numbering": "Art. 29(3.2)",
       "separator": " ",
       "pattern": "Art. 29(3.2) MERIT REQUIREMENTS FOR SUBSEQUENT-YEAR STUDENTS",
       "page": 74,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
       "title": "Merit requirements with full-time enrolment",
-      "kind": "topic",
-      "depth": 2,
-      "numbering": null,
-      "separator": null,
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "Paragraph 3.2 point A",
+      "separator": " ",
       "pattern": "Paragraph 3.2 point A Merit requirements with full-time enrolment",
       "page": 75,
       "confidence": 0.7,
@@ -1773,10 +1795,10 @@
     },
     {
       "title": "Merit requirements with part-time enrolment",
-      "kind": "topic",
-      "depth": 2,
-      "numbering": null,
-      "separator": null,
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "Paragraph 3.2 point B",
+      "separator": " ",
       "pattern": "Paragraph 3.2 point B Merit requirements with part-time enrolment",
       "page": 75,
       "confidence": 0.7,
@@ -1785,23 +1807,23 @@
     {
       "title": "BONUS CREDITS",
       "kind": "subarticle",
-      "depth": 4,
-      "numbering": "ART. 29(3.3)",
+      "depth": 3,
+      "numbering": "Art. 29(3.3)",
       "separator": " ",
       "pattern": "Art. 29(3.3) BONUS CREDITS",
       "page": 75,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
       "title": "CONFIRMATION OF MERIT BENEFITS",
       "kind": "subarticle",
-      "depth": 4,
-      "numbering": "ART. 29(3.4)",
+      "depth": 3,
+      "numbering": "Art. 29(3.4)",
       "separator": " ",
       "pattern": "Art. 29(3.4) CONFIRMATION OF MERIT BENEFITS",
       "page": 75,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -1884,12 +1906,12 @@
     {
       "title": "Translation and legalisation procedures",
       "kind": "subarticle",
-      "depth": 4,
-      "numbering": "ART. 30(3.1)",
+      "depth": 3,
+      "numbering": "Art. 30(3.1)",
       "separator": " ",
       "pattern": "Art. 30(3.1) Translation and legalisation procedures",
       "page": 79,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -1939,12 +1961,12 @@
     {
       "title": "SPECIFICATIONS FOR CONSULAR DOCUMENTATION OF INTERNATIONAL EU STUDENTS",
       "kind": "subarticle",
-      "depth": 4,
-      "numbering": "ART. 30(7.1)",
+      "depth": 3,
+      "numbering": "Art. 30(7.1)",
       "separator": " ",
       "pattern": "Art. 30(7.1) SPECIFICATIONS FOR CONSULAR DOCUMENTATION OF INTERNATIONAL EU STUDENTS",
       "page": 81,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -1983,45 +2005,45 @@
     {
       "title": "OBTAINING CREDENTIALS TO ACCESS THE ONLINE APPLICATION",
       "kind": "subarticle",
-      "depth": 4,
-      "numbering": "ART. 31(1.1)",
+      "depth": 3,
+      "numbering": "Art. 31(1.1)",
       "separator": " ",
       "pattern": "Art. 31(1.1) OBTAINING CREDENTIALS TO ACCESS THE ONLINE APPLICATION",
       "page": 82,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
       "title": "ONLINE APPLICATION SUBMISSION",
       "kind": "subarticle",
-      "depth": 4,
-      "numbering": "ART. 31(1.2)",
+      "depth": 3,
+      "numbering": "Art. 31(1.2)",
       "separator": " ",
       "pattern": "Art. 31(1.2) ONLINE APPLICATION SUBMISSION",
       "page": 83,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
       "title": "SENDING CONSULAR DOCUMENTATION TO EDISU",
       "kind": "subarticle",
-      "depth": 4,
-      "numbering": "ART. 31(1.3)",
+      "depth": 3,
+      "numbering": "Art. 31(1.3)",
       "separator": " ",
       "pattern": "Art. 31(1.3) SENDING CONSULAR DOCUMENTATION TO EDISU",
       "page": 83,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
       "title": "DEADLINES FOR SENDING CONSULAR DOCUMENTATION",
       "kind": "subarticle",
-      "depth": 4,
-      "numbering": "ART. 31(1.4)",
+      "depth": 3,
+      "numbering": "Art. 31(1.4)",
       "separator": " ",
       "pattern": "Art. 31(1.4) DEADLINES FOR SENDING CONSULAR DOCUMENTATION",
       "page": 83,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -2049,23 +2071,23 @@
     {
       "title": "ASSESSMENT OF CONSULAR DOCUMENTATION SENT TO EDISU",
       "kind": "subarticle",
-      "depth": 4,
-      "numbering": "ART. 31(3.1)",
+      "depth": 3,
+      "numbering": "Art. 31(3.1)",
       "separator": " ",
       "pattern": "Art. 31(3.1) ASSESSMENT OF CONSULAR DOCUMENTATION SENT TO EDISU",
       "page": 85,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
       "title": "SUPPLEMENTING CONSULAR DOCUMENTATION ASSESSED AS INVALID OR INCOMPLETE BY EDISU PIEMONTE",
       "kind": "subarticle",
-      "depth": 4,
-      "numbering": "ART. 31(3.2)",
+      "depth": 3,
+      "numbering": "Art. 31(3.2)",
       "separator": " ",
       "pattern": "Art. 31(3.2) SUPPLEMENTING CONSULAR DOCUMENTATION ASSESSED AS INVALID OR INCOMPLETE BY EDISU PIEMONTE",
       "page": 86,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -2171,8 +2193,8 @@
       "title": "TION IX. SPECIFIC PROVISIONS FOR THE ACCOMMODATION SERVICE",
       "kind": "section",
       "depth": 1,
-      "numbering": "TION IX.",
-      "separator": " ",
+      "numbering": null,
+      "separator": null,
       "pattern": "TION IX. SPECIFIC PROVISIONS FOR THE ACCOMMODATION SERVICE",
       "page": 89,
       "confidence": 0.6,
@@ -2197,7 +2219,7 @@
       "separator": " ",
       "pattern": "ART. 32(1) SPECIFIC PROVISIONS FORSTUDENTS ENROLLED IN THE FILTER SEMESTER ASSIGNED TO ACCOMMODATION SERVICE",
       "page": 90,
-      "confidence": 0.9,
+      "confidence": 1.0,
       "children": []
     },
     {
@@ -2208,7 +2230,7 @@
       "separator": " ",
       "pattern": "ART. 33 ACCEPTANCE OF THE ACCOMMODATION SERVICE",
       "page": 90,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2219,7 +2241,7 @@
       "separator": " ",
       "pattern": "ART. 33(1) WINNERS: ONLINEACCEPTANCE",
       "page": 91,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2230,7 +2252,7 @@
       "separator": " ",
       "pattern": "ART. 33(2) ELIGIBLE: EXPRESSION OF INTEREST",
       "page": 92,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2241,7 +2263,7 @@
       "separator": " ",
       "pattern": "ART. 33(3) ELIGIBLE: SINGLESCROLLING RANKINGS",
       "page": 93,
-      "confidence": 0.9,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2252,7 +2274,7 @@
       "separator": " ",
       "pattern": "Art. 33(3.1) STUDENTS ACCEPTING ACCOMMODATION ALLOCATED BY SCROLLING RANKING",
       "page": 93,
-      "confidence": 0.9,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2263,7 +2285,7 @@
       "separator": " ",
       "pattern": "Art. 33(3.2) STUDENTS REFUSING ACCOMMODATION ALLOCATED BY SCROLLING RANKING",
       "page": 93,
-      "confidence": 0.9,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2274,7 +2296,7 @@
       "separator": " ",
       "pattern": "ART. 33(4) FOREIGN STUDY/EXCHANGE STUDENTS",
       "page": 94,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2285,7 +2307,7 @@
       "separator": " ",
       "pattern": "Art. 33(4.1) Erasmus Month Option",
       "page": 94,
-      "confidence": 0.9,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2296,7 +2318,7 @@
       "separator": " ",
       "pattern": "Art. 33(4.2) Erasmus Year Option",
       "page": 94,
-      "confidence": 0.9,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2307,7 +2329,7 @@
       "separator": " ",
       "pattern": "ART. 33(5) GUESTS OF THE RENATO EINAUDI COLLEGE: RENATO EINAUDI OPTION",
       "page": 95,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2318,7 +2340,7 @@
       "separator": " ",
       "pattern": "ART. 34 ALLOCATION OF ACCOMMODATION AT EDISU RESIDENCES",
       "page": 95,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2329,7 +2351,7 @@
       "separator": " ",
       "pattern": "ART. 34(1) ALLOCATION CRITERIA",
       "page": 95,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2340,7 +2362,7 @@
       "separator": " ",
       "pattern": "Art. 34(1.1) ROOM TYPE",
       "page": 96,
-      "confidence": 0.9,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2351,7 +2373,7 @@
       "separator": " ",
       "pattern": "Art. 34(1.2) TRANSFERS FOR HEALTH OR PERSONAL SAFETY REASONS",
       "page": 96,
-      "confidence": 0.9,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2362,7 +2384,7 @@
       "separator": " ",
       "pattern": "Art. 34(1.3) MOBILITY BETWEEN DIFFERENT RESIDENCES",
       "page": 96,
-      "confidence": 0.9,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2373,7 +2395,7 @@
       "separator": " ",
       "pattern": "ART. 34(2) ALLOCATION PROCEDURE",
       "page": 96,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2384,7 +2406,7 @@
       "separator": " ",
       "pattern": "ART. 34(3) RULES FOR ASSIGNEES",
       "page": 96,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2395,7 +2417,7 @@
       "separator": " ",
       "pattern": "ART. 34(4) ALLOCATION PERIODS",
       "page": 97,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2406,7 +2428,7 @@
       "separator": " ",
       "pattern": "ART. 34(5) SUMMER CLOSURE",
       "page": 97,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2417,7 +2439,7 @@
       "separator": " ",
       "pattern": "ART. 34(6) SPECIAL CASES",
       "page": 97,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2428,7 +2450,7 @@
       "separator": " ",
       "pattern": "Art. 34(6.1) ADDITIONAL SEMESTERS",
       "page": 97,
-      "confidence": 0.9,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2439,7 +2461,7 @@
       "separator": " ",
       "pattern": "Art. 34(6.2) STUDENTS WITH “SUSPENDED” OUTCOME IN THE DEFINITIVE SCHOLARSHIP RANKING OF 16 DECEMBER 2025",
       "page": 97,
-      "confidence": 0.8,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2450,7 +2472,7 @@
       "separator": " ",
       "pattern": "Art. 34(6.3) STUDENTS WHO MUST LEAVE THEIR RESIDENCE FOR SERIOUS REASONS",
       "page": 97,
-      "confidence": 0.9,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2461,7 +2483,7 @@
       "separator": " ",
       "pattern": "Art. 34(6.4) STUDENTS GRADUATING IN JULY AND WINNERS OF THIRD YEAR OF COURSE",
       "page": 98,
-      "confidence": 0.9,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2472,7 +2494,7 @@
       "separator": " ",
       "pattern": "ART. 35 REVOCATION OF ACCOMMODATION SERVICE DUE TO RENUNCIATION OR LOSS OF REQUIREMENTS",
       "page": 98,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2483,7 +2505,7 @@
       "separator": " ",
       "pattern": "ART. 35(1) REVOCATION FORWAIVER OF ACCOMMODATION SERVICE 2025/26",
       "page": 98,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2494,7 +2516,7 @@
       "separator": " ",
       "pattern": "ART. 35(2) WITHDRAWAL OF THE ACCOMMODATION SERVICE DUE TO LOSS OF REQUIREMENTS",
       "page": 98,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2505,7 +2527,7 @@
       "separator": " ",
       "pattern": "SECTION XI. FINAL PROVISIONS",
       "page": 99,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2515,7 +2537,7 @@
       "numbering": "ART. 36",
       "separator": " ",
       "pattern": "ART. 36 POLICY PURSUANT TO ARTICLES 12, 13 AND 14 OF REGULATION (EU) NO. 679 OF 27 APRIL 2016 OF THE EUROPEAN PARLIAMENT AND OF THE",
-      "page": null,
+      "page": 99,
       "confidence": 0.8,
       "children": []
     },
@@ -2523,11 +2545,11 @@
       "title": "COUNCIL ON THE PROTECTION OF INDIVIDUALS WITH REGARD TO PERSONAL DATA PROCESSING AND THE FREE MOVEMENT OF SUCH DATA",
       "kind": "article",
       "depth": 2,
-      "numbering": "ART. 37",
-      "separator": " ",
-      "pattern": "ART. 37 COUNCIL ON THE PROTECTION OF INDIVIDUALS WITH REGARD TO PERSONAL DATA PROCESSING AND THE FREE MOVEMENT OF SUCH DATA",
+      "numbering": null,
+      "separator": null,
+      "pattern": "COUNCIL ON THE PROTECTION OF INDIVIDUALS WITH REGARD TO PERSONAL DATA PROCESSING AND THE FREE MOVEMENT OF SUCH DATA",
       "page": 100,
-      "confidence": 0.8,
+      "confidence": 0.5,
       "children": []
     },
     {
@@ -2538,7 +2560,7 @@
       "separator": " ",
       "pattern": "ART. 37 CHECKING THE VERACITY OF SELF-CERTIFIED FINANCIAL CONDITIONS AND SANCTIONS",
       "page": 102,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2549,7 +2571,7 @@
       "separator": " ",
       "pattern": "ART. 37(1) CHECKING FINANCIAL CONDITIONS",
       "page": 102,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2560,7 +2582,7 @@
       "separator": null,
       "pattern": "ART. 37(2) SANCTIONS",
       "page": 103,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2571,7 +2593,7 @@
       "separator": " ",
       "pattern": "ART.38 WITHDRAWAL OF THE SCHOLARSHIP AND ACCOMMODATION SERVICE FOLLOWING MERIT CHECK, WITHDRAWAL AND LOSS OF ELIGIBILITY",
       "page": 103,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2582,7 +2604,7 @@
       "separator": " ",
       "pattern": "ART. 38(1) ENROLMENT AND MERIT CHECK",
       "page": 103,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2593,7 +2615,7 @@
       "separator": " ",
       "pattern": "ART. 38(2) BENEFIT WITHDRAWAL",
       "page": 104,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2604,7 +2626,7 @@
       "separator": " ",
       "pattern": "Art. 38(2.1) FIRST YEARS LACK OF MERIT",
       "page": 104,
-      "confidence": 0.9,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2615,7 +2637,7 @@
       "separator": " ",
       "pattern": "Art. 38(2.2) FIRST YEARS AND SUBSEQUENT YEARS LOSS OF ELIGIBILITY",
       "page": 104,
-      "confidence": 0.9,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2626,7 +2648,7 @@
       "separator": " ",
       "pattern": "ART. 38(3) REPAYMENT OF BENEFITS: METHODS",
       "page": 104,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2637,7 +2659,7 @@
       "separator": " ",
       "pattern": "ART. 38(4) STUDENT CAREER BLOCKS",
       "page": 105,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2648,7 +2670,7 @@
       "separator": " ",
       "pattern": "ART. 38(5) COMMUNICATION TO THE UNIVERSITY",
       "page": 105,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2659,7 +2681,7 @@
       "separator": " ",
       "pattern": "ART. 38(6) ENTRY IN TAXPAYERS’ LIST",
       "page": 105,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -2670,84 +2692,84 @@
       "separator": " ",
       "pattern": "ART. 38(7) WITHDRAWAL OF ADDITIONAL SERVICES AND BENEFITS",
       "page": 105,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
-      "title": "“A1”",
+      "title": "A1",
       "kind": "annex",
       "depth": 1,
-      "numbering": "ANNEX",
+      "numbering": "ANNEX “A1”",
       "separator": " ",
       "pattern": "ANNEX “A1”",
       "page": 106,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
-      "title": "“A2”",
+      "title": "A2",
       "kind": "annex",
       "depth": 1,
-      "numbering": "ANNEX",
+      "numbering": "ANNEX “A2”",
       "separator": " ",
       "pattern": "ANNEX “A2”",
       "page": 107,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
-      "title": "“B”",
+      "title": "B",
       "kind": "annex",
       "depth": 1,
-      "numbering": "ANNEX",
+      "numbering": "ANNEX “B”",
       "separator": " ",
       "pattern": "ANNEX “B”",
       "page": 119,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
-      "title": "“C”",
+      "title": "C",
       "kind": "annex",
       "depth": 1,
-      "numbering": "ANNEX",
+      "numbering": "ANNEX “C”",
       "separator": " ",
       "pattern": "ANNEX “C”",
       "page": 120,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
-      "title": "“C1”",
+      "title": "C1",
       "kind": "annex",
       "depth": 1,
-      "numbering": "ANNEX",
+      "numbering": "ANNEX “C1”",
       "separator": " ",
       "pattern": "ANNEX “C1”",
       "page": 132,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
-      "title": "“D”",
+      "title": "D",
       "kind": "annex",
       "depth": 1,
-      "numbering": "ANNEX",
+      "numbering": "ANNEX “D”",
       "separator": " ",
       "pattern": "ANNEX “D”",
       "page": 133,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
-      "title": "“E”",
+      "title": "E",
       "kind": "annex",
       "depth": 1,
-      "numbering": "ANNEX",
+      "numbering": "ANNEX “E”",
       "separator": " ",
       "pattern": "ANNEX “E”",
       "page": 134,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     }
   ],
@@ -2756,11 +2778,11 @@
       "title": "RECIPIENTS AND AMOUNTS",
       "kind": "section",
       "depth": 1,
-      "numbering": "SECTION I",
-      "separator": ". ",
+      "numbering": "SECTION I.",
+      "separator": " ",
       "pattern": "SECTION I. RECIPIENTS AND AMOUNTS",
       "page": 10,
-      "confidence": 0.9,
+      "confidence": 1,
       "children": [
         {
           "title": "COURSES AND UNIVERSITIES FOR WHICH BENEFITS ARE GRANTED",
@@ -2770,7 +2792,7 @@
           "separator": " ",
           "pattern": "ART. 1 COURSES AND UNIVERSITIES FOR WHICH BENEFITS ARE GRANTED",
           "page": 11,
-          "confidence": 0.95,
+          "confidence": 1,
           "children": [
             {
               "title": "COURSES",
@@ -2780,7 +2802,7 @@
               "separator": " ",
               "pattern": "ART. 1(1) COURSES",
               "page": 11,
-              "confidence": 0.95,
+              "confidence": 1,
               "children": []
             },
             {
@@ -2791,7 +2813,7 @@
               "separator": " ",
               "pattern": "ART. 1(2) UNIVERSITIES",
               "page": 11,
-              "confidence": 0.95,
+              "confidence": 1,
               "children": []
             },
             {
@@ -2802,7 +2824,7 @@
               "separator": " ",
               "pattern": "ART. 1(3) COURSE LOCATIONS",
               "page": 11,
-              "confidence": 0.95,
+              "confidence": 1,
               "children": []
             },
             {
@@ -2813,7 +2835,7 @@
               "separator": " ",
               "pattern": "ART. 1(4) DISTRIBUTION OF SCHOLARSHIPS AND ACCOMMODATION",
               "page": 11,
-              "confidence": 0.95,
+              "confidence": 1,
               "children": []
             }
           ]
@@ -2826,7 +2848,7 @@
           "separator": " ",
           "pattern": "ART. 2 DURATION OF BENEFITS",
           "page": 12,
-          "confidence": 1.0,
+          "confidence": 1,
           "children": []
         },
         {
@@ -2837,7 +2859,7 @@
           "separator": " ",
           "pattern": "ART. 3 GROUNDS FOR INELIGIBILITY AND EXCLUSION",
           "page": 13,
-          "confidence": 1.0,
+          "confidence": 1,
           "children": [
             {
               "title": "GROUNDS FORINELIBIGILITY",
@@ -2871,7 +2893,7 @@
           "separator": " ",
           "pattern": "ART. 4 “STUDENT TYPE” FOR SCHOLARSHIP PURPOSES",
           "page": 15,
-          "confidence": 1.0,
+          "confidence": 1,
           "children": []
         },
         {
@@ -2882,7 +2904,7 @@
           "separator": " ",
           "pattern": "ART. 5 SCHOLARSHIP AMOUNTS",
           "page": 16,
-          "confidence": 1.0,
+          "confidence": 1,
           "children": [
             {
               "title": "STUDENTS ENROLLED FULL-TIME",
@@ -2892,56 +2914,78 @@
               "separator": " ",
               "pattern": "ART. 5(1) STUDENTS ENROLLED FULL-TIME",
               "page": 16,
-              "confidence": 1.0,
-              "children": [
-                {
-                  "title": "RESIDENT STUDENTS",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "Art. 5(1.1)",
-                  "separator": " ",
-                  "pattern": "Art. 5(1.1) RESIDENT STUDENTS",
-                  "page": 16,
-                  "confidence": 0.95,
-                  "children": []
-                },
-                {
-                  "title": "COMMUTER STUDENTS",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "Art. 5(1.2)",
-                  "separator": " ",
-                  "pattern": "Art. 5(1.2) COMMUTER STUDENTS",
-                  "page": 17,
-                  "confidence": 0.95,
-                  "children": []
-                },
-                {
-                  "title": "NON-RESIDENT STUDENTS",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "Art. 5(1.3)",
-                  "separator": " ",
-                  "pattern": "Art. 5(1.3) NON-RESIDENT STUDENTS",
-                  "page": 17,
-                  "confidence": 0.95,
-                  "children": []
-                }
-              ]
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "RESIDENT STUDENTS",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 5(1.1)",
+              "separator": " ",
+              "pattern": "Art. 5(1.1) RESIDENT STUDENTS",
+              "page": 16,
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "COMMUTER STUDENTS",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 5(1.2)",
+              "separator": " ",
+              "pattern": "Art. 5(1.2) COMMUTER STUDENTS",
+              "page": 17,
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "NON-RESIDENT STUDENTS",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 5(1.3)",
+              "separator": " ",
+              "pattern": "Art. 5(1.3) NON-RESIDENT STUDENTS",
+              "page": 17,
+              "confidence": 1,
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "NON-resident students assigned to EDISU residences for the academic year 2025/26",
+          "kind": "topic",
+          "depth": 2,
+          "numbering": "Paragraph 1.3. point A",
+          "separator": " ",
+          "pattern": "Paragraph 1.3. point A Non-resident students assigned to EDISU residences for the academic year 2025/26",
+          "page": 18,
+          "confidence": 0.7,
+          "children": [
+            {
+              "title": "STUDENTS ENROLLED PART TIME",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "ART. 5(2)",
+              "separator": " ",
+              "pattern": "ART. 5(2) STUDENTS ENROLLED PART TIME",
+              "page": 19,
+              "confidence": 1,
+              "children": []
             }
           ]
         }
       ]
     },
     {
-      "title": "SECTION II. GENERAL PROVISIONS",
+      "title": "GENERAL PROVISIONS",
       "kind": "section",
       "depth": 1,
       "numbering": "SECTION II.",
       "separator": " ",
       "pattern": "SECTION II. GENERAL PROVISIONS",
       "page": 20,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": [
         {
           "title": "ECONOMIC REQUIREMENTS",
@@ -2951,7 +2995,7 @@
           "separator": " ",
           "pattern": "ART. 6 ECONOMIC REQUIREMENTS",
           "page": 21,
-          "confidence": 1.0,
+          "confidence": 1,
           "children": [
             {
               "title": "ECONOMIC REQUIREMENTS (ISEE UNIVERSITARIO, ISEE PARIFICATO, ISEE DOTTORATO E ISEE NUCLEO RISTRETTO)",
@@ -2961,86 +3005,85 @@
               "separator": " ",
               "pattern": "ART. 6(1) ECONOMIC REQUIREMENTS (ISEE UNIVERSITARIO, ISEE PARIFICATO, ISEE DOTTORATO E ISEE NUCLEO RISTRETTO)",
               "page": 21,
-              "confidence": 1.0,
-              "children": [
-                {
-                  "title": "SUBMISSION OF ISEE UNIVERSITARIO OR CALCULATION OF ISEE PARIFICATO",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "Art. 6(1.1)",
-                  "separator": " ",
-                  "pattern": "Art. 6(1.1) SUBMISSION OF ISEE UNIVERSITARIO OR CALCULATION OF ISEE PARIFICATO",
-                  "page": 22,
-                  "confidence": 0.95,
-                  "children": []
-                },
-                {
-                  "title": "INCOME ACCRUED IN THE 2023 TAX YEAR FOR ISEE CALCULATION",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "Art. 6(1.2)",
-                  "separator": " ",
-                  "pattern": "Art. 6(1.2) INCOME ACCRUED IN THE 2023 TAX YEAR FOR ISEE CALCULATION",
-                  "page": 23,
-                  "confidence": 0.95,
-                  "children": []
-                },
-                {
-                  "title": "SCHOLARSHIP AMOUNTS RECEIVED IN THE 2023 TAX YEAR FOR ISEE CALCULATION",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "Art. 6(1.3)",
-                  "separator": " ",
-                  "pattern": "Art. 6(1.3) SCHOLARSHIP AMOUNTS RECEIVED IN THE 2023 TAX YEAR FOR ISEE CALCULATION",
-                  "page": 23,
-                  "confidence": 0.95,
-                  "children": []
-                },
-                {
-                  "title": "HOUSEHOLD FOR ISEE PURPOSES",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "Art. 6(1.4)",
-                  "separator": " ",
-                  "pattern": "Art. 6(1.4) HOUSEHOLD FOR ISEE PURPOSES",
-                  "page": 23,
-                  "confidence": 0.95,
-                  "children": []
-                },
-                {
-                  "title": "“INDEPENDENT STUDENT” HOUSEHOLD",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "Art. 6(1.5)",
-                  "separator": " ",
-                  "pattern": "Art. 6(1.5) “INDEPENDENT STUDENT” HOUSEHOLD",
-                  "page": 24,
-                  "confidence": 0.95,
-                  "children": []
-                },
-                {
-                  "title": "CASES WITH A HOUSEHOLD COMPOSED OF JUST THE STUDENT",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "Art. 6(1.6)",
-                  "separator": " ",
-                  "pattern": "Art. 6(1.6) CASES WITH A HOUSEHOLD COMPOSED OF JUST THE STUDENT",
-                  "page": 24,
-                  "confidence": 0.95,
-                  "children": []
-                },
-                {
-                  "title": "REGISTERED COHABITATION PURSUANT TO ART. 5 OF PRESIDENTIAL DECREE 223/89",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "Art. 6(1.7)",
-                  "separator": " ",
-                  "pattern": "Art. 6(1.7) REGISTERED COHABITATION PURSUANT TO ART. 5 OF PRESIDENTIAL DECREE 223/89",
-                  "page": 25,
-                  "confidence": 0.95,
-                  "children": []
-                }
-              ]
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "SUBMISSION OF ISEE UNIVERSITARIO OR CALCULATION OF ISEE PARIFICATO",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 6(1.1)",
+              "separator": " ",
+              "pattern": "Art. 6(1.1) SUBMISSION OF ISEE UNIVERSITARIO OR CALCULATION OF ISEE PARIFICATO",
+              "page": 22,
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "INCOME ACCRUED IN THE 2023 TAX YEAR FOR ISEE CALCULATION",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 6(1.2)",
+              "separator": " ",
+              "pattern": "Art. 6(1.2) INCOME ACCRUED IN THE 2023 TAX YEAR FOR ISEE CALCULATION",
+              "page": 23,
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "SCHOLARSHIP AMOUNTS RECEIVED IN THE 2023 TAX YEAR FOR ISEE CALCULATION",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 6(1.3)",
+              "separator": " ",
+              "pattern": "Art. 6(1.3) SCHOLARSHIP AMOUNTS RECEIVED IN THE 2023 TAX YEAR FOR ISEE CALCULATION",
+              "page": 23,
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "HOUSEHOLD FOR ISEE PURPOSES",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 6(1.4)",
+              "separator": " ",
+              "pattern": "Art. 6(1.4) HOUSEHOLD FOR ISEE PURPOSES",
+              "page": 23,
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "“INDEPENDENT STUDENT” HOUSEHOLD",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 6(1.5)",
+              "separator": " ",
+              "pattern": "Art. 6(1.5) “INDEPENDENT STUDENT” HOUSEHOLD",
+              "page": 24,
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "CASES WITH A HOUSEHOLD COMPOSED OF JUST THE STUDENT",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 6(1.6)",
+              "separator": " ",
+              "pattern": "Art. 6(1.6) CASES WITH A HOUSEHOLD COMPOSED OF JUST THE STUDENT",
+              "page": 24,
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "REGISTERED COHABITATION PURSUANT TO ART. 5 OF PRESIDENTIAL DECREE 223/89",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 6(1.7)",
+              "separator": " ",
+              "pattern": "Art. 6(1.7) REGISTERED COHABITATION PURSUANT TO ART. 5 OF PRESIDENTIAL DECREE 223/89",
+              "page": 25,
+              "confidence": 1,
+              "children": []
             },
             {
               "title": "ECONOMIC REQUIREMENTS WITH SUBMISSION OF ISEE UNIVERSITARIO",
@@ -3050,31 +3093,30 @@
               "separator": " ",
               "pattern": "ART. 6(2) ECONOMIC REQUIREMENTS WITH SUBMISSION OF ISEE UNIVERSITARIO",
               "page": 25,
-              "confidence": 1.0,
-              "children": [
-                {
-                  "title": "NON-ACCEPTANCE OF THE ISEE CERTIFICATE BY EDISU PIEMONTE",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "Art. 6(2.1)",
-                  "separator": " ",
-                  "pattern": "Art. 6(2.1) NON-ACCEPTANCE OF THE ISEE CERTIFICATE BY EDISU PIEMONTE",
-                  "page": 25,
-                  "confidence": 0.95,
-                  "children": []
-                },
-                {
-                  "title": "INPS DATA RECEIPT",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "Art. 6(2.2)",
-                  "separator": " ",
-                  "pattern": "Art. 6(2.2) INPS DATA RECEIPT",
-                  "page": 26,
-                  "confidence": 0.95,
-                  "children": []
-                }
-              ]
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "NON-ACCEPTANCE OF THE ISEE CERTIFICATE BY EDISU PIEMONTE",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 6(2.1)",
+              "separator": " ",
+              "pattern": "Art. 6(2.1) NON-ACCEPTANCE OF THE ISEE CERTIFICATE BY EDISU PIEMONTE",
+              "page": 25,
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "INPS DATA RECEIPT",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 6(2.2)",
+              "separator": " ",
+              "pattern": "Art. 6(2.2) INPS DATA RECEIPT",
+              "page": 26,
+              "confidence": 1,
+              "children": []
             },
             {
               "title": "ISEE CORRENTE (CURRENT ISEE)",
@@ -3084,7 +3126,7 @@
               "separator": " ",
               "pattern": "ART. 6(3) ISEE CORRENTE (CURRENT ISEE)",
               "page": 26,
-              "confidence": 1.0,
+              "confidence": 1,
               "children": []
             },
             {
@@ -3095,7 +3137,7 @@
               "separator": " ",
               "pattern": "ART. 6PARA. 4ISEE FOR PHD COURSES",
               "page": 27,
-              "confidence": 0.85,
+              "confidence": 0.8,
               "children": []
             },
             {
@@ -3106,7 +3148,7 @@
               "separator": " ",
               "pattern": "ART. 6(5) ECONOMIC REQUIREMENTS FOR CALCULATION OF ISEE PARIFICATO",
               "page": 27,
-              "confidence": 1.0,
+              "confidence": 1,
               "children": []
             },
             {
@@ -3117,7 +3159,7 @@
               "separator": " ",
               "pattern": "Art. 6 paragraph 5.1 SPECIFICATIONS FOR STUDENTS WITH ITALIAN CITIZENSHIP WHO NEED TO CALCULATE THE ISEE PARIFICATO",
               "page": 28,
-              "confidence": 0.9,
+              "confidence": 0.8,
               "children": []
             }
           ]
@@ -3130,7 +3172,7 @@
           "separator": " ",
           "pattern": "ART. 7 HOW TO SUBMIT AN APPLICATION",
           "page": 29,
-          "confidence": 1.0,
+          "confidence": 1,
           "children": [
             {
               "title": "ACCESS CREDENTIALS AND ONLINE PROCEDURE",
@@ -3140,31 +3182,30 @@
               "separator": " ",
               "pattern": "ART. 7PARA. 1 ACCESS CREDENTIALS AND ONLINE PROCEDURE",
               "page": 29,
-              "confidence": 0.9,
-              "children": [
-                {
-                  "title": "SPID AND CIE",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "Art. 7 paragraph 1.1",
-                  "separator": " ",
-                  "pattern": "Art. 7 paragraph 1.1 SPID AND CIE",
-                  "page": 29,
-                  "confidence": 0.9,
-                  "children": []
-                },
-                {
-                  "title": "TEMPORARY ACCESS CODE 2025/26",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "Art. 7(1.2)",
-                  "separator": " ",
-                  "pattern": "Art. 7(1.2) TEMPORARY ACCESS CODE 2025/26",
-                  "page": 29,
-                  "confidence": 0.95,
-                  "children": []
-                }
-              ]
+              "confidence": 0.8,
+              "children": []
+            },
+            {
+              "title": "SPID AND CIE",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 7 paragraph 1.1",
+              "separator": " ",
+              "pattern": "Art. 7 paragraph 1.1 SPID AND CIE",
+              "page": 29,
+              "confidence": 0.8,
+              "children": []
+            },
+            {
+              "title": "TEMPORARY ACCESS CODE 2025/26",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 7(1.2)",
+              "separator": " ",
+              "pattern": "Art. 7(1.2) TEMPORARY ACCESS CODE 2025/26",
+              "page": 29,
+              "confidence": 1,
+              "children": []
             },
             {
               "title": "RECEIPTS (CONFIRMATIONS)",
@@ -3174,7 +3215,7 @@
               "separator": " ",
               "pattern": "ART. 7(2) RECEIPTS (CONFIRMATIONS)",
               "page": 30,
-              "confidence": 1.0,
+              "confidence": 1,
               "children": []
             },
             {
@@ -3185,7 +3226,7 @@
               "separator": " ",
               "pattern": "ART. 7(3) IBAN",
               "page": 31,
-              "confidence": 1.0,
+              "confidence": 1,
               "children": []
             },
             {
@@ -3196,7 +3237,7 @@
               "separator": " ",
               "pattern": "ART. 7(4) TRANSFER OF APPLICATIONS SUBMITTED TO OTHER BODIES",
               "page": 31,
-              "confidence": 1.0,
+              "confidence": 1,
               "children": []
             },
             {
@@ -3207,31 +3248,30 @@
               "separator": " ",
               "pattern": "ART. 7(5) CHANGES TO THE DATA INCLUDED INTHE APPLICATION",
               "page": 31,
-              "confidence": 1.0,
-              "children": [
-                {
-                  "title": "CHANGES TO DATA AND REQUESTS AFTER SUBMISSION BUT BEFORE THE APPLICATION SUBMISSION DEADLINE",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "Art. 7(5.1)",
-                  "separator": " ",
-                  "pattern": "Art. 7(5.1) CHANGES TO DATA AND REQUESTS AFTER SUBMISSION BUT BEFORE THE APPLICATION SUBMISSION DEADLINE",
-                  "page": 32,
-                  "confidence": 0.9,
-                  "children": []
-                },
-                {
-                  "title": "CHANGES TO DATA AND REQUESTS SENT ONLINE AFTER THE APPLICATION SUBMISSION DEADLINE",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "Art. 7(5.2)",
-                  "separator": " ",
-                  "pattern": "Art. 7(5.2) CHANGES TO DATA AND REQUESTS SENT ONLINE AFTER THE APPLICATION SUBMISSION DEADLINE",
-                  "page": 33,
-                  "confidence": 0.9,
-                  "children": []
-                }
-              ]
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "CHANGES TO DATA AND REQUESTS AFTER SUBMISSION BUT BEFORE THE APPLICATION SUBMISSION DEADLINE",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 7(5.1)",
+              "separator": " ",
+              "pattern": "Art. 7(5.1) CHANGES TO DATA AND REQUESTS AFTER SUBMISSION BUT BEFORE THE APPLICATION SUBMISSION DEADLINE",
+              "page": 32,
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "CHANGES TO DATA AND REQUESTS SENT ONLINE AFTER THE APPLICATION SUBMISSION DEADLINE",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 7(5.2)",
+              "separator": " ",
+              "pattern": "Art. 7(5.2) CHANGES TO DATA AND REQUESTS SENT ONLINE AFTER THE APPLICATION SUBMISSION DEADLINE",
+              "page": 33,
+              "confidence": 1,
+              "children": []
             },
             {
               "title": "COMPLAINTS AGAINST PROVISIONAL RANKINGS",
@@ -3241,20 +3281,19 @@
               "separator": " ",
               "pattern": "ART. 7(6) COMPLAINTS AGAINST PROVISIONAL RANKINGS",
               "page": 33,
-              "confidence": 1.0,
-              "children": [
-                {
-                  "title": "COMPLAINTS AGAINST PROVISIONAL RANKINGS RELATING TO ECONOMIC DATA",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "Art. 7(6.1)",
-                  "separator": " ",
-                  "pattern": "Art. 7(6.1) COMPLAINTS AGAINST PROVISIONAL RANKINGS RELATING TO ECONOMIC DATA",
-                  "page": 33,
-                  "confidence": 0.9,
-                  "children": []
-                }
-              ]
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "COMPLAINTS AGAINST PROVISIONAL RANKINGS RELATING TO ECONOMIC DATA",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 7(6.1)",
+              "separator": " ",
+              "pattern": "Art. 7(6.1) COMPLAINTS AGAINST PROVISIONAL RANKINGS RELATING TO ECONOMIC DATA",
+              "page": 33,
+              "confidence": 1,
+              "children": []
             },
             {
               "title": "WAIVER OF BENEFITS 2025/26",
@@ -3264,7 +3303,7 @@
               "separator": " ",
               "pattern": "ART. 7(7) WAIVER OF BENEFITS 2025/26",
               "page": 34,
-              "confidence": 1.0,
+              "confidence": 1,
               "children": []
             }
           ]
@@ -3277,7 +3316,7 @@
           "separator": " ",
           "pattern": "ART. 8 PAID ACCOMMODATION",
           "page": 35,
-          "confidence": 1.0,
+          "confidence": 1,
           "children": [
             {
               "title": "NON-RESIDENT STUDENTS WHO MUST SUBMIT THE SELF-CERTIFICATION OF PAID ACCOMMODATION",
@@ -3287,20 +3326,19 @@
               "separator": " ",
               "pattern": "ART. 8(1) NON-RESIDENT STUDENTS WHO MUST SUBMIT THE SELF-CERTIFICATION OF PAID ACCOMMODATION",
               "page": 35,
-              "confidence": 1.0,
-              "children": [
-                {
-                  "title": "FOREIGN/EXCHANGE STUDENTS",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "Art. 8(1.1)",
-                  "separator": " ",
-                  "pattern": "Art. 8(1.1) FOREIGN/EXCHANGE STUDENTS",
-                  "page": 35,
-                  "confidence": 0.95,
-                  "children": []
-                }
-              ]
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "FOREIGN/EXCHANGE STUDENTS",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 8(1.1)",
+              "separator": " ",
+              "pattern": "Art. 8(1.1) FOREIGN/EXCHANGE STUDENTS",
+              "page": 35,
+              "confidence": 1,
+              "children": []
             },
             {
               "title": "METHODS AND DEADLINES FOR SUBMITTING THE PAID ACCOMMODATION SELF-CERTIFICATION",
@@ -3310,34 +3348,33 @@
               "separator": " ",
               "pattern": "ART. 8(2) METHODS AND DEADLINES FOR SUBMITTING THE PAID ACCOMMODATION SELF-CERTIFICATION",
               "page": 35,
-              "confidence": 1.0,
-              "children": [
-                {
-                  "title": "SPECIFIC PROVISIONS FOR STUDENTS OF COURSES WITH A \"FILTER SEMESTER\".  (CLASSES LM-41, LM-46, LM-42)",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "Art. 8(2.1)",
-                  "separator": " ",
-                  "pattern": "Art. 8(2.1) SPECIFIC PROVISIONS FOR STUDENTS OF COURSES WITH A \"FILTER SEMESTER\".  (CLASSES LM-41, LM-46, LM-42)",
-                  "page": 37,
-                  "confidence": 0.9,
-                  "children": []
-                }
-              ]
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "SPECIFIC PROVISIONS FOR STUDENTS OF COURSES WITH A \"FILTER SEMESTER\". 37 (CLASSES LM-41, LM-46, LM-42)",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 8(2.1)",
+              "separator": " ",
+              "pattern": "Art. 8(2.1) SPECIFIC PROVISIONS FOR STUDENTS OF COURSES WITH A \"FILTER SEMESTER\". 37 (CLASSES LM-41, LM-46, LM-42)",
+              "page": 37,
+              "confidence": 1,
+              "children": []
             }
           ]
         }
       ]
     },
     {
-      "title": "SECTION III. SPECIFIC PROVISIONS FOR THE FIRST-YEAR STUDENTS",
+      "title": "SPECIFIC PROVISIONS FOR THE FIRST-YEAR STUDENTS",
       "kind": "section",
       "depth": 1,
       "numbering": "SECTION III.",
       "separator": " ",
       "pattern": "SECTION III. SPECIFIC PROVISIONS FOR THE FIRST-YEAR STUDENTS",
       "page": 38,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": [
         {
           "title": "WHO CAN APPLY: ADMISSION REQUIREMENTS",
@@ -3347,7 +3384,7 @@
           "separator": " ",
           "pattern": "ART. 9 WHO CAN APPLY: ADMISSION REQUIREMENTS",
           "page": 39,
-          "confidence": 1.0,
+          "confidence": 1,
           "children": [
             {
               "title": "REQUIREMENTS FOR ADMISSION TO THE COMPETITION",
@@ -3357,20 +3394,19 @@
               "separator": " ",
               "pattern": "ART. 9(1) REQUIREMENTS FOR ADMISSION TO THE COMPETITION",
               "page": 39,
-              "confidence": 1.0,
-              "children": [
-                {
-                  "title": "COURSE TRANSFERS AND TRANSFERS FROM OTHER UNIVERSITIES",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "Art. 9(1.1)",
-                  "separator": " ",
-                  "pattern": "Art. 9(1.1) COURSE TRANSFERS AND TRANSFERS FROM OTHER UNIVERSITIES",
-                  "page": 40,
-                  "confidence": 0.95,
-                  "children": []
-                }
-              ]
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "COURSE TRANSFERS AND TRANSFERS FROM OTHER UNIVERSITIES",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 9(1.1)",
+              "separator": " ",
+              "pattern": "Art. 9(1.1) COURSE TRANSFERS AND TRANSFERS FROM OTHER UNIVERSITIES",
+              "page": 40,
+              "confidence": 1,
+              "children": []
             },
             {
               "title": "CREDIT RECOGNITION (SHORTENING OF CAREER, SINGLE COURSES, PREVIOUS CAREERS)",
@@ -3380,18 +3416,18 @@
               "separator": " ",
               "pattern": "ART. 9(2) CREDIT RECOGNITION (SHORTENING OF CAREER, SINGLE COURSES, PREVIOUS CAREERS)",
               "page": 40,
-              "confidence": 1.0,
+              "confidence": 1,
               "children": []
             },
             {
-              "title": "SPECIFIC PROVISIONS FORSTUDENTS OF COURSES WITH A\"FILTER SEMESTER\"  (CLASSES LM-41, LM-46, LM-42)",
+              "title": "SPECIFIC PROVISIONS FORSTUDENTS OF COURSES WITH A\"FILTER SEMESTER\" 41 (CLASSES LM-41, LM-46, LM-42)",
               "kind": "subarticle",
               "depth": 3,
               "numbering": "9(3)",
               "separator": " ",
-              "pattern": "9(3) SPECIFIC PROVISIONS FORSTUDENTS OF COURSES WITH A\"FILTER SEMESTER\"  (CLASSES LM-41, LM-46, LM-42)",
+              "pattern": "9(3) SPECIFIC PROVISIONS FORSTUDENTS OF COURSES WITH A\"FILTER SEMESTER\" 41 (CLASSES LM-41, LM-46, LM-42)",
               "page": 41,
-              "confidence": 0.85,
+              "confidence": 0.8,
               "children": []
             }
           ]
@@ -3404,7 +3440,7 @@
           "separator": " ",
           "pattern": "ART. 10 METHODS AND DEADLINES FOR SUBMITTING AN APPLICATION",
           "page": 42,
-          "confidence": 1.0,
+          "confidence": 1,
           "children": [
             {
               "title": "METHOD FOR SUBMITTING THE APPLICATION",
@@ -3414,7 +3450,7 @@
               "separator": " ",
               "pattern": "ART. 10(1) METHOD FOR SUBMITTING THE APPLICATION",
               "page": 42,
-              "confidence": 1.0,
+              "confidence": 1,
               "children": []
             },
             {
@@ -3425,7 +3461,7 @@
               "separator": " ",
               "pattern": "ART. 10(2) DEADLINE FOR SUBMITTING THE APPLICATION",
               "page": 42,
-              "confidence": 1.0,
+              "confidence": 1,
               "children": []
             }
           ]
@@ -3438,7 +3474,7 @@
           "separator": " ",
           "pattern": "ART. 11 SPECIFIC PROVISIONS FOR THE FIRST YEARS OF A MASTER’S DEGREE",
           "page": 42,
-          "confidence": 1.0,
+          "confidence": 1,
           "children": [
             {
               "title": "APPLICATION CONVERSION",
@@ -3448,18 +3484,18 @@
               "separator": " ",
               "pattern": "ART. 11(1) APPLICATION CONVERSION",
               "page": 43,
-              "confidence": 1.0,
+              "confidence": 1,
               "children": []
             },
             {
               "title": "FAILURE TO ENROL BY 30 NOVEMBER 2025",
-              "kind": "article",
+              "kind": "subarticle",
               "depth": 3,
               "numbering": "ART. 11(2)",
               "separator": " ",
               "pattern": "ART. 11(2) FAILURE TO ENROL BY 30 NOVEMBER 2025",
               "page": 43,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             }
           ]
@@ -3482,7 +3518,7 @@
               "separator": " ",
               "pattern": "ART. 12(1) CRITERIA FOR DRAWING UP THE RANKINGS",
               "page": 44,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -3493,7 +3529,7 @@
               "separator": " ",
               "pattern": "ART. 12(2) PROVISIONAL RANKINGS",
               "page": 44,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -3504,7 +3540,7 @@
               "separator": " ",
               "pattern": "ART. 12(3) COMPLAINTS",
               "page": 44,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -3515,7 +3551,7 @@
               "separator": " ",
               "pattern": "ART. 12(4) FINAL ACCOMMODATION RANKINGS",
               "page": 44,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -3526,53 +3562,52 @@
               "separator": " ",
               "pattern": "ART. 12(5) FINAL SCHOLARSHIP RANKINGS",
               "page": 45,
-              "confidence": 0.95,
-              "children": [
-                {
-                  "title": "FIRST DEFINITIVE RANKINGS FOR STUDENTS IN FIRST YEAR OF BACHELOR’S OR SINGLE-CYCLE MASTER’S DEGREE WITH ENROLMENT BY 31 OCTOBER 2025",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "Art. 12(5.1)",
-                  "separator": " ",
-                  "pattern": "Art. 12(5.1) FIRST DEFINITIVE RANKINGS FOR STUDENTS IN FIRST YEAR OF BACHELOR’S OR SINGLE-CYCLE MASTER’S DEGREE WITH ENROLMENT BY 31 OCTOBER 2025",
-                  "page": 45,
-                  "confidence": 0.9,
-                  "children": []
-                },
-                {
-                  "title": "GENERAL DEFINITIVE RANKINGS",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "Art. 12(5.2)",
-                  "separator": " ",
-                  "pattern": "Art. 12(5.2) GENERAL DEFINITIVE RANKINGS",
-                  "page": 45,
-                  "confidence": 0.9,
-                  "children": []
-                },
-                {
-                  "title": "DEFINITIVE RANKINGS FOR STUDENTS SUSPENDED” IN DECEMBER",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "Art. 12(5.3)",
-                  "separator": " ",
-                  "pattern": "Art. 12(5.3) DEFINITIVE RANKINGS FOR STUDENTS SUSPENDED” IN DECEMBER",
-                  "page": 45,
-                  "confidence": 0.9,
-                  "children": []
-                },
-                {
-                  "title": "DEFINITIVE RANKINGS FOR STUDENTS SUSPENDED IN DECEMBER FOR \"ENROLLMENT IN FILTER SEMESTER\" AT A PIEDMONT UNIVERSITY AND STUDENTS APPLYING AFTER FILTER SEMESTER",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "Art. 12(5.4)",
-                  "separator": " ",
-                  "pattern": "Art. 12(5.4) DEFINITIVE RANKINGS FOR STUDENTS SUSPENDED IN DECEMBER FOR \"ENROLLMENT IN FILTER SEMESTER\" AT A PIEDMONT UNIVERSITY AND STUDENTS APPLYING AFTER FILTER SEMESTER",
-                  "page": 45,
-                  "confidence": 0.9,
-                  "children": []
-                }
-              ]
+              "confidence": 0.9,
+              "children": []
+            },
+            {
+              "title": "FIRST DEFINITIVE RANKINGS FOR STUDENTS IN FIRST YEAR OF BACHELOR’S OR SINGLE-CYCLE MASTER’S DEGREE WITH ENROLMENT BY 31 OCTOBER 2025",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 12(5.1)",
+              "separator": " ",
+              "pattern": "Art. 12(5.1) FIRST DEFINITIVE RANKINGS FOR STUDENTS IN FIRST YEAR OF BACHELOR’S OR SINGLE-CYCLE MASTER’S DEGREE WITH ENROLMENT BY 31 OCTOBER 2025",
+              "page": 45,
+              "confidence": 0.9,
+              "children": []
+            },
+            {
+              "title": "GENERAL DEFINITIVE RANKINGS",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 12(5.2)",
+              "separator": " ",
+              "pattern": "Art. 12(5.2) GENERAL DEFINITIVE RANKINGS",
+              "page": 45,
+              "confidence": 0.9,
+              "children": []
+            },
+            {
+              "title": "DEFINITIVE RANKINGS FOR STUDENTS SUSPENDED” IN DECEMBER",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 12(5.3)",
+              "separator": " ",
+              "pattern": "Art. 12(5.3) DEFINITIVE RANKINGS FOR STUDENTS SUSPENDED” IN DECEMBER",
+              "page": 45,
+              "confidence": 0.9,
+              "children": []
+            },
+            {
+              "title": "DEFINITIVE RANKINGS FOR STUDENTS SUSPENDED IN DECEMBER FOR \"ENROLLMENT IN FILTER SEMESTER\" AT A PIEDMONT UNIVERSITY AND STUDENTS APPLYING AFTER FILTER SEMESTER",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 12(5.4)",
+              "separator": " ",
+              "pattern": "Art. 12(5.4) DEFINITIVE RANKINGS FOR STUDENTS SUSPENDED IN DECEMBER FOR \"ENROLLMENT IN FILTER SEMESTER\" AT A PIEDMONT UNIVERSITY AND STUDENTS APPLYING AFTER FILTER SEMESTER",
+              "page": 45,
+              "confidence": 0.9,
+              "children": []
             },
             {
               "title": "PUBLICATION DATES FOR RANKINGS AND DEADLINES FOR SUBMITTING COMPLAINTS",
@@ -3582,7 +3617,7 @@
               "separator": " ",
               "pattern": "ART. 12(6) PUBLICATION DATES FOR RANKINGS AND DEADLINES FOR SUBMITTING COMPLAINTS",
               "page": 46,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             }
           ]
@@ -3605,7 +3640,7 @@
               "separator": " ",
               "pattern": "ART. 13(1) MERIT REQUIREMENTS FOR SECOND INSTALMENT",
               "page": 46,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -3616,7 +3651,7 @@
               "separator": " ",
               "pattern": "ART. 13(2) 20% INCREASE OF GRANT AMOUNT FOR SECOND-COURSE ENROLMENT",
               "page": 47,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -3627,7 +3662,7 @@
               "separator": " ",
               "pattern": "ART. 13(3) MERIT SELF-CERTIFICATION",
               "page": 47,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -3639,63 +3674,61 @@
               "pattern": "ART. 13(4) SCHOLARSHIP DISBURSEMENT PERIODUPDATE",
               "page": 48,
               "confidence": 0.9,
-              "children": [
-                {
-                  "title": "20% INCREASE FOR ENROLMENT IN A SECOND COURSE",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "Art. 13(4.1)",
-                  "separator": " ",
-                  "pattern": "Art. 13(4.1) 20% INCREASE FOR ENROLMENT IN A SECOND COURSE",
-                  "page": 49,
-                  "confidence": 0.9,
-                  "children": []
-                }
-              ]
+              "children": []
+            },
+            {
+              "title": "20% INCREASE FOR ENROLMENT IN A SECOND COURSE",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 13(4.1)",
+              "separator": " ",
+              "pattern": "Art. 13(4.1) 20% INCREASE FOR ENROLMENT IN A SECOND COURSE",
+              "page": 49,
+              "confidence": 0.9,
+              "children": []
             },
             {
               "title": "MERIT REQUIREMENTS TO KEEP THE FIRST INSTALMENT ONLY",
               "kind": "subarticle",
               "depth": 3,
-              "numbering": "Art. 13(5)",
+              "numbering": "ART. 13(5)",
               "separator": " ",
-              "pattern": "Art. 13(5) MERIT REQUIREMENTS TO KEEP THE FIRST INSTALMENT ONLY",
+              "pattern": "ART. 13(5) MERIT REQUIREMENTS TO KEEP THE FIRST INSTALMENT ONLY",
               "page": 49,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             },
             {
               "title": "MERIT REQUIREMENTS FOR MAINTAINING ELIGIBILITY",
               "kind": "subarticle",
               "depth": 3,
-              "numbering": "Art. 13(6)",
+              "numbering": "ART. 13(6)",
               "separator": " ",
-              "pattern": "Art. 13(6) MERIT REQUIREMENTS FOR MAINTAINING ELIGIBILITY",
+              "pattern": "ART. 13(6) MERIT REQUIREMENTS FOR MAINTAINING ELIGIBILITY",
               "page": 50,
-              "confidence": 0.95,
-              "children": [
-                {
-                  "title": "ELIGIBLE ASSIGNEES OF A SPOT IN AN EDISU RESIDENCE",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "Art. 13(6.1)",
-                  "separator": " ",
-                  "pattern": "Art. 13(6.1) ELIGIBLE ASSIGNEES OF A SPOT IN AN EDISU RESIDENCE",
-                  "page": 50,
-                  "confidence": 0.9,
-                  "children": []
-                }
-              ]
+              "confidence": 0.9,
+              "children": []
+            },
+            {
+              "title": "ELIGIBLE ASSIGNEES OF A SPOT IN AN EDISU RESIDENCE",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 13(6.1)",
+              "separator": " ",
+              "pattern": "Art. 13(6.1) ELIGIBLE ASSIGNEES OF A SPOT IN AN EDISU RESIDENCE",
+              "page": 50,
+              "confidence": 0.9,
+              "children": []
             },
             {
               "title": "DEFERRAL OF LAST 30 NOVEMBER 2026 DEADLINE",
               "kind": "subarticle",
               "depth": 3,
-              "numbering": "Art. 13(7)",
+              "numbering": "ART. 13(7)",
               "separator": " ",
-              "pattern": "Art. 13(7) DEFERRAL OF LAST 30 NOVEMBER 2026 DEADLINE",
+              "pattern": "ART. 13(7) DEFERRAL OF LAST 30 NOVEMBER 2026 DEADLINE",
               "page": 50,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -3706,7 +3739,7 @@
               "separator": " ",
               "pattern": "ART. 13(8) PROVISIONS FOR SUCCESSFUL ASSIGNEES OF A SPOT IN AN EDISU RESIDENCE",
               "page": 50,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -3717,7 +3750,7 @@
               "separator": " ",
               "pattern": "ART. 13(9) CASES OF SUSPENSION OF PAYMENT",
               "page": 51,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -3728,7 +3761,7 @@
               "separator": " ",
               "pattern": "ART. 13(10) VERIFICATION OF MERIT AND WITHDRAWAL OF BENEFIT",
               "page": 51,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -3739,7 +3772,7 @@
               "separator": " ",
               "pattern": "ART. 13(11) REFUND OF REGIONAL TAX",
               "page": 51,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             }
           ]
@@ -3785,42 +3818,41 @@
               "separator": " ",
               "pattern": "ART. 15(1) ADMISSION REQUIREMENTS",
               "page": 53,
-              "confidence": 0.95,
-              "children": [
-                {
-                  "title": "STANDARD APPLICATION",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "Art. 15(1.1)",
-                  "separator": " ",
-                  "pattern": "Art. 15(1.1) STANDARD APPLICATION",
-                  "page": 53,
-                  "confidence": 0.9,
-                  "children": []
-                },
-                {
-                  "title": "CONFIRMATION OF MERIT BENEFITS",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "Art. 15(1.2)",
-                  "separator": " ",
-                  "pattern": "Art. 15(1.2) CONFIRMATION OF MERIT BENEFITS",
-                  "page": 53,
-                  "confidence": 0.9,
-                  "children": []
-                },
-                {
-                  "title": "SPECIAL CASES",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "Art. 15(1.3)",
-                  "separator": " ",
-                  "pattern": "Art. 15(1.3) SPECIAL CASES",
-                  "page": 54,
-                  "confidence": 0.9,
-                  "children": []
-                }
-              ]
+              "confidence": 0.9,
+              "children": []
+            },
+            {
+              "title": "STANDARD APPLICATION",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 15(1.1)",
+              "separator": " ",
+              "pattern": "Art. 15(1.1) STANDARD APPLICATION",
+              "page": 53,
+              "confidence": 0.9,
+              "children": []
+            },
+            {
+              "title": "CONFIRMATION OF MERIT BENEFITS",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 15(1.2)",
+              "separator": " ",
+              "pattern": "Art. 15(1.2) CONFIRMATION OF MERIT BENEFITS",
+              "page": 53,
+              "confidence": 0.9,
+              "children": []
+            },
+            {
+              "title": "SPECIAL CASES",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 15(1.3)",
+              "separator": " ",
+              "pattern": "Art. 15(1.3) SPECIAL CASES",
+              "page": 54,
+              "confidence": 0.9,
+              "children": []
             },
             {
               "title": "MERIT REQUIREMENTS",
@@ -3830,42 +3862,41 @@
               "separator": " ",
               "pattern": "ART. 15(2) MERIT REQUIREMENTS",
               "page": 54,
-              "confidence": 0.95,
-              "children": [
-                {
-                  "title": "MERIT REQUIREMENTS FOR CONFIRMATION OF MERIT-BASED BENEFITS with FULL TIME ENROLMENT",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "Art. 15(2.1)",
-                  "separator": " ",
-                  "pattern": "Art. 15(2.1) MERIT REQUIREMENTS FOR CONFIRMATION OF MERIT-BASED BENEFITS with FULL TIME ENROLMENT",
-                  "page": 54,
-                  "confidence": 0.9,
-                  "children": []
-                },
-                {
-                  "title": "MERIT REQUIREMENTS FOR STANDARD APPLICATION with FULL-TIME ENROLMENT",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "Art. 15(2.2)",
-                  "separator": " ",
-                  "pattern": "Art. 15(2.2) MERIT REQUIREMENTS FOR STANDARD APPLICATION with FULL-TIME ENROLMENT",
-                  "page": 54,
-                  "confidence": 0.9,
-                  "children": []
-                },
-                {
-                  "title": "MERIT REQUIREMENTS FOR STANDARD APPLICATION with PART-TIME ENROLMENT",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "Art. 15(2.3)",
-                  "separator": " ",
-                  "pattern": "Art. 15(2.3) MERIT REQUIREMENTS FOR STANDARD APPLICATION with PART-TIME ENROLMENT",
-                  "page": 55,
-                  "confidence": 0.9,
-                  "children": []
-                }
-              ]
+              "confidence": 0.9,
+              "children": []
+            },
+            {
+              "title": "MERIT REQUIREMENTS FOR CONFIRMATION OF MERIT-BASED BENEFITS with FULL TIME ENROLMENT",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 15(2.1)",
+              "separator": " ",
+              "pattern": "Art. 15(2.1) MERIT REQUIREMENTS FOR CONFIRMATION OF MERIT-BASED BENEFITS with FULL TIME ENROLMENT",
+              "page": 54,
+              "confidence": 0.9,
+              "children": []
+            },
+            {
+              "title": "MERIT REQUIREMENTS FOR STANDARD APPLICATION with FULL-TIME ENROLMENT",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 15(2.2)",
+              "separator": " ",
+              "pattern": "Art. 15(2.2) MERIT REQUIREMENTS FOR STANDARD APPLICATION with FULL-TIME ENROLMENT",
+              "page": 54,
+              "confidence": 0.9,
+              "children": []
+            },
+            {
+              "title": "MERIT REQUIREMENTS FOR STANDARD APPLICATION with PART-TIME ENROLMENT",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 15(2.3)",
+              "separator": " ",
+              "pattern": "Art. 15(2.3) MERIT REQUIREMENTS FOR STANDARD APPLICATION with PART-TIME ENROLMENT",
+              "page": 55,
+              "confidence": 0.9,
+              "children": []
             },
             {
               "title": "BONUS CREDITS",
@@ -3875,7 +3906,7 @@
               "separator": " ",
               "pattern": "ART. 15(3) BONUS CREDITS",
               "page": 55,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -3886,7 +3917,7 @@
               "separator": " ",
               "pattern": "ART. 15(4) TRANSFERS",
               "page": 56,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -3897,7 +3928,7 @@
               "separator": " ",
               "pattern": "ART. 15(5) CREDIT RECOGNITION (CAREER SHORTENING, SINGLE COURSES, PREVIOUS CAREERS)",
               "page": 56,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -3908,7 +3939,7 @@
               "separator": " ",
               "pattern": "ART. 15(6) PARTICIPANTS INFOREIGN STUDY/EXCHANGE PROJECTS ACADEMIC YEAR 2024/25",
               "page": 57,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             }
           ]
@@ -3931,7 +3962,7 @@
               "separator": " ",
               "pattern": "ART. 16(1) METHOD FOR SUBMITTING THE APPLICATION",
               "page": 58,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -3942,7 +3973,7 @@
               "separator": " ",
               "pattern": "ART. 16(2) DEADLINE FOR SUBMITTING THE APPLICATION",
               "page": 58,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -3953,7 +3984,7 @@
               "separator": " ",
               "pattern": "ART. 16(3) APPLICATION CONVERSION",
               "page": 58,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             }
           ]
@@ -3976,7 +4007,7 @@
               "separator": " ",
               "pattern": "ART. 17(1) CRITERIA FOR DRAWING UP THE RANKINGS",
               "page": 59,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -3987,7 +4018,7 @@
               "separator": " ",
               "pattern": "ART. 17(2) MERIT SCORE AND RANKING",
               "page": 60,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -3998,7 +4029,7 @@
               "separator": " ",
               "pattern": "ART. 17(3) PROVISIONAL RANKINGS",
               "page": 60,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -4009,7 +4040,7 @@
               "separator": " ",
               "pattern": "ART. 17(4) COMPLAINTS",
               "page": 60,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -4020,7 +4051,7 @@
               "separator": " ",
               "pattern": "ART. 17(5) DEFINITIVERANKINGS",
               "page": 61,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -4031,7 +4062,7 @@
               "separator": " ",
               "pattern": "ART. 17(6) PUBLICATION DATES FOR RANKINGS AND DEADLINES FOR SUBMITTING COMPLAINTS",
               "page": 61,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -4042,7 +4073,7 @@
               "separator": " ",
               "pattern": "ART. 17(7) 20% INCREASE OF SCHOLARSHIP AMOUNT FOR SECOND-COURSE ENROLMENT",
               "page": 61,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             }
           ]
@@ -4065,7 +4096,7 @@
               "separator": " ",
               "pattern": "ART. 18(1) DISBURSEMENT PERIOD",
               "page": 62,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -4076,7 +4107,7 @@
               "separator": " ",
               "pattern": "ART. 18(2) CASES OF SUSPENSION OF PAYMENT",
               "page": 62,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -4087,7 +4118,7 @@
               "separator": " ",
               "pattern": "ART. 18(3) REFUND OF REGIONAL TAX",
               "page": 63,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             }
           ]
@@ -4133,7 +4164,7 @@
               "separator": " ",
               "pattern": "ART. 20(1) ADMISSION REQUIREMENTS",
               "page": 65,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -4144,7 +4175,7 @@
               "separator": " ",
               "pattern": "ART. 20(2) AMOUNT",
               "page": 65,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             }
           ]
@@ -4178,7 +4209,7 @@
               "separator": " ",
               "pattern": "ART. 22(1) PROVISIONAL RESULTS",
               "page": 65,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -4189,7 +4220,7 @@
               "separator": " ",
               "pattern": "ART. 22(2) COMPLAINTS",
               "page": 65,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -4200,7 +4231,7 @@
               "separator": " ",
               "pattern": "ART. 22(3) FINAL RESULTS",
               "page": 65,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -4211,7 +4242,7 @@
               "separator": " ",
               "pattern": "ART. 22(4) PUBLICATION DATES FOR RESULTS AND DEADLINES FOR SUBMITTING COMPLAINTS",
               "page": 66,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             }
           ]
@@ -4234,7 +4265,7 @@
               "separator": " ",
               "pattern": "ART. 23(1) CASES OF SUSPENSION OF PAYMENT",
               "page": 66,
-              "confidence": 0.95,
+              "confidence": 0.9,
               "children": []
             }
           ]
@@ -4392,7 +4423,7 @@
               "separator": " ",
               "pattern": "ART. 26(4) DEFINITIVERANKINGS",
               "page": 70,
-              "confidence": 0.9,
+              "confidence": 1.0,
               "children": []
             },
             {
@@ -4528,74 +4559,72 @@
               "pattern": "ART. 29(3) MERIT REQUIREMENTS",
               "page": 74,
               "confidence": 1.0,
-              "children": [
-                {
-                  "title": "MERIT REQUIREMENTS FOR FIRST-YEAR STUDENTS",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "ART. 29(3.1)",
-                  "separator": " ",
-                  "pattern": "Art. 29(3.1) MERIT REQUIREMENTS FOR FIRST-YEAR STUDENTS",
-                  "page": 74,
-                  "confidence": 1.0,
-                  "children": []
-                },
-                {
-                  "title": "MERIT REQUIREMENTS FOR SUBSEQUENT-YEAR STUDENTS",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "ART. 29(3.2)",
-                  "separator": " ",
-                  "pattern": "Art. 29(3.2) MERIT REQUIREMENTS FOR SUBSEQUENT-YEAR STUDENTS",
-                  "page": 74,
-                  "confidence": 1.0,
-                  "children": []
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Merit requirements with full-time enrolment",
-          "kind": "topic",
-          "depth": 2,
-          "numbering": null,
-          "separator": null,
-          "pattern": "Paragraph 3.2 point A Merit requirements with full-time enrolment",
-          "page": 75,
-          "confidence": 0.7,
-          "children": []
-        },
-        {
-          "title": "Merit requirements with part-time enrolment",
-          "kind": "topic",
-          "depth": 2,
-          "numbering": null,
-          "separator": null,
-          "pattern": "Paragraph 3.2 point B Merit requirements with part-time enrolment",
-          "page": 75,
-          "confidence": 0.7,
-          "children": [
+              "children": []
+            },
+            {
+              "title": "MERIT REQUIREMENTS FOR FIRST-YEAR STUDENTS",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 29(3.1)",
+              "separator": " ",
+              "pattern": "Art. 29(3.1) MERIT REQUIREMENTS FOR FIRST-YEAR STUDENTS",
+              "page": 74,
+              "confidence": 0.9,
+              "children": []
+            },
+            {
+              "title": "MERIT REQUIREMENTS FOR SUBSEQUENT-YEAR STUDENTS",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 29(3.2)",
+              "separator": " ",
+              "pattern": "Art. 29(3.2) MERIT REQUIREMENTS FOR SUBSEQUENT-YEAR STUDENTS",
+              "page": 74,
+              "confidence": 0.9,
+              "children": []
+            },
+            {
+              "title": "Merit requirements with full-time enrolment",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Paragraph 3.2 point A",
+              "separator": " ",
+              "pattern": "Paragraph 3.2 point A Merit requirements with full-time enrolment",
+              "page": 75,
+              "confidence": 0.7,
+              "children": []
+            },
+            {
+              "title": "Merit requirements with part-time enrolment",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Paragraph 3.2 point B",
+              "separator": " ",
+              "pattern": "Paragraph 3.2 point B Merit requirements with part-time enrolment",
+              "page": 75,
+              "confidence": 0.7,
+              "children": []
+            },
             {
               "title": "BONUS CREDITS",
               "kind": "subarticle",
-              "depth": 4,
-              "numbering": "ART. 29(3.3)",
+              "depth": 3,
+              "numbering": "Art. 29(3.3)",
               "separator": " ",
               "pattern": "Art. 29(3.3) BONUS CREDITS",
               "page": 75,
-              "confidence": 1.0,
+              "confidence": 0.9,
               "children": []
             },
             {
               "title": "CONFIRMATION OF MERIT BENEFITS",
               "kind": "subarticle",
-              "depth": 4,
-              "numbering": "ART. 29(3.4)",
+              "depth": 3,
+              "numbering": "Art. 29(3.4)",
               "separator": " ",
               "pattern": "Art. 29(3.4) CONFIRMATION OF MERIT BENEFITS",
               "page": 75,
-              "confidence": 1.0,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -4675,19 +4704,18 @@
               "pattern": "ART. 30(3) CONSULAR DOCUMENTATION",
               "page": 78,
               "confidence": 1.0,
-              "children": [
-                {
-                  "title": "Translation and legalisation procedures",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "ART. 30(3.1)",
-                  "separator": " ",
-                  "pattern": "Art. 30(3.1) Translation and legalisation procedures",
-                  "page": 79,
-                  "confidence": 1.0,
-                  "children": []
-                }
-              ]
+              "children": []
+            },
+            {
+              "title": "Translation and legalisation procedures",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 30(3.1)",
+              "separator": " ",
+              "pattern": "Art. 30(3.1) Translation and legalisation procedures",
+              "page": 79,
+              "confidence": 0.9,
+              "children": []
             },
             {
               "title": "STUDENTS FROM PARTICULARLY POOR COUNTRIES",
@@ -4731,19 +4759,18 @@
               "pattern": "ART. 30(7) INTERNATIONAL EU STUDENTS",
               "page": 81,
               "confidence": 1.0,
-              "children": [
-                {
-                  "title": "SPECIFICATIONS FOR CONSULAR DOCUMENTATION OF INTERNATIONAL EU STUDENTS",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "ART. 30(7.1)",
-                  "separator": " ",
-                  "pattern": "Art. 30(7.1) SPECIFICATIONS FOR CONSULAR DOCUMENTATION OF INTERNATIONAL EU STUDENTS",
-                  "page": 81,
-                  "confidence": 1.0,
-                  "children": []
-                }
-              ]
+              "children": []
+            },
+            {
+              "title": "SPECIFICATIONS FOR CONSULAR DOCUMENTATION OF INTERNATIONAL EU STUDENTS",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 30(7.1)",
+              "separator": " ",
+              "pattern": "Art. 30(7.1) SPECIFICATIONS FOR CONSULAR DOCUMENTATION OF INTERNATIONAL EU STUDENTS",
+              "page": 81,
+              "confidence": 0.9,
+              "children": []
             },
             {
               "title": "INTERNATIONAL STUDENTS ENROLLED IN A PHDCOURSE OR SPECIALISATION SCHOOL WHO MUST CALCULATE THE ISEE PARIFICATO",
@@ -4777,52 +4804,51 @@
               "pattern": "ART. 31(1) INTERNATIONAL NON-EU STUDENTS",
               "page": 82,
               "confidence": 1.0,
-              "children": [
-                {
-                  "title": "OBTAINING CREDENTIALS TO ACCESS THE ONLINE APPLICATION",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "ART. 31(1.1)",
-                  "separator": " ",
-                  "pattern": "Art. 31(1.1) OBTAINING CREDENTIALS TO ACCESS THE ONLINE APPLICATION",
-                  "page": 82,
-                  "confidence": 1.0,
-                  "children": []
-                },
-                {
-                  "title": "ONLINE APPLICATION SUBMISSION",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "ART. 31(1.2)",
-                  "separator": " ",
-                  "pattern": "Art. 31(1.2) ONLINE APPLICATION SUBMISSION",
-                  "page": 83,
-                  "confidence": 1.0,
-                  "children": []
-                },
-                {
-                  "title": "SENDING CONSULAR DOCUMENTATION TO EDISU",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "ART. 31(1.3)",
-                  "separator": " ",
-                  "pattern": "Art. 31(1.3) SENDING CONSULAR DOCUMENTATION TO EDISU",
-                  "page": 83,
-                  "confidence": 1.0,
-                  "children": []
-                },
-                {
-                  "title": "DEADLINES FOR SENDING CONSULAR DOCUMENTATION",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "ART. 31(1.4)",
-                  "separator": " ",
-                  "pattern": "Art. 31(1.4) DEADLINES FOR SENDING CONSULAR DOCUMENTATION",
-                  "page": 83,
-                  "confidence": 1.0,
-                  "children": []
-                }
-              ]
+              "children": []
+            },
+            {
+              "title": "OBTAINING CREDENTIALS TO ACCESS THE ONLINE APPLICATION",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 31(1.1)",
+              "separator": " ",
+              "pattern": "Art. 31(1.1) OBTAINING CREDENTIALS TO ACCESS THE ONLINE APPLICATION",
+              "page": 82,
+              "confidence": 0.9,
+              "children": []
+            },
+            {
+              "title": "ONLINE APPLICATION SUBMISSION",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 31(1.2)",
+              "separator": " ",
+              "pattern": "Art. 31(1.2) ONLINE APPLICATION SUBMISSION",
+              "page": 83,
+              "confidence": 0.9,
+              "children": []
+            },
+            {
+              "title": "SENDING CONSULAR DOCUMENTATION TO EDISU",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 31(1.3)",
+              "separator": " ",
+              "pattern": "Art. 31(1.3) SENDING CONSULAR DOCUMENTATION TO EDISU",
+              "page": 83,
+              "confidence": 0.9,
+              "children": []
+            },
+            {
+              "title": "DEADLINES FOR SENDING CONSULAR DOCUMENTATION",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 31(1.4)",
+              "separator": " ",
+              "pattern": "Art. 31(1.4) DEADLINES FOR SENDING CONSULAR DOCUMENTATION",
+              "page": 83,
+              "confidence": 0.9,
+              "children": []
             },
             {
               "title": "INTERNATIONAL EU STUDENTS",
@@ -4844,30 +4870,29 @@
               "pattern": "ART. 31(3) ASSESSMENT AND POTENTIAL SUPPLEMENTING OF CONSULAR DOCUMENTATION OF NON-EU AND EU INTERNATIONAL STUDENTS",
               "page": 85,
               "confidence": 1.0,
-              "children": [
-                {
-                  "title": "ASSESSMENT OF CONSULAR DOCUMENTATION SENT TO EDISU",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "ART. 31(3.1)",
-                  "separator": " ",
-                  "pattern": "Art. 31(3.1) ASSESSMENT OF CONSULAR DOCUMENTATION SENT TO EDISU",
-                  "page": 85,
-                  "confidence": 1.0,
-                  "children": []
-                },
-                {
-                  "title": "SUPPLEMENTING CONSULAR DOCUMENTATION ASSESSED AS INVALID OR INCOMPLETE BY EDISU PIEMONTE",
-                  "kind": "subarticle",
-                  "depth": 4,
-                  "numbering": "ART. 31(3.2)",
-                  "separator": " ",
-                  "pattern": "Art. 31(3.2) SUPPLEMENTING CONSULAR DOCUMENTATION ASSESSED AS INVALID OR INCOMPLETE BY EDISU PIEMONTE",
-                  "page": 86,
-                  "confidence": 1.0,
-                  "children": []
-                }
-              ]
+              "children": []
+            },
+            {
+              "title": "ASSESSMENT OF CONSULAR DOCUMENTATION SENT TO EDISU",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 31(3.1)",
+              "separator": " ",
+              "pattern": "Art. 31(3.1) ASSESSMENT OF CONSULAR DOCUMENTATION SENT TO EDISU",
+              "page": 85,
+              "confidence": 0.9,
+              "children": []
+            },
+            {
+              "title": "SUPPLEMENTING CONSULAR DOCUMENTATION ASSESSED AS INVALID OR INCOMPLETE BY EDISU PIEMONTE",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "Art. 31(3.2)",
+              "separator": " ",
+              "pattern": "Art. 31(3.2) SUPPLEMENTING CONSULAR DOCUMENTATION ASSESSED AS INVALID OR INCOMPLETE BY EDISU PIEMONTE",
+              "page": 86,
+              "confidence": 0.9,
+              "children": []
             },
             {
               "title": "ADDRESSES FOR SENDING CONSULAR DOCUMENTATION AND ASSISTANCE",
@@ -4976,8 +5001,8 @@
       "title": "TION IX. SPECIFIC PROVISIONS FOR THE ACCOMMODATION SERVICE",
       "kind": "section",
       "depth": 1,
-      "numbering": "TION IX.",
-      "separator": " ",
+      "numbering": null,
+      "separator": null,
       "pattern": "TION IX. SPECIFIC PROVISIONS FOR THE ACCOMMODATION SERVICE",
       "page": 89,
       "confidence": 0.6,
@@ -5000,7 +5025,7 @@
               "separator": " ",
               "pattern": "ART. 32(1) SPECIFIC PROVISIONS FORSTUDENTS ENROLLED IN THE FILTER SEMESTER ASSIGNED TO ACCOMMODATION SERVICE",
               "page": 90,
-              "confidence": 0.9,
+              "confidence": 1.0,
               "children": []
             }
           ]
@@ -5013,7 +5038,7 @@
           "separator": " ",
           "pattern": "ART. 33 ACCEPTANCE OF THE ACCOMMODATION SERVICE",
           "page": 90,
-          "confidence": 1.0,
+          "confidence": 1,
           "children": [
             {
               "title": "WINNERS: ONLINEACCEPTANCE",
@@ -5023,7 +5048,7 @@
               "separator": " ",
               "pattern": "ART. 33(1) WINNERS: ONLINEACCEPTANCE",
               "page": 91,
-              "confidence": 1.0,
+              "confidence": 1,
               "children": []
             },
             {
@@ -5034,7 +5059,7 @@
               "separator": " ",
               "pattern": "ART. 33(2) ELIGIBLE: EXPRESSION OF INTEREST",
               "page": 92,
-              "confidence": 1.0,
+              "confidence": 1,
               "children": []
             },
             {
@@ -5045,7 +5070,7 @@
               "separator": " ",
               "pattern": "ART. 33(3) ELIGIBLE: SINGLESCROLLING RANKINGS",
               "page": 93,
-              "confidence": 0.9,
+              "confidence": 1,
               "children": []
             },
             {
@@ -5056,7 +5081,7 @@
               "separator": " ",
               "pattern": "Art. 33(3.1) STUDENTS ACCEPTING ACCOMMODATION ALLOCATED BY SCROLLING RANKING",
               "page": 93,
-              "confidence": 0.9,
+              "confidence": 1,
               "children": []
             },
             {
@@ -5067,7 +5092,7 @@
               "separator": " ",
               "pattern": "Art. 33(3.2) STUDENTS REFUSING ACCOMMODATION ALLOCATED BY SCROLLING RANKING",
               "page": 93,
-              "confidence": 0.9,
+              "confidence": 1,
               "children": []
             },
             {
@@ -5078,7 +5103,7 @@
               "separator": " ",
               "pattern": "ART. 33(4) FOREIGN STUDY/EXCHANGE STUDENTS",
               "page": 94,
-              "confidence": 1.0,
+              "confidence": 1,
               "children": []
             },
             {
@@ -5089,7 +5114,7 @@
               "separator": " ",
               "pattern": "Art. 33(4.1) Erasmus Month Option",
               "page": 94,
-              "confidence": 0.9,
+              "confidence": 1,
               "children": []
             },
             {
@@ -5100,7 +5125,7 @@
               "separator": " ",
               "pattern": "Art. 33(4.2) Erasmus Year Option",
               "page": 94,
-              "confidence": 0.9,
+              "confidence": 1,
               "children": []
             },
             {
@@ -5111,7 +5136,7 @@
               "separator": " ",
               "pattern": "ART. 33(5) GUESTS OF THE RENATO EINAUDI COLLEGE: RENATO EINAUDI OPTION",
               "page": 95,
-              "confidence": 1.0,
+              "confidence": 1,
               "children": []
             }
           ]
@@ -5124,7 +5149,7 @@
           "separator": " ",
           "pattern": "ART. 34 ALLOCATION OF ACCOMMODATION AT EDISU RESIDENCES",
           "page": 95,
-          "confidence": 1.0,
+          "confidence": 1,
           "children": [
             {
               "title": "ALLOCATION CRITERIA",
@@ -5134,7 +5159,7 @@
               "separator": " ",
               "pattern": "ART. 34(1) ALLOCATION CRITERIA",
               "page": 95,
-              "confidence": 1.0,
+              "confidence": 1,
               "children": []
             },
             {
@@ -5145,7 +5170,7 @@
               "separator": " ",
               "pattern": "Art. 34(1.1) ROOM TYPE",
               "page": 96,
-              "confidence": 0.9,
+              "confidence": 1,
               "children": []
             },
             {
@@ -5156,7 +5181,7 @@
               "separator": " ",
               "pattern": "Art. 34(1.2) TRANSFERS FOR HEALTH OR PERSONAL SAFETY REASONS",
               "page": 96,
-              "confidence": 0.9,
+              "confidence": 1,
               "children": []
             },
             {
@@ -5167,7 +5192,7 @@
               "separator": " ",
               "pattern": "Art. 34(1.3) MOBILITY BETWEEN DIFFERENT RESIDENCES",
               "page": 96,
-              "confidence": 0.9,
+              "confidence": 1,
               "children": []
             },
             {
@@ -5178,7 +5203,7 @@
               "separator": " ",
               "pattern": "ART. 34(2) ALLOCATION PROCEDURE",
               "page": 96,
-              "confidence": 1.0,
+              "confidence": 1,
               "children": []
             },
             {
@@ -5189,7 +5214,7 @@
               "separator": " ",
               "pattern": "ART. 34(3) RULES FOR ASSIGNEES",
               "page": 96,
-              "confidence": 1.0,
+              "confidence": 1,
               "children": []
             },
             {
@@ -5200,7 +5225,7 @@
               "separator": " ",
               "pattern": "ART. 34(4) ALLOCATION PERIODS",
               "page": 97,
-              "confidence": 1.0,
+              "confidence": 1,
               "children": []
             },
             {
@@ -5211,7 +5236,7 @@
               "separator": " ",
               "pattern": "ART. 34(5) SUMMER CLOSURE",
               "page": 97,
-              "confidence": 1.0,
+              "confidence": 1,
               "children": []
             },
             {
@@ -5222,7 +5247,7 @@
               "separator": " ",
               "pattern": "ART. 34(6) SPECIAL CASES",
               "page": 97,
-              "confidence": 1.0,
+              "confidence": 1,
               "children": []
             },
             {
@@ -5233,7 +5258,7 @@
               "separator": " ",
               "pattern": "Art. 34(6.1) ADDITIONAL SEMESTERS",
               "page": 97,
-              "confidence": 0.9,
+              "confidence": 1,
               "children": []
             },
             {
@@ -5244,7 +5269,7 @@
               "separator": " ",
               "pattern": "Art. 34(6.2) STUDENTS WITH “SUSPENDED” OUTCOME IN THE DEFINITIVE SCHOLARSHIP RANKING OF 16 DECEMBER 2025",
               "page": 97,
-              "confidence": 0.8,
+              "confidence": 1,
               "children": []
             },
             {
@@ -5255,7 +5280,7 @@
               "separator": " ",
               "pattern": "Art. 34(6.3) STUDENTS WHO MUST LEAVE THEIR RESIDENCE FOR SERIOUS REASONS",
               "page": 97,
-              "confidence": 0.9,
+              "confidence": 1,
               "children": []
             },
             {
@@ -5266,7 +5291,7 @@
               "separator": " ",
               "pattern": "Art. 34(6.4) STUDENTS GRADUATING IN JULY AND WINNERS OF THIRD YEAR OF COURSE",
               "page": 98,
-              "confidence": 0.9,
+              "confidence": 1,
               "children": []
             }
           ]
@@ -5279,7 +5304,7 @@
           "separator": " ",
           "pattern": "ART. 35 REVOCATION OF ACCOMMODATION SERVICE DUE TO RENUNCIATION OR LOSS OF REQUIREMENTS",
           "page": 98,
-          "confidence": 1.0,
+          "confidence": 1,
           "children": [
             {
               "title": "REVOCATION FORWAIVER OF ACCOMMODATION SERVICE 2025/26",
@@ -5289,7 +5314,7 @@
               "separator": " ",
               "pattern": "ART. 35(1) REVOCATION FORWAIVER OF ACCOMMODATION SERVICE 2025/26",
               "page": 98,
-              "confidence": 1.0,
+              "confidence": 1,
               "children": []
             },
             {
@@ -5300,7 +5325,7 @@
               "separator": " ",
               "pattern": "ART. 35(2) WITHDRAWAL OF THE ACCOMMODATION SERVICE DUE TO LOSS OF REQUIREMENTS",
               "page": 98,
-              "confidence": 1.0,
+              "confidence": 1,
               "children": []
             }
           ]
@@ -5315,7 +5340,7 @@
       "separator": " ",
       "pattern": "SECTION XI. FINAL PROVISIONS",
       "page": 99,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": [
         {
           "title": "POLICY PURSUANT TO ARTICLES 12, 13 AND 14 OF REGULATION (EU) NO. 679 OF 27 APRIL 2016 OF THE EUROPEAN PARLIAMENT AND OF THE",
@@ -5324,7 +5349,7 @@
           "numbering": "ART. 36",
           "separator": " ",
           "pattern": "ART. 36 POLICY PURSUANT TO ARTICLES 12, 13 AND 14 OF REGULATION (EU) NO. 679 OF 27 APRIL 2016 OF THE EUROPEAN PARLIAMENT AND OF THE",
-          "page": null,
+          "page": 99,
           "confidence": 0.8,
           "children": []
         },
@@ -5332,11 +5357,11 @@
           "title": "COUNCIL ON THE PROTECTION OF INDIVIDUALS WITH REGARD TO PERSONAL DATA PROCESSING AND THE FREE MOVEMENT OF SUCH DATA",
           "kind": "article",
           "depth": 2,
-          "numbering": "ART. 37",
-          "separator": " ",
-          "pattern": "ART. 37 COUNCIL ON THE PROTECTION OF INDIVIDUALS WITH REGARD TO PERSONAL DATA PROCESSING AND THE FREE MOVEMENT OF SUCH DATA",
+          "numbering": null,
+          "separator": null,
+          "pattern": "COUNCIL ON THE PROTECTION OF INDIVIDUALS WITH REGARD TO PERSONAL DATA PROCESSING AND THE FREE MOVEMENT OF SUCH DATA",
           "page": 100,
-          "confidence": 0.8,
+          "confidence": 0.5,
           "children": []
         },
         {
@@ -5347,7 +5372,7 @@
           "separator": " ",
           "pattern": "ART. 37 CHECKING THE VERACITY OF SELF-CERTIFIED FINANCIAL CONDITIONS AND SANCTIONS",
           "page": 102,
-          "confidence": 1.0,
+          "confidence": 1,
           "children": [
             {
               "title": "CHECKING FINANCIAL CONDITIONS",
@@ -5357,7 +5382,7 @@
               "separator": " ",
               "pattern": "ART. 37(1) CHECKING FINANCIAL CONDITIONS",
               "page": 102,
-              "confidence": 1.0,
+              "confidence": 1,
               "children": []
             },
             {
@@ -5368,7 +5393,7 @@
               "separator": null,
               "pattern": "ART. 37(2) SANCTIONS",
               "page": 103,
-              "confidence": 1.0,
+              "confidence": 1,
               "children": []
             }
           ]
@@ -5381,7 +5406,7 @@
           "separator": " ",
           "pattern": "ART.38 WITHDRAWAL OF THE SCHOLARSHIP AND ACCOMMODATION SERVICE FOLLOWING MERIT CHECK, WITHDRAWAL AND LOSS OF ELIGIBILITY",
           "page": 103,
-          "confidence": 1.0,
+          "confidence": 1,
           "children": [
             {
               "title": "ENROLMENT AND MERIT CHECK",
@@ -5391,7 +5416,7 @@
               "separator": " ",
               "pattern": "ART. 38(1) ENROLMENT AND MERIT CHECK",
               "page": 103,
-              "confidence": 1.0,
+              "confidence": 1,
               "children": []
             },
             {
@@ -5402,7 +5427,7 @@
               "separator": " ",
               "pattern": "ART. 38(2) BENEFIT WITHDRAWAL",
               "page": 104,
-              "confidence": 1.0,
+              "confidence": 1,
               "children": []
             },
             {
@@ -5413,7 +5438,7 @@
               "separator": " ",
               "pattern": "Art. 38(2.1) FIRST YEARS LACK OF MERIT",
               "page": 104,
-              "confidence": 0.9,
+              "confidence": 1,
               "children": []
             },
             {
@@ -5424,7 +5449,7 @@
               "separator": " ",
               "pattern": "Art. 38(2.2) FIRST YEARS AND SUBSEQUENT YEARS LOSS OF ELIGIBILITY",
               "page": 104,
-              "confidence": 0.9,
+              "confidence": 1,
               "children": []
             },
             {
@@ -5435,7 +5460,7 @@
               "separator": " ",
               "pattern": "ART. 38(3) REPAYMENT OF BENEFITS: METHODS",
               "page": 104,
-              "confidence": 1.0,
+              "confidence": 1,
               "children": []
             },
             {
@@ -5446,7 +5471,7 @@
               "separator": " ",
               "pattern": "ART. 38(4) STUDENT CAREER BLOCKS",
               "page": 105,
-              "confidence": 1.0,
+              "confidence": 1,
               "children": []
             },
             {
@@ -5457,7 +5482,7 @@
               "separator": " ",
               "pattern": "ART. 38(5) COMMUNICATION TO THE UNIVERSITY",
               "page": 105,
-              "confidence": 1.0,
+              "confidence": 1,
               "children": []
             },
             {
@@ -5468,7 +5493,7 @@
               "separator": " ",
               "pattern": "ART. 38(6) ENTRY IN TAXPAYERS’ LIST",
               "page": 105,
-              "confidence": 1.0,
+              "confidence": 1,
               "children": []
             },
             {
@@ -5479,7 +5504,7 @@
               "separator": " ",
               "pattern": "ART. 38(7) WITHDRAWAL OF ADDITIONAL SERVICES AND BENEFITS",
               "page": 105,
-              "confidence": 1.0,
+              "confidence": 1,
               "children": []
             }
           ]
@@ -5487,86 +5512,86 @@
       ]
     },
     {
-      "title": "“A1”",
+      "title": "A1",
       "kind": "annex",
       "depth": 1,
-      "numbering": "ANNEX",
+      "numbering": "ANNEX “A1”",
       "separator": " ",
       "pattern": "ANNEX “A1”",
       "page": 106,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
-      "title": "“A2”",
+      "title": "A2",
       "kind": "annex",
       "depth": 1,
-      "numbering": "ANNEX",
+      "numbering": "ANNEX “A2”",
       "separator": " ",
       "pattern": "ANNEX “A2”",
       "page": 107,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
-      "title": "“B”",
+      "title": "B",
       "kind": "annex",
       "depth": 1,
-      "numbering": "ANNEX",
+      "numbering": "ANNEX “B”",
       "separator": " ",
       "pattern": "ANNEX “B”",
       "page": 119,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
-      "title": "“C”",
+      "title": "C",
       "kind": "annex",
       "depth": 1,
-      "numbering": "ANNEX",
+      "numbering": "ANNEX “C”",
       "separator": " ",
       "pattern": "ANNEX “C”",
       "page": 120,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
-      "title": "“C1”",
+      "title": "C1",
       "kind": "annex",
       "depth": 1,
-      "numbering": "ANNEX",
+      "numbering": "ANNEX “C1”",
       "separator": " ",
       "pattern": "ANNEX “C1”",
       "page": 132,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
-      "title": "“D”",
+      "title": "D",
       "kind": "annex",
       "depth": 1,
-      "numbering": "ANNEX",
+      "numbering": "ANNEX “D”",
       "separator": " ",
       "pattern": "ANNEX “D”",
       "page": 133,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
-      "title": "“E”",
+      "title": "E",
       "kind": "annex",
       "depth": 1,
-      "numbering": "ANNEX",
+      "numbering": "ANNEX “E”",
       "separator": " ",
       "pattern": "ANNEX “E”",
       "page": 134,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     }
   ],
-  "summary": "This document is an official notice issued by a university or student support authority detailing the rules and procedures for scholarships, accommodation, and degree awards for the academic year 2025/26. Its main purpose is to inform students about updated scholarship amounts, eligibility criteria, application deadlines, and accommodation procedures. Key topics covered include scholarship amounts and conditions for full-time and non-resident students, lease update requirements, special provisions for students in certain medical programs, and important dates for applications and degree prizes.",
+  "summary": "The document outlines updated scholarship amounts for full-time students for the 2025/26 academic year, including specific procedures for students who forgo accommodation or change leases. It also details application deadlines and requirements for various student categories, such as first-year, subsequent-year, and filter semester attendees, with key dates for scholarship applications and degree prize submissions provided.",
   "metadata": {
-    "title": "Notice of competition – scholarship accommodation and degree award a.y. 2025/26",
+    "title": "Notice of competition scholarship accommodation and degree award a.y. 2025/26",
     "source": "explicit",
     "year": "2025/26",
     "document_type": "Notice of competition",
@@ -5580,7 +5605,7 @@
   "processing_log": [
     {
       "action": "read",
-      "detail": "Read 5167 lines from data\\Notice_of_competition_scholarship_accommodation_and_degree_award_a.y.2025.26 (1).md",
+      "detail": "Read 5167 lines from /Users/omiderfanmanesh/Projects/DocStruct/data/Notice_of_competition_scholarship_accommodation_and_degree_award_a.y.2025.26 (1).md",
       "line": null
     },
     {
@@ -5590,12 +5615,12 @@
     },
     {
       "action": "boundary",
-      "detail": "TOC spans lines 50–299",
+      "detail": "TOC spans lines 50-299",
       "line": null
     },
     {
       "action": "classified",
-      "detail": "LLM extracted 250 TOC entries",
+      "detail": "LLM extracted 252 TOC entries",
       "line": null
     },
     {
@@ -5610,9 +5635,9 @@
     },
     {
       "action": "metadata",
-      "detail": "Extracted metadata: title='Notice of competition – scholarship accommodation and degree award a.y. 2025/26', source=explicit",
+      "detail": "Extracted metadata: title='Notice of competition scholarship accommodation and degree award a.y. 2025/26', source=explicit",
       "line": null
     }
   ],
-  "extracted_at": "2026-03-22T11:42:48.178508Z"
+  "extracted_at": "2026-04-15T09:31:55.504323Z"
 }

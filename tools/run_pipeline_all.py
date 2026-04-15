@@ -31,6 +31,7 @@ def run_pipeline(
     skip_extract: bool = False,
     skip_fix: bool = False,
     skip_index: bool = False,
+    use_llm_matching: bool = True,
     client=None,
     single_file: str | None = None,
 ) -> None:
@@ -85,7 +86,13 @@ def run_pipeline(
             try:
                 fixed_output_dir.mkdir(parents=True, exist_ok=True)
                 report_output_dir.mkdir(parents=True, exist_ok=True)
-                report = fix_markdown(str(md_file), str(toc_file), str(fixed_output_dir), report_dir=str(report_output_dir))
+                report = fix_markdown(
+                    str(md_file),
+                    str(toc_file),
+                    str(fixed_output_dir),
+                    report_dir=str(report_output_dir),
+                    use_llm_matching=use_llm_matching,
+                )
                 result_row["markdown_fix"] = "SUCCESS"
                 result_row["corrections"] = report.lines_changed
                 logger.info("  Markdown fixed; corrections: %s", report.lines_changed)
@@ -134,6 +141,7 @@ def main() -> None:
     parser.add_argument("--skip-extract", action="store_true", help="Skip TOC extraction and use existing JSON files")
     parser.add_argument("--skip-fix", action="store_true", help="Skip markdown fixing and only extract TOC")
     parser.add_argument("--skip-index", action="store_true", help="Skip PageIndex-backed search indexing")
+    parser.add_argument("--no-llm", action="store_true", help="Skip LLM fallback during markdown fixing")
     args = parser.parse_args()
 
     project_root = Path(__file__).resolve().parent.parent
@@ -155,6 +163,7 @@ def main() -> None:
             skip_extract=args.skip_extract,
             skip_fix=args.skip_fix,
             skip_index=args.skip_index,
+            use_llm_matching=not args.no_llm,
             client=client,
             single_file=args.file,
         )

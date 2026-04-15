@@ -12,8 +12,14 @@ python -m pip install -e .
 # Extract TOC JSON
 python -m docstruct extract data/document.md --output output/01_toc/document.json
 
+# Normalize noisy markdown directly with a local Ollama model
+python -m docstruct normalize data/document.md --model gemma4 --output-dir output/02_normalized_markdown --report-dir output/02_normalize_reports
+
 # Fix headings using extracted TOC
 python -m docstruct fix data/document.md --toc output/01_toc/document.json --output-dir output/02_fixed_markdown --report-dir output/02_fix_reports
+
+# Faster fix without LLM fallback
+python -m docstruct fix data/document.md --toc output/01_toc/document.json --output-dir output/02_fixed_markdown --report-dir output/02_fix_reports --no-llm
 
 # Build PageIndex-backed search indexes from fixed markdown
 python -m docstruct index output/02_fixed_markdown --output-dir output/03_pageindex --toc-dir output/01_toc
@@ -30,6 +36,7 @@ Create `.env` from `.env.example`, then run:
 ```bash
 docker compose build
 docker compose run --rm docstruct extract data/document.md --output output/01_toc/document.json
+docker compose run --rm docstruct normalize data/document.md --model gemma4 --output-dir output/02_normalized_markdown --report-dir output/02_normalize_reports
 docker compose run --rm docstruct fix data/document.md --toc output/01_toc/document.json --output-dir output/02_fixed_markdown --report-dir output/02_fix_reports
 docker compose run --rm docstruct index output/02_fixed_markdown --output-dir output/03_pageindex --toc-dir output/01_toc
 docker compose run --rm docstruct ask "What are the application deadlines?" --index-dir output/03_pageindex
@@ -57,8 +64,10 @@ docs/              # Supporting guides and architecture notes
 
 ```bash
 python tools/run_extract.py data/document.md
+python tools/run_normalize.py data/document.md --model gemma4
 python tools/run_extract_all.py
 python tools/run_fix.py data/document.md --toc output/01_toc/document.json
+python tools/run_fix.py data/document.md --toc output/01_toc/document.json --no-llm
 python tools/run_pipeline_all.py
 python tools/run_pipeline.py
 python tools/run_pageindex.py
@@ -105,6 +114,26 @@ DocStruct now supports a grounded document-QA workflow that uses a vendored, mar
 
 The batch runner handles step 2 automatically after `fix`.
 
+## Ollama Normalization Pipeline
+
+If you want a local-only cleanup pass before TOC extraction, use the Ollama normalization command. It chunks the input Markdown, sends each chunk to an Ollama chat model such as `gemma4`, and rewrites the text to clean article/subarticle structure while removing obvious extraction noise.
+
+```bash
+python -m docstruct normalize data/document.md \
+  --model gemma4 \
+  --output-dir output/02_normalized_markdown \
+  --report-dir output/02_normalize_reports
+```
+
+Useful flags:
+
+- `--base-url http://localhost:11434`
+- `--chunk-size 6000`
+- `--max-tokens 2048`
+- `--no-progress`
+
+This command always uses the Ollama adapter for generation, regardless of `LLM_PROVIDER`.
+
 The search agent now applies document-scope guardrails for multi-document collections. If a question could match different universities, regions, or issuers, it will ask for clarification instead of guessing across conflicting scholarship notices.
 
 It also performs a HyPE-style retrieval rewrite before document selection: the agent expands short or vague user questions into a more explicit search query using only scope evidence found in the indexed documents, not from hardcoded region or university aliases.
@@ -120,6 +149,8 @@ New pipeline artifacts are written into stage-specific folders:
 - `output/01_toc/`
 - `output/02_fixed_markdown/`
 - `output/02_fix_reports/`
+- `output/02_normalized_markdown/`
+- `output/02_normalize_reports/`
 - `output/03_pageindex/`
 - `output/04_answers/`
 - `output/00_runs/`

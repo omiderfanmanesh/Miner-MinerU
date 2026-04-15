@@ -1,0 +1,1720 @@
+{
+  "toc": [
+    {
+      "title": "Benefici a concorso",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 1",
+      "separator": " - ",
+      "pattern": "Articolo 1 - Benefici a concorso",
+      "page": 3,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Destinatari",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 2",
+      "separator": " - ",
+      "pattern": "Articolo 2 - Destinatari",
+      "page": 3,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Durata dei benefici",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 3",
+      "separator": " - ",
+      "pattern": "Articolo 3 - Durata dei benefici",
+      "page": 3,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Borsa di studio",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "3.1",
+      "separator": " ",
+      "pattern": "3.1 Borsa di studio",
+      "page": 3,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Posto alloggio",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "3.2",
+      "separator": " ",
+      "pattern": "3.2 Posto alloggio",
+      "page": 4,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Borsa di studio per studenti disabili",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "3.3",
+      "separator": " ",
+      "pattern": "3.3 Borsa di studio per studenti disabili",
+      "page": 4,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Posto alloggio per studenti disabili",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "3.4",
+      "separator": " ",
+      "pattern": "3.4 Posto alloggio per studenti disabili",
+      "page": 4,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Precisazioni sulla durata dei benefici",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "3.5",
+      "separator": " ",
+      "pattern": "3.5 Precisazioni sulla durata dei benefici",
+      "page": 4,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Definizioni della \"tipologia\" degli studenti.",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 4",
+      "separator": " - ",
+      "pattern": "Articolo 4 - Definizioni della \"tipologia\" degli studenti.",
+      "page": 5,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Anno convenzionale di prima iscrizione e disposizioni per passaggi di corso, rinsune agli studi.",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 5",
+      "separator": " - ",
+      "pattern": "Articolo 5 - Anno convenzionale di prima iscrizione e disposizioni per passaggi di corso, rinsune agli studi.",
+      "page": 5,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Modalità di presentazione della domanda on-line per l'attribuzione di benefici ...",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 6",
+      "separator": " - ",
+      "pattern": "Articolo 6 - Modalità di presentazione della domanda on-line per l'attribuzione di benefici ...",
+      "page": null,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Eccezioni all'utilizzo dello SPID/CIE (fino a nuove disposizioni normative)",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "6.1",
+      "separator": " ",
+      "pattern": "6.1 Eccezioni all'utilizzo dello SPID/CIE (fino a nuove disposizioni normative)",
+      "page": 6,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Come inoltrare domanda di benefici",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "6.2",
+      "separator": " ",
+      "pattern": "6.2 Come inoltrare domanda di benefici",
+      "page": 6,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Modifiche dei dati inserti nella domanda di benefici..",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "6.3",
+      "separator": " ",
+      "pattern": "6.3 Modifiche dei dati inserti nella domanda di benefici..",
+      "page": 7,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Scadenze per la presentazione della domanda on-line per l'attribuzione di benefici ...",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 7",
+      "separator": " - ",
+      "pattern": "Articolo 7 - Scadenze per la presentazione della domanda on-line per l'attribuzione di benefici ...",
+      "page": 7,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Studenti iscritti ai primi anni di tutti i corsi di studio - Requisito di merito .",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 8",
+      "separator": " - ",
+      "pattern": "Articolo 8 - Studenti iscritti ai primi anni di tutti i corsi di studio - Requisito di merito .",
+      "page": null,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Studenti iscritti ai primi anni dei corsi di studio in Medicina e Chirurgia e Odontoiatria e protesi dentaria presso l'Università di Genova",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "8.1",
+      "separator": " ",
+      "pattern": "8.1 Studenti iscritti ai primi anni dei corsi di studio in Medicina e Chirurgia e Odontoiatria e protesi dentaria presso l'Università di Genova",
+      "page": 9,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Studenti iscritti ad anni successivi al primo di tutti i corsi di studio - Requisito di merito",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 9",
+      "separator": " - ",
+      "pattern": "Articolo 9 - Studenti iscritti ad anni successivi al primo di tutti i corsi di studio - Requisito di merito",
+      "page": null,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Studenti iscritti a corsi nuovo ordinamento",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "9.1",
+      "separator": " ",
+      "pattern": "9.1 Studenti iscritti a corsi nuovo ordinamento",
+      "page": 10,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Credi tibonus",
+      "kind": "subarticle",
+      "depth": 4,
+      "numbering": "9.1.1",
+      "separator": " ",
+      "pattern": "9.1.1 Credi tibonus",
+      "page": 12,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Settimo semestre + primo anni di laurea magistrale - requisiti di accesso e di merito............",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "9.3",
+      "separator": " ",
+      "pattern": "9.3 Settimo semestre + primo anni di laurea magistrale - requisiti di accesso e di merito............",
+      "page": 12,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Ultimo semestre - requisiti di accesso e di merito",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "9.4",
+      "separator": " ",
+      "pattern": "9.4 Ultimo semestre - requisiti di accesso e di merito",
+      "page": 13,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Studenti iscritti a corsi di dottorato e scuole di specializzazione - Requisiti di accesso e di merito",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 10",
+      "separator": " - ",
+      "pattern": "Articolo 10 - Studenti iscritti a corsi di dottorato e scuole di specializzazione - Requisiti di accesso e di merito",
+      "page": 13,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Requisiti economici",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 11",
+      "separator": "- ",
+      "pattern": "Articolo 11- Requisiti economici",
+      "page": 13,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "ISEE Universitario/Parificato",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "11.1",
+      "separator": " ",
+      "pattern": "11.1 ISEE Universitario/Parificato",
+      "page": 13,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Limiti reddituali ed economici - ISEEU - ISEEUP e ISPEU- ISPEUP",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "11.2",
+      "separator": " ",
+      "pattern": "11.2 Limiti reddituali ed economici - ISEEU - ISEEUP e ISPEU- ISPEUP",
+      "page": 14,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Situazioni reddituali - studenti internazionali",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "11.3",
+      "separator": " ",
+      "pattern": "11.3 Situazioni reddituali - studenti internazionali",
+      "page": 15,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Studenti internazionali Extra UEswana – accesso alla domanda on -line",
+      "kind": "subarticle",
+      "depth": 4,
+      "numbering": "11.3.1",
+      "separator": " ",
+      "pattern": "11.3.1 Studenti internazionali Extra UEswana – accesso alla domanda on -line",
+      "page": 15,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Studenti provenienti da Paesi particolarmente poveri e in via di sviluppo",
+      "kind": "subarticle",
+      "depth": 4,
+      "numbering": "11.3.2",
+      "separator": " ",
+      "pattern": "11.3.2 Studenti provenienti da Paesi particolarmente poveri e in via di sviluppo",
+      "page": 15,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Studenti apolidi e in regime di protezione internazionale",
+      "kind": "subarticle",
+      "depth": 4,
+      "numbering": "11.3.3",
+      "separator": " ",
+      "pattern": "11.3.3 Studenti apolidi e in regime di protezione internazionale",
+      "page": 16,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Nucleo familiare independente",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "11.4",
+      "separator": " ",
+      "pattern": "11.4 Nucleo familiare independente",
+      "page": 16,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Studente independente",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "11.4.1",
+      "separator": " ",
+      "pattern": "11.4.1 Studente independente",
+      "page": 16,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Studente coniugato ovvero in regime di convivenza di fatto (art. 1 comma 36 legge n. 76/2016) registrata presso il Comune di residenza",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "11.4.2",
+      "separator": " ",
+      "pattern": "11.4.2 Studente coniugato ovvero in regime di convivenza di fatto (art. 1 comma 36 legge n. 76/2016) registrata presso il Comune di residenza",
+      "page": 17,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Studente separato o divorziato",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "11.4.3",
+      "separator": " ",
+      "pattern": "11.4.3 Studente separato o divorziato",
+      "page": 17,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Casi con nucleo familiare composto dal solo studente",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "11.4.4",
+      "separator": " ",
+      "pattern": "11.4.4 Casi con nucleo familiare composto dal solo studente",
+      "page": 17,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Requisiti economici per gli studenti iscritti a corsi di dottorato e alle scuole di specializzazione",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "11.5",
+      "separator": " ",
+      "pattern": "11.5 Requisiti economici per gli studenti iscritti a corsi di dottorato e alle scuole di specializzazione",
+      "page": 17,
+      "confidence": 0.8,
+      "children": []
+    },
+    {
+      "title": "Integrazioni alla borsa di studio",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 12",
+      "separator": " - ",
+      "pattern": "Articolo 12 - Integrazioni alla borsa di studio",
+      "page": 17,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "Integrazione borsa di studio e agevolazione benefici per gli studenti con disabilità (riconoscimento di handicap ai sensi dell'art. 3 comma 1 della legge 5 febbraio 1992, n. 104 o invalidità pari o superiore al  $66\\%$ )",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 13",
+      "separator": " - ",
+      "pattern": "Articolo 13 - Integrazione borsa di studio e agevolazione benefici per gli studenti con disabilità (riconoscimento di handicap ai sensi dell'art. 3 comma 1 della legge 5 febbraio 1992, n. 104 o invalidità pari o superiore al  $66\\%$ )",
+      "page": null,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "Integrazione borsa di studio per mobilità internazionale",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 14",
+      "separator": " - ",
+      "pattern": "Articolo 14 - Integrazione borsa di studio per mobilità internazionale",
+      "page": 19,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "Criteri per l'assegnazione delle borse di studio.",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 15",
+      "separator": " - ",
+      "pattern": "Articolo 15 - Criteri per l'assegnazione delle borse di studio.",
+      "page": 20,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "Criteri per la formulazione delle graduatorie delle borse di studio.",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 16",
+      "separator": " - ",
+      "pattern": "Articolo 16 - Criteri per la formulazione delle graduatorie delle borse di studio.",
+      "page": 20,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "Importi della borsa di studio e servizi connessi",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 17",
+      "separator": " - ",
+      "pattern": "Articolo 17 - Importi della borsa di studio e servizi connessi",
+      "page": 21,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "Importi.",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "17.1",
+      "separator": " ",
+      "pattern": "17.1 Importi.",
+      "page": 21,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Erogazione borsa di studio e servizi;",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "17.2",
+      "separator": " ",
+      "pattern": "17.2 Erogazione borsa di studio e servizi;",
+      "page": 22,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Precisazioni su borsa di studio e servizi",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "17.3",
+      "separator": " ",
+      "pattern": "17.3 Precisazioni su borsa di studio e servizi",
+      "page": 23,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Servizio alloggio.",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 18",
+      "separator": " - ",
+      "pattern": "Articolo 18 - Servizio alloggio.",
+      "page": 24,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "Criteri di priorità per il conferimento delippo alloggio",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 19",
+      "separator": " - ",
+      "pattern": "Articolo 19 - Criteri di priorità per il conferimento delippo alloggio",
+      "page": 25,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "Riserve posti alloggio",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "19.1",
+      "separator": null,
+      "pattern": "19.1Riserve posti alloggio",
+      "page": 25,
+      "confidence": 0.85,
+      "children": []
+    },
+    {
+      "title": "Conferme anni successivi e primo anno laurea magistrale",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "19.2",
+      "separator": null,
+      "pattern": "19.2 Conferme anni successivi e primo anno laurea magistrale",
+      "page": 25,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Nuove richieste anni successivi",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "19.3",
+      "separator": null,
+      "pattern": "19.3 Nuove richieste anni successivi",
+      "page": 25,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Nuove richieste primi anni",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "19.4",
+      "separator": null,
+      "pattern": "19.4 Nuove richieste primi anni",
+      "page": 25,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Precisazioni sulippo alloggio",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "19.5",
+      "separator": null,
+      "pattern": "19.5 Precisazioni sulippo alloggio",
+      "page": 26,
+      "confidence": 0.85,
+      "children": []
+    },
+    {
+      "title": "Modalità di assegnazione delippo alloggio.",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 20",
+      "separator": " - ",
+      "pattern": "Articolo 20 - Modalità di assegnazione delippo alloggio.",
+      "page": 26,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "Manifestazione di interesse",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "20.1",
+      "separator": null,
+      "pattern": "20.1 Manifestazione di interesse",
+      "page": 26,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Ingrasso in alloggio",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "20.2",
+      "separator": null,
+      "pattern": "20.2 Ingrasso in alloggio",
+      "page": 26,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Uscita dall'alloggio prima della pausa estiva",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "20.3",
+      "separator": null,
+      "pattern": "20.3 Uscita dall'alloggio prima della pausa estiva",
+      "page": 27,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Revocaippo alloggio",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "20.4",
+      "separator": null,
+      "pattern": "20.4 Revocaippo alloggio",
+      "page": 27,
+      "confidence": 0.85,
+      "children": []
+    },
+    {
+      "title": "Modalità di lavoro delippo alloggio",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 21",
+      "separator": " - ",
+      "pattern": "Articolo 21 - Modalità di lavoro delippo alloggio",
+      "page": 27,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Contributo fatto",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 22",
+      "separator": " - ",
+      "pattern": "Articolo 22 - Contributo fatto",
+      "page": 27,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Modalità di richiesta",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "22.1",
+      "separator": " ",
+      "pattern": "22.1 Modalità di richiesta",
+      "page": 27,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Erogazione",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "22.2",
+      "separator": " ",
+      "pattern": "22.2 Erogazione",
+      "page": 28,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Esito dei concorsi e pubblicazione graduatore",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 23",
+      "separator": " - ",
+      "pattern": "Articolo 23 - Esito dei concorsi e pubblicazione graduatore",
+      "page": 28,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Modalità di lavoro della borsa di studio.",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 24",
+      "separator": " - ",
+      "pattern": "Articolo 24 - Modalità di lavoro della borsa di studio.",
+      "page": 30,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Studenti iscritti ad anni successivi al primo",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "24.1",
+      "separator": " ",
+      "pattern": "24.1 Studenti iscritti ad anni successivi al primo",
+      "page": 30,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Studenti iscritti ai primi anni",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "24.2",
+      "separator": " ",
+      "pattern": "24.2 Studenti iscritti ai primi anni",
+      "page": 31,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Studenti iscritti alle scuole di specializzazione e ai corsi di dottorato di ricerca",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "24.3",
+      "separator": " ",
+      "pattern": "24.3 Studenti iscritti alle scuole di specializzazione e ai corsi di dottorato di ricerca",
+      "page": 31,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Cause di non ammissione, esclusione o revoca dai benefici.",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 25",
+      "separator": " - ",
+      "pattern": "Articolo 25 - Cause di non ammissione, esclusione o revoca dai benefici.",
+      "page": 31,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Cause di non ammissione",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "25.1",
+      "separator": " ",
+      "pattern": "25.1 Cause di non ammissione",
+      "page": 31,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Cause di esclusione e di revoca",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "25.2",
+      "separator": " ",
+      "pattern": "25.2 Cause di esclusione e di revoca",
+      "page": 31,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Accertamenti sulla veridicità delle dichiarazioni prodotte",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 26",
+      "separator": " - ",
+      "pattern": "Articolo 26 - Accertamenti sulla veridicità delle dichiarazioni prodotte",
+      "page": 33,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Restituzione benefici",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 27",
+      "separator": " - ",
+      "pattern": "Articolo 27 - Restituzione benefici",
+      "page": 34,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Segnalazione della situazione debitoria",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 28",
+      "separator": " - ",
+      "pattern": "Articolo 28 - Segnalazione della situazione debitoria",
+      "page": 34,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Obblighi e modalità di communicatesione",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 29",
+      "separator": " - ",
+      "pattern": "Articolo 29 - Obblighi e modalità di communicatesione",
+      "page": 34,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Dispositions in materia di tutela della privacy",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 30",
+      "separator": " - ",
+      "pattern": "Articolo 30 - Dispositions in materia di tutela della privacy",
+      "page": 35,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Norma di rinvio e clausola di salvaguardia",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 31",
+      "separator": " - ",
+      "pattern": "Articolo 31 - Norma di rinvio e clausola di salvaguardia",
+      "page": 35,
+      "confidence": 0.9,
+      "children": []
+    }
+  ],
+  "heading_map": [
+    {
+      "title": "Benefici a concorso",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 1",
+      "separator": " - ",
+      "pattern": "Articolo 1 - Benefici a concorso",
+      "page": 3,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Destinatari",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 2",
+      "separator": " - ",
+      "pattern": "Articolo 2 - Destinatari",
+      "page": 3,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Durata dei benefici",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 3",
+      "separator": " - ",
+      "pattern": "Articolo 3 - Durata dei benefici",
+      "page": 3,
+      "confidence": 1,
+      "children": [
+        {
+          "title": "Borsa di studio",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "3.1",
+          "separator": " ",
+          "pattern": "3.1 Borsa di studio",
+          "page": 3,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Posto alloggio",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "3.2",
+          "separator": " ",
+          "pattern": "3.2 Posto alloggio",
+          "page": 4,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Borsa di studio per studenti disabili",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "3.3",
+          "separator": " ",
+          "pattern": "3.3 Borsa di studio per studenti disabili",
+          "page": 4,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Posto alloggio per studenti disabili",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "3.4",
+          "separator": " ",
+          "pattern": "3.4 Posto alloggio per studenti disabili",
+          "page": 4,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Precisazioni sulla durata dei benefici",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "3.5",
+          "separator": " ",
+          "pattern": "3.5 Precisazioni sulla durata dei benefici",
+          "page": 4,
+          "confidence": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Definizioni della \"tipologia\" degli studenti.",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 4",
+      "separator": " - ",
+      "pattern": "Articolo 4 - Definizioni della \"tipologia\" degli studenti.",
+      "page": 5,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Anno convenzionale di prima iscrizione e disposizioni per passaggi di corso, rinsune agli studi.",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 5",
+      "separator": " - ",
+      "pattern": "Articolo 5 - Anno convenzionale di prima iscrizione e disposizioni per passaggi di corso, rinsune agli studi.",
+      "page": 5,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Modalità di presentazione della domanda on-line per l'attribuzione di benefici ...",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 6",
+      "separator": " - ",
+      "pattern": "Articolo 6 - Modalità di presentazione della domanda on-line per l'attribuzione di benefici ...",
+      "page": null,
+      "confidence": 1,
+      "children": [
+        {
+          "title": "Eccezioni all'utilizzo dello SPID/CIE (fino a nuove disposizioni normative)",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "6.1",
+          "separator": " ",
+          "pattern": "6.1 Eccezioni all'utilizzo dello SPID/CIE (fino a nuove disposizioni normative)",
+          "page": 6,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Come inoltrare domanda di benefici",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "6.2",
+          "separator": " ",
+          "pattern": "6.2 Come inoltrare domanda di benefici",
+          "page": 6,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Modifiche dei dati inserti nella domanda di benefici..",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "6.3",
+          "separator": " ",
+          "pattern": "6.3 Modifiche dei dati inserti nella domanda di benefici..",
+          "page": 7,
+          "confidence": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Scadenze per la presentazione della domanda on-line per l'attribuzione di benefici ...",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 7",
+      "separator": " - ",
+      "pattern": "Articolo 7 - Scadenze per la presentazione della domanda on-line per l'attribuzione di benefici ...",
+      "page": 7,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Studenti iscritti ai primi anni di tutti i corsi di studio - Requisito di merito .",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 8",
+      "separator": " - ",
+      "pattern": "Articolo 8 - Studenti iscritti ai primi anni di tutti i corsi di studio - Requisito di merito .",
+      "page": null,
+      "confidence": 1,
+      "children": [
+        {
+          "title": "Studenti iscritti ai primi anni dei corsi di studio in Medicina e Chirurgia e Odontoiatria e protesi dentaria presso l'Università di Genova",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "8.1",
+          "separator": " ",
+          "pattern": "8.1 Studenti iscritti ai primi anni dei corsi di studio in Medicina e Chirurgia e Odontoiatria e protesi dentaria presso l'Università di Genova",
+          "page": 9,
+          "confidence": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Studenti iscritti ad anni successivi al primo di tutti i corsi di studio - Requisito di merito",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 9",
+      "separator": " - ",
+      "pattern": "Articolo 9 - Studenti iscritti ad anni successivi al primo di tutti i corsi di studio - Requisito di merito",
+      "page": null,
+      "confidence": 1,
+      "children": [
+        {
+          "title": "Studenti iscritti a corsi nuovo ordinamento",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "9.1",
+          "separator": " ",
+          "pattern": "9.1 Studenti iscritti a corsi nuovo ordinamento",
+          "page": 10,
+          "confidence": 1,
+          "children": [
+            {
+              "title": "Credi tibonus",
+              "kind": "subarticle",
+              "depth": 4,
+              "numbering": "9.1.1",
+              "separator": " ",
+              "pattern": "9.1.1 Credi tibonus",
+              "page": 12,
+              "confidence": 1,
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Settimo semestre + primo anni di laurea magistrale - requisiti di accesso e di merito............",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "9.3",
+          "separator": " ",
+          "pattern": "9.3 Settimo semestre + primo anni di laurea magistrale - requisiti di accesso e di merito............",
+          "page": 12,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Ultimo semestre - requisiti di accesso e di merito",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "9.4",
+          "separator": " ",
+          "pattern": "9.4 Ultimo semestre - requisiti di accesso e di merito",
+          "page": 13,
+          "confidence": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Studenti iscritti a corsi di dottorato e scuole di specializzazione - Requisiti di accesso e di merito",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 10",
+      "separator": " - ",
+      "pattern": "Articolo 10 - Studenti iscritti a corsi di dottorato e scuole di specializzazione - Requisiti di accesso e di merito",
+      "page": 13,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Requisiti economici",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 11",
+      "separator": "- ",
+      "pattern": "Articolo 11- Requisiti economici",
+      "page": 13,
+      "confidence": 1,
+      "children": [
+        {
+          "title": "ISEE Universitario/Parificato",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "11.1",
+          "separator": " ",
+          "pattern": "11.1 ISEE Universitario/Parificato",
+          "page": 13,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Limiti reddituali ed economici - ISEEU - ISEEUP e ISPEU- ISPEUP",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "11.2",
+          "separator": " ",
+          "pattern": "11.2 Limiti reddituali ed economici - ISEEU - ISEEUP e ISPEU- ISPEUP",
+          "page": 14,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Situazioni reddituali - studenti internazionali",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "11.3",
+          "separator": " ",
+          "pattern": "11.3 Situazioni reddituali - studenti internazionali",
+          "page": 15,
+          "confidence": 1,
+          "children": [
+            {
+              "title": "Studenti internazionali Extra UEswana – accesso alla domanda on -line",
+              "kind": "subarticle",
+              "depth": 4,
+              "numbering": "11.3.1",
+              "separator": " ",
+              "pattern": "11.3.1 Studenti internazionali Extra UEswana – accesso alla domanda on -line",
+              "page": 15,
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "Studenti provenienti da Paesi particolarmente poveri e in via di sviluppo",
+              "kind": "subarticle",
+              "depth": 4,
+              "numbering": "11.3.2",
+              "separator": " ",
+              "pattern": "11.3.2 Studenti provenienti da Paesi particolarmente poveri e in via di sviluppo",
+              "page": 15,
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "Studenti apolidi e in regime di protezione internazionale",
+              "kind": "subarticle",
+              "depth": 4,
+              "numbering": "11.3.3",
+              "separator": " ",
+              "pattern": "11.3.3 Studenti apolidi e in regime di protezione internazionale",
+              "page": 16,
+              "confidence": 1,
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Nucleo familiare independente",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "11.4",
+          "separator": " ",
+          "pattern": "11.4 Nucleo familiare independente",
+          "page": 16,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Studente independente",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "11.4.1",
+          "separator": " ",
+          "pattern": "11.4.1 Studente independente",
+          "page": 16,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "Studente coniugato ovvero in regime di convivenza di fatto (art. 1 comma 36 legge n. 76/2016) registrata presso il Comune di residenza",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "11.4.2",
+          "separator": " ",
+          "pattern": "11.4.2 Studente coniugato ovvero in regime di convivenza di fatto (art. 1 comma 36 legge n. 76/2016) registrata presso il Comune di residenza",
+          "page": 17,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "Studente separato o divorziato",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "11.4.3",
+          "separator": " ",
+          "pattern": "11.4.3 Studente separato o divorziato",
+          "page": 17,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "Casi con nucleo familiare composto dal solo studente",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "11.4.4",
+          "separator": " ",
+          "pattern": "11.4.4 Casi con nucleo familiare composto dal solo studente",
+          "page": 17,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "Requisiti economici per gli studenti iscritti a corsi di dottorato e alle scuole di specializzazione",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "11.5",
+          "separator": " ",
+          "pattern": "11.5 Requisiti economici per gli studenti iscritti a corsi di dottorato e alle scuole di specializzazione",
+          "page": 17,
+          "confidence": 0.8,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Integrazioni alla borsa di studio",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 12",
+      "separator": " - ",
+      "pattern": "Articolo 12 - Integrazioni alla borsa di studio",
+      "page": 17,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "Integrazione borsa di studio e agevolazione benefici per gli studenti con disabilità (riconoscimento di handicap ai sensi dell'art. 3 comma 1 della legge 5 febbraio 1992, n. 104 o invalidità pari o superiore al  $66\\%$ )",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 13",
+      "separator": " - ",
+      "pattern": "Articolo 13 - Integrazione borsa di studio e agevolazione benefici per gli studenti con disabilità (riconoscimento di handicap ai sensi dell'art. 3 comma 1 della legge 5 febbraio 1992, n. 104 o invalidità pari o superiore al  $66\\%$ )",
+      "page": null,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "Integrazione borsa di studio per mobilità internazionale",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 14",
+      "separator": " - ",
+      "pattern": "Articolo 14 - Integrazione borsa di studio per mobilità internazionale",
+      "page": 19,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "Criteri per l'assegnazione delle borse di studio.",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 15",
+      "separator": " - ",
+      "pattern": "Articolo 15 - Criteri per l'assegnazione delle borse di studio.",
+      "page": 20,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "Criteri per la formulazione delle graduatorie delle borse di studio.",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 16",
+      "separator": " - ",
+      "pattern": "Articolo 16 - Criteri per la formulazione delle graduatorie delle borse di studio.",
+      "page": 20,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "Importi della borsa di studio e servizi connessi",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 17",
+      "separator": " - ",
+      "pattern": "Articolo 17 - Importi della borsa di studio e servizi connessi",
+      "page": 21,
+      "confidence": 0.95,
+      "children": [
+        {
+          "title": "Importi.",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "17.1",
+          "separator": " ",
+          "pattern": "17.1 Importi.",
+          "page": 21,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "Erogazione borsa di studio e servizi;",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "17.2",
+          "separator": " ",
+          "pattern": "17.2 Erogazione borsa di studio e servizi;",
+          "page": 22,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "Precisazioni su borsa di studio e servizi",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "17.3",
+          "separator": " ",
+          "pattern": "17.3 Precisazioni su borsa di studio e servizi",
+          "page": 23,
+          "confidence": 0.9,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Servizio alloggio.",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 18",
+      "separator": " - ",
+      "pattern": "Articolo 18 - Servizio alloggio.",
+      "page": 24,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "Criteri di priorità per il conferimento delippo alloggio",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 19",
+      "separator": " - ",
+      "pattern": "Articolo 19 - Criteri di priorità per il conferimento delippo alloggio",
+      "page": 25,
+      "confidence": 0.95,
+      "children": [
+        {
+          "title": "Riserve posti alloggio",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "19.1",
+          "separator": null,
+          "pattern": "19.1Riserve posti alloggio",
+          "page": 25,
+          "confidence": 0.85,
+          "children": []
+        },
+        {
+          "title": "Conferme anni successivi e primo anno laurea magistrale",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "19.2",
+          "separator": null,
+          "pattern": "19.2 Conferme anni successivi e primo anno laurea magistrale",
+          "page": 25,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "Nuove richieste anni successivi",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "19.3",
+          "separator": null,
+          "pattern": "19.3 Nuove richieste anni successivi",
+          "page": 25,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "Nuove richieste primi anni",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "19.4",
+          "separator": null,
+          "pattern": "19.4 Nuove richieste primi anni",
+          "page": 25,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "Precisazioni sulippo alloggio",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "19.5",
+          "separator": null,
+          "pattern": "19.5 Precisazioni sulippo alloggio",
+          "page": 26,
+          "confidence": 0.85,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Modalità di assegnazione delippo alloggio.",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 20",
+      "separator": " - ",
+      "pattern": "Articolo 20 - Modalità di assegnazione delippo alloggio.",
+      "page": 26,
+      "confidence": 0.95,
+      "children": [
+        {
+          "title": "Manifestazione di interesse",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "20.1",
+          "separator": null,
+          "pattern": "20.1 Manifestazione di interesse",
+          "page": 26,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "Ingrasso in alloggio",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "20.2",
+          "separator": null,
+          "pattern": "20.2 Ingrasso in alloggio",
+          "page": 26,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "Uscita dall'alloggio prima della pausa estiva",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "20.3",
+          "separator": null,
+          "pattern": "20.3 Uscita dall'alloggio prima della pausa estiva",
+          "page": 27,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "Revocaippo alloggio",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "20.4",
+          "separator": null,
+          "pattern": "20.4 Revocaippo alloggio",
+          "page": 27,
+          "confidence": 0.85,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Modalità di lavoro delippo alloggio",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 21",
+      "separator": " - ",
+      "pattern": "Articolo 21 - Modalità di lavoro delippo alloggio",
+      "page": 27,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Contributo fatto",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 22",
+      "separator": " - ",
+      "pattern": "Articolo 22 - Contributo fatto",
+      "page": 27,
+      "confidence": 0.9,
+      "children": [
+        {
+          "title": "Modalità di richiesta",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "22.1",
+          "separator": " ",
+          "pattern": "22.1 Modalità di richiesta",
+          "page": 27,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "Erogazione",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "22.2",
+          "separator": " ",
+          "pattern": "22.2 Erogazione",
+          "page": 28,
+          "confidence": 0.9,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Esito dei concorsi e pubblicazione graduatore",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 23",
+      "separator": " - ",
+      "pattern": "Articolo 23 - Esito dei concorsi e pubblicazione graduatore",
+      "page": 28,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Modalità di lavoro della borsa di studio.",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 24",
+      "separator": " - ",
+      "pattern": "Articolo 24 - Modalità di lavoro della borsa di studio.",
+      "page": 30,
+      "confidence": 0.9,
+      "children": [
+        {
+          "title": "Studenti iscritti ad anni successivi al primo",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "24.1",
+          "separator": " ",
+          "pattern": "24.1 Studenti iscritti ad anni successivi al primo",
+          "page": 30,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "Studenti iscritti ai primi anni",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "24.2",
+          "separator": " ",
+          "pattern": "24.2 Studenti iscritti ai primi anni",
+          "page": 31,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "Studenti iscritti alle scuole di specializzazione e ai corsi di dottorato di ricerca",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "24.3",
+          "separator": " ",
+          "pattern": "24.3 Studenti iscritti alle scuole di specializzazione e ai corsi di dottorato di ricerca",
+          "page": 31,
+          "confidence": 0.9,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cause di non ammissione, esclusione o revoca dai benefici.",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 25",
+      "separator": " - ",
+      "pattern": "Articolo 25 - Cause di non ammissione, esclusione o revoca dai benefici.",
+      "page": 31,
+      "confidence": 0.9,
+      "children": [
+        {
+          "title": "Cause di non ammissione",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "25.1",
+          "separator": " ",
+          "pattern": "25.1 Cause di non ammissione",
+          "page": 31,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "Cause di esclusione e di revoca",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "25.2",
+          "separator": " ",
+          "pattern": "25.2 Cause di esclusione e di revoca",
+          "page": 31,
+          "confidence": 0.9,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Accertamenti sulla veridicità delle dichiarazioni prodotte",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 26",
+      "separator": " - ",
+      "pattern": "Articolo 26 - Accertamenti sulla veridicità delle dichiarazioni prodotte",
+      "page": 33,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Restituzione benefici",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 27",
+      "separator": " - ",
+      "pattern": "Articolo 27 - Restituzione benefici",
+      "page": 34,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Segnalazione della situazione debitoria",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 28",
+      "separator": " - ",
+      "pattern": "Articolo 28 - Segnalazione della situazione debitoria",
+      "page": 34,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Obblighi e modalità di communicatesione",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 29",
+      "separator": " - ",
+      "pattern": "Articolo 29 - Obblighi e modalità di communicatesione",
+      "page": 34,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Dispositions in materia di tutela della privacy",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 30",
+      "separator": " - ",
+      "pattern": "Articolo 30 - Dispositions in materia di tutela della privacy",
+      "page": 35,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Norma di rinvio e clausola di salvaguardia",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Articolo 31",
+      "separator": " - ",
+      "pattern": "Articolo 31 - Norma di rinvio e clausola di salvaguardia",
+      "page": 35,
+      "confidence": 0.9,
+      "children": []
+    }
+  ],
+  "summary": "The document outlines the competition announcement for awarding benefits for the 2025/2026 academic year, funded by the EU's Next Generation EU initiative under the PNRR program. It details eligibility criteria, types and duration of benefits such as scholarships and housing, application procedures, merit and economic requirements, and specific provisions for various student categories including disabled students and those in advanced study programs.",
+  "metadata": {
+    "title": "Unknown",
+    "source": "inferred",
+    "year": null,
+    "document_type": null,
+    "organization": null
+  },
+  "toc_boundaries": {
+    "start_line": 0,
+    "end_line": 149,
+    "marker": "(agent-detected)"
+  },
+  "processing_log": [
+    {
+      "action": "read",
+      "detail": "Read 1610 lines from data/LIGURIA_BANDO_DI_CONCORSO_PER_ATTRIBUZIONE_DI_BENEFICI_ANNO_ACCADEMICO_2025_2026.md",
+      "line": null
+    },
+    {
+      "action": "detected",
+      "detail": "TOC marker '(agent-detected)' at line 0",
+      "line": 0
+    },
+    {
+      "action": "boundary",
+      "detail": "TOC spans lines 0-149",
+      "line": null
+    },
+    {
+      "action": "classified",
+      "detail": "LLM extracted 75 TOC entries",
+      "line": null
+    },
+    {
+      "action": "mapped",
+      "detail": "Built heading tree with 31 root nodes",
+      "line": null
+    },
+    {
+      "action": "summarized",
+      "detail": "Generated document summary",
+      "line": null
+    },
+    {
+      "action": "metadata",
+      "detail": "Extracted metadata: title='Unknown', source=inferred",
+      "line": null
+    }
+  ],
+  "extracted_at": "2026-04-15T12:07:10.220165Z"
+}

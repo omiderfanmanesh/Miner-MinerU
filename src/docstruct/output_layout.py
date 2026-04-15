@@ -14,6 +14,8 @@ RUNS_DIR = OUTPUT_ROOT / "00_runs"
 TOC_DIR = OUTPUT_ROOT / "01_toc"
 FIXED_MARKDOWN_DIR = OUTPUT_ROOT / "02_fixed_markdown"
 FIX_REPORTS_DIR = OUTPUT_ROOT / "02_fix_reports"
+NORMALIZED_MARKDOWN_DIR = OUTPUT_ROOT / "02_normalized_markdown"
+NORMALIZE_REPORTS_DIR = OUTPUT_ROOT / "02_normalize_reports"
 PAGEINDEX_DIR = OUTPUT_ROOT / "03_pageindex"
 ANSWERS_DIR = OUTPUT_ROOT / "04_answers"
 
@@ -27,6 +29,8 @@ def ensure_output_layout(project_root: Path) -> dict[str, Path]:
         "toc": project_root / TOC_DIR,
         "fixed_markdown": project_root / FIXED_MARKDOWN_DIR,
         "fix_reports": project_root / FIX_REPORTS_DIR,
+        "normalized_markdown": project_root / NORMALIZED_MARKDOWN_DIR,
+        "normalize_reports": project_root / NORMALIZE_REPORTS_DIR,
         "pageindex": project_root / PAGEINDEX_DIR,
         "answers": project_root / ANSWERS_DIR,
     }

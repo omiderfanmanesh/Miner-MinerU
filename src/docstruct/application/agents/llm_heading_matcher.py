@@ -105,6 +105,7 @@ class LLMHeadingMatcher:
         toc_entries: list[dict],
         unmatched_headings_with_lines: list[tuple[int, str]],
         matched_line_numbers: set[int],
+        progress_bar=None,
     ) -> dict[int, tuple[int | None, str, str]]:
         result: dict[int, tuple[int | None, str, str]] = {}
         for start in range(0, len(unmatched_headings_with_lines), self._BATCH_SIZE):
@@ -116,4 +117,6 @@ class LLMHeadingMatcher:
             )
             for match in matches:
                 result[match.line_number] = (match.toc_index, match.heading_text, match.body_text)
+            if progress_bar is not None:
+                progress_bar.update(1)
         return result

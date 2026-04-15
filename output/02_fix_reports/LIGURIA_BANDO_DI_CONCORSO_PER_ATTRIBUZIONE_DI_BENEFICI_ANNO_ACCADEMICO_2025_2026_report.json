@@ -1,0 +1,682 @@
+{
+  "source_file": "data/LIGURIA_BANDO_DI_CONCORSO_PER_ATTRIBUZIONE_DI_BENEFICI_ANNO_ACCADEMICO_2025_2026.md",
+  "output_file": "/Users/omiderfanmanesh/Projects/DocStruct/output/02_fixed_markdown/LIGURIA_BANDO_DI_CONCORSO_PER_ATTRIBUZIONE_DI_BENEFICI_ANNO_ACCADEMICO_2025_2026.md",
+  "total_lines": 1610,
+  "lines_changed": 95,
+  "lines_demoted": 8,
+  "unmatched_toc_entries": [],
+  "corrections": [
+    {
+      "line_number": 1,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": null,
+      "match_method": "doc_title"
+    },
+    {
+      "line_number": 5,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 153,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Benefici a concorso",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 168,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Destinatari",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 187,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Durata dei benefici",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 189,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Borsa di studio",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 199,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Posto alloggio",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 211,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Borsa di studio per studenti disabili",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 221,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Posto alloggio per studenti disabili",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 233,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Precisazioni sulla durata dei benefici",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 240,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Definizioni della \"tipologia\" degli studenti.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 254,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Anno convenzionale di prima iscrizione e disposizioni per passaggi di corso, rinsune agli studi.",
+      "match_method": "llm"
+    },
+    {
+      "line_number": 285,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Modalit\u00e0 di presentazione della domanda on-line per l'attribuzione di benefici ...",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 290,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Eccezioni all'utilizzo dello SPID/CIE (fino a nuove disposizioni normative)",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 303,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Come inoltrare domanda di benefici",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 342,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Modifiche dei dati inserti nella domanda di benefici..",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 356,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Scadenze per la presentazione della domanda on-line per l'attribuzione di benefici ...",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 377,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Studenti iscritti ai primi anni di tutti i corsi di studio - Requisito di merito .",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 411,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Studenti iscritti ai primi anni dei corsi di studio in Medicina e Chirurgia e Odontoiatria e protesi dentaria presso l'Universit\u00e0 di Genova",
+      "match_method": "llm"
+    },
+    {
+      "line_number": 434,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Studenti iscritti ad anni successivi al primo di tutti i corsi di studio - Requisito di merito",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 436,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Studenti iscritti a corsi nuovo ordinamento",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 508,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Credi tibonus",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 535,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Settimo semestre + primo anni di laurea magistrale - requisiti di accesso e di merito............",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 575,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Ultimo semestre - requisiti di accesso e di merito",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 588,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Studenti iscritti a corsi di dottorato e scuole di specializzazione - Requisiti di accesso e di merito",
+      "match_method": "llm"
+    },
+    {
+      "line_number": 592,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Requisiti economici",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 594,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "ISEE Universitario/Parificato",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 599,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 611,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 618,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 624,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 629,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Limiti reddituali ed economici - ISEEU - ISEEUP e ISPEU- ISPEUP",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 645,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Situazioni reddituali - studenti internazionali",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 647,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Studenti internazionali Extra UEswana \u2013 accesso alla domanda on -line",
+      "match_method": "llm"
+    },
+    {
+      "line_number": 657,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Studenti provenienti da Paesi particolarmente poveri e in via di sviluppo",
+      "match_method": "llm"
+    },
+    {
+      "line_number": 665,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Studenti apolidi e in regime di protezione internazionale",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 678,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Nucleo familiare independente",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 680,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Studente independente",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 694,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Studente coniugato ovvero in regime di convivenza di fatto (art. 1 comma 36 legge n. 76/2016) registrata presso il Comune di residenza",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 701,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Studente separato o divorziato",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 705,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Casi con nucleo familiare composto dal solo studente",
+      "match_method": "llm"
+    },
+    {
+      "line_number": 721,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Requisiti economici per gli studenti iscritti a corsi di dottorato e alle scuole di specializzazione",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 729,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Integrazioni alla borsa di studio",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 761,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Integrazione borsa di studio e agevolazione benefici per gli studenti con disabilit\u00e0 (riconoscimento di handicap ai sensi dell'art. 3 comma 1 della legge 5 febbraio 1992, n. 104 o invalidit\u00e0 pari o superiore al  $66\\%$ )",
+      "match_method": "llm"
+    },
+    {
+      "line_number": 789,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Integrazione borsa di studio per mobilit\u00e0 internazionale",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 835,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Criteri per l'assegnazione delle borse di studio.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 843,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Criteri per la formulazione delle graduatorie delle borse di studio.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 883,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Importi della borsa di studio e servizi connessi",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 885,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Importi.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 907,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Erogazione borsa di studio e servizi;",
+      "match_method": "llm"
+    },
+    {
+      "line_number": 949,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Precisazioni su borsa di studio e servizi",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 975,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Servizio alloggio.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 1005,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Criteri di priorit\u00e0 per il conferimento delippo alloggio",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 1007,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Riserve posti alloggio",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 1011,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Conferme anni successivi e primo anno laurea magistrale",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 1020,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Nuove richieste anni successivi",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 1040,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Nuove richieste primi anni",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 1050,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Precisazioni sulippo alloggio",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 1057,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Modalit\u00e0 di assegnazione delippo alloggio.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 1059,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Manifestazione di interesse",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 1084,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Ingrasso in alloggio",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 1094,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Uscita dall'alloggio prima della pausa estiva",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 1099,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Revocaippo alloggio",
+      "match_method": "llm"
+    },
+    {
+      "line_number": 1105,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Modalit\u00e0 di lavoro delippo alloggio",
+      "match_method": "llm"
+    },
+    {
+      "line_number": 1113,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Contributo fatto",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 1124,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Modalit\u00e0 di richiesta",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 1135,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Erogazione",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 1156,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Esito dei concorsi e pubblicazione graduatore",
+      "match_method": "llm"
+    },
+    {
+      "line_number": 1226,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Modalit\u00e0 di lavoro della borsa di studio.",
+      "match_method": "llm"
+    },
+    {
+      "line_number": 1236,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Studenti iscritti ad anni successivi al primo",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 1268,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Studenti iscritti ai primi anni",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 1293,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Studenti iscritti alle scuole di specializzazione e ai corsi di dottorato di ricerca",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 1297,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Cause di non ammissione, esclusione o revoca dai benefici.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 1299,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Cause di non ammissione",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 1310,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Cause di esclusione e di revoca",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 1380,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Accertamenti sulla veridicit\u00e0 delle dichiarazioni prodotte",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 1400,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Restituzione benefici",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 1413,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Segnalazione della situazione debitoria",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 1417,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Obblighi e modalit\u00e0 di communicatesione",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 1431,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Dispositions in materia di tutela della privacy",
+      "match_method": "llm"
+    },
+    {
+      "line_number": 1441,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Norma di rinvio e clausola di salvaguardia",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 1478,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1512,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1514,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1520,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Anno convenzionale di prima iscrizione e disposizioni per passaggi di corso, rinsune agli studi.",
+      "match_method": "llm"
+    },
+    {
+      "line_number": 1524,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Anno convenzionale di prima iscrizione e disposizioni per passaggi di corso, rinsune agli studi.",
+      "match_method": "llm"
+    },
+    {
+      "line_number": 1528,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Anno convenzionale di prima iscrizione e disposizioni per passaggi di corso, rinsune agli studi.",
+      "match_method": "llm"
+    },
+    {
+      "line_number": 1534,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Anno convenzionale di prima iscrizione e disposizioni per passaggi di corso, rinsune agli studi.",
+      "match_method": "llm"
+    },
+    {
+      "line_number": 1538,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Anno convenzionale di prima iscrizione e disposizioni per passaggi di corso, rinsune agli studi.",
+      "match_method": "llm"
+    },
+    {
+      "line_number": 1545,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Anno convenzionale di prima iscrizione e disposizioni per passaggi di corso, rinsune agli studi.",
+      "match_method": "llm"
+    },
+    {
+      "line_number": 1552,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Anno convenzionale di prima iscrizione e disposizioni per passaggi di corso, rinsune agli studi.",
+      "match_method": "llm"
+    },
+    {
+      "line_number": 1557,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Anno convenzionale di prima iscrizione e disposizioni per passaggi di corso, rinsune agli studi.",
+      "match_method": "llm"
+    },
+    {
+      "line_number": 1562,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Anno convenzionale di prima iscrizione e disposizioni per passaggi di corso, rinsune agli studi.",
+      "match_method": "llm"
+    },
+    {
+      "line_number": 1567,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Anno convenzionale di prima iscrizione e disposizioni per passaggi di corso, rinsune agli studi.",
+      "match_method": "llm"
+    },
+    {
+      "line_number": 1576,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Anno convenzionale di prima iscrizione e disposizioni per passaggi di corso, rinsune agli studi.",
+      "match_method": "llm"
+    },
+    {
+      "line_number": 1578,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Anno convenzionale di prima iscrizione e disposizioni per passaggi di corso, rinsune agli studi.",
+      "match_method": "llm"
+    }
+  ]
+}
