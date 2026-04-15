@@ -1,0 +1,1627 @@
+{
+  "source_file": "/Users/omiderfanmanesh/Projects/DocStruct/data/Call for the benefits of the right to education a.y. 2025:2026 \u2013 UniMI Bicocca (ENG)-bando-DSU-2025-26 eng.md",
+  "output_file": "/Users/omiderfanmanesh/Projects/DocStruct/output/02_fixed_markdown/Call for the benefits of the right to education a.y. 2025:2026 \u2013 UniMI Bicocca (ENG)-bando-DSU-2025-26 eng.md",
+  "total_lines": 1460,
+  "lines_changed": 198,
+  "lines_demoted": 125,
+  "unmatched_toc_entries": [],
+  "corrections": [
+    {
+      "line_number": 1,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 3,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 7,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 11,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "SCHOLARSHIP",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 13,
+      "old_level": 1,
+      "new_level": 4,
+      "matched_toc_title": "EXCEPTIONAL SUBSIDY",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 14,
+      "old_level": 1,
+      "new_level": 4,
+      "matched_toc_title": "HOUSING SERVICE",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 15,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "CANTEEN SERVICE",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 21,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 29,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 49,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "Index",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 53,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "DEADLINES",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 54,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "PROCEDURE FOR SUBMITTING THE APPLICATION",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 58,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "COMPOSITION OF THE SCHOLARSHIPS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 59,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "GENERAL CONDITIONS OF PARTICIPATION",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 61,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "MERIT REQUIREMENTS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 63,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "General requirements",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 65,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Grounds for exclusion",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 66,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Academic regularity",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 67,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Academic regularity - per-university education at foreign schools",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 68,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Documents of qualification achieved abroad",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 70,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Students enrolled in the FIRST year of all degree courses",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 72,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Access requirement",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 73,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Ex-post merit requirement (only for first year students)",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 75,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Students enrolled in the SECOND AND SUBSEQUENT years of all degree courses.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 77,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Number of credits",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 79,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Proportional criterion",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 80,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Validity of credits and weighted average",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 82,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Valid Credits",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 83,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Weighted Average",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 85,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Bonus",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 86,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Students with disabilities",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 87,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Specialisation Schools and Ph.D programs",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 89,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "ECONOMIC REQUIREMENTS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 90,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "SCHOLARSHIP AMOUNT",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 92,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Income brackets",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 93,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Geographical origin",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 94,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Scholarship amounts",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 96,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Students enrolled in years of regular course",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 97,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Students enrolled in the first year outside prescribed time",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 98,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Degree prize",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 100,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Free canteen service",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 102,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "SCHOLARSHIP INTEGRATIONS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 104,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Students with disabilities",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 106,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Amounts",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 107,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Period and methods of payment",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 109,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "International mobility",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 111,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Amounts for international mobility",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 112,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "International mobility rankings and payment",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 114,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Contemporary enrollments",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 116,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "DEFINITION OF THE RANKINGS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 118,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Students enrolled in the FIRST year of all DEGREE COURSES and ALL years of PH.D and Specialisation Schools",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 119,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Students enrolled in SECOND AND SUBSEQUENT YEARS of all DEGREE COURSES",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 121,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "PUBLICATION OF PROVISIONAL RANKINGS AND APPEALS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 123,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "General ranking",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 124,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Second semester ranking",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 126,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "PAYMENT OF THE SCHOLARSHIPS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 128,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Payment methods",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 129,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Payment times",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 131,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "First and second installment",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 132,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Degree prize",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 134,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "INCOMPATIBILITY AND TRANSFERS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 136,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Incompatibility",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 137,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Transfers",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 139,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "FORFEITURE OF THE SCHOLARSHIP BENEFITS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 141,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Total forfeiture",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 142,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Partial forfeiture",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 143,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Consequences of forfeiture",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 149,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "AVAILABLE ACCOMMODATION PLACES",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 151,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "General information",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 152,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Facilities available for students enrolled at the University of Milano-Bicocca",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 154,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "RECONFIRMATE THE ACCOMMODATION PLACE",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 155,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "NEW ADMISSIONS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 157,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "DEFINITIONS OF THE RANKINGS AND PUBLICATION OF THE RESULTS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 159,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Definition of the rankings",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 160,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Publication of the results and appeals",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 162,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "ASSIGNMENT OF THE ACCOMMODATION PLACES",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 164,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Hospitality period",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 165,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Assignment",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 167,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Assignment for the reconfirmations",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 168,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Convocation and assignment for new admissions - BENEFICIARIES",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 169,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Convocation and assignment for new admissions - ELIGIBLE NON-BENEFICIARIES",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 171,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Post assignment transfers",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 172,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "International Mobility",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 174,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "TARIFFS AND DEADLINES",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 176,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "General information",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 177,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Preferential tariff and deadlines",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 178,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Tariff reduction",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 180,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "WITHDRAWAL - LOSS OF THE ACCOMMODATION PLACE",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 182,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "End of hospitality",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 184,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Forfeiture",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 188,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "WHO CAN BENEFIT FROM THE CANTEEN SERVICE",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 189,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "REQUIREMENTS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 190,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "AUTOMATIC EXCLUSION FROM THE CANTEEN SERVICE",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 191,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "PRICE OF THE MEAL",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 192,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "TRANSFERS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 193,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "USE",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 194,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "FORFEITURE",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 196,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "DEFINITIONS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 198,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "EXAMPLES",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 200,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "ACADEMIC REGULARITY",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 201,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "ACADEMIC REGULARITY - PRE-UNIVERSITY EDUCATION AT FOREIGN SCHOOLS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 202,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "PROPORTIONAL CRITERION",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 203,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "WEIGHTED AVERAGE",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 204,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "CALCULATION FOR THE INTEGRATION FOR INTERNATIONAL MOBILITY",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 206,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "CHECKS OF THE SELF-CERTIFICATIONS VERACITY",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 208,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "CHECKS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 209,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "CONSEQUENCES IN CASE OF NON-VERACITY",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 211,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Sanction pursuant to art. 10, paragraph 3, Legislative Decree 68/2012",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 212,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Sanction pursuant to art. 38, paragraph 3, D.L. 78/2010",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 214,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "EXCLUSIVE COURT",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 216,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "GENERAL NOTES",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 224,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 226,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 242,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 268,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 272,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 284,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 303,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 305,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 311,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 331,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 341,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 350,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 352,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 358,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 360,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 364,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 372,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 382,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 395,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 405,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 407,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 417,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 428,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 436,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 438,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 444,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 450,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 456,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 464,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 473,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 479,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 483,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 489,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 493,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 499,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 513,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 517,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 523,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 564,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 566,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 574,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 578,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 592,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 614,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 616,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 618,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 626,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 630,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 632,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 654,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 662,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 668,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 672,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 684,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 700,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 702,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 714,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 720,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 722,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 730,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 732,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 744,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 748,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 750,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 765,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 773,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 775,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 791,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 795,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 811,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 817,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 853,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 905,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 909,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 911,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 921,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 927,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 933,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 941,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 943,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 961,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 969,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 971,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 975,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 981,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1002,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1012,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1035,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1041,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1045,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1051,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1053,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1069,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1081,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1089,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1091,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1099,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1112,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1129,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1133,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1148,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1159,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1169,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1173,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1177,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1188,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1198,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1220,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1222,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1239,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1250,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1262,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1276,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1293,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1295,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1307,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1311,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1328,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1334,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1338,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    }
+  ]
+}

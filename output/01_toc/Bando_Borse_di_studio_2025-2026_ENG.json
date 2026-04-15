@@ -8,7 +8,7 @@
       "separator": " - ",
       "pattern": "Art. 1 - Definitions",
       "page": 2,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -19,7 +19,7 @@
       "separator": " - ",
       "pattern": "Art. 2 - Purpose of the call",
       "page": 3,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -30,7 +30,7 @@
       "separator": " - ",
       "pattern": "Art. 3 - Categories of students who can apply for a Scholarship",
       "page": 3,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -41,7 +41,7 @@
       "separator": " - ",
       "pattern": "Art. 4 - Deadlines and procedures for submitting applications",
       "page": 4,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -52,7 +52,7 @@
       "separator": " - ",
       "pattern": "Art. 5 - Definition of student status",
       "page": 7,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -63,7 +63,7 @@
       "separator": " - ",
       "pattern": "Art. 6 - Loans and amounts",
       "page": 8,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -74,7 +74,7 @@
       "separator": " – ",
       "pattern": "Art. 7 – I.S.E.E. and criteria for the evaluation of the financial situation",
       "page": 12,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -85,7 +85,7 @@
       "separator": " - ",
       "pattern": "Art. 8 - Criteria for determining merit",
       "page": 14,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -96,7 +96,7 @@
       "separator": " - ",
       "pattern": "Art. 9 - Ranking formation",
       "page": 16,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -107,7 +107,7 @@
       "separator": " - ",
       "pattern": "Art. 10 - Methods of payment of the scholarship",
       "page": 16,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -118,7 +118,7 @@
       "separator": " - ",
       "pattern": "Art. 11 - Revocation/forfeiture of the scholarship and relative eligibility",
       "page": 17,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -129,7 +129,7 @@
       "separator": " - ",
       "pattern": "Art. 12 - Supplements and benefits for international mobility",
       "page": 18,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -140,7 +140,7 @@
       "separator": " - ",
       "pattern": "Art. 13 - Foreign students",
       "page": 18,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -151,7 +151,7 @@
       "separator": " - ",
       "pattern": "Art. 14 - Students with disabilities",
       "page": 19,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -162,7 +162,7 @@
       "separator": " - ",
       "pattern": "Art. 15 - Part-time students",
       "page": 20,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -173,7 +173,7 @@
       "separator": " - ",
       "pattern": "Art. 16 - Declarations: corrections and verifications",
       "page": 22,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -184,7 +184,7 @@
       "separator": " - ",
       "pattern": "Art. 17 - Head of the procedure",
       "page": 23,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -195,7 +195,7 @@
       "separator": " - ",
       "pattern": "Art. 18 - Information references",
       "page": 23,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -206,7 +206,51 @@
       "separator": " - ",
       "pattern": "Art. 19 - Regulatory references",
       "page": 24,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Purpose of the call",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art. 2",
+      "separator": " - ",
+      "pattern": "Art. 2 - Purpose of the call",
+      "page": null,
       "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "Categories of students who can apply for a Scholarship",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art. 3",
+      "separator": " - ",
+      "pattern": "Art. 3 - Categories of students who can apply for a Scholarship",
+      "page": null,
+      "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "Deadlines and procedures for submitting applications",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art. 4",
+      "separator": " - ",
+      "pattern": "Art. 4 - Deadlines and procedures for submitting applications",
+      "page": null,
+      "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "Definition of student status",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art. 5",
+      "separator": " - ",
+      "pattern": "Art. 5 - Definition of student status",
+      "page": null,
+      "confidence": 0.9,
       "children": []
     }
   ],
@@ -219,7 +263,7 @@
       "separator": " - ",
       "pattern": "Art. 1 - Definitions",
       "page": 2,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -230,7 +274,7 @@
       "separator": " - ",
       "pattern": "Art. 2 - Purpose of the call",
       "page": 3,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -241,7 +285,7 @@
       "separator": " - ",
       "pattern": "Art. 3 - Categories of students who can apply for a Scholarship",
       "page": 3,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -252,7 +296,7 @@
       "separator": " - ",
       "pattern": "Art. 4 - Deadlines and procedures for submitting applications",
       "page": 4,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -263,7 +307,7 @@
       "separator": " - ",
       "pattern": "Art. 5 - Definition of student status",
       "page": 7,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -274,7 +318,7 @@
       "separator": " - ",
       "pattern": "Art. 6 - Loans and amounts",
       "page": 8,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -285,7 +329,7 @@
       "separator": " – ",
       "pattern": "Art. 7 – I.S.E.E. and criteria for the evaluation of the financial situation",
       "page": 12,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -296,7 +340,7 @@
       "separator": " - ",
       "pattern": "Art. 8 - Criteria for determining merit",
       "page": 14,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -307,7 +351,7 @@
       "separator": " - ",
       "pattern": "Art. 9 - Ranking formation",
       "page": 16,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -318,7 +362,7 @@
       "separator": " - ",
       "pattern": "Art. 10 - Methods of payment of the scholarship",
       "page": 16,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -329,7 +373,7 @@
       "separator": " - ",
       "pattern": "Art. 11 - Revocation/forfeiture of the scholarship and relative eligibility",
       "page": 17,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -340,7 +384,7 @@
       "separator": " - ",
       "pattern": "Art. 12 - Supplements and benefits for international mobility",
       "page": 18,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -351,7 +395,7 @@
       "separator": " - ",
       "pattern": "Art. 13 - Foreign students",
       "page": 18,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -362,7 +406,7 @@
       "separator": " - ",
       "pattern": "Art. 14 - Students with disabilities",
       "page": 19,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -373,7 +417,7 @@
       "separator": " - ",
       "pattern": "Art. 15 - Part-time students",
       "page": 20,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -384,7 +428,7 @@
       "separator": " - ",
       "pattern": "Art. 16 - Declarations: corrections and verifications",
       "page": 22,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -395,7 +439,7 @@
       "separator": " - ",
       "pattern": "Art. 17 - Head of the procedure",
       "page": 23,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -406,7 +450,7 @@
       "separator": " - ",
       "pattern": "Art. 18 - Information references",
       "page": 23,
-      "confidence": 1.0,
+      "confidence": 1,
       "children": []
     },
     {
@@ -417,13 +461,57 @@
       "separator": " - ",
       "pattern": "Art. 19 - Regulatory references",
       "page": 24,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Purpose of the call",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art. 2",
+      "separator": " - ",
+      "pattern": "Art. 2 - Purpose of the call",
+      "page": null,
       "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "Categories of students who can apply for a Scholarship",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art. 3",
+      "separator": " - ",
+      "pattern": "Art. 3 - Categories of students who can apply for a Scholarship",
+      "page": null,
+      "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "Deadlines and procedures for submitting applications",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art. 4",
+      "separator": " - ",
+      "pattern": "Art. 4 - Deadlines and procedures for submitting applications",
+      "page": null,
+      "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "Definition of student status",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art. 5",
+      "separator": " - ",
+      "pattern": "Art. 5 - Definition of student status",
+      "page": null,
+      "confidence": 0.9,
       "children": []
     }
   ],
-  "summary": "This document is an official call for applications, issued by an Italian public authority, for scholarships supporting the right to university education for the academic year 2025/2026. Its main purpose is to outline the criteria, procedures, and requirements for students seeking financial aid to pursue higher education. Key topics covered include eligibility categories, application deadlines, financial evaluation through I.S.E.E., merit criteria, scholarship amounts, payment methods, and conditions for revocation or forfeiture.",
+  "summary": "The document outlines the call for applications for scholarships aimed at supporting the right to university education for the 2025/2026 academic year. It details eligibility criteria, application procedures, financial assessment methods, merit evaluation, ranking formation, and payment modalities, as well as conditions for revocation or forfeiture of scholarships.",
   "metadata": {
-    "title": null,
+    "title": "Unknown",
     "source": "inferred",
     "year": null,
     "document_type": null,
@@ -431,13 +519,13 @@
   },
   "toc_boundaries": {
     "start_line": 0,
-    "end_line": 49,
+    "end_line": 249,
     "marker": "(agent-detected)"
   },
   "processing_log": [
     {
       "action": "read",
-      "detail": "Read 838 lines from data\\Bando_Borse_di_studio_2025-2026_ENG.md",
+      "detail": "Read 838 lines from /Users/omiderfanmanesh/Projects/DocStruct/data/Bando_Borse_di_studio_2025-2026_ENG.md",
       "line": null
     },
     {
@@ -447,17 +535,17 @@
     },
     {
       "action": "boundary",
-      "detail": "TOC spans lines 0–49",
+      "detail": "TOC spans lines 0-249",
       "line": null
     },
     {
       "action": "classified",
-      "detail": "LLM extracted 19 TOC entries",
+      "detail": "LLM extracted 23 TOC entries",
       "line": null
     },
     {
       "action": "mapped",
-      "detail": "Built heading tree with 19 root nodes",
+      "detail": "Built heading tree with 23 root nodes",
       "line": null
     },
     {
@@ -467,9 +555,9 @@
     },
     {
       "action": "metadata",
-      "detail": "Extracted metadata: title='None', source=inferred",
+      "detail": "Extracted metadata: title='Unknown', source=inferred",
       "line": null
     }
   ],
-  "extracted_at": "2026-03-22T16:36:56.595282Z"
+  "extracted_at": "2026-04-15T09:16:56.016037Z"
 }

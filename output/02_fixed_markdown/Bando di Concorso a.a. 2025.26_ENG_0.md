@@ -11,7 +11,8 @@ ACADEMIC YEAR 2025/2026
 Published on August 4, 2025 Deadline for application: 12:00 AM on September 18, 2025
 
 Summary ARTICLE 1 – CALL FOR APPLICATIONS – RECIPIENTS................................................ 5 1.1 Purpose of the call........................................................................................... 5 1.2 Recipients ....................................................................................................... 5
-
+### Career check for candidates enrolled in an additional semester or in the first year
+- c. increased by 20% if the student is female and attends one of the STEM courses indicated in the annex to this call; d. reduced by 50% if the assignee is enrolled in the 'additional semester' referred to in art. 1.2.2; e. reduced by 50% if an assignee enrolled for the first year fails to obtain 20 credits before 10/08/2025 but before 30/11/2025, as set out in art. 3.1 and 13.
 1.2.1 Courses of study and year of first enrolment .................................................... 5 1.2.2 Achievement of the degree and duration of the courses of study......................... 6 1.2.3 Deadlines for enrolment in courses of study ..................................................... 7 1.2.4 Career check for candidates enrolled in an additional semester or in the first year 8 1.2.5 Transfers between HEIs............................Errore. Il segnalibro non è definito. 1.2.6 Foreign students, stateless persons and refugees ......Errore. Il segnalibro non è definito.
 
 1.2.7 Students enrolled simultaneously in two courses of study at Universities and AFAM institutes ................................................................................................................ 9 1.2.8 Students simultaneously enrolled in courses of study and FIT (Education, placement and internship) courses at Universities ...................................................... 10
@@ -119,8 +120,7 @@ Suspension will be removed directly by ADiSURC at the latest during the preparat
 
 NB. The terms referred to in this article are established solely for the purposes of participation in the competition and not for the purposes of university enrolment, for which applicants are invited to consult the HEI regulations. The deadline for enrollment at the University, in order to be eligible for the competition, is February 28, 2026. Therefore, students whose enrollment is completed after this deadline, will be excluded.
 
-### Career check for candidates enrolled in an additional semester or in the first year
-Students enrolled in the open semester or filter semester of Italian-language courses in Medicine and Surgery, Dentistry and Dental Prosthetics, and Veterinary Medicine Students simultaneously enrolled in the open semester or filter semester of one of the Italianlanguage degree courses in Medicine and Surgery (LM-41), Dentistry and Dental Prosthetics (LM-46) and Veterinary Medicine (LM-42) and one of the related courses listed in Article 8 of the Ministerial Decree 418/2025, may compete under the following conditions:
+- 1.2.4 Students enrolled in the open semester or filter semester of Italian-language courses in Medicine and Surgery, Dentistry and Dental Prosthetics, and Veterinary Medicine Students simultaneously enrolled in the open semester or filter semester of one of the Italianlanguage degree courses in Medicine and Surgery (LM-41), Dentistry and Dental Prosthetics (LM-46) and Veterinary Medicine (LM-42) and one of the related courses listed in Article 8 of the Ministerial Decree 418/2025, may compete under the following conditions:
 
 - a. as an exception to the ordinary deadline, they may submit the application form by February 28, 2026; in this case, they must follow the procedures used for students transferring from another Region, as set forth in Article 5.4 below. Specifically, the transfer will be accepted if they have submitted their application to participate in the competition for scholarships to the university organization of that Region no later than the applicable deadline for this competition;
 - b. they are suspended in the ranking list until the end of the qualifying semester and, therefore, until they complete their enrollment for the 2025/2026 academic year, if they are placed on the merit ranking list, or if they enroll in one of the similar courses available in the Campania Region. In both cases, enrollment must be completed by February 28, 2026. Suspension of eligibility also entails the suspension of benefits, including the payment of any scholarships and the assignment of accommodation;
@@ -133,7 +133,7 @@ Students enrolled in the open semester or filter semester of Italian-language co
 - g. they are excluded from the competition if, after completing the filter semester, they enroll for the second semester at a university outside the Campania Region.
 
 
-### Transfers between HEIs
+### 1.2.5 Transfers between HEIs
 Career check for candidates enrolled in an additional semester or in the first year For the following applicants:
 
 
@@ -159,7 +159,7 @@ Basically, students about to graduate will in any case be recognized as eligible
 - b) they enroll in an additional semester in 2025/2026. These applicants are included in the rankings of students enrolled in years subsequent to the first. In case of enrollment in a first year of a master's degree in 2025/2026, any inclusion in the single ranking of students enrolled in the first year takes place automatically after verifying enrollment during the classification of the rankings, with consequent adjustment of the amount of scholarship.
 
 
-### Students enrolled simultaneously in two courses of study at Universities and AFAM institutes
+### 1.2.7 Students enrolled simultaneously in two courses of study at Universities and AFAM institutes
 Students enrolling simultaneously in two courses of study at Universities and/or AFAM institutes, pursuant to Law no. 33 of 12 April 2022, are required to pay the regional student services fee for enrolment in both courses. These students qualify for student support services for only one, independently elected course of study (primary course of study). Students in this condition, therefore, are required to declare their second course of study in the online application form. In the event of financial availability in addition to the fund necessary to ensure the basic scholarship for all students, students eligible for the competition and beneficiaries of scholarships will be granted an increase of 20%. The increase is due only if the recipient meets and maintains the merit requirements for the entire duration of the two courses; it is not due, therefore, in the event that the recipient fails to maintain the scholarship requirements for the secondary course. In compliance with the provisions of art. 1.2.2 of the call, the primary course is always the oldest, the one which started first. Therefore, in the case of enrollment in courses of the same type - Type A (three-year/single cycle), Type B (master's), Type C (post-graduate), in the case of dual enrolment in one first year of a course and one subsequent year of a course, the primary course shall be the latter. In case of enrolment in two courses, both for years subsequent to the first, the primary course shall be the course enrolled in earlier. Therefore, applicants with dual enrolment will be subject to the following process:
 
 institutes Students enrolling simultaneously in two courses of study at Universities and/or AFAM institutes, pursuant to Law no. 33 of 12 April 2022, are required to pay the regional student services fee for enrolment in both courses. These students qualify for student support services for only one, independently elected course of study (primary course of study). Students in this condition, therefore, are required to declare their second course of study in the online application form. In the event of financial availability in addition to the fund necessary to ensure the basic scholarship for all students, students eligible for the competition and beneficiaries of scholarships will be granted an increase of 20%. The increase is due only if the recipient meets and maintains the merit requirements for the entire duration of the two courses; it is not due, therefore, in the event that the recipient fails to maintain the scholarship requirements for the secondary course. In compliance with the provisions of art. 1.2.2 of the call, the primary course is always the oldest, the one which started first. Therefore, in the case of enrollment in courses of the same type - Type A (three-year/single cycle), Type B (master's), Type C (post-graduate), in the case of dual enrolment in one first year of a course and one subsequent year of a course, the primary course shall be the latter. In case of enrolment in two courses, both for years subsequent to the first, the primary course shall be the course enrolled in earlier. Therefore, applicants with dual enrolment will be subject to the following process:
@@ -184,9 +184,9 @@ No increase is recognized in cases of double enrollment in different types of co
 
 The primary course must be maintained throughout the university programme; it may not be interchanged with the secondary course from one year to another for the purposes of convenience. Exclusively in the case of double enrollment for the first time, candidates can swap the primary course with the secondary, if they have achieved at least 20 credits in the latter and not in the first. The choice thus made becomes irrevocable for the rest of the career.
 
+### 1.2.8 Students simultaneously enrolled in courses of study and FIT (Education, placement and internship) courses at Universities
 1.2.7 Students simultaneously enrolled in courses of study and FIT (Education, placement and
 
-### Students simultaneously enrolled in courses of study and FIT (Education, placement and internship) courses at Universities
 internship) courses at Universities For students enrolled in the "type A" or "type B" courses of study referred to in art. 1.2.1 and who, pursuant to the Ministerial Decree of 10 August 2017 Prot. 616, at the same time participate in FIT training courses, the normal duration of the course of study attended is increased by one semester. Students who, as a result of extension, are enrolled in the additional semester of "type A" or "type B" courses of study referred to in art. 1.2.1, shall, in the event of scholarship allocation:
 
 - 1. qualify for 50% of the scholarship awarded (see art. 6.2(f) and art. 8.9) and are not entitled to the full amount of scholarship (100%);
@@ -315,7 +315,6 @@ Applicants enrolled by abbreviation of course, after obtaining the three-year de
 
 ### 3.6 Bonus for achieving the minimum merit requirement
 
-## BONUS FOR ACHIEVING THE MINIMUM MERIT REQUIREMENT
 Applicants enrolled for years subsequent to the first in a "type A" or "type B" course who do not possess the minimum number of credits required under art. 3.2 on 10/08/2024 will have the opportunity to qualify for a credit "bonus" accrued on the basis of the course year attended, in the following ways:
 
 − 5 credits: for use throughout the university programme, if used for the first time for access to benefits for the second academic year. The unused portion may be used for competitions in subsequent years (e.g. if 2 credits are used for second year benefits, the student has 3 remaining credits that can be used for all the subsequent years until completion of the university programme);
@@ -333,7 +332,6 @@ Pursuant to the Prime Ministerial Decree of 09 April 2001, art. 5, paragraph 9 a
 
 participation in the competition:
 
-## REQUIREMENTS RELATING TO ECONOMIC CONDITION
 - a) the combined Indicator of the Equivalent Financial Situation of the household (ISEE), and the indicator of the financial situation abroad, must not exceed € 25.500,00 (twenty-five thousand five hundred/00);
 - b) the Equivalent Balance Sheet Indicator of the household (ISPE) must not exceed €
 
@@ -344,15 +342,13 @@ The ISEE limit of € 25.500,00 is to be considered net of any amount relating t
 
 ### 4.2 University ISEE
 
-The economic conditions of applicants are identified on the basis of the indicator of the equivalent economic situation referred to in Prime Ministerial Decree 159/2013 as amended, and must be self-certified, under penalty of exclusion from the competition, through the
-### University ISEE
 The economic conditions of applicants are identified on the basis of the indicator of the equivalent economic situation referred to in Prime Ministerial Decree 159/2013 as amended, and must be self-certified, under penalty of exclusion from the competition, through the UNIVERSITY ISEE, issued following compilation of Form MB2 – Section C "University Benefits" – of the Single Personal Declaration (Dichiarazione Sostitutiva Unica - DSU), after identification of the student's household, regardless of residence, which may differ from that of the household of origin.
 
 Under penalty of exclusion from the competition, the Single Personal Declaration (DSU) must be signed in the year 2024 and the related ISEE certificate must be available automatically in the INPS archives no later than the day following the deadline for application submission.
 
 NB. Applicants are advised to ensure that their Tax Centre (CAF - centro di assistenza fiscale) forwards the signed DSU to INPS.
 
-### 4.3 Composition of the family unit
+4.3 Composition of the family unit
 
 The University ISEE is issued following the completion of Form MB2 – Section C “University Services” – of the Single Substitute Declaration (DSU), after identifying the student's family unit, regardless of their registered residence, which may differ from that of their family unit of origin.
 
@@ -362,7 +358,9 @@ Candidates whose family unit declaration is found by the Company to be inconsist
 
 a. Triple reimbursement of the amount unduly received; b. Loss of benefits for the entire career; c. Sanction from €500.00 to €5,000.00; d. Reporting to the judicial authorities; e. Reporting to the University for tuition fees; f. Reporting to the INPS.
 
-### 4.3.1 Independent student
+4.3.1
+### Independent student
+4.3.1 Independent student
 
 Pursuant to Article 8, paragraph 2, of Prime Ministerial Decree 159/2013, for the sole purpose of University ISEE, the student remains part of their parents' household –
 
@@ -373,8 +371,6 @@ even if not living with them – unless actual autonomy is demonstrated. A stude
 - 3. they have earned income from employment or similar work, declared for tax purposes, for at least two years prior to participation in the competition (for the fiscal years 2023 and 2024) and have earned no less than € 9.000,00 (nine thousand/00) per year.
 
 
-All applicants intending to participate as
-### Independent student
 All applicants intending to participate as independent students must self-certify this status in the online application form. While these applicants are entitled to the scholarship corresponding to non-resident students, they will automatically be subject to an economic and financial assessment.
 
 4.3.2 Student Orphans
@@ -403,17 +399,14 @@ requirements of art. 3 and 4 of the call following the presentation of the new I
 ### 4.5 Applicant status details
 4.5.1 Applicant with political refugee or stateless status
 
-### Applicant with political refugee or stateless status
 An applicant who declares themselves stateless or a political refugee is considered to be a student with household resident in Italy. Therefore, the applicant's economic conditions are identified on the basis of the indicator of the equivalent economic situation as per Prime Ministerial Decree 159/2013 as amended and must be self-certified through the UNIVERSITY ISEE referred to in art. 4 of the call. The status of stateless student or political refugee must be self-certified or documented no later than the deadline for participation in the competition, through:
-- a. residence permit for political asylum, issued by the Police Headquarters (Questura) to holders of documentation certifying refugee status, pursuant to Article 1(a), of the 1951 Geneva Convention, issued by one of the Territorial Commissions for the recognition of refugee status and international protection established with the Ministry of the Interior;
 
 - a. residence permit for political asylum, issued by the Police Headquarters (Questura) to holders of documentation certifying refugee status, pursuant to Article 1(a), of the 1951 Geneva Convention, issued by one of the Territorial Commissions for the recognition of refugee status and international protection established with the Ministry of the Interior;
 - b. certification of statelessness (Article 17 of Presidential Decree 572/1993), issued by the Ministry of the Interior, Department for Civil Liberties and Immigration, at the request of the interested party.
 
 
-### Applicant with citizenship of an EU country (other than Italy) and non-EU country, with household resident abroad
-household resident abroad Pursuant to Article 8, paragraph 3, of Legislative Decree no. 68 of 29 March 2012, the economic condition of a foreign applicant with household resident abroad or of an Italian applicant residing abroad is defined through the Indicator of the equivalent economic situation abroad, calculated as the sum of any income received abroad and 20% of assets owned abroad, assessed pursuant to Article 7, paragraph 7, of Legislative Decree no. 68 of 29 March 2012. Therefore, an applicant with household resident abroad must send ADiSURC, no later than 31/03/2026 and under penalty of exclusion, a copy of the EQUIVALENT UNIVERSITY ISEE (ISEEUP) completed at a CAF (Tax Centre) and in one of the ways referred to in art. 5. Upon any subsequent request of ADiSURC, this applicant must then produce the documents issued by the competent authorities of the country where the income is produced and the assets owned, translated into Italian language by Italian diplomatic authorities and certifying:
-- d. any rental costs incurred for the residence of the household. The payment of any scholarship funds will be suspended until the EQUIVALENT UNIVERSITY ISEE (ISEEUP) is received.
+### 4.5.3 Applicant with citizenship of an EU country (other than Italy) and non-EU country, with household resident abroad
+household resident abroad Pursuant to Article 8, paragraph 3, of Legislative Decree no. 68 of 29 March 2012,the economic condition of a foreign applicant with household resident abroad or of an Italian applicant residing abroad is defined through the Indicator of the equivalent economic situation abroad, calculated as the sum of any income received abroad and 20% of assets owned abroad, assessed pursuant to Article 7, paragraph 7, of Legislative Decree no. 68 of 29 March 2012. Therefore, an applicant with household resident abroad must send ADiSURC, no later than 31/03/2026 and under penalty of exclusion, a copy of the EQUIVALENT UNIVERSITY ISEE (ISEEUP) completed at a CAF (Tax Centre) and in one of the ways referred to in art. 5. Upon any subsequent request of ADiSURC, this applicant must then produce the documents issued by the competent authorities of the country where the income is produced and the assets owned, translated into Italian language by Italian diplomatic authorities and certifying: - a. residence permit for political asylum, issued by the Police Headquarters (Questura) to holders of documentation certifying refugee status, pursuant to Article 1(a), of the 1951 Geneva Convention, issued by one of the Territorial Commissions for the recognition of refugee status and international protection established with the Ministry of the Interior;
 
 household resident abroad Pursuant to Article 8, paragraph 3, of Legislative Decree no. 68 of 29 March 2012,the economic condition of a foreign applicant with household resident abroad or of an Italian applicant residing abroad is defined through the Indicator of the equivalent economic situation abroad, calculated as the sum of any income received abroad and 20% of assets owned abroad, assessed pursuant to Article 7, paragraph 7, of Legislative Decree no. 68 of 29 March 2012. Therefore, an applicant with household resident abroad must send ADiSURC, no later than 31/03/2026 and under penalty of exclusion, a copy of the EQUIVALENT UNIVERSITY ISEE (ISEEUP) completed at a CAF (Tax Centre) and in one of the ways referred to in art. 5. Upon any subsequent request of ADiSURC, this applicant must then produce the documents issued by the competent authorities of the country where the income is produced and the assets owned, translated into Italian language by Italian diplomatic authorities and certifying:
 
@@ -425,10 +418,8 @@ household resident abroad Pursuant to Article 8, paragraph 3, of Legislative Dec
 - d. any rental costs incurred for the residence of the household. The payment of any scholarship funds will be suspended until the EQUIVALENT UNIVERSITY ISEE (ISEEUP) is received.
 
 
-4.5.3
-### Applicant from a particularly poor or developing country
-- 1. a certificate from the Italian Diplomatic Representation in the country of origin certifying that the student does not belong to a family known to have a high income and a high social level, pursuant to Article 13, paragraph 5, of the Prime Ministerial Decree of 9 April 2001;
-In the absence of said certification, the arrangement for an applicant with a household abroad referred to in the previous paragraph apply; the applicant must therefore complete the online application form and send a copy of the EQUIVALENT ISEE no later than 31/03/2026. Applicants from particularly poor or developing countries, but having a household resident in Italy, are treated in the same way as Italian students and therefore must complete the UNIVERSITY ISEE certification as per art. 4.2. The list of countries considered particularly poor or developing are defined, for the purposes of this competition, by Ministry of Education, University and Research Decree no. 166 of 03/03/2026, and is attached to the call guidelines.
+### 4.5.4 Applicant from a particularly poor or developing country
+- 1. a certificate from the Italian Diplomatic Representation in the country of origin certifying that the student does not belong to a family known to have a high income and a high social level, pursuant to Article 13, paragraph 5, of the Prime Ministerial Decree of 9 April 2001; In the absence of said certification, the arrangement for an applicant with a household abroad referred to in the previous paragraph apply; the applicant must therefore complete the online application form and send a copy of the EQUIVALENT ISEE no later than 31/03/2026. Applicants from particularly poor or developing countries, but having a household resident in Italy, are treated in the same way as Italian students and therefore must complete the UNIVERSITY ISEE certification as per art. 4.2. The list of countries considered particularly poor or developing are defined, for the purposes of this competition, by Ministry of Education, University and Research Decree no. 166 of 03/03/2026, and is attached to the call guidelines.
 
 An applicant from a particularly poor or developing country referred to in Ministry of Education, University and Research Decree no. 166 of 03/03/2025, with a household resident in said country, must transmit the following to ADiSURC, using one of the methods referred to in art. 5 and under penalty of forfeiture of this status, no later than the
 #### DEADLINES
@@ -440,9 +431,8 @@ for participation in the competition:
 
 In the absence of said certification, the arrangement for an applicant with a household abroad referred to in the previous paragraph apply; the applicant must therefore complete the online application form and send a copy of the EQUIVALENT ISEE no later than 31/03/2026. Applicants from particularly poor or developing countries, but having a household resident in Italy, are treated in the same way as Italian students and therefore must complete the UNIVERSITY ISEE certification as per art. 4.2. The list of countries considered particularly poor or developing are defined, for the purposes of this competition, by Ministry of Education, University and Research Decree no. 166 of 03/03/2026, and is attached to the call guidelines.
 
-4.5.4
-### Applicant with citizenship of an EU country (other than Italy) and a non-EU country, as well as coming from particularly poor or developing foreign countries, with a household resident in Italy
-who is considered independent. These students must complete the UNIVERSITY ISEE certificate as per art. 4.2. NB: A student is defined as 'independent' if they meet all three of the following requirements:
+### 4.5.5 Applicant with citizenship of an EU country (other than Italy) and a non-EU country, as well as coming from particularly poor or developing foreign countries, with a household resident in Italy
+who is considered independent. These students must complete the UNIVERSITY ISEE certificate as per art. 4.2. NB: A student is defined as 'independent' if they meet all three of the following requirements: 3. they have earned income from employment or similar work, declared for tax purposes, for at least two years prior to participation in the competition (for the fiscal years 2023 and 2024) and have earned no less than € 9.000,00 per year.
 
 The following are equal in all respects to Italian students: a) foreign student applicant who lives with their family in Italy, with or without an income and/or savings abroad; b) foreign student applicant residing in Italy, with a household resident abroad, but
 
@@ -454,8 +444,7 @@ who is considered independent. These students must complete the UNIVERSITY ISEE 
 
 3. they have earned income from employment or similar work, declared for tax purposes, for at least two years prior to participation in the competition (for the fiscal years 2023 and 2024) and have earned no less than € 9.000,00 per year.
 
-4.5.5
-### Applicants enrolled in doctoral research courses
+### 4.5.6 Applicants enrolled in doctoral research courses
 For benefits related to doctoral research courses, the applicant may select the 'nucleo ristretto (restricted household)' option, which consists solely of the actual applicant, their spouse, any children under the age of 18 and adult children who are financially dependent for IRPEF purposes on the applicant, to the exclusion of all other family members. This 'restricted household' ISEE may be used for this competition in place of the UNIVERSITY ISEE.
 
 ## ARTICLE 5 – RULES FOR PARTICIPATION IN THE COMPETITION
@@ -501,8 +490,8 @@ Pursuant to Article 3, paragraph 4, of the Presidential Decree of 9 April 2001, 
 Applicants who come from a HEI other than the one for which they compete in the academic year 2025/2026 and who have already benefited from a "bonus" at an organisation for student affairs other than the Agency, are required to self-certify this in the online application form pursuant to Articles 46 and 47 of Presidential Decree 445/2000. The Agency directly requests the data relating to the bonuses used from the relevant organisation for student affairs.
 
 
-### Transfer of application for applicants from other HEIs/AFAM institutes
-- 5.4 Transfer of application for applicants from other Regions Students who enrol in a course of study at a Campania Region following a transfer from another Region for the 2025/2026 academic year may participate in the competition, under penalty of exclusion, only if they have submitted their application for the scholarship competition to their original HEI by the applicable deadline for this competition. The possibility of requesting an incoming transfer is available until 12:00 noon on February 28, 2026, through the online procedure, accessible from the reserved area, following accreditation. The application must indicate the original Region. All the rules of this call shall apply to transferring applicants. Applicants whose transfer request is received after the publication of the provisional rankings referred to in art. 8.2 are included solely in the definitive rankings referred to in art. 8.4, and therefore do not have the option to request correction as per art. 8.3; any appeals must be forwarded to the Campania T.A.R. (Regional administrative court) offices in Naples, within 60 (sixty) days from the date of publication.
+### 5.4 Transfer of application for applicants from other HEIs/AFAM institutes
+Transfer of application for applicants from other Regions Students who enrol in a course of study at a Campania Region following a transfer from another Region for the 2025/2026 academic year may participate in the competition, under penalty of exclusion, only if they have submitted their application for the scholarship competition to their original HEI by the applicable deadline for this competition. The possibility of requesting an incoming transfer is available until 12:00 noon on February 28, 2026, through the online procedure, accessible from the reserved area, following accreditation. The application must indicate the original Region. All the rules of this call shall apply to transferring applicants. Applicants whose transfer request is received after the publication of the provisional rankings referred to in art. 8.2 are included solely in the definitive rankings referred to in art. 8.4, and therefore do not have the option to request correction as per art. 8.3; any appeals must be forwarded to the Campania T.A.R. (Regional administrative court) offices in Naples, within 60 (sixty) days from the date of publication.
 -
 ### 5.5 Information and Support
 
@@ -719,8 +708,8 @@ f. a change to the data relating to any bonus declared in the application; g. a 
 
 - h. a change to the declaration relating to the application of another scholarship for the same year of the course for which they are competing;
 - i. re-assessment of the year of enrolment in the course of study attended for the academic year 2025/2026 and the number of credits earned by 10/08/2024 (art. 3.5, second paragraph);
-### 1.2.6 - Foreign students, stateless persons and refugees
-− j. a change to the declaration relating to simultaneous enrolment in another course of study pursuant to Law no. 33 of 12 April 2022, as regulated by art. 1.2.6 of the call; k. a change to the declaration of independent student status, as regulated by art. 4.5 of
+### Foreign students, stateless persons and refugees
+- j. a change to the declaration relating to simultaneous enrolment in another course of study pursuant to Law no. 33 of 12 April 2022, as regulated by art. 1.2.6 of the call; k. a change to the declaration of independent student status, as regulated by art. 4.5 of
 
 
 the call.
@@ -1169,6 +1158,7 @@ Il/la sottoscritto/a ___________________________________________________________
 
 DICHIARA che la documentazione allegata alla presente e relativa alla seguente fattispecie di cui all’art. 5.2:
 
+### Applicant with political refugee or stateless status
  Documentazione art. 4.5 Candidato con status di rifugiato politico o apolide;  Documentazione art. 4.5 Candidato proveniente da Paesi stranieri particolarmente
 
 poveri o in via di sviluppo;  Documentazione art. 4.5 Candidati con nucleo familiare residente all’estero (ISEE UNIVERSITARIO PARIFICATO);

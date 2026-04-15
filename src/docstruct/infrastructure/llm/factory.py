@@ -8,6 +8,7 @@ import sys
 from docstruct.infrastructure.llm.anthropic_adapter import AnthropicAdapter
 from docstruct.infrastructure.llm.azure_adapter import AzureOpenAIAdapter
 from docstruct.infrastructure.llm.openai_adapter import OpenAIAdapter
+from docstruct.infrastructure.llm.ollama_adapter import OllamaAdapter
 
 
 def build_client():
@@ -45,6 +46,14 @@ def build_client():
             print("ERROR: LangChain OpenAI dependencies are not installed. Run: pip install langchain-openai", file=sys.stderr)
             sys.exit(3)
 
+    if provider == "ollama":
+        base_url = os.environ.get("OLLAMA_BASE_URL", "http://localhost:11434").strip() or "http://localhost:11434"
+        try:
+            return OllamaAdapter(base_url=base_url)
+        except ImportError:
+            print("ERROR: LangChain Ollama dependencies are not installed. Run: pip install langchain-ollama", file=sys.stderr)
+            sys.exit(3)
+
     if provider == "anthropic":
         api_key = os.environ.get("ANTHROPIC_API_KEY")
         if not api_key:
@@ -56,5 +65,5 @@ def build_client():
             print("ERROR: LangChain Anthropic dependencies are not installed. Run: pip install langchain-anthropic", file=sys.stderr)
             sys.exit(3)
 
-    print(f"ERROR: Unknown LLM_PROVIDER={provider!r}. Must be 'anthropic', 'azure', or 'openai'.", file=sys.stderr)
+    print(f"ERROR: Unknown LLM_PROVIDER={provider!r}. Must be 'anthropic', 'azure', 'openai', or 'ollama'.", file=sys.stderr)
     sys.exit(3)

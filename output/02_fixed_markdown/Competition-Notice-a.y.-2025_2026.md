@@ -82,10 +82,15 @@ b) to the exemption from the payment of contributions due to the University of G
 -  specialisation courses, at least two years in duration, with an exception for the medical area according to Italian Legislative Decree no. 368 of 17 August 1999; PhD courses activated according to Italian Legislative Decree no. 210 of 3 July 1998, Art. 4who do not benefit from the university scholarship;
 
 
-b) study courses run by the Institutions for Higher Education in Art and Music (AFAM), based in Liguria, pursuant to Table B attached to this notice:
+b) study courses run by the Institutions for Higher Education in Art and Music (AFAM), based
+#### IN LIGURIA
+, pursuant to
+#### TABLE B
+attached to this notice:
 
  first-level specialist degree;  second-level specialist degree (or equivalent);  previous system degree.
 
+#### LIST OF INSTITUTIONS FOR HIGHER EDUCATION IN ART AND MUSIC (AFAM)........
 - 2. The title obtained for the completion of studies at Fine Arts Academies, State Schools of Music and equivalent musical Institutes (Current System) and at the end of university diploma courses, is conventionally considered as equivalent to the bachelor degree (first level title) and, as such, enables the student to compete for the concession of a scholarship and accommodation only for a master's degree, or a single-cycle master's degree, as long as, in this latter case, admission has taken place or takes place during years after the first in accordance with Article 3.5 paragraph 1.
 - 3. The previous system degree (hereinafter also referred to as the “PS degree”) is conventionally considered equivalent to a master's degree (second level title) and allows the student to compete for the scholarship and accommodation but only in order to achieve the specialisation or PhD courses.
 - 4. The diploma obtained after completion of previous system studies, completed at State Schools of Music and equivalent Musical Institutes, entitles the student to compete for a scholarship for any three-year course, as long as it is not run by the Institutes in question.
@@ -105,8 +110,8 @@ a) if enrolled in first-level bachelor degree courses: a total of 7 semesters (6
 a) if enrolled in first-level bachelor degree courses: a total of 8 semesters (6 semesters, plus 2 semesters); b) if enrolled in single-cycle master’s degree courses: a total of 12 semesters for students enrolled in courses with a legal duration of 5 years, a total of 14 semesters for students enrolled in courses with a legal duration of 6 years (duration established by the respective teaching systems plus 2 semesters); c) if enrolled in second-level master's degree courses: a total of 6 semesters (4 semesters plus 2 semesters); d) if enrolled in the Institutions for High Artistic, Musical and Performing Arts Education: duration established by the legal duration of the courses; e) if enrolled in for PhD courses or specialisation courses: a period corresponding to the duration established by the respective didactic regulations.
 
 - 2. For students referred to in letters a), b), c) of section 3.1 paragraph 1, the second additional semester is granted against payment of €200,00 per month if in ALiSEO Residences.
--
-### 3.3. Scholarship for disabled students
+### 3.3 Scholarship for disabled students
+- 3.3. Scholarship for disabled students
 
 
 1. Students with disabilities referred to in Article 13 of this Competition Notice, can obtain the scholarship, limitated to for the first title for each level of study, for a maximum period of time calculated from the year of first enrolment as follows:
@@ -147,6 +152,7 @@ a) if enrolled in first degree courses: a total of 10 semesters (6 semesters plu
 attached to this notice) should not request accommodation in the residential structures of ALiSEO, they shall be considered as “Commuting” students.
 - 3. The term “commuting student” is used to refer to students who are not considered as off-site and yet reside in a municipality other than that of the place of the course of studies attended (see Table A attached to this Notice), who do not require accommodation in the ALiSEO residential structures or in residential structures holding agreements with ALiSEO (in accordance with what stated before).
 - 4. The online application for benefits provides an automatic system for determining the type of student in function of the location of the attended course of study and of the municipality of residence of the student. This information must be declared by the student in the application.
+#### LIST OF MUNICIPALITIES CONSIDERED AS “OFF‒SITE” WITH RESPECT TO THE......
 - 5. If the "off-site" students renounce the benefit of the accommodation place or are ineligible for the rental contribution (referred to in Article 22 of this Notice), they receive the disbursement of the monetary installment of the scholarship as a "commuter."
 - 6.Students who believe that they should actually be classified differently, on the basis of the travel time necessary to reach the municipality where the attended course of studies is based using public means of transport, they may request their status to be reviewed at the same time as submitting their application for a scholarship. To this purpose, they must therefore submit a specific, duly documented request to this end, showing the time taken to reach the municipality where the attended course of studies is based, from their place of residence. The Head of the Department Right to Study of ALiSEO evaluates the request at his sole discretion within the date as indicated in the art. 23 paragraph 6 of the Notice.
 - 7. The international non-EU students residing in Italy and applying for a place in ALiSEO's residential facilities are considered to be “off-site” with the exception of those whose household resides in Italy. In this case, in order to determine the “typology” of the student the actual residence of the family unit is considered,.
@@ -193,7 +199,8 @@ to their country of origin and, in order to enrol in another course at the Unive
 - 2. According to Decree-Law No. 76 of July 16, 2020, converted into Law No. 120 of 11 September 2020, as of 1 March 2021, in order to access services and benefits offered by the Public Administration, it is necessary to be in possession of SPID credentials (at least level 2) or the Electronic Identity Card (CIE).
 
 
-### 6.1. Exceptions to the use of SPID/CIE (until new regulatory dispositions):
+### 6.1. Exceptions to the use of SPID/CIE (until new regulatory dispositions)
+:
 
 - 1. Students who on the date of application are not in possession of the Italian citizenship and a valid Italian identity document are exempted from the requirement to have SPID credentials (at least level
 - 2) or the Electronic Identity Card (CIE) and can therefore access the online "Accreditation" procedure (registration on the ALiSEO website). These students, during the accreditation process, must upload the following valid documents:
@@ -533,7 +540,8 @@ courses in the ways envisaged by the respective teaching systems without any sur
 ## Article 11 – Economical requirements
 ### 11.1 University ISEE/Parified ISEE
 
-- 1. The student’s economic conditions are identified by Prime Ministerial Decree 159 of 05/12/2013 and subsequent amendments and additions on ISEE and completed by the criteria envisaged by Prime Ministerial Decree 9 April 2001, by article 5 and by Articles 7 and 8 of the Legislative Decree n. 68 of 29 March 2012.
+## Eligible students
+The student’s economic conditions are identified by Prime Ministerial Decree 159 of 05/12/2013 and subsequent amendments and additions on ISEE and completed by the criteria envisaged by Prime Ministerial Decree 9 April 2001, by article 5 and by Articles 7 and 8 of the Legislative Decree n. 68 of 29 March 2012.
 - 2. In order to apply for the benefits, the student must mandatorily be in possession of the ISEE certificate for Subsidised Benefits for the Right to University Study (ISEEU/ISEEUP) as specified below.
 
 
@@ -1515,7 +1523,7 @@ TABLE A
 
 LIST OF MUNICIPALITIES CONSIDERED AS “OFF‐SITE” WITH RESPECT TO THE
 
-UNIVERSITY SITES
+#### UNIVERSITY SITES
 
 GENOA SITE 1) All municipalities not in the province of Genoa, apart from the municipality of Varazze in the province of Savona.
 

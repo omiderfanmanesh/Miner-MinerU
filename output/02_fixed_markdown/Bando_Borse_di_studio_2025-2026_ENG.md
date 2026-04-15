@@ -22,7 +22,8 @@ of one of the academic qualifications referred to in the following point; c) aca
 
 Students Career Regulations issued on 7 January 2014 and subsequent amendments and additions; k) financially independent student: a student who meets both of the following conditions related to financial independence and paid accommodation;
 
-- • According to the I.S.E.E. regulations established by D.P.C.M. 159/2013 and Ministerial Decree No. 1320/2021, Article 3, paragraph 1, the student must have been living outside the family home (i.e., not residing in the family’s household) for at least two years prior to the date of submission of the DSU (Single Substitute Declaration), in a property not owned by a member of their family of origin;
+## Art. 7 - I.S.E.E. and criteria for the evaluation of the financial situation
+According to the I.S.E.E. regulations established by D.P.C.M. 159/2013 and Ministerial Decree No. 1320/2021, Article 3, paragraph 1, the student must have been living outside the family home (i.e., not residing in the family’s household) for at least two years prior to the date of submission of the DSU (Single Substitute Declaration), in a property not owned by a member of their family of origin;
 - •Have had an adequate income from dependent or equivalent employment, declared for tax purposes for at least two years, with a gross annual income of no less than €9,000, based on a household composed of one person;
 
 
@@ -97,7 +98,8 @@ Bachelor’s degree:
 
 - c) to students enrolled in PhD courses (with the exception of those enrolled under joint supervision and those who are assigned a scholarship for their PhD) for the duration provided for by the respective educational systems, starting from the first year of enrolment;
 
-- d) to part-time students, enrolled in Bachelor's degree and Master's degree programmes, for which the scholarship is awarded for a longer period of time, as indicated in Article 15 below;
+## Art. 3 - Categories of students who can apply for a Scholarship
+to part-time students, enrolled in Bachelor's degree and Master's degree programmes, for which the scholarship is awarded for a longer period of time, as indicated in Article 15 below;
 
 - e) to disabled students with a disability rating of at least 66% and to students with a recognized handicap pursuant to article 3, paragraph 1 of Italian Law no. 104 of 5 February 1992, for whom the scholarship is granted for a longer period of time, in relation to the type of course attended, as indicated in Article 14 below.
 
@@ -162,7 +164,8 @@ The supplement will be awarded giving priority to students who obtain their qual
 - 2. In order to be eligible for the scholarship, all students - regardless of whether they are already enrolled at the university or intend to enrol in Bachelor's degree, Master’s degree programmes and PhD courses at the university - must complete ALL of the following operations:
 
 
-a) SUBMIT the scholarship application by 30 September 2025 at 12:30 - select the status with which you intend to participate (on site/commuter/non-resident – please check art.5). Failure to select the status leads to exclusion from the benefit. Fill in and submit the “Benefits application" available exclusively online in the reserved area of the university site in the section “Right to education and tuition fees”> “Benefits application", or via the link https://esse3.unive.it/auth/Autocertificazioni/Autocertificazione.do for those not yet enrolled; the submission of the Benefits Application simultaneously authorises the University to receive from INPS all the information contained in the I.S.E.E. certificate.
+## Art. 5 - Deadlines and procedures for submitting applications
+SUBMIT the scholarship application by 30 September 2025 at 12:30 - select the status with which you intend to participate (on site/commuter/non-resident – please check art.5). Failure to select the status leads to exclusion from the benefit. Fill in and submit the “Benefits application" available exclusively online in the reserved area of the university site in the section “Right to education and tuition fees”> “Benefits application", or via the link https://esse3.unive.it/auth/Autocertificazioni/Autocertificazione.do for those not yet enrolled; the submission of the Benefits Application simultaneously authorises the University to receive from INPS all the information contained in the I.S.E.E. certificate.
 
 The non-deferrable deadline for submitting the scholarship application is set for 30 September 2025 at 12:30 pm for all students.
 
@@ -236,7 +239,8 @@ The definition of “local, commuter and non-resident” student status, is made
 
 If the student’s residence is included in the list of commuter or local municipalities in relation to the course venue, they cannot be considered non-resident, even if they present a legitimate rental contract.
 
-2. All the non-resident students, including those who are staying in an ESU accommodation, must fill in the online form in the reserved area of the university website in the section “Right to study and education” > “Upload non-resident rental contract” from 26 August 2025 to 31 October 2025.
+## Art. 5 - Definition of student status
+All the non-resident students, including those who are staying in an ESU accommodation, must fill in the online form in the reserved area of the university website in the section “Right to study and education” > “Upload non-resident rental contract” from 26 August 2025 to 31 October 2025.
 
 Non-resident students who do not use ESU residences in Venice or use them for only part of the year, when completing the online form “Upload non-resident rental contract”, in the period from 26 August 2025 to 31 October 2025, must attach a .pdf copy of the legally compliant paid rental contract with a duration of at least ten months (five months in case of those who apply for the scholarship for the last semester) or the remaining months to complete the planned ten (five if they apply for the scholarship for the last semester), if the contract is the first of two rental contracts whose overall duration is ten months (five months if they apply for the scholarship for the last semester), included in the period between September 2025 and September 2026.
 
@@ -398,7 +402,7 @@ If students enrolled in the 2025/2026 academic year with full-time status later 
 
 18. Regional scholarships may be combined with other scholarships that do not have similar purposes related to student maintenance, regardless of the reason for which they are assigned. Scholarships granted by national or foreign institutions to support education or research abroad (mobility grants) are compatible. If students awarded a regional scholarship have already won, or simultaneously win another scholarship (with the exception of mobility grants), they must opt for one or the other scholarship, giving notice within 15 days to the Financial Aid Office (dirittoallostudio@unive.it). Students who give up the regional scholarship also lose their eligibility for the related benefits (i.e. exemption from the payment of fees, subsidised catering and housing services).
 
-## Art. 7 - I.S.E.E. and criteria for the evaluation of the financial situation
+Art. 7 - I.S.E.E. and criteria for the evaluation of the financial situation
 
 - 1. The financial situation of students is identified according to the I.S.E.E. certificate, as referred to in Prime Ministerial Decree no. 159 of 5 December 2013 and subsequent amendments and additions;
 
@@ -531,7 +535,8 @@ structured as follows:
 
 - • ranking of those enrolled for the first time in Bachelor's degree programmes, without EU citizenship, who do not hold an entry qualification obtained in Italy or in a European Union country, defined in ascending order on the basis of the I.S.E.E. certificate referred to in Article 7 above;
 
-- • ranking for students enrolled in the second year onwards of Bachelor's degree programmes, Master’s degree programmes, defined on the basis of merit, with reference to the criteria referred to in Article 8 above, published according to methods that take into account the number of credits and marks achieved, making it possible to compare the individual merit parameters of the students;
+## Art. 18 Information references
+Ranking for students enrolled in the second year onwards of Bachelor's degree programmes, Master’s degree programmes, defined on the basis of merit, with reference to the criteria referred to in Article 8 above, published according to methods that take into account the number of credits and marks achieved.
 
 - • ranking of students enrolled in PhD courses (who do not benefit from the scholarship referred to in Ministerial Decree 226/2021), defined in ascending order on the basis of the I.S.E.E. certificate referred to in Article 7 above.
 
@@ -820,8 +825,8 @@ If applicants believe that the processing of their personal data is in violation
 
 The Data Controller is Ca’ Foscari University of Venice, located at Dorsoduro 3246, 30123 Venice (VE), represented by the Rector.
 
-## Art. 19 - Information references
-For information on this call, contact the Financial Aid Office (c/o Palazzo Ca’ Foscari - Dorsoduro, 3246 - 30123 Venice) of the Teaching and Student Services Area, Office of Student Careers and Right to Education via:
+## Art. 19 - Regulatory references
+Art. 19 - Information references For information on this call, contact the Financial Aid Office (c/o Palazzo Ca’ Foscari - Dorsoduro, 3246 - 30123 Venice) of the Teaching and Student Services Area, Office of Student Careers and Right to Education via:
 
 ➢ tel. +39 041 234 7575 ("Student Services" call centre)
 
@@ -830,8 +835,7 @@ For information on this call, contact the Financial Aid Office (c/o Palazzo Ca�
 - ➢ help desk available by appointment, to be booked online at https://www.unive.it/pag/20068/, during the following opening hours: Tuesday, Thursday and Friday: 9.30 - 12.30 am; Wednesday: 2.30 - 4.30 pm
 
 
-## Art. 20 - Regulatory references
-University Statute Rector’s Decree no. 750 of 8 September 2011 and subsequent amendments and additions Italian Presidential Decree no.394 of 31 August 1999 Regional Law no.15 of 18 June 1996 Regional Law no.8 of 7 April 1998 Law no. 508 of 21 December 1999 Italian Presidential Decree no. 445 of 28 December 2000 Prime Ministerial Decree 9 April 2001 Ministerial Decree no. 270 of 22 October 2004 Legislative Decree no. 68 of 29 March 2012 Prime Ministerial Decree no.159 of 05 December 2013 Decree of the Ministry of Labour and Social Policies of 7 November 2014 Legislative Decree no. 147 of 15 September 2017 Decree-Law no. 34 of 30 April 2019 Ministerial Decree no. 157 of 12 February 2021 Ministerial Decree no. 256 of 18 March 2021 Ministerial Decree no 1320,.17 December 2021 Extended Modalities of the current ISEE as published in the Gazzetta Ufficiale No.203 August 25, 2021 Law no. 33, 12 April 2022 National Recovery and Resilience Plan (NRRP), approved by the Government on 29 April 2021 Ministerial Circular of the Ministry of University and Research no 203 of 11 May 2022 Directorate Decree of the Ministry of University and Research No. 180 of 25 February 2025 Directorate Decree of the Ministry of University and Research No. 181 of 25 February 2025 Ministerial Decree no. 166 of 3 March 2025 Veneto Regional Council Resolution no. 774 of 8 July 2025
+Art. 20 - Regulatory references University Statute Rector’s Decree no. 750 of 8 September 2011 and subsequent amendments and additions Italian Presidential Decree no.394 of 31 August 1999 Regional Law no.15 of 18 June 1996 Regional Law no.8 of 7 April 1998 Law no. 508 of 21 December 1999 Italian Presidential Decree no. 445 of 28 December 2000 Prime Ministerial Decree 9 April 2001 Ministerial Decree no. 270 of 22 October 2004 Legislative Decree no. 68 of 29 March 2012 Prime Ministerial Decree no.159 of 05 December 2013 Decree of the Ministry of Labour and Social Policies of 7 November 2014 Legislative Decree no. 147 of 15 September 2017 Decree-Law no. 34 of 30 April 2019 Ministerial Decree no. 157 of 12 February 2021 Ministerial Decree no. 256 of 18 March 2021 Ministerial Decree no 1320,.17 December 2021 Extended Modalities of the current ISEE as published in the Gazzetta Ufficiale No.203 August 25, 2021 Law no. 33, 12 April 2022 National Recovery and Resilience Plan (NRRP), approved by the Government on 29 April 2021 Ministerial Circular of the Ministry of University and Research no 203 of 11 May 2022 Directorate Decree of the Ministry of University and Research No. 180 of 25 February 2025 Directorate Decree of the Ministry of University and Research No. 181 of 25 February 2025 Ministerial Decree no. 166 of 3 March 2025 Veneto Regional Council Resolution no. 774 of 8 July 2025
 
 This call is also translated into English for informational purposes only. For the application and resolution of any dispute and for all legal effects, the Italian version only shall apply.
 

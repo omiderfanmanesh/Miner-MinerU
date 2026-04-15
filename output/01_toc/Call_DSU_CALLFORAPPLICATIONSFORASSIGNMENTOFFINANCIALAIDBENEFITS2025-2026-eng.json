@@ -1,0 +1,1591 @@
+{
+  "toc": [
+    {
+      "title": "COMPETITION BENEFITS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 1",
+      "separator": " ",
+      "pattern": "ART. 1 COMPETITION BENEFITS",
+      "page": 5,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "WHO MAY APPLY",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 2",
+      "separator": " ",
+      "pattern": "ART. 2 WHO MAY APPLY",
+      "page": 5,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "FINANCIAL REQUIREMENTS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 3",
+      "separator": " ",
+      "pattern": "ART. 3 FINANCIAL REQUIREMENTS",
+      "page": 6,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Students with income and assets in Italy",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "Art. 3.1",
+      "separator": " ",
+      "pattern": "Art. 3.1 Students with income and assets in Italy",
+      "page": 6,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Students with income and assets only abroad or both abroad and in Italy",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "Art. 3.2",
+      "separator": " ",
+      "pattern": "Art. 3.2 Students with income and assets only abroad or both abroad and in Italy",
+      "page": 7,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Independent student",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "Art. 3.3",
+      "separator": " ",
+      "pattern": "Art. 3.3 Independent student",
+      "page": 8,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Foreign students coming from particularly poor countries",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "Art. 3.4",
+      "separator": " ",
+      "pattern": "Art. 3.4 Foreign students coming from particularly poor countries",
+      "page": 8,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Stateless or political refugee students",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "Art. 3.5",
+      "separator": " ",
+      "pattern": "Art. 3.5 Stateless or political refugee students",
+      "page": 9,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Limits regarding ISEE/ISPEE, ISEEU/ISPEEU, and minimum annual income for an independent student",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "Art. 3.6",
+      "separator": " ",
+      "pattern": "Art. 3.6 Limits regarding ISEE/ISPEE, ISEEU/ISPEEU, and minimum annual income for an independent student",
+      "page": null,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "MERIT-BASED REQUIREMENTS: students enrolled in the FIRST YEAR",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 4",
+      "separator": " ",
+      "pattern": "ART. 4 MERIT-BASED REQUIREMENTS: students enrolled in the FIRST YEAR",
+      "page": 10,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Academic merit requirements for students enrolled on the FIRST YEAR of Bachelor of Science, Master of Science, and single-cycle Master of Science courses.",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "Art. 4.1",
+      "separator": " ",
+      "pattern": "Art. 4.1 Academic merit requirements for students enrolled on the FIRST YEAR of Bachelor of Science, Master of Science, and single-cycle Master of Science courses.",
+      "page": 10,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Correct determination of ECTS",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "Art. 4.2",
+      "separator": " ",
+      "pattern": "Art. 4.2 Correct determination of ECTS",
+      "page": 11,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Non-confirmation and revocation of benefits for students enrolled in the FIRST YEAR of Bachelor of Science, Master of Science, and single-cycle Master of Science courses",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "Art. 4.3",
+      "separator": " ",
+      "pattern": "Art. 4.3 Non-confirmation and revocation of benefits for students enrolled in the FIRST YEAR of Bachelor of Science, Master of Science, and single-cycle Master of Science courses",
+      "page": 11,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Students with disabilities",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "Art. 4.5",
+      "separator": " ",
+      "pattern": "Art. 4.5 Students with disabilities",
+      "page": 13,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "MERIT-BASED REQUIREMENTS: students enrolled in SUBSEQUENT YEARS.",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art. 5",
+      "separator": " ",
+      "pattern": "Art. 5 MERIT-BASED REQUIREMENTS: students enrolled in SUBSEQUENT YEARS.",
+      "page": 13,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Credit bonus.",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "ART. 5.1",
+      "separator": " ",
+      "pattern": "ART. 5.1 Credit bonus.",
+      "page": 14,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "How to use the bonus.",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "ART. 5.2",
+      "separator": " ",
+      "pattern": "ART. 5.2 How to use the bonus.",
+      "page": 14,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "MERIT-BASED REQUIREMENTS: Students enrolled in PhD and specialization courses",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art. 6",
+      "separator": " ",
+      "pattern": "Art. 6 MERIT-BASED REQUIREMENTS: Students enrolled in PhD and specialization courses",
+      "page": 15,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "DEADLINES FOR SUBMITTING THE APPLICATION.",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 7",
+      "separator": " ",
+      "pattern": "ART. 7 DEADLINES FOR SUBMITTING THE APPLICATION.",
+      "page": 15,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "HOW TO SUBMIT AN APPLICATION",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 8",
+      "separator": " ",
+      "pattern": "ART. 8 HOW TO SUBMIT AN APPLICATION",
+      "page": 16,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Case of transfer TO or FROM another university",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "Art. 8.1",
+      "separator": " ",
+      "pattern": "Art. 8.1 Case of transfer TO or FROM another university",
+      "page": 16,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Case of a student attending a Bachelor of Science program who is receiving DSU Scholarship and is enrolling in a Master of Science program starting from the second semester",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "Art. 8.2",
+      "separator": " ",
+      "pattern": "Art. 8.2 Case of a student attending a Bachelor of Science program who is receiving DSU Scholarship and is enrolling in a Master of Science program starting from the second semester",
+      "page": null,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Status discipline in case of profile change in II semester",
+      "kind": "subarticle",
+      "depth": 4,
+      "numbering": "Art. 8.2.1",
+      "separator": " ",
+      "pattern": "Art. 8.2.1 Status discipline in case of profile change in II semester",
+      "page": 17,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Case of a student waiting to obtain a first-level degree and enrolling in the first year of a Master of Science course",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "Art. 8.3",
+      "separator": " ",
+      "pattern": "Art. 8.3 Case of a student waiting to obtain a first-level degree and enrolling in the first year of a Master of Science course",
+      "page": 17,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "EXCLUSION FROM RANKINGS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 9",
+      "separator": " ",
+      "pattern": "ART. 9 EXCLUSION FROM RANKINGS",
+      "page": 18,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "FORFEITURE OF BENEFITS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 10",
+      "separator": " ",
+      "pattern": "ART. 10 FORFEITURE OF BENEFITS",
+      "page": 18,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "VALIDATION OF TRUTHFUL STATEMENTS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 11",
+      "separator": " ",
+      "pattern": "ART. 11 VALIDATION OF TRUTHFUL STATEMENTS",
+      "page": 19,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "FISCAL ASPECTS.",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 12",
+      "separator": " ",
+      "pattern": "ART. 12 FISCAL ASPECTS.",
+      "page": 19,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Accumulation and exceptions",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "Art. 12.1",
+      "separator": " ",
+      "pattern": "Art. 12.1 Accumulation and exceptions",
+      "page": 19,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "DSU SCHOLARSHIPS: NUMBER AND VALUE",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 13",
+      "separator": " ",
+      "pattern": "ART. 13 DSU SCHOLARSHIPS: NUMBER AND VALUE",
+      "page": 21,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "GEOGRAPHIC ORIGIN OF THE STUDENT: LOCAL, COMMUTER, AND AWAY FROM HOME",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 14",
+      "separator": " ",
+      "pattern": "ART. 14 GEOGRAPHIC ORIGIN OF THE STUDENT: LOCAL, COMMUTER, AND AWAY FROM HOME",
+      "page": 22,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "Request for recognition of away from home status",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "ART. 14.1",
+      "separator": " ",
+      "pattern": "ART. 14.1 Request for recognition of away from home status",
+      "page": 23,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "Case of the 'away from home' student who withdraws from the original lease agreement and signs a new one",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "ART. 14.2",
+      "separator": " ",
+      "pattern": "ART. 14.2 Case of the 'away from home' student who withdraws from the original lease agreement and signs a new one",
+      "page": 26,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "Case of the 'away from home' student in the previous a.y. who applies for DSU benefits in the a.y. 2025/2026, too",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "ART. 14.3",
+      "separator": " ",
+      "pattern": "ART. 14.3 Case of the 'away from home' student in the previous a.y. who applies for DSU benefits in the a.y. 2025/2026, too",
+      "page": 27,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "Case of the student who participates in a 'international mobility' in the a.y. 2025/2026.",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "ART. 14.4",
+      "separator": " ",
+      "pattern": "ART. 14.4 Case of the student who participates in a 'international mobility' in the a.y. 2025/2026.",
+      "page": 27,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "Case of withdrawal from the paid accommodation rental agreement",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "ART. 14.5",
+      "separator": "............",
+      "pattern": "ART. 14.5 Case of withdrawal from the paid accommodation rental agreement............",
+      "page": 28,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Case of the student who loses their 'away from home' status due to the acquisition of residence.",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "ART. 14.6",
+      "separator": " ",
+      "pattern": "ART. 14.6 Case of the student who loses their 'away from home' status due to the acquisition of residence.",
+      "page": 29,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "DURATION OF GRANTING OF THE DSU SCHOLARSHIPS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 15",
+      "separator": " ",
+      "pattern": "ART. 15 DURATION OF GRANTING OF THE DSU SCHOLARSHIPS",
+      "page": 29,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "FORMATION OF THE RANKINGS FOR THE SCHOLARSHIP.",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 16",
+      "separator": " ",
+      "pattern": "ART. 16 FORMATION OF THE RANKINGS FOR THE SCHOLARSHIP.",
+      "page": 30,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "Case of a student enrolling in a Master of Science program starting from the second semester.",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "Art. 16.1",
+      "separator": " ",
+      "pattern": "Art. 16.1 Case of a student enrolling in a Master of Science program starting from the second semester.",
+      "page": 31,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "Case of a student waiting for ECTS to be validated",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "Art. 16.2",
+      "separator": " ",
+      "pattern": "Art. 16.2 Case of a student waiting for ECTS to be validated",
+      "page": 31,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "PUBLICATION OF THE RANKINGS AND REQUEST FOR REVIEW",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 17",
+      "separator": " ",
+      "pattern": "ART. 17 PUBLICATION OF THE RANKINGS AND REQUEST FOR REVIEW",
+      "page": 31,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "Methods of assignment of scholarships",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "ART. 17.1",
+      "separator": " ",
+      "pattern": "ART. 17.1 Methods of assignment of scholarships",
+      "page": 32,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "PAYMENT OF SCHOLARSHIPS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 18",
+      "separator": " ",
+      "pattern": "ART. 18 PAYMENT OF SCHOLARSHIPS",
+      "page": 32,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "How the DSU Scholarship is paid",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "ART. 18.1",
+      "separator": " ",
+      "pattern": "ART. 18.1 How the DSU Scholarship is paid",
+      "page": 34,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "CANTEEN SERVICE",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 19",
+      "separator": " ",
+      "pattern": "ART. 19 CANTEEN SERVICE",
+      "page": 36,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "Activation and authorisation of the card.",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "ART. 19.1",
+      "separator": " ",
+      "pattern": "ART. 19.1 Activation and authorisation of the card.",
+      "page": 36,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "Duration of service",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "ART. 19.2",
+      "separator": " ",
+      "pattern": "ART. 19.2 Duration of service",
+      "page": 37,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "Value of the service",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "ART. 19.3",
+      "separator": " ",
+      "pattern": "ART. 19.3 Value of the service",
+      "page": 37,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "Rules of use of the \"Ateneo +\" Card",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "ART. 19.4",
+      "separator": " ",
+      "pattern": "ART. 19.4 Rules of use of the \"Ateneo +\" Card",
+      "page": 37,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "INTEGRATION OF DSU SCHOLARSHIP TO PARTICIPATE IN INTERNATIONAL MOBILITY PROGRAMS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 20",
+      "separator": " ",
+      "pattern": "ART. 20 INTEGRATION OF DSU SCHOLARSHIP TO PARTICIPATE IN INTERNATIONAL MOBILITY PROGRAMS",
+      "page": 39,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "Submitting an application",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "ART. 20.1",
+      "separator": " ",
+      "pattern": "ART. 20.1 Submitting an application",
+      "page": 39,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "Amount of contributions",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "ART. 20.2",
+      "separator": " ",
+      "pattern": "ART. 20.2 Amount of contributions",
+      "page": 39,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "Prohibition of using canteen service",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "ART. 20.3",
+      "separator": " ",
+      "pattern": "ART. 20.3 Prohibition of using canteen service",
+      "page": 40,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "The free mover DSU scholarship holder and the reimbursement of the canteen service",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "ART. 20.4",
+      "separator": " ",
+      "pattern": "ART. 20.4 The free mover DSU scholarship holder and the reimbursement of the canteen service",
+      "page": 40,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "DEGREE AWARD AS INTEGRATION OF DSU SCHOLARSHIP",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 21",
+      "separator": " ",
+      "pattern": "ART. 21 DEGREE AWARD AS INTEGRATION OF DSU SCHOLARSHIP",
+      "page": 41,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "PREFERENTIAL RATE RESIDENCE SERVICE",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 22",
+      "separator": " ",
+      "pattern": "ART. 22 PREFERENTIAL RATE RESIDENCE SERVICE",
+      "page": 42,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "Deadlines for submission of an application.",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "ART. 22.1",
+      "separator": " ",
+      "pattern": "ART. 22.1 Deadlines for submission of an application.",
+      "page": 42,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "AVAILABLE PREFERENTIAL RATE HOUSING PLACES: NUMBERS AND LOCATIONS.",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 23",
+      "separator": " ",
+      "pattern": "ART. 23 AVAILABLE PREFERENTIAL RATE HOUSING PLACES: NUMBERS AND LOCATIONS.",
+      "page": 42,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "Rankings",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "ART. 23.1",
+      "separator": " ",
+      "pattern": "ART. 23.1 Rankings",
+      "page": 44,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "ALLOCATION OF PREFERENTIAL RATE HOUSING",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 24",
+      "separator": " ",
+      "pattern": "ART. 24 ALLOCATION OF PREFERENTIAL RATE HOUSING",
+      "page": 44,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "MERIT REQUIREMENTS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 25",
+      "separator": " ",
+      "pattern": "ART. 25 MERIT REQUIREMENTS",
+      "page": 44,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "PROCEDURE FOR FORMING THE RANKINGS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 26",
+      "separator": " ",
+      "pattern": "ART. 26 PROCEDURE FOR FORMING THE RANKINGS",
+      "page": 45,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "PUBLICATION OF THE RANKINGS AND REVIEW REQUESTS.",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 27",
+      "separator": " ",
+      "pattern": "ART. 27 PUBLICATION OF THE RANKINGS AND REVIEW REQUESTS.",
+      "page": 45,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "Students enrolled in subsequent years",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "27.1",
+      "separator": " ",
+      "pattern": "27.1 Students enrolled in subsequent years",
+      "page": 45,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "ASSIGNMENT OF RESIDENCE SLOTS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 28",
+      "separator": " ",
+      "pattern": "ART. 28 ASSIGNMENT OF RESIDENCE SLOTS",
+      "page": 46,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "Methods of assignment and deadlines for acceptance",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "ART. 28.2",
+      "separator": " ",
+      "pattern": "ART. 28.2 Methods of assignment and deadlines for acceptance",
+      "page": 47,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "COST OF THE RESIDENCE SLOTS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 29",
+      "separator": " ",
+      "pattern": "ART. 29 COST OF THE RESIDENCE SLOTS",
+      "page": 49,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "REVOCATION OF THE BENEFIT",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 30",
+      "separator": " ",
+      "pattern": "ART. 30 REVOCATION OF THE BENEFIT",
+      "page": 51,
+      "confidence": 0.95,
+      "children": []
+    }
+  ],
+  "heading_map": [
+    {
+      "title": "COMPETITION BENEFITS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 1",
+      "separator": " ",
+      "pattern": "ART. 1 COMPETITION BENEFITS",
+      "page": 5,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "WHO MAY APPLY",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 2",
+      "separator": " ",
+      "pattern": "ART. 2 WHO MAY APPLY",
+      "page": 5,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "FINANCIAL REQUIREMENTS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 3",
+      "separator": " ",
+      "pattern": "ART. 3 FINANCIAL REQUIREMENTS",
+      "page": 6,
+      "confidence": 1,
+      "children": [
+        {
+          "title": "Students with income and assets in Italy",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "Art. 3.1",
+          "separator": " ",
+          "pattern": "Art. 3.1 Students with income and assets in Italy",
+          "page": 6,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Students with income and assets only abroad or both abroad and in Italy",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "Art. 3.2",
+          "separator": " ",
+          "pattern": "Art. 3.2 Students with income and assets only abroad or both abroad and in Italy",
+          "page": 7,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Independent student",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "Art. 3.3",
+          "separator": " ",
+          "pattern": "Art. 3.3 Independent student",
+          "page": 8,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Foreign students coming from particularly poor countries",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "Art. 3.4",
+          "separator": " ",
+          "pattern": "Art. 3.4 Foreign students coming from particularly poor countries",
+          "page": 8,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Stateless or political refugee students",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "Art. 3.5",
+          "separator": " ",
+          "pattern": "Art. 3.5 Stateless or political refugee students",
+          "page": 9,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Limits regarding ISEE/ISPEE, ISEEU/ISPEEU, and minimum annual income for an independent student",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "Art. 3.6",
+          "separator": " ",
+          "pattern": "Art. 3.6 Limits regarding ISEE/ISPEE, ISEEU/ISPEEU, and minimum annual income for an independent student",
+          "page": null,
+          "confidence": 0.9,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MERIT-BASED REQUIREMENTS: students enrolled in the FIRST YEAR",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 4",
+      "separator": " ",
+      "pattern": "ART. 4 MERIT-BASED REQUIREMENTS: students enrolled in the FIRST YEAR",
+      "page": 10,
+      "confidence": 1,
+      "children": [
+        {
+          "title": "Academic merit requirements for students enrolled on the FIRST YEAR of Bachelor of Science, Master of Science, and single-cycle Master of Science courses.",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "Art. 4.1",
+          "separator": " ",
+          "pattern": "Art. 4.1 Academic merit requirements for students enrolled on the FIRST YEAR of Bachelor of Science, Master of Science, and single-cycle Master of Science courses.",
+          "page": 10,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Correct determination of ECTS",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "Art. 4.2",
+          "separator": " ",
+          "pattern": "Art. 4.2 Correct determination of ECTS",
+          "page": 11,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Non-confirmation and revocation of benefits for students enrolled in the FIRST YEAR of Bachelor of Science, Master of Science, and single-cycle Master of Science courses",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "Art. 4.3",
+          "separator": " ",
+          "pattern": "Art. 4.3 Non-confirmation and revocation of benefits for students enrolled in the FIRST YEAR of Bachelor of Science, Master of Science, and single-cycle Master of Science courses",
+          "page": 11,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Students with disabilities",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "Art. 4.5",
+          "separator": " ",
+          "pattern": "Art. 4.5 Students with disabilities",
+          "page": 13,
+          "confidence": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MERIT-BASED REQUIREMENTS: students enrolled in SUBSEQUENT YEARS.",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art. 5",
+      "separator": " ",
+      "pattern": "Art. 5 MERIT-BASED REQUIREMENTS: students enrolled in SUBSEQUENT YEARS.",
+      "page": 13,
+      "confidence": 1,
+      "children": [
+        {
+          "title": "Credit bonus.",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "ART. 5.1",
+          "separator": " ",
+          "pattern": "ART. 5.1 Credit bonus.",
+          "page": 14,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "How to use the bonus.",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "ART. 5.2",
+          "separator": " ",
+          "pattern": "ART. 5.2 How to use the bonus.",
+          "page": 14,
+          "confidence": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MERIT-BASED REQUIREMENTS: Students enrolled in PhD and specialization courses",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art. 6",
+      "separator": " ",
+      "pattern": "Art. 6 MERIT-BASED REQUIREMENTS: Students enrolled in PhD and specialization courses",
+      "page": 15,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "DEADLINES FOR SUBMITTING THE APPLICATION.",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 7",
+      "separator": " ",
+      "pattern": "ART. 7 DEADLINES FOR SUBMITTING THE APPLICATION.",
+      "page": 15,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "HOW TO SUBMIT AN APPLICATION",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 8",
+      "separator": " ",
+      "pattern": "ART. 8 HOW TO SUBMIT AN APPLICATION",
+      "page": 16,
+      "confidence": 1,
+      "children": [
+        {
+          "title": "Case of transfer TO or FROM another university",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "Art. 8.1",
+          "separator": " ",
+          "pattern": "Art. 8.1 Case of transfer TO or FROM another university",
+          "page": 16,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Case of a student attending a Bachelor of Science program who is receiving DSU Scholarship and is enrolling in a Master of Science program starting from the second semester",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "Art. 8.2",
+          "separator": " ",
+          "pattern": "Art. 8.2 Case of a student attending a Bachelor of Science program who is receiving DSU Scholarship and is enrolling in a Master of Science program starting from the second semester",
+          "page": null,
+          "confidence": 0.9,
+          "children": [
+            {
+              "title": "Status discipline in case of profile change in II semester",
+              "kind": "subarticle",
+              "depth": 4,
+              "numbering": "Art. 8.2.1",
+              "separator": " ",
+              "pattern": "Art. 8.2.1 Status discipline in case of profile change in II semester",
+              "page": 17,
+              "confidence": 1,
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Case of a student waiting to obtain a first-level degree and enrolling in the first year of a Master of Science course",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "Art. 8.3",
+          "separator": " ",
+          "pattern": "Art. 8.3 Case of a student waiting to obtain a first-level degree and enrolling in the first year of a Master of Science course",
+          "page": 17,
+          "confidence": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "EXCLUSION FROM RANKINGS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 9",
+      "separator": " ",
+      "pattern": "ART. 9 EXCLUSION FROM RANKINGS",
+      "page": 18,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "FORFEITURE OF BENEFITS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 10",
+      "separator": " ",
+      "pattern": "ART. 10 FORFEITURE OF BENEFITS",
+      "page": 18,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "VALIDATION OF TRUTHFUL STATEMENTS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 11",
+      "separator": " ",
+      "pattern": "ART. 11 VALIDATION OF TRUTHFUL STATEMENTS",
+      "page": 19,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "FISCAL ASPECTS.",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 12",
+      "separator": " ",
+      "pattern": "ART. 12 FISCAL ASPECTS.",
+      "page": 19,
+      "confidence": 1,
+      "children": [
+        {
+          "title": "Accumulation and exceptions",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "Art. 12.1",
+          "separator": " ",
+          "pattern": "Art. 12.1 Accumulation and exceptions",
+          "page": 19,
+          "confidence": 0.95,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DSU SCHOLARSHIPS: NUMBER AND VALUE",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 13",
+      "separator": " ",
+      "pattern": "ART. 13 DSU SCHOLARSHIPS: NUMBER AND VALUE",
+      "page": 21,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "GEOGRAPHIC ORIGIN OF THE STUDENT: LOCAL, COMMUTER, AND AWAY FROM HOME",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 14",
+      "separator": " ",
+      "pattern": "ART. 14 GEOGRAPHIC ORIGIN OF THE STUDENT: LOCAL, COMMUTER, AND AWAY FROM HOME",
+      "page": 22,
+      "confidence": 0.95,
+      "children": [
+        {
+          "title": "Request for recognition of away from home status",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "ART. 14.1",
+          "separator": " ",
+          "pattern": "ART. 14.1 Request for recognition of away from home status",
+          "page": 23,
+          "confidence": 0.95,
+          "children": []
+        },
+        {
+          "title": "Case of the 'away from home' student who withdraws from the original lease agreement and signs a new one",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "ART. 14.2",
+          "separator": " ",
+          "pattern": "ART. 14.2 Case of the 'away from home' student who withdraws from the original lease agreement and signs a new one",
+          "page": 26,
+          "confidence": 0.95,
+          "children": []
+        },
+        {
+          "title": "Case of the 'away from home' student in the previous a.y. who applies for DSU benefits in the a.y. 2025/2026, too",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "ART. 14.3",
+          "separator": " ",
+          "pattern": "ART. 14.3 Case of the 'away from home' student in the previous a.y. who applies for DSU benefits in the a.y. 2025/2026, too",
+          "page": 27,
+          "confidence": 0.95,
+          "children": []
+        },
+        {
+          "title": "Case of the student who participates in a 'international mobility' in the a.y. 2025/2026.",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "ART. 14.4",
+          "separator": " ",
+          "pattern": "ART. 14.4 Case of the student who participates in a 'international mobility' in the a.y. 2025/2026.",
+          "page": 27,
+          "confidence": 0.95,
+          "children": []
+        },
+        {
+          "title": "Case of withdrawal from the paid accommodation rental agreement",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "ART. 14.5",
+          "separator": "............",
+          "pattern": "ART. 14.5 Case of withdrawal from the paid accommodation rental agreement............",
+          "page": 28,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "Case of the student who loses their 'away from home' status due to the acquisition of residence.",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "ART. 14.6",
+          "separator": " ",
+          "pattern": "ART. 14.6 Case of the student who loses their 'away from home' status due to the acquisition of residence.",
+          "page": 29,
+          "confidence": 0.95,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DURATION OF GRANTING OF THE DSU SCHOLARSHIPS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 15",
+      "separator": " ",
+      "pattern": "ART. 15 DURATION OF GRANTING OF THE DSU SCHOLARSHIPS",
+      "page": 29,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "FORMATION OF THE RANKINGS FOR THE SCHOLARSHIP.",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 16",
+      "separator": " ",
+      "pattern": "ART. 16 FORMATION OF THE RANKINGS FOR THE SCHOLARSHIP.",
+      "page": 30,
+      "confidence": 0.95,
+      "children": [
+        {
+          "title": "Case of a student enrolling in a Master of Science program starting from the second semester.",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "Art. 16.1",
+          "separator": " ",
+          "pattern": "Art. 16.1 Case of a student enrolling in a Master of Science program starting from the second semester.",
+          "page": 31,
+          "confidence": 0.95,
+          "children": []
+        },
+        {
+          "title": "Case of a student waiting for ECTS to be validated",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "Art. 16.2",
+          "separator": " ",
+          "pattern": "Art. 16.2 Case of a student waiting for ECTS to be validated",
+          "page": 31,
+          "confidence": 0.95,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "PUBLICATION OF THE RANKINGS AND REQUEST FOR REVIEW",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 17",
+      "separator": " ",
+      "pattern": "ART. 17 PUBLICATION OF THE RANKINGS AND REQUEST FOR REVIEW",
+      "page": 31,
+      "confidence": 0.95,
+      "children": [
+        {
+          "title": "Methods of assignment of scholarships",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "ART. 17.1",
+          "separator": " ",
+          "pattern": "ART. 17.1 Methods of assignment of scholarships",
+          "page": 32,
+          "confidence": 0.95,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "PAYMENT OF SCHOLARSHIPS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 18",
+      "separator": " ",
+      "pattern": "ART. 18 PAYMENT OF SCHOLARSHIPS",
+      "page": 32,
+      "confidence": 0.95,
+      "children": [
+        {
+          "title": "How the DSU Scholarship is paid",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "ART. 18.1",
+          "separator": " ",
+          "pattern": "ART. 18.1 How the DSU Scholarship is paid",
+          "page": 34,
+          "confidence": 0.95,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CANTEEN SERVICE",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 19",
+      "separator": " ",
+      "pattern": "ART. 19 CANTEEN SERVICE",
+      "page": 36,
+      "confidence": 0.95,
+      "children": [
+        {
+          "title": "Activation and authorisation of the card.",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "ART. 19.1",
+          "separator": " ",
+          "pattern": "ART. 19.1 Activation and authorisation of the card.",
+          "page": 36,
+          "confidence": 0.95,
+          "children": []
+        },
+        {
+          "title": "Duration of service",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "ART. 19.2",
+          "separator": " ",
+          "pattern": "ART. 19.2 Duration of service",
+          "page": 37,
+          "confidence": 0.95,
+          "children": []
+        },
+        {
+          "title": "Value of the service",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "ART. 19.3",
+          "separator": " ",
+          "pattern": "ART. 19.3 Value of the service",
+          "page": 37,
+          "confidence": 0.95,
+          "children": []
+        },
+        {
+          "title": "Rules of use of the \"Ateneo +\" Card",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "ART. 19.4",
+          "separator": " ",
+          "pattern": "ART. 19.4 Rules of use of the \"Ateneo +\" Card",
+          "page": 37,
+          "confidence": 0.95,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "INTEGRATION OF DSU SCHOLARSHIP TO PARTICIPATE IN INTERNATIONAL MOBILITY PROGRAMS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 20",
+      "separator": " ",
+      "pattern": "ART. 20 INTEGRATION OF DSU SCHOLARSHIP TO PARTICIPATE IN INTERNATIONAL MOBILITY PROGRAMS",
+      "page": 39,
+      "confidence": 0.95,
+      "children": [
+        {
+          "title": "Submitting an application",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "ART. 20.1",
+          "separator": " ",
+          "pattern": "ART. 20.1 Submitting an application",
+          "page": 39,
+          "confidence": 0.95,
+          "children": []
+        },
+        {
+          "title": "Amount of contributions",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "ART. 20.2",
+          "separator": " ",
+          "pattern": "ART. 20.2 Amount of contributions",
+          "page": 39,
+          "confidence": 0.95,
+          "children": []
+        },
+        {
+          "title": "Prohibition of using canteen service",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "ART. 20.3",
+          "separator": " ",
+          "pattern": "ART. 20.3 Prohibition of using canteen service",
+          "page": 40,
+          "confidence": 0.95,
+          "children": []
+        },
+        {
+          "title": "The free mover DSU scholarship holder and the reimbursement of the canteen service",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "ART. 20.4",
+          "separator": " ",
+          "pattern": "ART. 20.4 The free mover DSU scholarship holder and the reimbursement of the canteen service",
+          "page": 40,
+          "confidence": 0.95,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DEGREE AWARD AS INTEGRATION OF DSU SCHOLARSHIP",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 21",
+      "separator": " ",
+      "pattern": "ART. 21 DEGREE AWARD AS INTEGRATION OF DSU SCHOLARSHIP",
+      "page": 41,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "PREFERENTIAL RATE RESIDENCE SERVICE",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 22",
+      "separator": " ",
+      "pattern": "ART. 22 PREFERENTIAL RATE RESIDENCE SERVICE",
+      "page": 42,
+      "confidence": 0.95,
+      "children": [
+        {
+          "title": "Deadlines for submission of an application.",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "ART. 22.1",
+          "separator": " ",
+          "pattern": "ART. 22.1 Deadlines for submission of an application.",
+          "page": 42,
+          "confidence": 0.95,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "AVAILABLE PREFERENTIAL RATE HOUSING PLACES: NUMBERS AND LOCATIONS.",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 23",
+      "separator": " ",
+      "pattern": "ART. 23 AVAILABLE PREFERENTIAL RATE HOUSING PLACES: NUMBERS AND LOCATIONS.",
+      "page": 42,
+      "confidence": 0.95,
+      "children": [
+        {
+          "title": "Rankings",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "ART. 23.1",
+          "separator": " ",
+          "pattern": "ART. 23.1 Rankings",
+          "page": 44,
+          "confidence": 0.95,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ALLOCATION OF PREFERENTIAL RATE HOUSING",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 24",
+      "separator": " ",
+      "pattern": "ART. 24 ALLOCATION OF PREFERENTIAL RATE HOUSING",
+      "page": 44,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "MERIT REQUIREMENTS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 25",
+      "separator": " ",
+      "pattern": "ART. 25 MERIT REQUIREMENTS",
+      "page": 44,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "PROCEDURE FOR FORMING THE RANKINGS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 26",
+      "separator": " ",
+      "pattern": "ART. 26 PROCEDURE FOR FORMING THE RANKINGS",
+      "page": 45,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "PUBLICATION OF THE RANKINGS AND REVIEW REQUESTS.",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 27",
+      "separator": " ",
+      "pattern": "ART. 27 PUBLICATION OF THE RANKINGS AND REVIEW REQUESTS.",
+      "page": 45,
+      "confidence": 0.95,
+      "children": [
+        {
+          "title": "Students enrolled in subsequent years",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "27.1",
+          "separator": " ",
+          "pattern": "27.1 Students enrolled in subsequent years",
+          "page": 45,
+          "confidence": 0.9,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ASSIGNMENT OF RESIDENCE SLOTS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 28",
+      "separator": " ",
+      "pattern": "ART. 28 ASSIGNMENT OF RESIDENCE SLOTS",
+      "page": 46,
+      "confidence": 0.95,
+      "children": [
+        {
+          "title": "Methods of assignment and deadlines for acceptance",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "ART. 28.2",
+          "separator": " ",
+          "pattern": "ART. 28.2 Methods of assignment and deadlines for acceptance",
+          "page": 47,
+          "confidence": 0.95,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "COST OF THE RESIDENCE SLOTS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 29",
+      "separator": " ",
+      "pattern": "ART. 29 COST OF THE RESIDENCE SLOTS",
+      "page": 49,
+      "confidence": 0.95,
+      "children": []
+    },
+    {
+      "title": "REVOCATION OF THE BENEFIT",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 30",
+      "separator": " ",
+      "pattern": "ART. 30 REVOCATION OF THE BENEFIT",
+      "page": 51,
+      "confidence": 0.95,
+      "children": []
+    }
+  ],
+  "summary": "The document is a formal call for applications for financial aid benefits for the 2025/2026 academic year, issued by a management decree. It outlines eligibility criteria based on financial and merit-based requirements for various student categories, including first-year, continuing, PhD, and specialization students, as well as procedures and deadlines for submitting applications.",
+  "metadata": {
+    "title": "Unknown",
+    "source": "inferred",
+    "year": null,
+    "document_type": null,
+    "organization": null
+  },
+  "toc_boundaries": {
+    "start_line": 0,
+    "end_line": 99,
+    "marker": "(agent-detected)"
+  },
+  "processing_log": [
+    {
+      "action": "read",
+      "detail": "Read 1435 lines from /Users/omiderfanmanesh/Projects/DocStruct/data/Call_DSU_CALLFORAPPLICATIONSFORASSIGNMENTOFFINANCIALAIDBENEFITS2025-2026-eng.md",
+      "line": null
+    },
+    {
+      "action": "detected",
+      "detail": "TOC marker '(agent-detected)' at line 0",
+      "line": 0
+    },
+    {
+      "action": "boundary",
+      "detail": "TOC spans lines 0-99",
+      "line": null
+    },
+    {
+      "action": "classified",
+      "detail": "LLM extracted 69 TOC entries",
+      "line": null
+    },
+    {
+      "action": "mapped",
+      "detail": "Built heading tree with 30 root nodes",
+      "line": null
+    },
+    {
+      "action": "summarized",
+      "detail": "Generated document summary",
+      "line": null
+    },
+    {
+      "action": "metadata",
+      "detail": "Extracted metadata: title='Unknown', source=inferred",
+      "line": null
+    }
+  ],
+  "extracted_at": "2026-04-15T09:21:24.409817Z"
+}

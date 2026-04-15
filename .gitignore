@@ -13,6 +13,8 @@ dist/
 src/docstruct.egg-info/
 .idea/
 .env
+.opencode/
+.specify/
 
 
 

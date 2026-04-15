@@ -1,0 +1,2259 @@
+{
+  "toc": [
+    {
+      "title": "DEADLINES",
+      "kind": "topic",
+      "depth": 2,
+      "numbering": null,
+      "separator": null,
+      "pattern": "DEADLINES 7",
+      "page": 7,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "GENERAL PRINCIPLES AND DEFINITIONS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "SECTION I",
+      "separator": " - ",
+      "pattern": "SECTION I - GENERAL PRINCIPLES AND DEFINITIONS 8",
+      "page": 8,
+      "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "General principles",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.1",
+      "separator": " ",
+      "pattern": "Art.1 General principles 8",
+      "page": 8,
+      "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "Definitions",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.2",
+      "separator": " ",
+      "pattern": "Art.2 Definitions 9",
+      "page": 9,
+      "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "Benefits and Services to be awarded",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.3",
+      "separator": " ",
+      "pattern": "Art.3 Benefits and Services to be awarded 12",
+      "page": 12,
+      "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "Beneficiaries",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.4",
+      "separator": " ",
+      "pattern": "Art.4 Beneficiaries 12",
+      "page": 12,
+      "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "Compatibility/incompatibility",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.5",
+      "separator": " ",
+      "pattern": "Art.5 Compatibility/incompatibility 14",
+      "page": 14,
+      "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "Duration of benefits",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.6",
+      "separator": " ",
+      "pattern": "Art.6 Duration of benefits 14",
+      "page": 14,
+      "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "Allocation of the benefits",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.7",
+      "separator": " ",
+      "pattern": "Art.7 Allocation of the benefits 15",
+      "page": 15,
+      "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "Scholarship amounts",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.8",
+      "separator": " ",
+      "pattern": "Art.8 Scholarship amounts 16",
+      "page": 16,
+      "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "Payment procedure for scholarships, graduation awards and international mobility grants",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.9",
+      "separator": " ",
+      "pattern": "Art.9 Payment procedure for scholarships, graduation awards and international mobility grants 18",
+      "page": 18,
+      "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "Student Classification",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.10",
+      "separator": " ",
+      "pattern": "Art.10 Student Classification 19",
+      "page": 19,
+      "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "Commuter students and calculated commuter students",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "10.2",
+      "separator": " ",
+      "pattern": "10.2 Commuter students and calculated commuter students",
+      "page": 22,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "In-town students",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "10.3",
+      "separator": " ",
+      "pattern": "10.3 In-town students",
+      "page": 22,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Merit-based requirements",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.11",
+      "separator": " ",
+      "pattern": "Art.11 Merit-based requirements",
+      "page": 23,
+      "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "Recognition of foreign qualifications",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "11.1",
+      "separator": " ",
+      "pattern": "11.1 Recognition of foreign qualifications",
+      "page": 23,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Withdrawal/Forfeiture of studies without recognition of credits",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "11.2",
+      "separator": " ",
+      "pattern": "11.2 Withdrawal/Forfeiture of studies without recognition of credits",
+      "page": 24,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Enrolment with degree shortening",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "11.3",
+      "separator": " ",
+      "pattern": "11.3 Enrolment with degree shortening",
+      "page": 24,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Degree shortening after having completed the application form for this call for applications",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "11.4",
+      "separator": " ",
+      "pattern": "11.4 Degree shortening after having completed the application form for this call for applications",
+      "page": 25,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Course Transfers/Transfers without Formal Renunciation of Studies or Forfeiture of Studies",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "11.5",
+      "separator": " ",
+      "pattern": "11.5 Course Transfers/Transfers without Formal Renunciation of Studies or Forfeiture of Studies",
+      "page": 26,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Economic requirements",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.12",
+      "separator": " ",
+      "pattern": "Art.12 Economic requirements",
+      "page": 26,
+      "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "Economic documentation - Students residing in Italy",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "12.1",
+      "separator": " ",
+      "pattern": "12.1 Economic documentation - Students residing in Italy",
+      "page": 27,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Economic documentation - Students not residing in Italy",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "12.2",
+      "separator": " ",
+      "pattern": "12.2 Economic documentation - Students not residing in Italy",
+      "page": 28,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "APPLICATION SUBMISSION",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "SECTION II",
+      "separator": " - ",
+      "pattern": "SECTION II - APPLICATION SUBMISSION",
+      "page": 30,
+      "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "System access and student identification procedures",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.13",
+      "separator": " ",
+      "pattern": "Art.13 System access and student identification procedures",
+      "page": 30,
+      "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "Application submission: terms and procedures",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.14",
+      "separator": " ",
+      "pattern": "Art.14 Application submission: terms and procedures",
+      "page": 30,
+      "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "Documents required",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "14.1",
+      "separator": " ",
+      "pattern": "14.1 Documents required",
+      "page": 32,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "OUTCOMES AND SUBSEQUENT CONTROLS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "SECTION III",
+      "separator": " - ",
+      "pattern": "SECTION III - OUTCOMES AND SUBSEQUENT CONTROLS",
+      "page": 33,
+      "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "Criteria for the definition of rankings",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.15",
+      "separator": " ",
+      "pattern": "Art.15 Criteria for the definition of rankings",
+      "page": 33,
+      "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "Publication of the outcomes, verifications and communications to students",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.16",
+      "separator": " ",
+      "pattern": "Art.16 Publication of the outcomes, verifications and communications to students",
+      "page": 34,
+      "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "Rank advancements",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.17",
+      "separator": " ",
+      "pattern": "Art.17 Rank advancements",
+      "page": 35,
+      "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "Checks and verifications after the publication of the results",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.18",
+      "separator": " ",
+      "pattern": "Art.18 Checks and verifications after the publication of the results",
+      "page": 35,
+      "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "Communication with the offices",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.19",
+      "separator": " ",
+      "pattern": "Art.19 Communication with the offices",
+      "page": 36,
+      "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "Reasons for exclusion",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.20",
+      "separator": " ",
+      "pattern": "Art.20 Reasons for exclusion",
+      "page": 36,
+      "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "REVOCATION OF THE BENEFITS, RENUNCiations TO THE BENEFITS AND REIMBURSEMENT OF THE AMOUNTS ALLOCATED",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "SECTION IV",
+      "separator": " - ",
+      "pattern": "SECTION IV - REVOCATION OF THE BENEFITS, RENUNCiations TO THE BENEFITS AND REIMBURSEMENT OF THE AMOUNTS ALLOCATED",
+      "page": 40,
+      "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "Revocation of the benefits",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.21",
+      "separator": " ",
+      "pattern": "Art.21 Revocation of the benefits",
+      "page": 40,
+      "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "Reimbursement of the sums received after revocation",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "21.1",
+      "separator": " ",
+      "pattern": "21.1 Reimbursement of the sums received after revocation",
+      "page": 40,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Reimbursement of the sums received after revocation",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.22",
+      "separator": " ",
+      "pattern": "Art.22 Reimbursement of the sums received after revocation",
+      "page": 40,
+      "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "Reimbursement of the benefits",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "22.1",
+      "separator": " ",
+      "pattern": "22.1 Reimbursement of the benefits",
+      "page": 40,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Reimbursement of the regional tax",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "22.2",
+      "separator": " ",
+      "pattern": "22.2 Reimbursement of the regional tax",
+      "page": 40,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "SCHOLARSHIPS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "SECTION V",
+      "separator": " - ",
+      "pattern": "SECTION V - SCHOLARSHIPS",
+      "page": 41,
+      "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "Regional tax",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.23",
+      "separator": " ",
+      "pattern": "Art.23 Regional tax",
+      "page": 41,
+      "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "Canteen service benefits",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.24",
+      "separator": " ",
+      "pattern": "Art.24 Canteen service benefits",
+      "page": 41,
+      "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "ACCOMMODATION",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "SECTION VI",
+      "separator": " - ",
+      "pattern": "SECTION VI - ACCOMMODATION",
+      "page": 42,
+      "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "Recipients of the accommodation",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.25",
+      "separator": " ",
+      "pattern": "Art.25 Recipients of the accommodation",
+      "page": 42,
+      "confidence": 1.0,
+      "children": []
+    },
+    {
+      "title": "Accommodation facilities - ordinary accommodation",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "25.1",
+      "separator": " ",
+      "pattern": "25.1 Accommodation facilities - ordinary accommodation",
+      "page": 42,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Accommodation facilities - subsidised accommodation",
+      "kind": "topic",
+      "depth": 3,
+      "numbering": "25.2",
+      "separator": " ",
+      "pattern": "25.2 Accommodation facilities - subsidised accommodation",
+      "page": 42,
+      "confidence": 0.8,
+      "children": []
+    },
+    {
+      "title": "Procedure for assignment of accommodation",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.26",
+      "separator": " ",
+      "pattern": "Art.26 Procedure for assignment of accommodation",
+      "page": 43,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Duration of the accommodation",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.27",
+      "separator": " ",
+      "pattern": "Art.27 Duration of the accommodation",
+      "page": 44,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Acceptance procedure for the accommodation pursuant to Annex G",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.28",
+      "separator": " ",
+      "pattern": "Art.28 Acceptance procedure for the accommodation pursuant to Annex G",
+      "page": 45,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Rank Advancements and appointment of new beneficiaries",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.29",
+      "separator": " ",
+      "pattern": "Art.29 Rank Advancements and appointment of new beneficiaries",
+      "page": 45,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Cost of accommodation",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.30",
+      "separator": " ",
+      "pattern": "Art.30 Cost of accommodation",
+      "page": 46,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Waiver of the accommodation",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.31",
+      "separator": " ",
+      "pattern": "Art.31 Waiver of the accommodation",
+      "page": 47,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Revocation and forfeiture of the accommodation benefit",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.32",
+      "separator": " ",
+      "pattern": "Art.32 Revocation and forfeiture of the accommodation benefit",
+      "page": 48,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "CONTRIBUTION TO INTERNATIONAL STUDENT MOBILITY",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "SECTION VII",
+      "separator": " - ",
+      "pattern": "SECTION VII - CONTRIBUTION TO INTERNATIONAL STUDENT MOBILITY",
+      "page": 49,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Recipients",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.33",
+      "separator": " ",
+      "pattern": "Art.33 Recipients",
+      "page": 49,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Assignment criteria",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.34",
+      "separator": " ",
+      "pattern": "Art.34 Assignment criteria",
+      "page": 49,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Contribution amount",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.35",
+      "separator": " ",
+      "pattern": "Art.35 Contribution amount",
+      "page": 49,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Contribution allocation procedure",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.36",
+      "separator": " ",
+      "pattern": "Art.36 Contribution allocation procedure",
+      "page": 49,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Student's obligations",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.37",
+      "separator": " ",
+      "pattern": "Art.37 Student's obligations",
+      "page": 50,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "GRADUATION AWARD",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "SECTION VIII",
+      "separator": " - ",
+      "pattern": "SECTION VIII - GRADUATION AWARD",
+      "page": 50,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Recipients",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.38",
+      "separator": " ",
+      "pattern": "Art.38 Recipients",
+      "page": 50,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Procedure to apply for the graduation award",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.39",
+      "separator": " ",
+      "pattern": "Art.39 Procedure to apply for the graduation award",
+      "page": 50,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Criteria for the definition of rankings",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.40",
+      "separator": " ",
+      "pattern": "Art.40 Criteria for the definition of rankings",
+      "page": 50,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "FIRST-YEAR STUDENTS - SPECIFIC PROVISIONS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "SECTION IX",
+      "separator": " - ",
+      "pattern": "SECTION IX - FIRST-YEAR STUDENTS - SPECIFIC PROVISIONS",
+      "page": 51,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "First-year students who in academic year 2025/2026 enrol in the first year of a degree course, Master's degree or single-cycle Master's degree, first and second-year academic diploma (AFAM)",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.41",
+      "separator": " ",
+      "pattern": "Art.41 First-year students who in academic year 2025/2026 enrol in the first year of a degree course, Master's degree or single-cycle Master's degree, first and second-year academic diploma (AFAM)",
+      "page": null,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Calculation of the entry year",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "41.1",
+      "separator": " ",
+      "pattern": "41.1 Calculation of the entry year",
+      "page": 51,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Requirements to access the benefits",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "41.2",
+      "separator": " ",
+      "pattern": "41.2 Requirements to access the benefits",
+      "page": 51,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Minimum merit-based requirements",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "41.3",
+      "separator": " ",
+      "pattern": "41.3 Minimum merit-based requirements",
+      "page": 51,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Allocation procedure",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "41.4",
+      "separator": " ",
+      "pattern": "41.4 Allocation procedure",
+      "page": 51,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Reduction of the scholarship amount",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "41.5",
+      "separator": " ",
+      "pattern": "41.5 Reduction of the scholarship amount",
+      "page": 52,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Failure to attain the merit-based requirements - Revocation of the benefits",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "41.6",
+      "separator": " ",
+      "pattern": "41.6 Failure to attain the merit-based requirements - Revocation of the benefits",
+      "page": 52,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Scholarship disbursement times",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "41.7",
+      "separator": " ",
+      "pattern": "41.7 Scholarship disbursement times",
+      "page": 53,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "First-year students enrolled in a post-graduate course and PhD",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.42",
+      "separator": " ",
+      "pattern": "Art.42 First-year students enrolled in a post-graduate course and PhD",
+      "page": 53,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Requirements to access the benefits",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "42.1",
+      "separator": " ",
+      "pattern": "42.1 Requirements to access the benefits",
+      "page": 53,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Merit-based requirements",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "42.2",
+      "separator": " ",
+      "pattern": "42.2 Merit-based requirements",
+      "page": 53,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Scholarship payment procedures",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "42.3",
+      "separator": " ",
+      "pattern": "42.3 Scholarship payment procedures",
+      "page": 53,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "First-year students with disability grade of no less than  $66\\%$",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.43",
+      "separator": " ",
+      "pattern": "Art.43 First-year students with disability grade of no less than  $66\\%$",
+      "page": 54,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Requirements to access the benefits",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "43.1",
+      "separator": " ",
+      "pattern": "43.1 Requirements to access the benefits",
+      "page": 54,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Merit-based requirements",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "43.2",
+      "separator": " ",
+      "pattern": "43.2 Merit-based requirements",
+      "page": 54,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Scholarship allocation deadlines",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "43.3",
+      "separator": " ",
+      "pattern": "43.3 Scholarship allocation deadlines",
+      "page": 54,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "POST FIRST-YEAR STUDENTS - SPECIFIC PROVISIONS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "SECTION X",
+      "separator": " - ",
+      "pattern": "SECTION X - POST FIRST-YEAR STUDENTS - SPECIFIC PROVISIONS",
+      "page": 55,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Scholarship allocation deadlines",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.44",
+      "separator": " ",
+      "pattern": "Art.44 Scholarship allocation deadlines",
+      "page": 55,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Post first-year students enrolled in first-cycle or second-cycle or single-cycle master's degree courses, including the new music and art degrees",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.45",
+      "separator": " ",
+      "pattern": "Art.45 Post first-year students enrolled in first-cycle or second-cycle or single-cycle master's degree courses, including the new music and art degrees",
+      "page": 55,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Requirements to access the benefits",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "45.1",
+      "separator": " ",
+      "pattern": "45.1 Requirements to access the benefits",
+      "page": 55,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Calculation of the entry year",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "45.2",
+      "separator": " ",
+      "pattern": "45.2 Calculation of the entry year",
+      "page": 55,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Merit-based requirements",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "45.3",
+      "separator": " ",
+      "pattern": "45.3 Merit-based requirements",
+      "page": 55,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Bonus (see video)",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "45.4",
+      "separator": " ",
+      "pattern": "45.4 Bonus (see video)",
+      "page": 58,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Documentation on merit to attach to the application",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "45.5",
+      "separator": " ",
+      "pattern": "45.5 Documentation on merit to attach to the application",
+      "page": 59,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Post first-year students enrolled in a post-graduate course and PhD programme",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.46",
+      "separator": " ",
+      "pattern": "Art.46 Post first-year students enrolled in a post-graduate course and PhD programme",
+      "page": 60,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Requirements to access the benefits",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "46.1",
+      "separator": " ",
+      "pattern": "46.1 Requirements to access the benefits",
+      "page": 60,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Merit-based requirements",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "46.2",
+      "separator": " ",
+      "pattern": "46.2 Merit-based requirements",
+      "page": 60,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "FINAL PROVISIONS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "SECTION XI",
+      "separator": " - ",
+      "pattern": "SECTION XI - FINAL PROVISIONS",
+      "page": 60,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Checks, revocations, penalties, disclosure requirements",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.47",
+      "separator": " ",
+      "pattern": "Art.47 Checks, revocations, penalties, disclosure requirements",
+      "page": 60,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Assessment of inconsistencies and related sanctions",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "47.1",
+      "separator": " ",
+      "pattern": "47.1 Assessment of inconsistencies and related sanctions",
+      "page": 60,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Termination rule for cases not contemplated in this notice",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.48",
+      "separator": " ",
+      "pattern": "Art.48 Termination rule for cases not contemplated in this notice",
+      "page": 61,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Confidentiality and Privacy",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.49",
+      "separator": " ",
+      "pattern": "Art.49 Confidentiality and Privacy",
+      "page": 61,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Final provisions",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Art.50",
+      "separator": " ",
+      "pattern": "Art.50 Final provisions",
+      "page": 61,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "ANNEXES",
+      "kind": "annex",
+      "depth": 1,
+      "numbering": "ANNEXES",
+      "separator": null,
+      "pattern": "ANNEXES",
+      "page": 61,
+      "confidence": 0.9,
+      "children": []
+    }
+  ],
+  "heading_map": [
+    {
+      "title": "DEADLINES",
+      "kind": "topic",
+      "depth": 2,
+      "numbering": null,
+      "separator": null,
+      "pattern": "DEADLINES 7",
+      "page": 7,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "GENERAL PRINCIPLES AND DEFINITIONS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "SECTION I",
+      "separator": " - ",
+      "pattern": "SECTION I - GENERAL PRINCIPLES AND DEFINITIONS 8",
+      "page": 8,
+      "confidence": 1.0,
+      "children": [
+        {
+          "title": "General principles",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.1",
+          "separator": " ",
+          "pattern": "Art.1 General principles 8",
+          "page": 8,
+          "confidence": 1.0,
+          "children": []
+        },
+        {
+          "title": "Definitions",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.2",
+          "separator": " ",
+          "pattern": "Art.2 Definitions 9",
+          "page": 9,
+          "confidence": 1.0,
+          "children": []
+        },
+        {
+          "title": "Benefits and Services to be awarded",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.3",
+          "separator": " ",
+          "pattern": "Art.3 Benefits and Services to be awarded 12",
+          "page": 12,
+          "confidence": 1.0,
+          "children": []
+        },
+        {
+          "title": "Beneficiaries",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.4",
+          "separator": " ",
+          "pattern": "Art.4 Beneficiaries 12",
+          "page": 12,
+          "confidence": 1.0,
+          "children": []
+        },
+        {
+          "title": "Compatibility/incompatibility",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.5",
+          "separator": " ",
+          "pattern": "Art.5 Compatibility/incompatibility 14",
+          "page": 14,
+          "confidence": 1.0,
+          "children": []
+        },
+        {
+          "title": "Duration of benefits",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.6",
+          "separator": " ",
+          "pattern": "Art.6 Duration of benefits 14",
+          "page": 14,
+          "confidence": 1.0,
+          "children": []
+        },
+        {
+          "title": "Allocation of the benefits",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.7",
+          "separator": " ",
+          "pattern": "Art.7 Allocation of the benefits 15",
+          "page": 15,
+          "confidence": 1.0,
+          "children": []
+        },
+        {
+          "title": "Scholarship amounts",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.8",
+          "separator": " ",
+          "pattern": "Art.8 Scholarship amounts 16",
+          "page": 16,
+          "confidence": 1.0,
+          "children": []
+        },
+        {
+          "title": "Payment procedure for scholarships, graduation awards and international mobility grants",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.9",
+          "separator": " ",
+          "pattern": "Art.9 Payment procedure for scholarships, graduation awards and international mobility grants 18",
+          "page": 18,
+          "confidence": 1.0,
+          "children": []
+        },
+        {
+          "title": "Student Classification",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.10",
+          "separator": " ",
+          "pattern": "Art.10 Student Classification 19",
+          "page": 19,
+          "confidence": 1.0,
+          "children": [
+            {
+              "title": "Commuter students and calculated commuter students",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "10.2",
+              "separator": " ",
+              "pattern": "10.2 Commuter students and calculated commuter students",
+              "page": 22,
+              "confidence": 0.9,
+              "children": []
+            },
+            {
+              "title": "In-town students",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "10.3",
+              "separator": " ",
+              "pattern": "10.3 In-town students",
+              "page": 22,
+              "confidence": 0.9,
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Merit-based requirements",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.11",
+          "separator": " ",
+          "pattern": "Art.11 Merit-based requirements",
+          "page": 23,
+          "confidence": 1.0,
+          "children": [
+            {
+              "title": "Recognition of foreign qualifications",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "11.1",
+              "separator": " ",
+              "pattern": "11.1 Recognition of foreign qualifications",
+              "page": 23,
+              "confidence": 0.9,
+              "children": []
+            },
+            {
+              "title": "Withdrawal/Forfeiture of studies without recognition of credits",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "11.2",
+              "separator": " ",
+              "pattern": "11.2 Withdrawal/Forfeiture of studies without recognition of credits",
+              "page": 24,
+              "confidence": 0.9,
+              "children": []
+            },
+            {
+              "title": "Enrolment with degree shortening",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "11.3",
+              "separator": " ",
+              "pattern": "11.3 Enrolment with degree shortening",
+              "page": 24,
+              "confidence": 0.9,
+              "children": []
+            },
+            {
+              "title": "Degree shortening after having completed the application form for this call for applications",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "11.4",
+              "separator": " ",
+              "pattern": "11.4 Degree shortening after having completed the application form for this call for applications",
+              "page": 25,
+              "confidence": 0.9,
+              "children": []
+            },
+            {
+              "title": "Course Transfers/Transfers without Formal Renunciation of Studies or Forfeiture of Studies",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "11.5",
+              "separator": " ",
+              "pattern": "11.5 Course Transfers/Transfers without Formal Renunciation of Studies or Forfeiture of Studies",
+              "page": 26,
+              "confidence": 0.9,
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Economic requirements",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.12",
+          "separator": " ",
+          "pattern": "Art.12 Economic requirements",
+          "page": 26,
+          "confidence": 1.0,
+          "children": [
+            {
+              "title": "Economic documentation - Students residing in Italy",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "12.1",
+              "separator": " ",
+              "pattern": "12.1 Economic documentation - Students residing in Italy",
+              "page": 27,
+              "confidence": 0.9,
+              "children": []
+            },
+            {
+              "title": "Economic documentation - Students not residing in Italy",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "12.2",
+              "separator": " ",
+              "pattern": "12.2 Economic documentation - Students not residing in Italy",
+              "page": 28,
+              "confidence": 0.9,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "APPLICATION SUBMISSION",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "SECTION II",
+      "separator": " - ",
+      "pattern": "SECTION II - APPLICATION SUBMISSION",
+      "page": 30,
+      "confidence": 1.0,
+      "children": [
+        {
+          "title": "System access and student identification procedures",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.13",
+          "separator": " ",
+          "pattern": "Art.13 System access and student identification procedures",
+          "page": 30,
+          "confidence": 1.0,
+          "children": []
+        },
+        {
+          "title": "Application submission: terms and procedures",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.14",
+          "separator": " ",
+          "pattern": "Art.14 Application submission: terms and procedures",
+          "page": 30,
+          "confidence": 1.0,
+          "children": [
+            {
+              "title": "Documents required",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "14.1",
+              "separator": " ",
+              "pattern": "14.1 Documents required",
+              "page": 32,
+              "confidence": 0.9,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "OUTCOMES AND SUBSEQUENT CONTROLS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "SECTION III",
+      "separator": " - ",
+      "pattern": "SECTION III - OUTCOMES AND SUBSEQUENT CONTROLS",
+      "page": 33,
+      "confidence": 1.0,
+      "children": [
+        {
+          "title": "Criteria for the definition of rankings",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.15",
+          "separator": " ",
+          "pattern": "Art.15 Criteria for the definition of rankings",
+          "page": 33,
+          "confidence": 1.0,
+          "children": []
+        },
+        {
+          "title": "Publication of the outcomes, verifications and communications to students",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.16",
+          "separator": " ",
+          "pattern": "Art.16 Publication of the outcomes, verifications and communications to students",
+          "page": 34,
+          "confidence": 1.0,
+          "children": []
+        },
+        {
+          "title": "Rank advancements",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.17",
+          "separator": " ",
+          "pattern": "Art.17 Rank advancements",
+          "page": 35,
+          "confidence": 1.0,
+          "children": []
+        },
+        {
+          "title": "Checks and verifications after the publication of the results",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.18",
+          "separator": " ",
+          "pattern": "Art.18 Checks and verifications after the publication of the results",
+          "page": 35,
+          "confidence": 1.0,
+          "children": []
+        },
+        {
+          "title": "Communication with the offices",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.19",
+          "separator": " ",
+          "pattern": "Art.19 Communication with the offices",
+          "page": 36,
+          "confidence": 1.0,
+          "children": []
+        },
+        {
+          "title": "Reasons for exclusion",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.20",
+          "separator": " ",
+          "pattern": "Art.20 Reasons for exclusion",
+          "page": 36,
+          "confidence": 1.0,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "REVOCATION OF THE BENEFITS, RENUNCiations TO THE BENEFITS AND REIMBURSEMENT OF THE AMOUNTS ALLOCATED",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "SECTION IV",
+      "separator": " - ",
+      "pattern": "SECTION IV - REVOCATION OF THE BENEFITS, RENUNCiations TO THE BENEFITS AND REIMBURSEMENT OF THE AMOUNTS ALLOCATED",
+      "page": 40,
+      "confidence": 1.0,
+      "children": [
+        {
+          "title": "Revocation of the benefits",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.21",
+          "separator": " ",
+          "pattern": "Art.21 Revocation of the benefits",
+          "page": 40,
+          "confidence": 1.0,
+          "children": [
+            {
+              "title": "Reimbursement of the sums received after revocation",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "21.1",
+              "separator": " ",
+              "pattern": "21.1 Reimbursement of the sums received after revocation",
+              "page": 40,
+              "confidence": 0.9,
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Reimbursement of the sums received after revocation",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.22",
+          "separator": " ",
+          "pattern": "Art.22 Reimbursement of the sums received after revocation",
+          "page": 40,
+          "confidence": 1.0,
+          "children": [
+            {
+              "title": "Reimbursement of the benefits",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "22.1",
+              "separator": " ",
+              "pattern": "22.1 Reimbursement of the benefits",
+              "page": 40,
+              "confidence": 0.9,
+              "children": []
+            },
+            {
+              "title": "Reimbursement of the regional tax",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "22.2",
+              "separator": " ",
+              "pattern": "22.2 Reimbursement of the regional tax",
+              "page": 40,
+              "confidence": 0.9,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "SCHOLARSHIPS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "SECTION V",
+      "separator": " - ",
+      "pattern": "SECTION V - SCHOLARSHIPS",
+      "page": 41,
+      "confidence": 1.0,
+      "children": [
+        {
+          "title": "Regional tax",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.23",
+          "separator": " ",
+          "pattern": "Art.23 Regional tax",
+          "page": 41,
+          "confidence": 1.0,
+          "children": []
+        },
+        {
+          "title": "Canteen service benefits",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.24",
+          "separator": " ",
+          "pattern": "Art.24 Canteen service benefits",
+          "page": 41,
+          "confidence": 1.0,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ACCOMMODATION",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "SECTION VI",
+      "separator": " - ",
+      "pattern": "SECTION VI - ACCOMMODATION",
+      "page": 42,
+      "confidence": 1.0,
+      "children": [
+        {
+          "title": "Recipients of the accommodation",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.25",
+          "separator": " ",
+          "pattern": "Art.25 Recipients of the accommodation",
+          "page": 42,
+          "confidence": 1.0,
+          "children": [
+            {
+              "title": "Accommodation facilities - ordinary accommodation",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "25.1",
+              "separator": " ",
+              "pattern": "25.1 Accommodation facilities - ordinary accommodation",
+              "page": 42,
+              "confidence": 0.9,
+              "children": []
+            },
+            {
+              "title": "Accommodation facilities - subsidised accommodation",
+              "kind": "topic",
+              "depth": 3,
+              "numbering": "25.2",
+              "separator": " ",
+              "pattern": "25.2 Accommodation facilities - subsidised accommodation",
+              "page": 42,
+              "confidence": 0.8,
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Procedure for assignment of accommodation",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.26",
+          "separator": " ",
+          "pattern": "Art.26 Procedure for assignment of accommodation",
+          "page": 43,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Duration of the accommodation",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.27",
+          "separator": " ",
+          "pattern": "Art.27 Duration of the accommodation",
+          "page": 44,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Acceptance procedure for the accommodation pursuant to Annex G",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.28",
+          "separator": " ",
+          "pattern": "Art.28 Acceptance procedure for the accommodation pursuant to Annex G",
+          "page": 45,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Rank Advancements and appointment of new beneficiaries",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.29",
+          "separator": " ",
+          "pattern": "Art.29 Rank Advancements and appointment of new beneficiaries",
+          "page": 45,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Cost of accommodation",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.30",
+          "separator": " ",
+          "pattern": "Art.30 Cost of accommodation",
+          "page": 46,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Waiver of the accommodation",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.31",
+          "separator": " ",
+          "pattern": "Art.31 Waiver of the accommodation",
+          "page": 47,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Revocation and forfeiture of the accommodation benefit",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.32",
+          "separator": " ",
+          "pattern": "Art.32 Revocation and forfeiture of the accommodation benefit",
+          "page": 48,
+          "confidence": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CONTRIBUTION TO INTERNATIONAL STUDENT MOBILITY",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "SECTION VII",
+      "separator": " - ",
+      "pattern": "SECTION VII - CONTRIBUTION TO INTERNATIONAL STUDENT MOBILITY",
+      "page": 49,
+      "confidence": 1,
+      "children": [
+        {
+          "title": "Recipients",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.33",
+          "separator": " ",
+          "pattern": "Art.33 Recipients",
+          "page": 49,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Assignment criteria",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.34",
+          "separator": " ",
+          "pattern": "Art.34 Assignment criteria",
+          "page": 49,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Contribution amount",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.35",
+          "separator": " ",
+          "pattern": "Art.35 Contribution amount",
+          "page": 49,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Contribution allocation procedure",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.36",
+          "separator": " ",
+          "pattern": "Art.36 Contribution allocation procedure",
+          "page": 49,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Student's obligations",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.37",
+          "separator": " ",
+          "pattern": "Art.37 Student's obligations",
+          "page": 50,
+          "confidence": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "GRADUATION AWARD",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "SECTION VIII",
+      "separator": " - ",
+      "pattern": "SECTION VIII - GRADUATION AWARD",
+      "page": 50,
+      "confidence": 1,
+      "children": [
+        {
+          "title": "Recipients",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.38",
+          "separator": " ",
+          "pattern": "Art.38 Recipients",
+          "page": 50,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Procedure to apply for the graduation award",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.39",
+          "separator": " ",
+          "pattern": "Art.39 Procedure to apply for the graduation award",
+          "page": 50,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Criteria for the definition of rankings",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.40",
+          "separator": " ",
+          "pattern": "Art.40 Criteria for the definition of rankings",
+          "page": 50,
+          "confidence": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "FIRST-YEAR STUDENTS - SPECIFIC PROVISIONS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "SECTION IX",
+      "separator": " - ",
+      "pattern": "SECTION IX - FIRST-YEAR STUDENTS - SPECIFIC PROVISIONS",
+      "page": 51,
+      "confidence": 1,
+      "children": [
+        {
+          "title": "First-year students who in academic year 2025/2026 enrol in the first year of a degree course, Master's degree or single-cycle Master's degree, first and second-year academic diploma (AFAM)",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.41",
+          "separator": " ",
+          "pattern": "Art.41 First-year students who in academic year 2025/2026 enrol in the first year of a degree course, Master's degree or single-cycle Master's degree, first and second-year academic diploma (AFAM)",
+          "page": null,
+          "confidence": 0.9,
+          "children": [
+            {
+              "title": "Calculation of the entry year",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "41.1",
+              "separator": " ",
+              "pattern": "41.1 Calculation of the entry year",
+              "page": 51,
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "Requirements to access the benefits",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "41.2",
+              "separator": " ",
+              "pattern": "41.2 Requirements to access the benefits",
+              "page": 51,
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "Minimum merit-based requirements",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "41.3",
+              "separator": " ",
+              "pattern": "41.3 Minimum merit-based requirements",
+              "page": 51,
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "Allocation procedure",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "41.4",
+              "separator": " ",
+              "pattern": "41.4 Allocation procedure",
+              "page": 51,
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "Reduction of the scholarship amount",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "41.5",
+              "separator": " ",
+              "pattern": "41.5 Reduction of the scholarship amount",
+              "page": 52,
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "Failure to attain the merit-based requirements - Revocation of the benefits",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "41.6",
+              "separator": " ",
+              "pattern": "41.6 Failure to attain the merit-based requirements - Revocation of the benefits",
+              "page": 52,
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "Scholarship disbursement times",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "41.7",
+              "separator": " ",
+              "pattern": "41.7 Scholarship disbursement times",
+              "page": 53,
+              "confidence": 1,
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "First-year students enrolled in a post-graduate course and PhD",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.42",
+          "separator": " ",
+          "pattern": "Art.42 First-year students enrolled in a post-graduate course and PhD",
+          "page": 53,
+          "confidence": 1,
+          "children": [
+            {
+              "title": "Requirements to access the benefits",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "42.1",
+              "separator": " ",
+              "pattern": "42.1 Requirements to access the benefits",
+              "page": 53,
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "Merit-based requirements",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "42.2",
+              "separator": " ",
+              "pattern": "42.2 Merit-based requirements",
+              "page": 53,
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "Scholarship payment procedures",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "42.3",
+              "separator": " ",
+              "pattern": "42.3 Scholarship payment procedures",
+              "page": 53,
+              "confidence": 1,
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "First-year students with disability grade of no less than  $66\\%$",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.43",
+          "separator": " ",
+          "pattern": "Art.43 First-year students with disability grade of no less than  $66\\%$",
+          "page": 54,
+          "confidence": 1,
+          "children": [
+            {
+              "title": "Requirements to access the benefits",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "43.1",
+              "separator": " ",
+              "pattern": "43.1 Requirements to access the benefits",
+              "page": 54,
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "Merit-based requirements",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "43.2",
+              "separator": " ",
+              "pattern": "43.2 Merit-based requirements",
+              "page": 54,
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "Scholarship allocation deadlines",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "43.3",
+              "separator": " ",
+              "pattern": "43.3 Scholarship allocation deadlines",
+              "page": 54,
+              "confidence": 1,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "POST FIRST-YEAR STUDENTS - SPECIFIC PROVISIONS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "SECTION X",
+      "separator": " - ",
+      "pattern": "SECTION X - POST FIRST-YEAR STUDENTS - SPECIFIC PROVISIONS",
+      "page": 55,
+      "confidence": 1,
+      "children": [
+        {
+          "title": "Scholarship allocation deadlines",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.44",
+          "separator": " ",
+          "pattern": "Art.44 Scholarship allocation deadlines",
+          "page": 55,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Post first-year students enrolled in first-cycle or second-cycle or single-cycle master's degree courses, including the new music and art degrees",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.45",
+          "separator": " ",
+          "pattern": "Art.45 Post first-year students enrolled in first-cycle or second-cycle or single-cycle master's degree courses, including the new music and art degrees",
+          "page": 55,
+          "confidence": 1,
+          "children": [
+            {
+              "title": "Requirements to access the benefits",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "45.1",
+              "separator": " ",
+              "pattern": "45.1 Requirements to access the benefits",
+              "page": 55,
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "Calculation of the entry year",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "45.2",
+              "separator": " ",
+              "pattern": "45.2 Calculation of the entry year",
+              "page": 55,
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "Merit-based requirements",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "45.3",
+              "separator": " ",
+              "pattern": "45.3 Merit-based requirements",
+              "page": 55,
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "Bonus (see video)",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "45.4",
+              "separator": " ",
+              "pattern": "45.4 Bonus (see video)",
+              "page": 58,
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "Documentation on merit to attach to the application",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "45.5",
+              "separator": " ",
+              "pattern": "45.5 Documentation on merit to attach to the application",
+              "page": 59,
+              "confidence": 1,
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Post first-year students enrolled in a post-graduate course and PhD programme",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.46",
+          "separator": " ",
+          "pattern": "Art.46 Post first-year students enrolled in a post-graduate course and PhD programme",
+          "page": 60,
+          "confidence": 1,
+          "children": [
+            {
+              "title": "Requirements to access the benefits",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "46.1",
+              "separator": " ",
+              "pattern": "46.1 Requirements to access the benefits",
+              "page": 60,
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "Merit-based requirements",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "46.2",
+              "separator": " ",
+              "pattern": "46.2 Merit-based requirements",
+              "page": 60,
+              "confidence": 1,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "FINAL PROVISIONS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "SECTION XI",
+      "separator": " - ",
+      "pattern": "SECTION XI - FINAL PROVISIONS",
+      "page": 60,
+      "confidence": 1,
+      "children": [
+        {
+          "title": "Checks, revocations, penalties, disclosure requirements",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.47",
+          "separator": " ",
+          "pattern": "Art.47 Checks, revocations, penalties, disclosure requirements",
+          "page": 60,
+          "confidence": 1,
+          "children": [
+            {
+              "title": "Assessment of inconsistencies and related sanctions",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "47.1",
+              "separator": " ",
+              "pattern": "47.1 Assessment of inconsistencies and related sanctions",
+              "page": 60,
+              "confidence": 1,
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Termination rule for cases not contemplated in this notice",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.48",
+          "separator": " ",
+          "pattern": "Art.48 Termination rule for cases not contemplated in this notice",
+          "page": 61,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Confidentiality and Privacy",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.49",
+          "separator": " ",
+          "pattern": "Art.49 Confidentiality and Privacy",
+          "page": 61,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Final provisions",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "Art.50",
+          "separator": " ",
+          "pattern": "Art.50 Final provisions",
+          "page": 61,
+          "confidence": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ANNEXES",
+      "kind": "annex",
+      "depth": 1,
+      "numbering": "ANNEXES",
+      "separator": null,
+      "pattern": "ANNEXES",
+      "page": 61,
+      "confidence": 0.9,
+      "children": []
+    }
+  ],
+  "summary": "The document is a call for applications for the Right to Study program for the academic year 2025/2026, emphasizing the universal right to education as stated in Article 26 of the Universal Declaration of Human Rights. It outlines general principles, eligibility criteria, benefits, application procedures, and evaluation methods for scholarships and related student support services. The program is managed by the Lazio regional authority to ensure equitable access to educational opportunities.",
+  "metadata": {
+    "title": "Unknown",
+    "source": "inferred",
+    "year": null,
+    "document_type": null,
+    "organization": null
+  },
+  "toc_boundaries": {
+    "start_line": 0,
+    "end_line": 199,
+    "marker": "(agent-detected)"
+  },
+  "processing_log": [
+    {
+      "action": "read",
+      "detail": "Read 1752 lines from /Users/omiderfanmanesh/Projects/DocStruct/data/LAZIO_DISCO_BANDO-DIRITTO-ALLO-STUDIO-25-26_ENG-compresso-alta.md",
+      "line": null
+    },
+    {
+      "action": "detected",
+      "detail": "TOC marker '(agent-detected)' at line 0",
+      "line": 0
+    },
+    {
+      "action": "boundary",
+      "detail": "TOC spans lines 0-199",
+      "line": null
+    },
+    {
+      "action": "classified",
+      "detail": "LLM extracted 99 TOC entries",
+      "line": null
+    },
+    {
+      "action": "mapped",
+      "detail": "Built heading tree with 13 root nodes",
+      "line": null
+    },
+    {
+      "action": "summarized",
+      "detail": "Generated document summary",
+      "line": null
+    },
+    {
+      "action": "metadata",
+      "detail": "Extracted metadata: title='Unknown', source=inferred",
+      "line": null
+    }
+  ],
+  "extracted_at": "2026-04-15T09:26:48.453686Z"
+}

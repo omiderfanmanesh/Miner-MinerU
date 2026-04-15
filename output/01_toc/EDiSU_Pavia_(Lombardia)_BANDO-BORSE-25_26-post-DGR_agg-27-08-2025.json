@@ -1,0 +1,785 @@
+{
+  "toc": [
+    {
+      "title": "OGGETTO DEL BANDO",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "1.",
+      "separator": " ",
+      "pattern": "1. OGGETTO DEL BANDO",
+      "page": 4,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "FINANZIAMENTO DELLE BORSE DI STUDIO - NUMERO BORSE ASSEGNATE",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "2.",
+      "separator": " ",
+      "pattern": "2. FINANZIAMENTO DELLE BORSE DI STUDIO - NUMERO BORSE ASSEGNATE",
+      "page": 5,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "CONDIZIONI GENERALI DI PARTECIPAZIONE AL CONCORSO",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "3.",
+      "separator": " ",
+      "pattern": "3. CONDIZIONI GENERALI DI PARTECIPAZIONE AL CONCORSO",
+      "page": 6,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "REQUISITI PER L'INSERIMENTO NELLE GRADUATORIE DELLA BORSA DI STUDIO",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "4.",
+      "separator": " ",
+      "pattern": "4. REQUISITI PER L'INSERIMENTO NELLE GRADUATORIE DELLA BORSA DI STUDIO",
+      "page": null,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "REQUISITI DI MERITO",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "4.1",
+      "separator": " ",
+      "pattern": "4.1 REQUISITI DI MERITO",
+      "page": 8,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "REGOLARITA ACCADEMICA",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "4.1.1",
+      "separator": " ",
+      "pattern": "4.1.1 REGOLARITA ACCADEMICA",
+      "page": 8,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "REQUISITI DI MERITO - STUDENTI ISCRITTI PER LA PRIMA VOLTA AL PRIMO ANNO",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "4.1.2",
+      "separator": " ",
+      "pattern": "4.1.2 REQUISITI DI MERITO - STUDENTI ISCRITTI PER LA PRIMA VOLTA AL PRIMO ANNO",
+      "page": null,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "REQUISITI DI MERITO - STUDENTI ISCRITTI AD ANNI SUCCESSIVI AL PRIMO",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "4.1.3",
+      "separator": " ",
+      "pattern": "4.1.3 REQUISITI DI MERITO - STUDENTI ISCRITTI AD ANNI SUCCESSIVI AL PRIMO",
+      "page": 11,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "REQUISITI DI MERITO PER STUDENTI CON DISABILITA",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "4.1.4",
+      "separator": " ",
+      "pattern": "4.1.4 REQUISITI DI MERITO PER STUDENTI CON DISABILITA",
+      "page": 14,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "REQUISITI DI REDDITO",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "4.2",
+      "separator": " ",
+      "pattern": "4.2 REQUISITI DI REDDITO",
+      "page": 14,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "STUDENTI CON REDDITI E PATRIMONI IN ITALIA",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "4.2.1",
+      "separator": " ",
+      "pattern": "4.2.1 STUDENTI CON REDDITI E PATRIMONI IN ITALIA",
+      "page": 14,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "VALUTAZIONE DELLA SITUAZIONE ECONOMICA PER STUDENTI CON REDDITI E PATRIMONI ALL'ESTERO (STUDENTI STRANIERI CON NUCLEO FAMILIARE RESIDENTE ALL'ESTERO O STUDENTI ITALIANI RESIDENTI ALL'ESTERO)",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "4.2.2",
+      "separator": " ",
+      "pattern": "4.2.2 VALUTAZIONE DELLA SITUAZIONE ECONOMICA PER STUDENTI CON REDDITI E PATRIMONI ALL'ESTERO (STUDENTI STRANIERI CON NUCLEO FAMILIARE RESIDENTE ALL'ESTERO O STUDENTI ITALIANI RESIDENTI ALL'ESTERO)",
+      "page": 19,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "TERMINI E MODALITA PER LA PRESENTAZIONE DELLA DOMANDA DI BORSA DI STUDIO",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "5.",
+      "separator": " ",
+      "pattern": "5. TERMINI E MODALITA PER LA PRESENTAZIONE DELLA DOMANDA DI BORSA DI STUDIO",
+      "page": 22,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "AMMONTARE DELLE BORSE DI STUDIO",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "6.",
+      "separator": " ",
+      "pattern": "6.AMMONTARE DELLE BORSE DI STUDIO",
+      "page": 23,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "INTEGRAZIONI DELLA BORSA DI STUDIO",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "7.",
+      "separator": " ",
+      "pattern": "7. INTEGRAZIONI DELLA BORSA DI STUDIO",
+      "page": 28,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "PROCEDURE PER LA FORMAZIONE DELLE GRADUATORIE",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "8.",
+      "separator": " ",
+      "pattern": "8. PROCEDURE PER LA FORMAZIONE DELLE GRADUATORIE",
+      "page": 29,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "PUBLBLICAZIONE DELLE GRADUATORIE PROVVISORIE ED EVENTUALE PRESENTAZIONE DI ISTANZE DI REVISIONE",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "9.",
+      "separator": " ",
+      "pattern": "9. PUBLBLICAZIONE DELLE GRADUATORIE PROVVISORIE ED EVENTUALE PRESENTAZIONE DI ISTANZE DI REVISIONE",
+      "page": 31,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "PUBLBLICAZIONE GRADUATORIE DEFINITIVE E SUCESSIVA DETERMINAZIONE FINALE DELLA CONDIZIONE GEOGRAFICA.... DI FUORI SEDE / PENDOLARE",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "10.",
+      "separator": " ",
+      "pattern": "10. PUBLBLICAZIONE GRADUATORIE DEFINITIVE E SUCESSIVA DETERMINAZIONE FINALE DELLA CONDIZIONE GEOGRAFICA.... DI FUORI SEDE / PENDOLARE",
+      "page": 32,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "ASSEGNAZIONE E MODALITÀ DI PAGAMENTO DELLE BORSE DI STUDIO E DELLE INTEGRAZIONI - REVOCHE",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "11.",
+      "separator": " ",
+      "pattern": "11. ASSEGNAZIONE E MODALITÀ DI PAGAMENTO DELLE BORSE DI STUDIO E DELLE INTEGRAZIONI - REVOCHE",
+      "page": 32,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "INCOMPATIBILITA - DECADENZA",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "12.",
+      "separator": " ",
+      "pattern": "12. INCOMPATIBILITA - DECADENZA",
+      "page": 35,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "TRASFERIMENTI",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "13.",
+      "separator": " ",
+      "pattern": "13.TRASFERIMENTI",
+      "page": 37,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "ACCERTAMENTO CONDIZIONI ECONOMICHE",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "14.",
+      "separator": " ",
+      "pattern": "14. ACCERTAMENTO CONDIZIONI ECONOMICHE",
+      "page": 37,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "CONSEGUENZE IN CASO DI NON VERIDICITA ACCERTATA DELLE CONDITIONI ECONOMICHE E/O DI MERITO",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "15.",
+      "separator": " ",
+      "pattern": "15. CONSEGUENZE IN CASO DI NON VERIDICITA ACCERTATA DELLE CONDITIONI ECONOMICHE E/O DI MERITO",
+      "page": 38,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "FORO ESCLUSIVO",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "16.",
+      "separator": " ",
+      "pattern": "16. FORO ESCLUSIVO",
+      "page": 38,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "INFORMATIVA SULL'USO DEI DATI PERSONALI E_SUI DIRITTI DEL DICHIARANTE",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "17.",
+      "separator": " ",
+      "pattern": "17. INFORMATIVA SULL'USO DEI DATI PERSONALI E_SUI DIRITTI DEL DICHIARANTE",
+      "page": 38,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "NOTIZIE DI NATURA FISCALE",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "18.",
+      "separator": " ",
+      "pattern": "18. NOTIZIE DI NATURA FISCALE",
+      "page": 38,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "INFORMAZIONI RELATIVE AL BANDO",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "19.",
+      "separator": " ",
+      "pattern": "19. INFORMAZIONI RELATIVE AL BANDO",
+      "page": 39,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "OGGETTO DEL BANDO",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "1.",
+      "separator": " ",
+      "pattern": "1. OGGETTO DEL BANDO",
+      "page": null,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "FINANZIAMENTO DELLE BORSE DI STUDIO - NUMERO BORSE ASSEGNATE",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "2.",
+      "separator": " ",
+      "pattern": "2. FINANZIAMENTO DELLE BORSE DI STUDIO - NUMERO BORSE ASSEGNATE",
+      "page": null,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "CONDIZIONI GENERALI DI PARTECIPAZIONE AL CONCORSO",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "3.",
+      "separator": " ",
+      "pattern": "3. CONDIZIONI GENERALI DI PARTECIPAZIONE AL CONCORSO",
+      "page": null,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "REQUISITI PER L'INSERIMENTO NELLE GRADUATORIE DELLA BORSA DI STUDIO",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "4.",
+      "separator": " ",
+      "pattern": "4. REQUISITI PER L'INSERIMENTO NELLE GRADUATORIE DELLA BORSA DI STUDIO",
+      "page": null,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "REQUISITI DI MERITO",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "4.1",
+      "separator": " ",
+      "pattern": "4.1 REquisITI DI MERITO",
+      "page": null,
+      "confidence": 0.8,
+      "children": []
+    },
+    {
+      "title": "REGOLARITA ACCADEMICA",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "4.1.1",
+      "separator": " ",
+      "pattern": "4.1.1 REGOLARITA ACCADEMICA",
+      "page": null,
+      "confidence": 0.8,
+      "children": []
+    }
+  ],
+  "heading_map": [
+    {
+      "title": "OGGETTO DEL BANDO",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "1.",
+      "separator": " ",
+      "pattern": "1. OGGETTO DEL BANDO",
+      "page": 4,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "FINANZIAMENTO DELLE BORSE DI STUDIO - NUMERO BORSE ASSEGNATE",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "2.",
+      "separator": " ",
+      "pattern": "2. FINANZIAMENTO DELLE BORSE DI STUDIO - NUMERO BORSE ASSEGNATE",
+      "page": 5,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "CONDIZIONI GENERALI DI PARTECIPAZIONE AL CONCORSO",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "3.",
+      "separator": " ",
+      "pattern": "3. CONDIZIONI GENERALI DI PARTECIPAZIONE AL CONCORSO",
+      "page": 6,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "REQUISITI PER L'INSERIMENTO NELLE GRADUATORIE DELLA BORSA DI STUDIO",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "4.",
+      "separator": " ",
+      "pattern": "4. REQUISITI PER L'INSERIMENTO NELLE GRADUATORIE DELLA BORSA DI STUDIO",
+      "page": null,
+      "confidence": 0.9,
+      "children": [
+        {
+          "title": "REQUISITI DI MERITO",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "4.1",
+          "separator": " ",
+          "pattern": "4.1 REQUISITI DI MERITO",
+          "page": 8,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "REGOLARITA ACCADEMICA",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "4.1.1",
+          "separator": " ",
+          "pattern": "4.1.1 REGOLARITA ACCADEMICA",
+          "page": 8,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "REQUISITI DI MERITO - STUDENTI ISCRITTI PER LA PRIMA VOLTA AL PRIMO ANNO",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "4.1.2",
+          "separator": " ",
+          "pattern": "4.1.2 REQUISITI DI MERITO - STUDENTI ISCRITTI PER LA PRIMA VOLTA AL PRIMO ANNO",
+          "page": null,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "REQUISITI DI MERITO - STUDENTI ISCRITTI AD ANNI SUCCESSIVI AL PRIMO",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "4.1.3",
+          "separator": " ",
+          "pattern": "4.1.3 REQUISITI DI MERITO - STUDENTI ISCRITTI AD ANNI SUCCESSIVI AL PRIMO",
+          "page": 11,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "REQUISITI DI MERITO PER STUDENTI CON DISABILITA",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "4.1.4",
+          "separator": " ",
+          "pattern": "4.1.4 REQUISITI DI MERITO PER STUDENTI CON DISABILITA",
+          "page": 14,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "REQUISITI DI REDDITO",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "4.2",
+          "separator": " ",
+          "pattern": "4.2 REQUISITI DI REDDITO",
+          "page": 14,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "STUDENTI CON REDDITI E PATRIMONI IN ITALIA",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "4.2.1",
+          "separator": " ",
+          "pattern": "4.2.1 STUDENTI CON REDDITI E PATRIMONI IN ITALIA",
+          "page": 14,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "VALUTAZIONE DELLA SITUAZIONE ECONOMICA PER STUDENTI CON REDDITI E PATRIMONI ALL'ESTERO (STUDENTI STRANIERI CON NUCLEO FAMILIARE RESIDENTE ALL'ESTERO O STUDENTI ITALIANI RESIDENTI ALL'ESTERO)",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "4.2.2",
+          "separator": " ",
+          "pattern": "4.2.2 VALUTAZIONE DELLA SITUAZIONE ECONOMICA PER STUDENTI CON REDDITI E PATRIMONI ALL'ESTERO (STUDENTI STRANIERI CON NUCLEO FAMILIARE RESIDENTE ALL'ESTERO O STUDENTI ITALIANI RESIDENTI ALL'ESTERO)",
+          "page": 19,
+          "confidence": 0.9,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "TERMINI E MODALITA PER LA PRESENTAZIONE DELLA DOMANDA DI BORSA DI STUDIO",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "5.",
+      "separator": " ",
+      "pattern": "5. TERMINI E MODALITA PER LA PRESENTAZIONE DELLA DOMANDA DI BORSA DI STUDIO",
+      "page": 22,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "AMMONTARE DELLE BORSE DI STUDIO",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "6.",
+      "separator": " ",
+      "pattern": "6.AMMONTARE DELLE BORSE DI STUDIO",
+      "page": 23,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "INTEGRAZIONI DELLA BORSA DI STUDIO",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "7.",
+      "separator": " ",
+      "pattern": "7. INTEGRAZIONI DELLA BORSA DI STUDIO",
+      "page": 28,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "PROCEDURE PER LA FORMAZIONE DELLE GRADUATORIE",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "8.",
+      "separator": " ",
+      "pattern": "8. PROCEDURE PER LA FORMAZIONE DELLE GRADUATORIE",
+      "page": 29,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "PUBLBLICAZIONE DELLE GRADUATORIE PROVVISORIE ED EVENTUALE PRESENTAZIONE DI ISTANZE DI REVISIONE",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "9.",
+      "separator": " ",
+      "pattern": "9. PUBLBLICAZIONE DELLE GRADUATORIE PROVVISORIE ED EVENTUALE PRESENTAZIONE DI ISTANZE DI REVISIONE",
+      "page": 31,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "PUBLBLICAZIONE GRADUATORIE DEFINITIVE E SUCESSIVA DETERMINAZIONE FINALE DELLA CONDIZIONE GEOGRAFICA.... DI FUORI SEDE / PENDOLARE",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "10.",
+      "separator": " ",
+      "pattern": "10. PUBLBLICAZIONE GRADUATORIE DEFINITIVE E SUCESSIVA DETERMINAZIONE FINALE DELLA CONDIZIONE GEOGRAFICA.... DI FUORI SEDE / PENDOLARE",
+      "page": 32,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "ASSEGNAZIONE E MODALITÀ DI PAGAMENTO DELLE BORSE DI STUDIO E DELLE INTEGRAZIONI - REVOCHE",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "11.",
+      "separator": " ",
+      "pattern": "11. ASSEGNAZIONE E MODALITÀ DI PAGAMENTO DELLE BORSE DI STUDIO E DELLE INTEGRAZIONI - REVOCHE",
+      "page": 32,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "INCOMPATIBILITA - DECADENZA",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "12.",
+      "separator": " ",
+      "pattern": "12. INCOMPATIBILITA - DECADENZA",
+      "page": 35,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "TRASFERIMENTI",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "13.",
+      "separator": " ",
+      "pattern": "13.TRASFERIMENTI",
+      "page": 37,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "ACCERTAMENTO CONDIZIONI ECONOMICHE",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "14.",
+      "separator": " ",
+      "pattern": "14. ACCERTAMENTO CONDIZIONI ECONOMICHE",
+      "page": 37,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "CONSEGUENZE IN CASO DI NON VERIDICITA ACCERTATA DELLE CONDITIONI ECONOMICHE E/O DI MERITO",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "15.",
+      "separator": " ",
+      "pattern": "15. CONSEGUENZE IN CASO DI NON VERIDICITA ACCERTATA DELLE CONDITIONI ECONOMICHE E/O DI MERITO",
+      "page": 38,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "FORO ESCLUSIVO",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "16.",
+      "separator": " ",
+      "pattern": "16. FORO ESCLUSIVO",
+      "page": 38,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "INFORMATIVA SULL'USO DEI DATI PERSONALI E_SUI DIRITTI DEL DICHIARANTE",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "17.",
+      "separator": " ",
+      "pattern": "17. INFORMATIVA SULL'USO DEI DATI PERSONALI E_SUI DIRITTI DEL DICHIARANTE",
+      "page": 38,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "NOTIZIE DI NATURA FISCALE",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "18.",
+      "separator": " ",
+      "pattern": "18. NOTIZIE DI NATURA FISCALE",
+      "page": 38,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "INFORMAZIONI RELATIVE AL BANDO",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "19.",
+      "separator": " ",
+      "pattern": "19. INFORMAZIONI RELATIVE AL BANDO",
+      "page": 39,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "OGGETTO DEL BANDO",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "1.",
+      "separator": " ",
+      "pattern": "1. OGGETTO DEL BANDO",
+      "page": null,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "FINANZIAMENTO DELLE BORSE DI STUDIO - NUMERO BORSE ASSEGNATE",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "2.",
+      "separator": " ",
+      "pattern": "2. FINANZIAMENTO DELLE BORSE DI STUDIO - NUMERO BORSE ASSEGNATE",
+      "page": null,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "CONDIZIONI GENERALI DI PARTECIPAZIONE AL CONCORSO",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "3.",
+      "separator": " ",
+      "pattern": "3. CONDIZIONI GENERALI DI PARTECIPAZIONE AL CONCORSO",
+      "page": null,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "REQUISITI PER L'INSERIMENTO NELLE GRADUATORIE DELLA BORSA DI STUDIO",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "4.",
+      "separator": " ",
+      "pattern": "4. REQUISITI PER L'INSERIMENTO NELLE GRADUATORIE DELLA BORSA DI STUDIO",
+      "page": null,
+      "confidence": 0.9,
+      "children": [
+        {
+          "title": "REQUISITI DI MERITO",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "4.1",
+          "separator": " ",
+          "pattern": "4.1 REquisITI DI MERITO",
+          "page": null,
+          "confidence": 0.8,
+          "children": []
+        },
+        {
+          "title": "REGOLARITA ACCADEMICA",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "4.1.1",
+          "separator": " ",
+          "pattern": "4.1.1 REGOLARITA ACCADEMICA",
+          "page": null,
+          "confidence": 0.8,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "summary": "The document is a call for applications for scholarships for the 2025/2026 academic year at the University of Pavia, detailing eligibility criteria, application procedures, and scholarship amounts. It covers merit and income requirements, ranking formation, payment methods, and conditions for revocation, as well as data privacy and legal provisions.",
+  "metadata": {
+    "title": "Unknown",
+    "source": "inferred",
+    "year": null,
+    "document_type": null,
+    "organization": null
+  },
+  "toc_boundaries": {
+    "start_line": 0,
+    "end_line": 499,
+    "marker": "(agent-detected)"
+  },
+  "processing_log": [
+    {
+      "action": "read",
+      "detail": "Read 922 lines from /Users/omiderfanmanesh/Projects/DocStruct/data/EDiSU_Pavia_(Lombardia)_BANDO-BORSE-25_26-post-DGR_agg-27-08-2025.md",
+      "line": null
+    },
+    {
+      "action": "detected",
+      "detail": "TOC marker '(agent-detected)' at line 0",
+      "line": 0
+    },
+    {
+      "action": "boundary",
+      "detail": "TOC spans lines 0-499",
+      "line": null
+    },
+    {
+      "action": "classified",
+      "detail": "LLM extracted 33 TOC entries",
+      "line": null
+    },
+    {
+      "action": "mapped",
+      "detail": "Built heading tree with 23 root nodes",
+      "line": null
+    },
+    {
+      "action": "summarized",
+      "detail": "Generated document summary",
+      "line": null
+    },
+    {
+      "action": "metadata",
+      "detail": "Extracted metadata: title='Unknown', source=inferred",
+      "line": null
+    }
+  ],
+  "extracted_at": "2026-04-15T09:24:41.632277Z"
+}

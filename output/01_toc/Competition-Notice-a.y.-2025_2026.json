@@ -8,7 +8,7 @@
       "separator": " – ",
       "pattern": "Article 1 – Benefits of the Competition Notice",
       "page": 3,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "children": []
     },
     {
@@ -19,7 +19,7 @@
       "separator": " – ",
       "pattern": "Article 2 – Eligible students",
       "page": 3,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "children": []
     },
     {
@@ -30,7 +30,7 @@
       "separator": " - ",
       "pattern": "Article 3 - Duration of the concession of the benefits",
       "page": 4,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "children": []
     },
     {
@@ -38,21 +38,21 @@
       "kind": "subarticle",
       "depth": 3,
       "numbering": "3.1",
-      "separator": " ",
+      "separator": null,
       "pattern": "3.1 Scholarship",
       "page": 4,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
       "title": "Accommodation",
       "kind": "subarticle",
       "depth": 3,
-      "numbering": "3.2",
-      "separator": " ",
-      "pattern": "3.2 Accommodation",
+      "numbering": "3.2.",
+      "separator": null,
+      "pattern": "3.2. Accommodation",
       "page": 4,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -60,10 +60,10 @@
       "kind": "subarticle",
       "depth": 3,
       "numbering": "3.3",
-      "separator": " ",
+      "separator": null,
       "pattern": "3.3 Scholarship for disabled students",
       "page": 4,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -71,10 +71,10 @@
       "kind": "subarticle",
       "depth": 3,
       "numbering": "3.4",
-      "separator": " ",
+      "separator": null,
       "pattern": "3.4 Accommodation for disabled students",
       "page": 5,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -82,10 +82,10 @@
       "kind": "subarticle",
       "depth": 3,
       "numbering": "3.5",
-      "separator": " ",
+      "separator": null,
       "pattern": "3.5 Clarifications on the duration of the benefits",
       "page": 5,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -96,7 +96,7 @@
       "separator": " - ",
       "pattern": "Article 4 - Definitions of the type of students",
       "page": 5,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "children": []
     },
     {
@@ -104,10 +104,10 @@
       "kind": "article",
       "depth": 2,
       "numbering": "Article 5",
-      "separator": " - ",
+      "separator": ", ",
       "pattern": "Article 5 - Conventional year of first registration, provisions for changes of course or renunciation of studies",
       "page": 6,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -115,21 +115,21 @@
       "kind": "article",
       "depth": 2,
       "numbering": "Article 6",
-      "separator": ".......",
+      "separator": " - ",
       "pattern": "Article 6 - Method for the submission of on-line applications for the assignment of benefits",
       "page": 8,
-      "confidence": 0.9,
+      "confidence": 0.95,
       "children": []
     },
     {
-      "title": "Exceptions to the use of SPID/CIE (until new regulatory dispositions):",
+      "title": "Exceptions to the use of SPID/CIE (until new regulatory dispositions)",
       "kind": "subarticle",
       "depth": 3,
-      "numbering": "6.1",
-      "separator": " ",
-      "pattern": "6.1 Exceptions to the use of SPID/CIE (until new regulatory dispositions):",
+      "numbering": "6.1.",
+      "separator": null,
+      "pattern": "6.1. Exceptions to the use of SPID/CIE (until new regulatory dispositions)",
       "page": 8,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -137,10 +137,10 @@
       "kind": "subarticle",
       "depth": 3,
       "numbering": "6.2",
-      "separator": " ",
+      "separator": null,
       "pattern": "6.2 How to apply for benefits",
       "page": 8,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -148,10 +148,10 @@
       "kind": "subarticle",
       "depth": 3,
       "numbering": "6.3",
-      "separator": " ",
+      "separator": null,
       "pattern": "6.3 Modifying the information in the application form",
       "page": 9,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -162,7 +162,7 @@
       "separator": " - ",
       "pattern": "Article 7 - Deadline dates for the online application for benefits",
       "page": 10,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "children": []
     },
     {
@@ -173,7 +173,7 @@
       "separator": " - ",
       "pattern": "Article 8 - Students registered for the 1st year (1st and 2nd level) ‐ Requirements for merit",
       "page": 11,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "children": []
     },
     {
@@ -184,7 +184,7 @@
       "separator": " - ",
       "pattern": "Article 9 - Requirements of merit for students of all courses enrolled for years after the first",
       "page": 12,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "children": []
     },
     {
@@ -192,10 +192,10 @@
       "kind": "subarticle",
       "depth": 3,
       "numbering": "9.1",
-      "separator": " ",
+      "separator": null,
       "pattern": "9.1 Students enrolled in current system courses",
       "page": 12,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -203,10 +203,10 @@
       "kind": "subarticle",
       "depth": 4,
       "numbering": "9.1.1",
-      "separator": " ",
+      "separator": null,
       "pattern": "9.1.1 Bonus credits",
       "page": 14,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -214,10 +214,10 @@
       "kind": "subarticle",
       "depth": 3,
       "numbering": "9.3",
-      "separator": " ",
+      "separator": null,
       "pattern": "9.3 Seventh semester and first year of a master's degree ‐ admission and merit requirements",
       "page": 15,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -225,10 +225,10 @@
       "kind": "subarticle",
       "depth": 3,
       "numbering": "9.4",
-      "separator": " ",
+      "separator": " – ",
       "pattern": "9.4 Last semester – Access and merit requirements",
       "page": 16,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -239,7 +239,7 @@
       "separator": " - ",
       "pattern": "Article 10 - Requirements of merit for students registered for doctorate and specialisation courses",
       "page": 16,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "children": []
     },
     {
@@ -250,7 +250,7 @@
       "separator": " – ",
       "pattern": "Article 11 – Economical requirements",
       "page": 16,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "children": []
     },
     {
@@ -258,10 +258,10 @@
       "kind": "subarticle",
       "depth": 3,
       "numbering": "11.1",
-      "separator": " ",
+      "separator": null,
       "pattern": "11.1 University ISEE/Parified ISEE",
       "page": 16,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -269,10 +269,10 @@
       "kind": "subarticle",
       "depth": 4,
       "numbering": "11.1.1",
-      "separator": " ",
+      "separator": " - ",
       "pattern": "11.1.1 ISEEU - ISEE University Attestation",
       "page": 17,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -280,10 +280,10 @@
       "kind": "subarticle",
       "depth": 4,
       "numbering": "11.1.2",
-      "separator": " ",
+      "separator": " - ",
       "pattern": "11.1.2 ISEEUP - ISEE Parified University Certificate",
       "page": 17,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -291,10 +291,10 @@
       "kind": "subarticle",
       "depth": 4,
       "numbering": "11.1.3",
-      "separator": " ",
+      "separator": " - ",
       "pattern": "11.1.3 ISEEU or ISEEUP request",
       "page": 18,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -302,10 +302,10 @@
       "kind": "subarticle",
       "depth": 3,
       "numbering": "11.2",
-      "separator": " ",
+      "separator": " – ",
       "pattern": "11.2 Economical and income limitations – ISEEU – ISEEUP and ISPEU - ISPEUP",
       "page": 19,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -313,10 +313,10 @@
       "kind": "subarticle",
       "depth": 4,
       "numbering": "11.3.1",
-      "separator": " ",
+      "separator": " - ",
       "pattern": "11.3.1 Non-EU international students without a visa- access to the online application",
       "page": 19,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -324,10 +324,10 @@
       "kind": "subarticle",
       "depth": 4,
       "numbering": "11.3.2",
-      "separator": " ",
+      "separator": null,
       "pattern": "11.3.2 Students from particularly poor and developing countries",
       "page": 20,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -335,10 +335,10 @@
       "kind": "subarticle",
       "depth": 4,
       "numbering": "11.3.3",
-      "separator": " ",
+      "separator": null,
       "pattern": "11.3.3 Stateless and internationally protected students",
       "page": 21,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -346,10 +346,10 @@
       "kind": "subarticle",
       "depth": 3,
       "numbering": "11.4",
-      "separator": " ",
+      "separator": null,
       "pattern": "11.4 Independent family unit",
       "page": 22,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -357,10 +357,10 @@
       "kind": "subarticle",
       "depth": 4,
       "numbering": "11.4.1",
-      "separator": " ",
+      "separator": null,
       "pattern": "11.4.1 Independent student",
       "page": 22,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -368,10 +368,10 @@
       "kind": "subarticle",
       "depth": 4,
       "numbering": "11.4.2",
-      "separator": " ",
+      "separator": null,
       "pattern": "11.4.2 Students who are married or in a de facto cohabitation regime (article 1 paragraph 36 law no. 76/2016) registered with the municipality of residence",
       "page": 22,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -379,10 +379,10 @@
       "kind": "subarticle",
       "depth": 4,
       "numbering": "11.4.3",
-      "separator": " ",
+      "separator": null,
       "pattern": "11.4.3 Separated or divorced student",
       "page": 22,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -390,10 +390,10 @@
       "kind": "subarticle",
       "depth": 4,
       "numbering": "11.4.4",
-      "separator": " ",
+      "separator": null,
       "pattern": "11.4.4 Cases in which the family unit consists of only one student",
       "page": 22,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -401,10 +401,10 @@
       "kind": "subarticle",
       "depth": 3,
       "numbering": "11.5",
-      "separator": " ",
+      "separator": null,
       "pattern": "11.5 Economic requirements for students enrolled in PhD courses and schools of specialisation",
       "page": 23,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -415,7 +415,7 @@
       "separator": " – ",
       "pattern": "Article 12 – Supplements to the scholarship",
       "page": 23,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "children": []
     },
     {
@@ -426,7 +426,7 @@
       "separator": " - ",
       "pattern": "Article 13 - Scholarship Integration and Benefits Facilitation for Students with Disabilities (recognition of disability pursuant to Article 3 paragraph 1 of Law No. 104 of February 5, 1992, or with disability of 66% or more)",
       "page": 24,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "children": []
     },
     {
@@ -434,10 +434,10 @@
       "kind": "article",
       "depth": 2,
       "numbering": "Article 14",
-      "separator": "\n",
+      "separator": null,
       "pattern": "Article 14 - International mobility contributions for students taking part in mobility programmes",
       "page": 25,
-      "confidence": 0.9,
+      "confidence": 0.95,
       "children": []
     },
     {
@@ -445,10 +445,10 @@
       "kind": "article",
       "depth": 2,
       "numbering": "Article 15",
-      "separator": "..................................................................",
+      "separator": " – ",
       "pattern": "Article 15 - Criteria for the assignment of scholarships",
       "page": 26,
-      "confidence": 0.9,
+      "confidence": 0.95,
       "children": []
     },
     {
@@ -459,7 +459,7 @@
       "separator": "............................................",
       "pattern": "Article 16 - Criteria for the formulation of scholarship ranking lists",
       "page": 27,
-      "confidence": 0.9,
+      "confidence": 0.95,
       "children": []
     },
     {
@@ -470,7 +470,7 @@
       "separator": " – ",
       "pattern": "Article 17 – Amounts of the scholarship and related services",
       "page": 28,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "children": []
     },
     {
@@ -478,10 +478,10 @@
       "kind": "subarticle",
       "depth": 3,
       "numbering": "17.1",
-      "separator": " ",
+      "separator": null,
       "pattern": "17.1 Amounts",
       "page": 28,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -489,10 +489,10 @@
       "kind": "subarticle",
       "depth": 3,
       "numbering": "17.2",
-      "separator": " ",
+      "separator": null,
       "pattern": "17.2 Payment of the scholarship and provision of the services",
       "page": 29,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -500,10 +500,10 @@
       "kind": "subarticle",
       "depth": 3,
       "numbering": "17.3",
-      "separator": " ",
+      "separator": null,
       "pattern": "17.3 Clarifications on scholarships and services",
       "page": 30,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -514,7 +514,7 @@
       "separator": " - ",
       "pattern": "Article 18 - Accommodation service",
       "page": 31,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "children": []
     },
     {
@@ -522,10 +522,10 @@
       "kind": "article",
       "depth": 2,
       "numbering": "Article 19",
-      "separator": " - ",
+      "separator": " – ",
       "pattern": "Article 19 - Criteria for the conferral of accommodation",
       "page": 34,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "children": []
     },
     {
@@ -533,10 +533,10 @@
       "kind": "subarticle",
       "depth": 3,
       "numbering": "19.1",
-      "separator": " ",
+      "separator": null,
       "pattern": "19.1 Reserves accommodation places",
       "page": 34,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -544,10 +544,10 @@
       "kind": "subarticle",
       "depth": 3,
       "numbering": "19.2",
-      "separator": " ",
+      "separator": null,
       "pattern": "19.2 Confirmation of subsequent years and first year master degree",
       "page": 34,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -555,10 +555,10 @@
       "kind": "subarticle",
       "depth": 3,
       "numbering": "19.3",
-      "separator": " ",
+      "separator": null,
       "pattern": "19.3 New requests of subsequent years",
       "page": 34,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -566,10 +566,10 @@
       "kind": "subarticle",
       "depth": 3,
       "numbering": "19.4",
-      "separator": " ",
+      "separator": null,
       "pattern": "19.4 New requests of first years",
       "page": 35,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -577,10 +577,10 @@
       "kind": "subarticle",
       "depth": 3,
       "numbering": "19.5",
-      "separator": " ",
+      "separator": null,
       "pattern": "19.5 Accommodation details",
       "page": 35,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -591,7 +591,7 @@
       "separator": " - ",
       "pattern": "Article 20 - Method for the assignment of accommodation",
       "page": 35,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "children": []
     },
     {
@@ -599,10 +599,10 @@
       "kind": "subarticle",
       "depth": 3,
       "numbering": "20.1",
-      "separator": " ",
+      "separator": null,
       "pattern": "20.1 Manifestation of Interest",
       "page": 35,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -610,10 +610,10 @@
       "kind": "subarticle",
       "depth": 3,
       "numbering": "20.2",
-      "separator": " ",
+      "separator": null,
       "pattern": "20.2 Accommodation check-in",
       "page": 36,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -621,10 +621,10 @@
       "kind": "subarticle",
       "depth": 3,
       "numbering": "20.3",
-      "separator": " ",
+      "separator": null,
       "pattern": "20.3 Leaving the accommodation before the summer break",
       "page": 36,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -632,10 +632,10 @@
       "kind": "subarticle",
       "depth": 3,
       "numbering": "20.4",
-      "separator": " ",
+      "separator": null,
       "pattern": "20.4 Revocation of benefits",
       "page": 36,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -646,7 +646,7 @@
       "separator": " - ",
       "pattern": "Article 21 - Methods of payment for accommodation",
       "page": 36,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "children": []
     },
     {
@@ -657,7 +657,7 @@
       "separator": " - ",
       "pattern": "Article 22 - Rental contribution",
       "page": 37,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "children": []
     },
     {
@@ -665,10 +665,10 @@
       "kind": "subarticle",
       "depth": 3,
       "numbering": "22.1",
-      "separator": " ",
+      "separator": null,
       "pattern": "22.1 How to Apply",
       "page": 37,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -676,10 +676,10 @@
       "kind": "subarticle",
       "depth": 3,
       "numbering": "22.2",
-      "separator": " ",
+      "separator": null,
       "pattern": "22.2 Payment",
       "page": 37,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -687,10 +687,10 @@
       "kind": "article",
       "depth": 2,
       "numbering": "Article 23",
-      "separator": ".............................................................................",
+      "separator": " - ",
       "pattern": "Article 23 - Results of the competition and publication of rankings",
       "page": 38,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -698,10 +698,10 @@
       "kind": "article",
       "depth": 2,
       "numbering": "Article 24",
-      "separator": ".....................................................................",
+      "separator": " - ",
       "pattern": "Article 24 - Methods of payment of the scholarship",
       "page": 40,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -712,7 +712,7 @@
       "separator": " ",
       "pattern": "24.1 Students enrolled at subsequent years",
       "page": 40,
-      "confidence": 1.0,
+      "confidence": 0.8,
       "children": []
     },
     {
@@ -723,7 +723,7 @@
       "separator": " ",
       "pattern": "24.2 Students enrolled at first years",
       "page": 40,
-      "confidence": 1.0,
+      "confidence": 0.8,
       "children": []
     },
     {
@@ -734,7 +734,7 @@
       "separator": " ",
       "pattern": "24.3 Students registered with specialisation courses and PhD course",
       "page": 41,
-      "confidence": 1.0,
+      "confidence": 0.8,
       "children": []
     },
     {
@@ -745,7 +745,7 @@
       "separator": " - ",
       "pattern": "Article 25 - Grounds for non-admission, exclusion or revocation of benefits",
       "page": 41,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -756,7 +756,7 @@
       "separator": " ",
       "pattern": "25.1 Grounds for non-admission",
       "page": 41,
-      "confidence": 1.0,
+      "confidence": 0.8,
       "children": []
     },
     {
@@ -767,7 +767,7 @@
       "separator": " ",
       "pattern": "25.2 Grounds for exclusion or revocation of benefits",
       "page": 41,
-      "confidence": 1.0,
+      "confidence": 0.8,
       "children": []
     },
     {
@@ -778,7 +778,7 @@
       "separator": " - ",
       "pattern": "Article 26 - Truthfulness checks on the produced declarations",
       "page": 44,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -786,10 +786,10 @@
       "kind": "article",
       "depth": 2,
       "numbering": "Article 27",
-      "separator": "...................................................................................",
+      "separator": " - ",
       "pattern": "Article 27 - Reimbursement of the benefits",
       "page": 44,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -797,10 +797,10 @@
       "kind": "article",
       "depth": 2,
       "numbering": "Article 28",
-      "separator": "......................................................................................",
+      "separator": " - ",
       "pattern": "Article 28 - Reporting of a debt situation",
       "page": 45,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -808,10 +808,10 @@
       "kind": "article",
       "depth": 2,
       "numbering": "Article 29",
-      "separator": ".........................................................................................",
+      "separator": " - ",
       "pattern": "Article 29 - Reporting obligations and modalities",
       "page": 45,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -819,10 +819,10 @@
       "kind": "article",
       "depth": 2,
       "numbering": "Article 30",
-      "separator": "................................................................................",
+      "separator": " - ",
       "pattern": "Article 30 - Provisions on privacy protection",
       "page": 45,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -830,10 +830,10 @@
       "kind": "article",
       "depth": 2,
       "numbering": "Article 31",
-      "separator": ".............................................................................",
+      "separator": " - ",
       "pattern": "Article 31 - Referral rule and safeguard clause",
       "page": 46,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -844,7 +844,7 @@
       "separator": null,
       "pattern": "For further information:",
       "page": 48,
-      "confidence": 0.85,
+      "confidence": 0.7,
       "children": []
     },
     {
@@ -855,6 +855,94 @@
       "separator": null,
       "pattern": "TABLE A",
       "page": 49,
+      "confidence": 0.7,
+      "children": []
+    },
+    {
+      "title": "LIST OF MUNICIPALITIES CONSIDERED AS “OFF‐SITE” WITH RESPECT TO THE......",
+      "kind": "topic",
+      "depth": 2,
+      "numbering": null,
+      "separator": null,
+      "pattern": "LIST OF MUNICIPALITIES CONSIDERED AS “OFF‐SITE” WITH RESPECT TO THE......",
+      "page": 49,
+      "confidence": 0.7,
+      "children": []
+    },
+    {
+      "title": "UNIVERSITY SITES",
+      "kind": "topic",
+      "depth": 2,
+      "numbering": null,
+      "separator": null,
+      "pattern": "UNIVERSITY SITES",
+      "page": 49,
+      "confidence": 0.7,
+      "children": []
+    },
+    {
+      "title": "TABLE B",
+      "kind": "topic",
+      "depth": 2,
+      "numbering": null,
+      "separator": null,
+      "pattern": "TABLE B",
+      "page": 51,
+      "confidence": 0.7,
+      "children": []
+    },
+    {
+      "title": "LIST OF INSTITUTIONS FOR HIGHER EDUCATION IN ART AND MUSIC (AFAM)........",
+      "kind": "topic",
+      "depth": 2,
+      "numbering": null,
+      "separator": null,
+      "pattern": "LIST OF INSTITUTIONS FOR HIGHER EDUCATION IN ART AND MUSIC (AFAM)........",
+      "page": 51,
+      "confidence": 0.7,
+      "children": []
+    },
+    {
+      "title": "IN LIGURIA",
+      "kind": "topic",
+      "depth": 2,
+      "numbering": null,
+      "separator": null,
+      "pattern": "IN LIGURIA",
+      "page": 51,
+      "confidence": 0.7,
+      "children": []
+    },
+    {
+      "title": "Benefits of the Competition Notice",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Article 1",
+      "separator": " – ",
+      "pattern": "Article 1 – Benefits of the Competition Notice",
+      "page": null,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Eligible students",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Article 2",
+      "separator": " – ",
+      "pattern": "Article 2 – Eligible students",
+      "page": null,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Duration of the concession of the benefits",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Article 3",
+      "separator": " - ",
+      "pattern": "Article 3 - Duration of the concession of the benefits",
+      "page": null,
       "confidence": 0.9,
       "children": []
     }
@@ -868,7 +956,7 @@
       "separator": " – ",
       "pattern": "Article 1 – Benefits of the Competition Notice",
       "page": 3,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "children": []
     },
     {
@@ -879,7 +967,7 @@
       "separator": " – ",
       "pattern": "Article 2 – Eligible students",
       "page": 3,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "children": []
     },
     {
@@ -890,28 +978,28 @@
       "separator": " - ",
       "pattern": "Article 3 - Duration of the concession of the benefits",
       "page": 4,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "children": [
         {
           "title": "Scholarship",
           "kind": "subarticle",
           "depth": 3,
           "numbering": "3.1",
-          "separator": " ",
+          "separator": null,
           "pattern": "3.1 Scholarship",
           "page": 4,
-          "confidence": 1.0,
+          "confidence": 0.9,
           "children": []
         },
         {
           "title": "Accommodation",
           "kind": "subarticle",
           "depth": 3,
-          "numbering": "3.2",
-          "separator": " ",
-          "pattern": "3.2 Accommodation",
+          "numbering": "3.2.",
+          "separator": null,
+          "pattern": "3.2. Accommodation",
           "page": 4,
-          "confidence": 1.0,
+          "confidence": 0.9,
           "children": []
         },
         {
@@ -919,10 +1007,10 @@
           "kind": "subarticle",
           "depth": 3,
           "numbering": "3.3",
-          "separator": " ",
+          "separator": null,
           "pattern": "3.3 Scholarship for disabled students",
           "page": 4,
-          "confidence": 1.0,
+          "confidence": 0.9,
           "children": []
         },
         {
@@ -930,10 +1018,10 @@
           "kind": "subarticle",
           "depth": 3,
           "numbering": "3.4",
-          "separator": " ",
+          "separator": null,
           "pattern": "3.4 Accommodation for disabled students",
           "page": 5,
-          "confidence": 1.0,
+          "confidence": 0.9,
           "children": []
         },
         {
@@ -941,10 +1029,10 @@
           "kind": "subarticle",
           "depth": 3,
           "numbering": "3.5",
-          "separator": " ",
+          "separator": null,
           "pattern": "3.5 Clarifications on the duration of the benefits",
           "page": 5,
-          "confidence": 1.0,
+          "confidence": 0.9,
           "children": []
         }
       ]
@@ -957,7 +1045,7 @@
       "separator": " - ",
       "pattern": "Article 4 - Definitions of the type of students",
       "page": 5,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "children": []
     },
     {
@@ -965,10 +1053,10 @@
       "kind": "article",
       "depth": 2,
       "numbering": "Article 5",
-      "separator": " - ",
+      "separator": ", ",
       "pattern": "Article 5 - Conventional year of first registration, provisions for changes of course or renunciation of studies",
       "page": 6,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -976,20 +1064,20 @@
       "kind": "article",
       "depth": 2,
       "numbering": "Article 6",
-      "separator": ".......",
+      "separator": " - ",
       "pattern": "Article 6 - Method for the submission of on-line applications for the assignment of benefits",
       "page": 8,
-      "confidence": 0.9,
+      "confidence": 0.95,
       "children": [
         {
-          "title": "Exceptions to the use of SPID/CIE (until new regulatory dispositions):",
+          "title": "Exceptions to the use of SPID/CIE (until new regulatory dispositions)",
           "kind": "subarticle",
           "depth": 3,
-          "numbering": "6.1",
-          "separator": " ",
-          "pattern": "6.1 Exceptions to the use of SPID/CIE (until new regulatory dispositions):",
+          "numbering": "6.1.",
+          "separator": null,
+          "pattern": "6.1. Exceptions to the use of SPID/CIE (until new regulatory dispositions)",
           "page": 8,
-          "confidence": 0.95,
+          "confidence": 0.9,
           "children": []
         },
         {
@@ -997,10 +1085,10 @@
           "kind": "subarticle",
           "depth": 3,
           "numbering": "6.2",
-          "separator": " ",
+          "separator": null,
           "pattern": "6.2 How to apply for benefits",
           "page": 8,
-          "confidence": 1.0,
+          "confidence": 0.9,
           "children": []
         },
         {
@@ -1008,10 +1096,10 @@
           "kind": "subarticle",
           "depth": 3,
           "numbering": "6.3",
-          "separator": " ",
+          "separator": null,
           "pattern": "6.3 Modifying the information in the application form",
           "page": 9,
-          "confidence": 1.0,
+          "confidence": 0.9,
           "children": []
         }
       ]
@@ -1024,7 +1112,7 @@
       "separator": " - ",
       "pattern": "Article 7 - Deadline dates for the online application for benefits",
       "page": 10,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "children": []
     },
     {
@@ -1035,7 +1123,7 @@
       "separator": " - ",
       "pattern": "Article 8 - Students registered for the 1st year (1st and 2nd level) ‐ Requirements for merit",
       "page": 11,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "children": []
     },
     {
@@ -1046,27 +1134,27 @@
       "separator": " - ",
       "pattern": "Article 9 - Requirements of merit for students of all courses enrolled for years after the first",
       "page": 12,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "children": [
         {
           "title": "Students enrolled in current system courses",
           "kind": "subarticle",
           "depth": 3,
           "numbering": "9.1",
-          "separator": " ",
+          "separator": null,
           "pattern": "9.1 Students enrolled in current system courses",
           "page": 12,
-          "confidence": 1.0,
+          "confidence": 0.9,
           "children": [
             {
               "title": "Bonus credits",
               "kind": "subarticle",
               "depth": 4,
               "numbering": "9.1.1",
-              "separator": " ",
+              "separator": null,
               "pattern": "9.1.1 Bonus credits",
               "page": 14,
-              "confidence": 1.0,
+              "confidence": 0.9,
               "children": []
             }
           ]
@@ -1076,10 +1164,10 @@
           "kind": "subarticle",
           "depth": 3,
           "numbering": "9.3",
-          "separator": " ",
+          "separator": null,
           "pattern": "9.3 Seventh semester and first year of a master's degree ‐ admission and merit requirements",
           "page": 15,
-          "confidence": 1.0,
+          "confidence": 0.9,
           "children": []
         },
         {
@@ -1087,10 +1175,10 @@
           "kind": "subarticle",
           "depth": 3,
           "numbering": "9.4",
-          "separator": " ",
+          "separator": " – ",
           "pattern": "9.4 Last semester – Access and merit requirements",
           "page": 16,
-          "confidence": 1.0,
+          "confidence": 0.9,
           "children": []
         }
       ]
@@ -1103,7 +1191,7 @@
       "separator": " - ",
       "pattern": "Article 10 - Requirements of merit for students registered for doctorate and specialisation courses",
       "page": 16,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "children": []
     },
     {
@@ -1114,27 +1202,27 @@
       "separator": " – ",
       "pattern": "Article 11 – Economical requirements",
       "page": 16,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "children": [
         {
           "title": "University ISEE/Parified ISEE",
           "kind": "subarticle",
           "depth": 3,
           "numbering": "11.1",
-          "separator": " ",
+          "separator": null,
           "pattern": "11.1 University ISEE/Parified ISEE",
           "page": 16,
-          "confidence": 1.0,
+          "confidence": 0.9,
           "children": [
             {
               "title": "ISEEU - ISEE University Attestation",
               "kind": "subarticle",
               "depth": 4,
               "numbering": "11.1.1",
-              "separator": " ",
+              "separator": " - ",
               "pattern": "11.1.1 ISEEU - ISEE University Attestation",
               "page": 17,
-              "confidence": 1.0,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -1142,10 +1230,10 @@
               "kind": "subarticle",
               "depth": 4,
               "numbering": "11.1.2",
-              "separator": " ",
+              "separator": " - ",
               "pattern": "11.1.2 ISEEUP - ISEE Parified University Certificate",
               "page": 17,
-              "confidence": 1.0,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -1153,10 +1241,10 @@
               "kind": "subarticle",
               "depth": 4,
               "numbering": "11.1.3",
-              "separator": " ",
+              "separator": " - ",
               "pattern": "11.1.3 ISEEU or ISEEUP request",
               "page": 18,
-              "confidence": 1.0,
+              "confidence": 0.9,
               "children": []
             }
           ]
@@ -1166,20 +1254,20 @@
           "kind": "subarticle",
           "depth": 3,
           "numbering": "11.2",
-          "separator": " ",
+          "separator": " – ",
           "pattern": "11.2 Economical and income limitations – ISEEU – ISEEUP and ISPEU - ISPEUP",
           "page": 19,
-          "confidence": 1.0,
+          "confidence": 0.9,
           "children": [
             {
               "title": "Non-EU international students without a visa- access to the online application",
               "kind": "subarticle",
               "depth": 4,
               "numbering": "11.3.1",
-              "separator": " ",
+              "separator": " - ",
               "pattern": "11.3.1 Non-EU international students without a visa- access to the online application",
               "page": 19,
-              "confidence": 1.0,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -1187,10 +1275,10 @@
               "kind": "subarticle",
               "depth": 4,
               "numbering": "11.3.2",
-              "separator": " ",
+              "separator": null,
               "pattern": "11.3.2 Students from particularly poor and developing countries",
               "page": 20,
-              "confidence": 1.0,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -1198,10 +1286,10 @@
               "kind": "subarticle",
               "depth": 4,
               "numbering": "11.3.3",
-              "separator": " ",
+              "separator": null,
               "pattern": "11.3.3 Stateless and internationally protected students",
               "page": 21,
-              "confidence": 1.0,
+              "confidence": 0.9,
               "children": []
             }
           ]
@@ -1211,20 +1299,20 @@
           "kind": "subarticle",
           "depth": 3,
           "numbering": "11.4",
-          "separator": " ",
+          "separator": null,
           "pattern": "11.4 Independent family unit",
           "page": 22,
-          "confidence": 1.0,
+          "confidence": 0.9,
           "children": [
             {
               "title": "Independent student",
               "kind": "subarticle",
               "depth": 4,
               "numbering": "11.4.1",
-              "separator": " ",
+              "separator": null,
               "pattern": "11.4.1 Independent student",
               "page": 22,
-              "confidence": 1.0,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -1232,10 +1320,10 @@
               "kind": "subarticle",
               "depth": 4,
               "numbering": "11.4.2",
-              "separator": " ",
+              "separator": null,
               "pattern": "11.4.2 Students who are married or in a de facto cohabitation regime (article 1 paragraph 36 law no. 76/2016) registered with the municipality of residence",
               "page": 22,
-              "confidence": 1.0,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -1243,10 +1331,10 @@
               "kind": "subarticle",
               "depth": 4,
               "numbering": "11.4.3",
-              "separator": " ",
+              "separator": null,
               "pattern": "11.4.3 Separated or divorced student",
               "page": 22,
-              "confidence": 1.0,
+              "confidence": 0.9,
               "children": []
             },
             {
@@ -1254,10 +1342,10 @@
               "kind": "subarticle",
               "depth": 4,
               "numbering": "11.4.4",
-              "separator": " ",
+              "separator": null,
               "pattern": "11.4.4 Cases in which the family unit consists of only one student",
               "page": 22,
-              "confidence": 1.0,
+              "confidence": 0.9,
               "children": []
             }
           ]
@@ -1267,10 +1355,10 @@
           "kind": "subarticle",
           "depth": 3,
           "numbering": "11.5",
-          "separator": " ",
+          "separator": null,
           "pattern": "11.5 Economic requirements for students enrolled in PhD courses and schools of specialisation",
           "page": 23,
-          "confidence": 1.0,
+          "confidence": 0.9,
           "children": []
         }
       ]
@@ -1283,7 +1371,7 @@
       "separator": " – ",
       "pattern": "Article 12 – Supplements to the scholarship",
       "page": 23,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "children": []
     },
     {
@@ -1294,7 +1382,7 @@
       "separator": " - ",
       "pattern": "Article 13 - Scholarship Integration and Benefits Facilitation for Students with Disabilities (recognition of disability pursuant to Article 3 paragraph 1 of Law No. 104 of February 5, 1992, or with disability of 66% or more)",
       "page": 24,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "children": []
     },
     {
@@ -1302,10 +1390,10 @@
       "kind": "article",
       "depth": 2,
       "numbering": "Article 14",
-      "separator": "\n",
+      "separator": null,
       "pattern": "Article 14 - International mobility contributions for students taking part in mobility programmes",
       "page": 25,
-      "confidence": 0.9,
+      "confidence": 0.95,
       "children": []
     },
     {
@@ -1313,10 +1401,10 @@
       "kind": "article",
       "depth": 2,
       "numbering": "Article 15",
-      "separator": "..................................................................",
+      "separator": " – ",
       "pattern": "Article 15 - Criteria for the assignment of scholarships",
       "page": 26,
-      "confidence": 0.9,
+      "confidence": 0.95,
       "children": []
     },
     {
@@ -1327,7 +1415,7 @@
       "separator": "............................................",
       "pattern": "Article 16 - Criteria for the formulation of scholarship ranking lists",
       "page": 27,
-      "confidence": 0.9,
+      "confidence": 0.95,
       "children": []
     },
     {
@@ -1338,17 +1426,17 @@
       "separator": " – ",
       "pattern": "Article 17 – Amounts of the scholarship and related services",
       "page": 28,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "children": [
         {
           "title": "Amounts",
           "kind": "subarticle",
           "depth": 3,
           "numbering": "17.1",
-          "separator": " ",
+          "separator": null,
           "pattern": "17.1 Amounts",
           "page": 28,
-          "confidence": 1.0,
+          "confidence": 0.9,
           "children": []
         },
         {
@@ -1356,10 +1444,10 @@
           "kind": "subarticle",
           "depth": 3,
           "numbering": "17.2",
-          "separator": " ",
+          "separator": null,
           "pattern": "17.2 Payment of the scholarship and provision of the services",
           "page": 29,
-          "confidence": 1.0,
+          "confidence": 0.9,
           "children": []
         },
         {
@@ -1367,10 +1455,10 @@
           "kind": "subarticle",
           "depth": 3,
           "numbering": "17.3",
-          "separator": " ",
+          "separator": null,
           "pattern": "17.3 Clarifications on scholarships and services",
           "page": 30,
-          "confidence": 1.0,
+          "confidence": 0.9,
           "children": []
         }
       ]
@@ -1383,7 +1471,7 @@
       "separator": " - ",
       "pattern": "Article 18 - Accommodation service",
       "page": 31,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "children": []
     },
     {
@@ -1391,20 +1479,20 @@
       "kind": "article",
       "depth": 2,
       "numbering": "Article 19",
-      "separator": " - ",
+      "separator": " – ",
       "pattern": "Article 19 - Criteria for the conferral of accommodation",
       "page": 34,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "children": [
         {
           "title": "Reserves accommodation places",
           "kind": "subarticle",
           "depth": 3,
           "numbering": "19.1",
-          "separator": " ",
+          "separator": null,
           "pattern": "19.1 Reserves accommodation places",
           "page": 34,
-          "confidence": 1.0,
+          "confidence": 0.9,
           "children": []
         },
         {
@@ -1412,10 +1500,10 @@
           "kind": "subarticle",
           "depth": 3,
           "numbering": "19.2",
-          "separator": " ",
+          "separator": null,
           "pattern": "19.2 Confirmation of subsequent years and first year master degree",
           "page": 34,
-          "confidence": 1.0,
+          "confidence": 0.9,
           "children": []
         },
         {
@@ -1423,10 +1511,10 @@
           "kind": "subarticle",
           "depth": 3,
           "numbering": "19.3",
-          "separator": " ",
+          "separator": null,
           "pattern": "19.3 New requests of subsequent years",
           "page": 34,
-          "confidence": 1.0,
+          "confidence": 0.9,
           "children": []
         },
         {
@@ -1434,10 +1522,10 @@
           "kind": "subarticle",
           "depth": 3,
           "numbering": "19.4",
-          "separator": " ",
+          "separator": null,
           "pattern": "19.4 New requests of first years",
           "page": 35,
-          "confidence": 1.0,
+          "confidence": 0.9,
           "children": []
         },
         {
@@ -1445,10 +1533,10 @@
           "kind": "subarticle",
           "depth": 3,
           "numbering": "19.5",
-          "separator": " ",
+          "separator": null,
           "pattern": "19.5 Accommodation details",
           "page": 35,
-          "confidence": 1.0,
+          "confidence": 0.9,
           "children": []
         }
       ]
@@ -1461,17 +1549,17 @@
       "separator": " - ",
       "pattern": "Article 20 - Method for the assignment of accommodation",
       "page": 35,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "children": [
         {
           "title": "Manifestation of Interest",
           "kind": "subarticle",
           "depth": 3,
           "numbering": "20.1",
-          "separator": " ",
+          "separator": null,
           "pattern": "20.1 Manifestation of Interest",
           "page": 35,
-          "confidence": 1.0,
+          "confidence": 0.9,
           "children": []
         },
         {
@@ -1479,10 +1567,10 @@
           "kind": "subarticle",
           "depth": 3,
           "numbering": "20.2",
-          "separator": " ",
+          "separator": null,
           "pattern": "20.2 Accommodation check-in",
           "page": 36,
-          "confidence": 1.0,
+          "confidence": 0.9,
           "children": []
         },
         {
@@ -1490,10 +1578,10 @@
           "kind": "subarticle",
           "depth": 3,
           "numbering": "20.3",
-          "separator": " ",
+          "separator": null,
           "pattern": "20.3 Leaving the accommodation before the summer break",
           "page": 36,
-          "confidence": 1.0,
+          "confidence": 0.9,
           "children": []
         },
         {
@@ -1501,10 +1589,10 @@
           "kind": "subarticle",
           "depth": 3,
           "numbering": "20.4",
-          "separator": " ",
+          "separator": null,
           "pattern": "20.4 Revocation of benefits",
           "page": 36,
-          "confidence": 1.0,
+          "confidence": 0.9,
           "children": []
         }
       ]
@@ -1517,7 +1605,7 @@
       "separator": " - ",
       "pattern": "Article 21 - Methods of payment for accommodation",
       "page": 36,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "children": []
     },
     {
@@ -1528,17 +1616,17 @@
       "separator": " - ",
       "pattern": "Article 22 - Rental contribution",
       "page": 37,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "children": [
         {
           "title": "How to Apply",
           "kind": "subarticle",
           "depth": 3,
           "numbering": "22.1",
-          "separator": " ",
+          "separator": null,
           "pattern": "22.1 How to Apply",
           "page": 37,
-          "confidence": 1.0,
+          "confidence": 0.9,
           "children": []
         },
         {
@@ -1546,10 +1634,10 @@
           "kind": "subarticle",
           "depth": 3,
           "numbering": "22.2",
-          "separator": " ",
+          "separator": null,
           "pattern": "22.2 Payment",
           "page": 37,
-          "confidence": 1.0,
+          "confidence": 0.9,
           "children": []
         }
       ]
@@ -1559,10 +1647,10 @@
       "kind": "article",
       "depth": 2,
       "numbering": "Article 23",
-      "separator": ".............................................................................",
+      "separator": " - ",
       "pattern": "Article 23 - Results of the competition and publication of rankings",
       "page": 38,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -1570,10 +1658,10 @@
       "kind": "article",
       "depth": 2,
       "numbering": "Article 24",
-      "separator": ".....................................................................",
+      "separator": " - ",
       "pattern": "Article 24 - Methods of payment of the scholarship",
       "page": 40,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": [
         {
           "title": "Students enrolled at subsequent years",
@@ -1583,7 +1671,7 @@
           "separator": " ",
           "pattern": "24.1 Students enrolled at subsequent years",
           "page": 40,
-          "confidence": 1.0,
+          "confidence": 0.8,
           "children": []
         },
         {
@@ -1594,7 +1682,7 @@
           "separator": " ",
           "pattern": "24.2 Students enrolled at first years",
           "page": 40,
-          "confidence": 1.0,
+          "confidence": 0.8,
           "children": []
         },
         {
@@ -1605,7 +1693,7 @@
           "separator": " ",
           "pattern": "24.3 Students registered with specialisation courses and PhD course",
           "page": 41,
-          "confidence": 1.0,
+          "confidence": 0.8,
           "children": []
         }
       ]
@@ -1618,7 +1706,7 @@
       "separator": " - ",
       "pattern": "Article 25 - Grounds for non-admission, exclusion or revocation of benefits",
       "page": 41,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": [
         {
           "title": "Grounds for non-admission",
@@ -1628,7 +1716,7 @@
           "separator": " ",
           "pattern": "25.1 Grounds for non-admission",
           "page": 41,
-          "confidence": 1.0,
+          "confidence": 0.8,
           "children": []
         },
         {
@@ -1639,7 +1727,7 @@
           "separator": " ",
           "pattern": "25.2 Grounds for exclusion or revocation of benefits",
           "page": 41,
-          "confidence": 1.0,
+          "confidence": 0.8,
           "children": []
         }
       ]
@@ -1652,7 +1740,7 @@
       "separator": " - ",
       "pattern": "Article 26 - Truthfulness checks on the produced declarations",
       "page": 44,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -1660,10 +1748,10 @@
       "kind": "article",
       "depth": 2,
       "numbering": "Article 27",
-      "separator": "...................................................................................",
+      "separator": " - ",
       "pattern": "Article 27 - Reimbursement of the benefits",
       "page": 44,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -1671,10 +1759,10 @@
       "kind": "article",
       "depth": 2,
       "numbering": "Article 28",
-      "separator": "......................................................................................",
+      "separator": " - ",
       "pattern": "Article 28 - Reporting of a debt situation",
       "page": 45,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -1682,10 +1770,10 @@
       "kind": "article",
       "depth": 2,
       "numbering": "Article 29",
-      "separator": ".........................................................................................",
+      "separator": " - ",
       "pattern": "Article 29 - Reporting obligations and modalities",
       "page": 45,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -1693,10 +1781,10 @@
       "kind": "article",
       "depth": 2,
       "numbering": "Article 30",
-      "separator": "................................................................................",
+      "separator": " - ",
       "pattern": "Article 30 - Provisions on privacy protection",
       "page": 45,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -1704,10 +1792,10 @@
       "kind": "article",
       "depth": 2,
       "numbering": "Article 31",
-      "separator": ".............................................................................",
+      "separator": " - ",
       "pattern": "Article 31 - Referral rule and safeguard clause",
       "page": 46,
-      "confidence": 0.95,
+      "confidence": 0.9,
       "children": []
     },
     {
@@ -1718,7 +1806,7 @@
       "separator": null,
       "pattern": "For further information:",
       "page": 48,
-      "confidence": 0.85,
+      "confidence": 0.7,
       "children": []
     },
     {
@@ -1729,47 +1817,135 @@
       "separator": null,
       "pattern": "TABLE A",
       "page": 49,
+      "confidence": 0.7,
+      "children": []
+    },
+    {
+      "title": "LIST OF MUNICIPALITIES CONSIDERED AS “OFF‐SITE” WITH RESPECT TO THE......",
+      "kind": "topic",
+      "depth": 2,
+      "numbering": null,
+      "separator": null,
+      "pattern": "LIST OF MUNICIPALITIES CONSIDERED AS “OFF‐SITE” WITH RESPECT TO THE......",
+      "page": 49,
+      "confidence": 0.7,
+      "children": []
+    },
+    {
+      "title": "UNIVERSITY SITES",
+      "kind": "topic",
+      "depth": 2,
+      "numbering": null,
+      "separator": null,
+      "pattern": "UNIVERSITY SITES",
+      "page": 49,
+      "confidence": 0.7,
+      "children": []
+    },
+    {
+      "title": "TABLE B",
+      "kind": "topic",
+      "depth": 2,
+      "numbering": null,
+      "separator": null,
+      "pattern": "TABLE B",
+      "page": 51,
+      "confidence": 0.7,
+      "children": []
+    },
+    {
+      "title": "LIST OF INSTITUTIONS FOR HIGHER EDUCATION IN ART AND MUSIC (AFAM)........",
+      "kind": "topic",
+      "depth": 2,
+      "numbering": null,
+      "separator": null,
+      "pattern": "LIST OF INSTITUTIONS FOR HIGHER EDUCATION IN ART AND MUSIC (AFAM)........",
+      "page": 51,
+      "confidence": 0.7,
+      "children": []
+    },
+    {
+      "title": "IN LIGURIA",
+      "kind": "topic",
+      "depth": 2,
+      "numbering": null,
+      "separator": null,
+      "pattern": "IN LIGURIA",
+      "page": 51,
+      "confidence": 0.7,
+      "children": []
+    },
+    {
+      "title": "Benefits of the Competition Notice",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Article 1",
+      "separator": " – ",
+      "pattern": "Article 1 – Benefits of the Competition Notice",
+      "page": null,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Eligible students",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Article 2",
+      "separator": " – ",
+      "pattern": "Article 2 – Eligible students",
+      "page": null,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Duration of the concession of the benefits",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "Article 3",
+      "separator": " - ",
+      "pattern": "Article 3 - Duration of the concession of the benefits",
+      "page": null,
       "confidence": 0.9,
       "children": []
     }
   ],
-  "summary": "This document is a competition notice issued under the PNRR and financed by the European Union’s Next Generation EU programme for the academic year 2025/2026. Its main purpose is to outline the procedures and criteria for awarding scholarships and accommodation benefits to eligible university students. Key topics covered include eligibility requirements, types and duration of benefits, application methods, deadlines, and provisions for disabled students.",
+  "summary": "The document outlines the Competition Notice for the assignment of academic benefits for the 2025/2026 academic year, funded by the EU's Next Generation programme under the PNRR initiative. It details eligibility criteria, types and duration of benefits including scholarships and accommodation for both general and disabled students, as well as provisions related to student registration and course changes. The official Italian version prevails in case of discrepancies with this English translation.",
   "metadata": {
-    "title": "COMPETITION NOTICE FOR THE ASSIGNMENT OF BENEFITS ACADEMIC YEAR 2025/2026",
-    "source": "explicit",
-    "year": "2025/2026",
-    "document_type": "Competition Notice",
+    "title": "Unknown",
+    "source": "inferred",
+    "year": null,
+    "document_type": null,
     "organization": null
   },
   "toc_boundaries": {
-    "start_line": 6,
-    "end_line": 55,
+    "start_line": 0,
+    "end_line": 99,
     "marker": "(agent-detected)"
   },
   "processing_log": [
     {
       "action": "read",
-      "detail": "Read 1562 lines from data\\Competition-Notice-a.y.-2025_2026.md",
+      "detail": "Read 1562 lines from /Users/omiderfanmanesh/Projects/DocStruct/data/Competition-Notice-a.y.-2025_2026.md",
       "line": null
     },
     {
       "action": "detected",
-      "detail": "TOC marker '(agent-detected)' at line 6",
-      "line": 6
+      "detail": "TOC marker '(agent-detected)' at line 0",
+      "line": 0
     },
     {
       "action": "boundary",
-      "detail": "TOC spans lines 6–55",
+      "detail": "TOC spans lines 0-99",
       "line": null
     },
     {
       "action": "classified",
-      "detail": "LLM classified 78 TOC entries",
+      "detail": "LLM extracted 86 TOC entries",
       "line": null
     },
     {
       "action": "mapped",
-      "detail": "Built heading tree with 33 root nodes",
+      "detail": "Built heading tree with 41 root nodes",
       "line": null
     },
     {
@@ -1779,9 +1955,9 @@
     },
     {
       "action": "metadata",
-      "detail": "Extracted metadata: title='COMPETITION NOTICE FOR THE ASSIGNMENT OF BENEFITS ACADEMIC YEAR 2025/2026', source=explicit",
+      "detail": "Extracted metadata: title='Unknown', source=inferred",
       "line": null
     }
   ],
-  "extracted_at": "2026-03-19T17:17:03.581548Z"
+  "extracted_at": "2026-04-15T09:23:11.008321Z"
 }

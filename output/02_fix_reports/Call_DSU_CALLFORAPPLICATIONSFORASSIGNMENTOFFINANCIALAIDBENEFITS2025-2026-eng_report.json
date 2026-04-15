@@ -1,0 +1,1200 @@
+{
+  "source_file": "/Users/omiderfanmanesh/Projects/DocStruct/data/Call_DSU_CALLFORAPPLICATIONSFORASSIGNMENTOFFINANCIALAIDBENEFITS2025-2026-eng.md",
+  "output_file": "/Users/omiderfanmanesh/Projects/DocStruct/output/02_fixed_markdown/Call_DSU_CALLFORAPPLICATIONSFORASSIGNMENTOFFINANCIALAIDBENEFITS2025-2026-eng.md",
+  "total_lines": 1498,
+  "lines_changed": 170,
+  "lines_demoted": 101,
+  "unmatched_toc_entries": [],
+  "corrections": [
+    {
+      "line_number": 1,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 3,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 5,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 13,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 15,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "COMPETITION BENEFITS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 16,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "WHO MAY APPLY",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 17,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "FINANCIAL REQUIREMENTS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 19,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Students with income and assets in Italy",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 21,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Independent student",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 22,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Foreign students coming from particularly poor countries",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 23,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Stateless or political refugee students",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 24,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Limits regarding ISEE/ISPEE, ISEEU/ISPEEU, and minimum annual income for an independent student",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 28,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Academic merit requirements for students enrolled on the FIRST YEAR of Bachelor of Science, Master of Science, and single-cycle Master of Science courses.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 29,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Correct determination of ECTS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 31,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Students with disabilities",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 33,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "MERIT-BASED REQUIREMENTS: students enrolled in SUBSEQUENT YEARS.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 35,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Credit bonus.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 36,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "How to use the bonus.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 39,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "DEADLINES FOR SUBMITTING THE APPLICATION.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 40,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "HOW TO SUBMIT AN APPLICATION",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 42,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Case of transfer TO or FROM another university",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 43,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Case of a student attending a Bachelor of Science program who is receiving DSU Scholarship and is enrolling in a Master of Science program starting from the second semester",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 44,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Status discipline in case of profile change in II semester",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 45,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Case of a student waiting to obtain a first-level degree and enrolling in the first year of a Master of Science course",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 47,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "EXCLUSION FROM RANKINGS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 48,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "FORFEITURE OF BENEFITS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 49,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "VALIDATION OF TRUTHFUL STATEMENTS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 50,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "FISCAL ASPECTS.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 51,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Accumulation and exceptions",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 52,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "DSU SCHOLARSHIPS: NUMBER AND VALUE",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 54,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "GEOGRAPHIC ORIGIN OF THE STUDENT: LOCAL, COMMUTER, AND AWAY FROM HOME",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 55,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Request for recognition of away from home status",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 56,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Case of the 'away from home' student who withdraws from the original lease agreement and signs a new one",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 57,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Case of the 'away from home' student in the previous a.y. who applies for DSU benefits in the a.y. 2025/2026, too",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 58,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Case of the student who participates in a 'international mobility' in the a.y. 2025/2026.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 60,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Case of the student who loses their 'away from home' status due to the acquisition of residence.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 61,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "DURATION OF GRANTING OF THE DSU SCHOLARSHIPS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 62,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "FORMATION OF THE RANKINGS FOR THE SCHOLARSHIP.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 63,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Case of a student enrolling in a Master of Science program starting from the second semester.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 64,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Case of a student waiting for ECTS to be validated",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 65,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "PUBLICATION OF THE RANKINGS AND REQUEST FOR REVIEW",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 66,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Methods of assignment of scholarships",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 67,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "PAYMENT OF SCHOLARSHIPS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 68,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "How the DSU Scholarship is paid",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 69,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "CANTEEN SERVICE",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 70,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Activation and authorisation of the card.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 71,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Duration of service",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 72,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Value of the service",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 73,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Rules of use of the \"Ateneo +\" Card",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 74,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "INTEGRATION OF DSU SCHOLARSHIP TO PARTICIPATE IN INTERNATIONAL MOBILITY PROGRAMS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 75,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Submitting an application",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 76,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Amount of contributions",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 77,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Prohibition of using canteen service",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 78,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "The free mover DSU scholarship holder and the reimbursement of the canteen service",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 79,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "DEGREE AWARD AS INTEGRATION OF DSU SCHOLARSHIP",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 80,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "PREFERENTIAL RATE RESIDENCE SERVICE",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 81,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Deadlines for submission of an application.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 82,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "AVAILABLE PREFERENTIAL RATE HOUSING PLACES: NUMBERS AND LOCATIONS.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 83,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Rankings",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 84,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "ALLOCATION OF PREFERENTIAL RATE HOUSING",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 86,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "MERIT REQUIREMENTS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 88,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "PROCEDURE FOR FORMING THE RANKINGS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 90,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "PUBLICATION OF THE RANKINGS AND REVIEW REQUESTS.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 92,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Students enrolled in subsequent years",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 94,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "ASSIGNMENT OF RESIDENCE SLOTS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 96,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Methods of assignment and deadlines for acceptance",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 98,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "COST OF THE RESIDENCE SLOTS",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 100,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "REVOCATION OF THE BENEFIT",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 120,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 122,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 132,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 159,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 163,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 203,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Students with income and assets only abroad or both abroad and in Italy",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 223,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 232,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Case of withdrawal from the paid accommodation rental agreement",
+      "match_method": "llm"
+    },
+    {
+      "line_number": 239,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 249,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 257,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 261,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "MERIT-BASED REQUIREMENTS: students enrolled in the FIRST YEAR",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 263,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 271,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 302,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 304,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 318,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Non-confirmation and revocation of benefits for students enrolled in the FIRST YEAR of Bachelor of Science, Master of Science, and single-cycle Master of Science courses",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 347,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 353,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 377,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 389,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 405,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "MERIT-BASED REQUIREMENTS: Students enrolled in PhD and specialization courses",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 409,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 427,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 445,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 461,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 469,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 477,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 487,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 500,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 515,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 525,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 533,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 548,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 550,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 574,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 589,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 676,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 704,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 714,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 736,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 748,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 756,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 770,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 774,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 784,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 793,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 801,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 807,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 815,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 819,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 825,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 835,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 841,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 849,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 877,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 883,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 907,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 925,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 933,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 947,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 955,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 981,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 989,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1001,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1019,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1029,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1047,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1066,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1072,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1080,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1100,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1110,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1131,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1141,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1154,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1158,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1178,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1194,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1204,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1226,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1238,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1240,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1252,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1262,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1285,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1289,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1295,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1305,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1342,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1346,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1350,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1354,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1361,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1374,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1376,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1383,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1391,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1395,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1409,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1411,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1415,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    }
+  ]
+}

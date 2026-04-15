@@ -1,0 +1,739 @@
+{
+  "toc": [
+    {
+      "title": "BENEFITS AVAILABLE. SCHOLARSHIP AND ACCOMMODATION",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 1",
+      "separator": " ",
+      "pattern": "ART. 1 BENEFITS AVAILABLE. SCHOLARSHIP AND ACCOMMODATION",
+      "page": 5,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "DEFINITIONS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 2",
+      "separator": " ",
+      "pattern": "ART. 2 DEFINITIONS",
+      "page": 5,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "GENERAL REQUIREMENTS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 3",
+      "separator": " ",
+      "pattern": "ART. 3 GENERAL REQUIREMENTS",
+      "page": 8,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "DURATION OF BENEFITS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 4",
+      "separator": " ",
+      "pattern": "ART. 4 DURATION OF BENEFITS",
+      "page": 9,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "MERIT REQUIREMENTS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 5",
+      "separator": " ",
+      "pattern": "ART. 5 MERIT REQUIREMENTS",
+      "page": 10,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "OBTAINING A BACHELOR'S DEGREE AND ENROLMENT IN A MASTER'S DEGREE PROGRAMME",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 6",
+      "separator": " ",
+      "pattern": "ART. 6 OBTAINING A BACHELOR'S DEGREE AND ENROLMENT IN A MASTER'S DEGREE PROGRAMME",
+      "page": 13,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "FINANCIAL REQUIREMENTS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 7",
+      "separator": " ",
+      "pattern": "ART. 7 FINANCIAL REQUIREMENTS",
+      "page": 15,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "FOREIGN STUDENTS AND ITALIAN STUDENTS RESIDING ABROAD",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 8",
+      "separator": " ",
+      "pattern": "ART. 8 FOREIGN STUDENTS AND ITALIAN STUDENTS RESIDING ABROAD",
+      "page": 17,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "STUDENTS WITH DISABILITIES",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 9",
+      "separator": " ",
+      "pattern": "ART. 9 STUDENTS WITH DISABILITIES",
+      "page": 21,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "STUDENTS WITH MINOR CHILDREN",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 10",
+      "separator": " ",
+      "pattern": "ART. 10 STUDENTS WITH MINOR CHILDREN",
+      "page": 23,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "STUDENTS IN PRISON",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 11",
+      "separator": " ",
+      "pattern": "ART. 11 STUDENTS IN PRISON",
+      "page": 24,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "STUDENT ATHLETES",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 12",
+      "separator": " ",
+      "pattern": "ART. 12 STUDENT ATHLETES",
+      "page": 24,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "STUDENT CARE LEIVERS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 13",
+      "separator": " ",
+      "pattern": "ART. 13 STUDENT CARE LEIVERS",
+      "page": 24,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "CONTRIBUTIONS FOR INTERNATIONAL MOBILITY",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 14",
+      "separator": " ",
+      "pattern": "ART. 14 CONTRIBUTIONS FOR INTERNATIONAL MOBILITY",
+      "page": 24,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "TERMS AND CONDITIONS FOR SUBMITTING THE APPLICATION",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 15",
+      "separator": " ",
+      "pattern": "ART. 15 TERMS AND CONDITIONS FOR SUBMITTING THE APPLICATION",
+      "page": 27,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "CRITERIA FOR DETERMINING THE NUMBER OF SCHOLARSHIPS AVAILABLE.",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 16",
+      "separator": " ",
+      "pattern": "ART. 16 CRITERIA FOR DETERMINING THE NUMBER OF SCHOLARSHIPS AVAILABLE.",
+      "page": 30,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "CRITERIA FOR THE FORMULATION OF RANKINGS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 17",
+      "separator": " ",
+      "pattern": "ART. 17 CRITERIA FOR THE FORMULATION OF RANKINGS",
+      "page": 31,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "OUTCOME OF COMPETITION AND PUBLICATION OF RANKINGS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 18",
+      "separator": " ",
+      "pattern": "ART. 18 OUTCOME OF COMPETITION AND PUBLICATION OF RANKINGS",
+      "page": 33,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "SCHOLARSHIP AMOUNTS AND RELATED SERVICES",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 19",
+      "separator": " ",
+      "pattern": "ART. 19 SCHOLARSHIP AMOUNTS AND RELATED SERVICES",
+      "page": 35,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "ACCOMMODATION SERVICE",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 20",
+      "separator": " ",
+      "pattern": "ART. 20 ACCOMMODATION SERVICE",
+      "page": 40,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "SCHOLARSHIP PAYMENT METHODS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 21",
+      "separator": " ",
+      "pattern": "ART. 21 SCHOLARSHIP PAYMENT METHODS",
+      "page": 47,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "CAUSES OF FORFEITURE OF BENEFITS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 22",
+      "separator": " ",
+      "pattern": "ART. 22 CAUSES OF FORFEITURE OF BENEFITS",
+      "page": 48,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "VERIFICATION OF THE ACCURACY OF THE STATEMENTS MADE",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART.23",
+      "separator": " ",
+      "pattern": "ART.23 VERIFICATION OF THE ACCURACY OF THE STATEMENTS MADE",
+      "page": 50,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "INFORMATION PURSUANT TO CHAPTER III OF REGULATION (EU) NO 679 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL OF 27 APRIL 2016 (GDPR)",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 24",
+      "separator": " ",
+      "pattern": "ART. 24 INFORMATION PURSUANT TO CHAPTER III OF REGULATION (EU) NO 679 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL OF 27 APRIL 2016 (GDPR)",
+      "page": 54,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "REFERENCE STANDARD",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 25",
+      "separator": " ",
+      "pattern": "ART. 25 REFERENCE STANDARD",
+      "page": 55,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "HEAD OF PROCEEDINGS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 26",
+      "separator": " ",
+      "pattern": "ART. 26 HEAD OF PROCEEDINGS",
+      "page": 55,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "INFORMATION ABOUT THE CALL FOR APPLICATIONS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 27",
+      "separator": " ",
+      "pattern": "ART. 27 INFORMATION ABOUT THE CALL FOR APPLICATIONS",
+      "page": 55,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "List of municipalities within 90 minutes of course venues",
+      "kind": "annex",
+      "depth": 1,
+      "numbering": "Appendix A",
+      "separator": " - ",
+      "pattern": "Appendix A - List of municipalities within 90 minutes of course venues",
+      "page": null,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Required documents for non-EU students",
+      "kind": "annex",
+      "depth": 1,
+      "numbering": "Appendix B",
+      "separator": " - ",
+      "pattern": "Appendix B - Required documents for non-EU students",
+      "page": null,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "List of particularly poor and developing countries identified by Ministerial Decree 166 of 03/03/2025",
+      "kind": "annex",
+      "depth": 1,
+      "numbering": "Appendix C",
+      "separator": " - ",
+      "pattern": "Appendix C - List of particularly poor and developing countries identified by Ministerial Decree 166 of 03/03/2025",
+      "page": null,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Declaration of financial status for EU students",
+      "kind": "annex",
+      "depth": 1,
+      "numbering": "Appendix D",
+      "separator": " - ",
+      "pattern": "Appendix D - Declaration of financial status for EU students",
+      "page": null,
+      "confidence": 0.9,
+      "children": []
+    }
+  ],
+  "heading_map": [
+    {
+      "title": "BENEFITS AVAILABLE. SCHOLARSHIP AND ACCOMMODATION",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 1",
+      "separator": " ",
+      "pattern": "ART. 1 BENEFITS AVAILABLE. SCHOLARSHIP AND ACCOMMODATION",
+      "page": 5,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "DEFINITIONS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 2",
+      "separator": " ",
+      "pattern": "ART. 2 DEFINITIONS",
+      "page": 5,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "GENERAL REQUIREMENTS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 3",
+      "separator": " ",
+      "pattern": "ART. 3 GENERAL REQUIREMENTS",
+      "page": 8,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "DURATION OF BENEFITS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 4",
+      "separator": " ",
+      "pattern": "ART. 4 DURATION OF BENEFITS",
+      "page": 9,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "MERIT REQUIREMENTS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 5",
+      "separator": " ",
+      "pattern": "ART. 5 MERIT REQUIREMENTS",
+      "page": 10,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "OBTAINING A BACHELOR'S DEGREE AND ENROLMENT IN A MASTER'S DEGREE PROGRAMME",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 6",
+      "separator": " ",
+      "pattern": "ART. 6 OBTAINING A BACHELOR'S DEGREE AND ENROLMENT IN A MASTER'S DEGREE PROGRAMME",
+      "page": 13,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "FINANCIAL REQUIREMENTS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 7",
+      "separator": " ",
+      "pattern": "ART. 7 FINANCIAL REQUIREMENTS",
+      "page": 15,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "FOREIGN STUDENTS AND ITALIAN STUDENTS RESIDING ABROAD",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 8",
+      "separator": " ",
+      "pattern": "ART. 8 FOREIGN STUDENTS AND ITALIAN STUDENTS RESIDING ABROAD",
+      "page": 17,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "STUDENTS WITH DISABILITIES",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 9",
+      "separator": " ",
+      "pattern": "ART. 9 STUDENTS WITH DISABILITIES",
+      "page": 21,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "STUDENTS WITH MINOR CHILDREN",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 10",
+      "separator": " ",
+      "pattern": "ART. 10 STUDENTS WITH MINOR CHILDREN",
+      "page": 23,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "STUDENTS IN PRISON",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 11",
+      "separator": " ",
+      "pattern": "ART. 11 STUDENTS IN PRISON",
+      "page": 24,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "STUDENT ATHLETES",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 12",
+      "separator": " ",
+      "pattern": "ART. 12 STUDENT ATHLETES",
+      "page": 24,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "STUDENT CARE LEIVERS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 13",
+      "separator": " ",
+      "pattern": "ART. 13 STUDENT CARE LEIVERS",
+      "page": 24,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "CONTRIBUTIONS FOR INTERNATIONAL MOBILITY",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 14",
+      "separator": " ",
+      "pattern": "ART. 14 CONTRIBUTIONS FOR INTERNATIONAL MOBILITY",
+      "page": 24,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "TERMS AND CONDITIONS FOR SUBMITTING THE APPLICATION",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 15",
+      "separator": " ",
+      "pattern": "ART. 15 TERMS AND CONDITIONS FOR SUBMITTING THE APPLICATION",
+      "page": 27,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "CRITERIA FOR DETERMINING THE NUMBER OF SCHOLARSHIPS AVAILABLE.",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 16",
+      "separator": " ",
+      "pattern": "ART. 16 CRITERIA FOR DETERMINING THE NUMBER OF SCHOLARSHIPS AVAILABLE.",
+      "page": 30,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "CRITERIA FOR THE FORMULATION OF RANKINGS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 17",
+      "separator": " ",
+      "pattern": "ART. 17 CRITERIA FOR THE FORMULATION OF RANKINGS",
+      "page": 31,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "OUTCOME OF COMPETITION AND PUBLICATION OF RANKINGS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 18",
+      "separator": " ",
+      "pattern": "ART. 18 OUTCOME OF COMPETITION AND PUBLICATION OF RANKINGS",
+      "page": 33,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "SCHOLARSHIP AMOUNTS AND RELATED SERVICES",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 19",
+      "separator": " ",
+      "pattern": "ART. 19 SCHOLARSHIP AMOUNTS AND RELATED SERVICES",
+      "page": 35,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "ACCOMMODATION SERVICE",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 20",
+      "separator": " ",
+      "pattern": "ART. 20 ACCOMMODATION SERVICE",
+      "page": 40,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "SCHOLARSHIP PAYMENT METHODS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 21",
+      "separator": " ",
+      "pattern": "ART. 21 SCHOLARSHIP PAYMENT METHODS",
+      "page": 47,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "CAUSES OF FORFEITURE OF BENEFITS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 22",
+      "separator": " ",
+      "pattern": "ART. 22 CAUSES OF FORFEITURE OF BENEFITS",
+      "page": 48,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "VERIFICATION OF THE ACCURACY OF THE STATEMENTS MADE",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART.23",
+      "separator": " ",
+      "pattern": "ART.23 VERIFICATION OF THE ACCURACY OF THE STATEMENTS MADE",
+      "page": 50,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "INFORMATION PURSUANT TO CHAPTER III OF REGULATION (EU) NO 679 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL OF 27 APRIL 2016 (GDPR)",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 24",
+      "separator": " ",
+      "pattern": "ART. 24 INFORMATION PURSUANT TO CHAPTER III OF REGULATION (EU) NO 679 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL OF 27 APRIL 2016 (GDPR)",
+      "page": 54,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "REFERENCE STANDARD",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 25",
+      "separator": " ",
+      "pattern": "ART. 25 REFERENCE STANDARD",
+      "page": 55,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "HEAD OF PROCEEDINGS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 26",
+      "separator": " ",
+      "pattern": "ART. 26 HEAD OF PROCEEDINGS",
+      "page": 55,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "INFORMATION ABOUT THE CALL FOR APPLICATIONS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "ART. 27",
+      "separator": " ",
+      "pattern": "ART. 27 INFORMATION ABOUT THE CALL FOR APPLICATIONS",
+      "page": 55,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "List of municipalities within 90 minutes of course venues",
+      "kind": "annex",
+      "depth": 1,
+      "numbering": "Appendix A",
+      "separator": " - ",
+      "pattern": "Appendix A - List of municipalities within 90 minutes of course venues",
+      "page": null,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Required documents for non-EU students",
+      "kind": "annex",
+      "depth": 1,
+      "numbering": "Appendix B",
+      "separator": " - ",
+      "pattern": "Appendix B - Required documents for non-EU students",
+      "page": null,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "List of particularly poor and developing countries identified by Ministerial Decree 166 of 03/03/2025",
+      "kind": "annex",
+      "depth": 1,
+      "numbering": "Appendix C",
+      "separator": " - ",
+      "pattern": "Appendix C - List of particularly poor and developing countries identified by Ministerial Decree 166 of 03/03/2025",
+      "page": null,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Declaration of financial status for EU students",
+      "kind": "annex",
+      "depth": 1,
+      "numbering": "Appendix D",
+      "separator": " - ",
+      "pattern": "Appendix D - Declaration of financial status for EU students",
+      "page": null,
+      "confidence": 0.9,
+      "children": []
+    }
+  ],
+  "summary": "This document announces the competition for awarding scholarships and accommodation for the 2025/2026 academic year, outlining eligibility criteria, application procedures, and benefit details. It covers various student categories, including foreign students, those with disabilities, and student athletes, and specifies the terms for ranking, benefit amounts, and conditions for forfeiture. The official Italian version holds legal validity.",
+  "metadata": {
+    "title": "Unknown",
+    "source": "inferred",
+    "year": null,
+    "document_type": null,
+    "organization": null
+  },
+  "toc_boundaries": {
+    "start_line": 0,
+    "end_line": 99,
+    "marker": "(agent-detected)"
+  },
+  "processing_log": [
+    {
+      "action": "read",
+      "detail": "Read 2090 lines from /Users/omiderfanmanesh/Projects/DocStruct/data/Competition announcement for the award of scholarships and accommodation a.y. 2025:2026 – DSU Toscana(ENG).md",
+      "line": null
+    },
+    {
+      "action": "detected",
+      "detail": "TOC marker '(agent-detected)' at line 0",
+      "line": 0
+    },
+    {
+      "action": "boundary",
+      "detail": "TOC spans lines 0-99",
+      "line": null
+    },
+    {
+      "action": "classified",
+      "detail": "LLM extracted 31 TOC entries",
+      "line": null
+    },
+    {
+      "action": "mapped",
+      "detail": "Built heading tree with 31 root nodes",
+      "line": null
+    },
+    {
+      "action": "summarized",
+      "detail": "Generated document summary",
+      "line": null
+    },
+    {
+      "action": "metadata",
+      "detail": "Extracted metadata: title='Unknown', source=inferred",
+      "line": null
+    }
+  ],
+  "extracted_at": "2026-04-15T09:22:03.478193Z"
+}

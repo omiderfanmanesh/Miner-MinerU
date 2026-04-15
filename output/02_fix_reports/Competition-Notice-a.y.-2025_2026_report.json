@@ -1,10 +1,13 @@
 {
-  "source_file": "data\\Competition-Notice-a.y.-2025_2026.md",
-  "output_file": "output/fixed\\Competition-Notice-a.y.-2025_2026.md",
-  "total_lines": 1586,
-  "lines_changed": 79,
+  "source_file": "/Users/omiderfanmanesh/Projects/DocStruct/data/Competition-Notice-a.y.-2025_2026.md",
+  "output_file": "/Users/omiderfanmanesh/Projects/DocStruct/output/02_fixed_markdown/Competition-Notice-a.y.-2025_2026.md",
+  "total_lines": 1594,
+  "lines_changed": 85,
   "lines_demoted": 1,
-  "unmatched_toc_entries": [],
+  "unmatched_toc_entries": [
+    "Benefits of the Competition Notice",
+    "Duration of the concession of the benefits"
+  ],
   "corrections": [
     {
       "line_number": 63,
@@ -19,6 +22,27 @@
       "new_level": 2,
       "matched_toc_title": "Eligible students",
       "match_method": "exact"
+    },
+    {
+      "line_number": -85000001,
+      "old_level": 1,
+      "new_level": 4,
+      "matched_toc_title": "IN LIGURIA",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 85,
+      "old_level": 1,
+      "new_level": 4,
+      "matched_toc_title": "TABLE B",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 89,
+      "old_level": 1,
+      "new_level": 4,
+      "matched_toc_title": "LIST OF INSTITUTIONS FOR HIGHER EDUCATION IN ART AND MUSIC (AFAM)........",
+      "match_method": "llm"
     },
     {
       "line_number": 94,
@@ -39,7 +63,7 @@
       "old_level": 1,
       "new_level": 3,
       "matched_toc_title": "Accommodation",
-      "match_method": "llm"
+      "match_method": "exact"
     },
     {
       "line_number": 107,
@@ -77,6 +101,13 @@
       "match_method": "exact"
     },
     {
+      "line_number": 145,
+      "old_level": 1,
+      "new_level": 4,
+      "matched_toc_title": "LIST OF MUNICIPALITIES CONSIDERED AS \u201cOFF\u2010SITE\u201d WITH RESPECT TO THE......",
+      "match_method": "llm"
+    },
+    {
       "line_number": 151,
       "old_level": 1,
       "new_level": 2,
@@ -94,8 +125,8 @@
       "line_number": 191,
       "old_level": 1,
       "new_level": 3,
-      "matched_toc_title": "Exceptions to the use of SPID/CIE (until new regulatory dispositions):",
-      "match_method": "llm"
+      "matched_toc_title": "Exceptions to the use of SPID/CIE (until new regulatory dispositions)",
+      "match_method": "exact"
     },
     {
       "line_number": 203,
@@ -180,6 +211,13 @@
       "new_level": 3,
       "matched_toc_title": "University ISEE/Parified ISEE",
       "match_method": "exact"
+    },
+    {
+      "line_number": 529,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Eligible students",
+      "match_method": "llm"
     },
     {
       "line_number": 533,
@@ -550,6 +588,13 @@
       "old_level": 1,
       "new_level": 4,
       "matched_toc_title": "For further information:",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 1494,
+      "old_level": 1,
+      "new_level": 4,
+      "matched_toc_title": "UNIVERSITY SITES",
       "match_method": "exact"
     },
     {

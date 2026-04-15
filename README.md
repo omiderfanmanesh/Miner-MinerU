@@ -78,6 +78,8 @@ Supported provider variables:
 - `ANTHROPIC_API_KEY`
 - `OPENAI_API_KEY`
 - `OPENAI_MODEL`
+- `OLLAMA_BASE_URL`
+- `OLLAMA_MODEL`
 - `AZURE_OPENAI_API_KEY`
 - `AZURE_OPENAI_ENDPOINT`
 - `AZURE_OPENAI_DEPLOYMENT`
@@ -90,6 +92,8 @@ DocStruct-specific settings use the `DOCSTRUCT_` prefix, for example:
 - `DOCSTRUCT_AGENT_MODEL`
 
 If you use `LLM_PROVIDER=openai`, DocStruct will default the agent model from `OPENAI_MODEL` and fall back to `gpt-4.1-mini` when `DOCSTRUCT_AGENT_MODEL` is not set.
+
+If you use `LLM_PROVIDER=ollama`, DocStruct will default the agent model from `OLLAMA_MODEL` and fall back to `llama3.1` when `DOCSTRUCT_AGENT_MODEL` is not set. `OLLAMA_BASE_URL` defaults to `http://localhost:11434` for local runs.
 
 ## PageIndex Workflow
 
@@ -107,7 +111,7 @@ It also performs a HyPE-style retrieval rewrite before document selection: the a
 
 Each indexed document now includes a compact `search_profile` used for low-token document ranking. The profile favors issuer, region, academic year, covered institutions, covered cities, and benefit types over long descriptive summaries.
 
-For best reasoning quality, point `AZURE_OPENAI_DEPLOYMENT`, `OPENAI_MODEL`, or your Anthropic model setting at the strongest chat/reasoning model available in your environment rather than a mini-tier default.
+For best reasoning quality, point `AZURE_OPENAI_DEPLOYMENT`, `OPENAI_MODEL`, `OLLAMA_MODEL`, or your Anthropic model setting at the strongest chat/reasoning model available in your environment rather than a mini-tier default.
 
 ## Output Layout
 

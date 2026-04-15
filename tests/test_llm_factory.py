@@ -40,3 +40,32 @@ def test_build_client_returns_openai_adapter(monkeypatch):
 
     assert isinstance(client, DummyAdapter)
     assert client.api_key == "test-key"
+
+
+def test_agent_config_uses_ollama_model_when_provider_is_ollama(monkeypatch):
+    monkeypatch.setenv("LLM_PROVIDER", "ollama")
+    monkeypatch.delenv("DOCSTRUCT_AGENT_PROVIDER", raising=False)
+    monkeypatch.delenv("DOCSTRUCT_AGENT_MODEL", raising=False)
+    monkeypatch.setenv("OLLAMA_MODEL", "qwen3:8b")
+    monkeypatch.setenv("OLLAMA_BASE_URL", "http://localhost:11434")
+
+    config = AgentConfig.from_env()
+
+    assert config.provider == "ollama"
+    assert config.model == "qwen3:8b"
+    assert config.api_endpoint == "http://localhost:11434"
+
+
+def test_build_client_returns_ollama_adapter(monkeypatch):
+    class DummyAdapter:
+        def __init__(self, *, base_url: str | None = None):
+            self.base_url = base_url
+
+    monkeypatch.setenv("LLM_PROVIDER", "ollama")
+    monkeypatch.setenv("OLLAMA_BASE_URL", "http://localhost:11434")
+    monkeypatch.setattr(factory, "OllamaAdapter", DummyAdapter)
+
+    client = factory.build_client()
+
+    assert isinstance(client, DummyAdapter)
+    assert client.base_url == "http://localhost:11434"

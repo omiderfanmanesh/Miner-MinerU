@@ -20,6 +20,8 @@ def _default_agent_model(provider: str) -> str:
         return os.getenv("AZURE_OPENAI_DEPLOYMENT", "gpt-4.1-mini")
     if normalized == "openai":
         return os.getenv("OPENAI_MODEL", "gpt-4.1-mini")
+    if normalized == "ollama":
+        return os.getenv("OLLAMA_MODEL", "llama3.1")
     return "claude-haiku-4-5-20251001"
 
 
@@ -68,6 +70,8 @@ class AgentConfig:
                 or _getenv_nonempty("AZURE_OPENAI_API_KEY")
                 or _getenv_nonempty("OPENAI_API_KEY")
             )
+        if not self.api_endpoint:
+            self.api_endpoint = _getenv_nonempty("OLLAMA_BASE_URL")
 
     @classmethod
     def from_env(cls) -> "AgentConfig":

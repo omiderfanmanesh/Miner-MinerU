@@ -12,6 +12,7 @@ dependencies = [
   "anthropic",
   "langchain-anthropic",
   "langchain-core",
+  "langchain-ollama",
   "langchain-openai",
   "langgraph",
   "openai",

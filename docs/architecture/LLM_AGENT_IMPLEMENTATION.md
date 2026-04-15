@@ -124,6 +124,11 @@ client = build_client()  # Reads LLM_PROVIDER env var
 export LLM_PROVIDER=anthropic
 export ANTHROPIC_API_KEY=sk-ant-...
 
+# Ollama
+export LLM_PROVIDER=ollama
+export OLLAMA_BASE_URL=http://localhost:11434
+export OLLAMA_MODEL=llama3.1
+
 # Azure OpenAI
 export LLM_PROVIDER=azure
 export AZURE_OPENAI_API_KEY=...

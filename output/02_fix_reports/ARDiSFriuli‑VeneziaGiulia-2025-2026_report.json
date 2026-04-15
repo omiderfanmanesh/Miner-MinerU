@@ -1,0 +1,1711 @@
+{
+  "source_file": "/Users/omiderfanmanesh/Projects/DocStruct/data/ARDiSFriuli\u2011VeneziaGiulia-2025-2026.md",
+  "output_file": "/Users/omiderfanmanesh/Projects/DocStruct/output/02_fixed_markdown/ARDiSFriuli\u2011VeneziaGiulia-2025-2026.md",
+  "total_lines": 2082,
+  "lines_changed": 239,
+  "lines_demoted": 175,
+  "unmatched_toc_entries": [],
+  "corrections": [
+    {
+      "line_number": 3,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": null,
+      "match_method": "doc_title"
+    },
+    {
+      "line_number": 5,
+      "old_level": 1,
+      "new_level": 4,
+      "matched_toc_title": "SCHOLARSHIP",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 7,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 27,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 31,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Benefits envisaged by the call",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 33,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Recipients of benefits",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 35,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Duration of eligibility for benefits.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 37,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Eligibility Requirements",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 39,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Students with disabilities (pursuant to Article 3(1) of Law no. 104 of 5 February 1992 or with a disability of  $66\\%$  or more).",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 41,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Submission of applications",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 43,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Procedures for the rankings.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 45,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Publication of rankings.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 47,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Requests for review.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 49,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Checks on merit and economic conditions, sanctions.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 51,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Forfeiture and exclusion from benefits",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 53,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Information on the processing of personal data pursuant to Leg. Decree 196/2003 (Personal Data Protection",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 57,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Reference legislation.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 61,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Scholarships funds.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 63,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Application deadline and procedure",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 65,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Status of students: on-site, commuter and off-site.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 67,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Amounts",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 69,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Tuition Fee Exemption",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 71,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Regional tax for the right to university education",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 73,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Allocation Reserves",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 75,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Students enrolled at the School of Advanced Education of Udine or the Collegio Fonda.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 77,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Rankings.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 79,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Payment",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 81,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Cumulation limit",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 83,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Revocation",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 85,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Students with disabilities (pursuant to Article 3(1) of Law no. 104 of 5 February 1992, and/or disability of  $66\\%$  or more).",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 87,
+      "old_level": 1,
+      "new_level": 4,
+      "matched_toc_title": "ACCOMODATION",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 89,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Accommodation places",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 91,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Specific Requirements",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 93,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Allocation modalities",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 95,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Application deadline and admission dates for students meeting income and merit requirements",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 97,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Rankings.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 99,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Admissions.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 101,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Renunciations",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 103,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Closure of Student Houses",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 105,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Deposit",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 107,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Accommodation fees",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 109,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Revocation and forfeiture of accommodation",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 111,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Students with enrolment-only status.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 113,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Methods of payment the deposit and the accommodation fee",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 123,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Grants envisaged by the call.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 125,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Rankings.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 127,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Payment",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 129,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Revocation",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 131,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Application deadline and procedure.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 133,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Grants envisaged by the call",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 135,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Specific requirements.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 137,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Rankings.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 141,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Payment",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 143,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Revocation",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 145,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Application term and procedure",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 147,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Grants envisaged by the call",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 149,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Specific requirements.",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 151,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Rankings",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 153,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Payment",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 155,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Revocation",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 157,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "ANNEXES",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 159,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "Status of on-site, commuter and off-site students",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 161,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "Ministerial Decree no. 440 of 13-2-2024 Definition of the list of particularly poor countries for the academic year",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 165,
+      "old_level": 1,
+      "new_level": 4,
+      "matched_toc_title": "Contacts - Trieste Office",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 167,
+      "old_level": 1,
+      "new_level": 4,
+      "matched_toc_title": "Contacts - Udine Office",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 169,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Grants envisaged by the call. Errore. Il segnalibro non \u00e8 definito.",
+      "match_method": "llm"
+    },
+    {
+      "line_number": 179,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 209,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 237,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 248,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 252,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 258,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 262,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 266,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 281,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 289,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 301,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 313,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 345,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 376,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 380,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 391,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 430,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 436,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 447,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 453,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 457,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 465,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Rankings. Errore. Il segnalbro non \u00e8 definito.",
+      "match_method": "llm"
+    },
+    {
+      "line_number": 481,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 483,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Payment. Errore. Il segnalibro non \u00e8 definito.",
+      "match_method": "llm"
+    },
+    {
+      "line_number": 490,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 496,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 533,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 541,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 547,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 551,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 563,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 567,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 573,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 577,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 585,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 593,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 605,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 611,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 625,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 639,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 649,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 659,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 684,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 714,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 744,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 757,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 761,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 765,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 769,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 773,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 800,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 810,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 816,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 824,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 828,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 836,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 875,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 883,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 887,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 893,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 910,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 914,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 932,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 938,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 944,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 952,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 972,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 982,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 992,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 996,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1008,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1016,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Revocation. Errore. Il segnalibro non \u00e8 definito.",
+      "match_method": "llm"
+    },
+    {
+      "line_number": 1029,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1037,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1048,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1052,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1054,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1071,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1077,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1104,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1108,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1112,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1116,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1132,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1134,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1144,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1158,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1169,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1181,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1191,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1200,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1204,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1214,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1224,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1235,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1247,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1257,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1261,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1271,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1281,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1291,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1297,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1303,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1321,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1326,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1346,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1354,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1369,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1383,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1421,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1427,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1439,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1445,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1453,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1459,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1486,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1496,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1512,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1520,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1526,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1548,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1558,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1566,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1590,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1606,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1610,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1614,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1620,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1638,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1640,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1657,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1679,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1695,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1705,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1709,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1725,
+      "old_level": 1,
+      "new_level": 2,
+      "matched_toc_title": "Payment. Errore. Il segnalibro non \u00e8 definito.",
+      "match_method": "llm"
+    },
+    {
+      "line_number": 1740,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1759,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1784,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1802,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1806,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1808,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1812,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1818,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1822,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1824,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1828,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1834,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1838,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1840,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1844,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1850,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1854,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1856,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1860,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1866,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1870,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1872,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1876,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1882,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1886,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1888,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1892,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1898,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1902,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1904,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1908,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1914,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1918,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1969,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1975,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1987,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1989,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1993,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 1997,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 2005,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 2007,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    }
+  ]
+}

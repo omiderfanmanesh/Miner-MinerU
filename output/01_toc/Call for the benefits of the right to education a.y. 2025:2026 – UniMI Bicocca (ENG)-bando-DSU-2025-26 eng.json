@@ -1,0 +1,2414 @@
+{
+  "toc": [
+    {
+      "title": "Index",
+      "kind": "section",
+      "depth": 1,
+      "numbering": null,
+      "separator": null,
+      "pattern": "Index",
+      "page": null,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "DEADLINES",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "1.",
+      "separator": " ",
+      "pattern": "1. DEADLINES",
+      "page": 8,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "PROCEDURE FOR SUBMITTING THE APPLICATION",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "2.",
+      "separator": " ",
+      "pattern": "2. PROCEDURE FOR SUBMITTING THE APPLICATION",
+      "page": 8,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "SCHOLARSHIP",
+      "kind": "section",
+      "depth": 1,
+      "numbering": null,
+      "separator": null,
+      "pattern": "SCHOLARSHIP",
+      "page": 9,
+      "confidence": 0.8,
+      "children": []
+    },
+    {
+      "title": "COMPOSITION OF THE SCHOLARSHIPS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "1.",
+      "separator": " ",
+      "pattern": "1. COMPOSITION OF THE SCHOLARSHIPS",
+      "page": 9,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "GENERAL CONDITIONS OF PARTICIPATION",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "2.",
+      "separator": " ",
+      "pattern": "2. GENERAL CONDITIONS OF PARTICIPATION",
+      "page": 9,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "MERIT REQUIREMENTS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "3.",
+      "separator": " ",
+      "pattern": "3. MERIT REQUIREMENTS",
+      "page": 9,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "General requirements",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "3.1.",
+      "separator": " ",
+      "pattern": "3.1. General requirements",
+      "page": 9,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Grounds for exclusion",
+      "kind": "subarticle",
+      "depth": 4,
+      "numbering": "3.1.1.",
+      "separator": " ",
+      "pattern": "3.1.1. Grounds for exclusion",
+      "page": 9,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Academic regularity",
+      "kind": "subarticle",
+      "depth": 4,
+      "numbering": "3.1.2.",
+      "separator": " ",
+      "pattern": "3.1.2. Academic regularity",
+      "page": 10,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Academic regularity - per-university education at foreign schools",
+      "kind": "subarticle",
+      "depth": 4,
+      "numbering": "3.1.3.",
+      "separator": " ",
+      "pattern": "3.1.3. Academic regularity - per-university education at foreign schools",
+      "page": 11,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Documents of qualification achieved abroad",
+      "kind": "subarticle",
+      "depth": 4,
+      "numbering": "3.1.4.",
+      "separator": " ",
+      "pattern": "3.1.4. Documents of qualification achieved abroad",
+      "page": 11,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Students enrolled in the FIRST year of all degree courses",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "3.2.",
+      "separator": " ",
+      "pattern": "3.2. Students enrolled in the FIRST year of all degree courses",
+      "page": 11,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Access requirement",
+      "kind": "subarticle",
+      "depth": 4,
+      "numbering": "3.2.1.",
+      "separator": " ",
+      "pattern": "3.2.1. Access requirement",
+      "page": 11,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Ex-post merit requirement (only for first year students)",
+      "kind": "subarticle",
+      "depth": 4,
+      "numbering": "3.2.2.",
+      "separator": " ",
+      "pattern": "3.2.2. Ex-post merit requirement (only for first year students)",
+      "page": 11,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Students enrolled in the SECOND AND SUBSEQUENT years of all degree courses.",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "3.3.",
+      "separator": " ",
+      "pattern": "3.3. Students enrolled in the SECOND AND SUBSEQUENT years of all degree courses.",
+      "page": 12,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Number of credits",
+      "kind": "subarticle",
+      "depth": 4,
+      "numbering": "3.3.1.",
+      "separator": " ",
+      "pattern": "3.3.1.Number of credits",
+      "page": 12,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Proportional criterion",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "3.4.",
+      "separator": " ",
+      "pattern": "3.4. Proportional criterion",
+      "page": 13,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Validity of credits and weighted average",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "3.5.",
+      "separator": " ",
+      "pattern": "3.5. Validity of credits and weighted average",
+      "page": 13,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Valid Credits",
+      "kind": "subarticle",
+      "depth": 4,
+      "numbering": "3.5.1.",
+      "separator": " ",
+      "pattern": "3.5.1. Valid Credits",
+      "page": 13,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Weighted Average",
+      "kind": "subarticle",
+      "depth": 4,
+      "numbering": "3.5.2.",
+      "separator": " ",
+      "pattern": "3.5.2. Weighted Average",
+      "page": 13,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Bonus",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "3.6.",
+      "separator": " ",
+      "pattern": "3.6. Bonus",
+      "page": 13,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Students with disabilities",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "3.7.",
+      "separator": " ",
+      "pattern": "3.7. Students with disabilities",
+      "page": 14,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Specialisation Schools and Ph.D programs",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "3.8.",
+      "separator": " ",
+      "pattern": "3.8. Specialisation Schools and Ph.D programs",
+      "page": 14,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "ECONOMIC REQUIREMENTS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "4.",
+      "separator": " ",
+      "pattern": "4. ECONOMIC REQUIREMENTS",
+      "page": 14,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "SCHOLARSHIP AMOUNT",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "5.",
+      "separator": " ",
+      "pattern": "5. SCHOLARSHIP AMOUNT",
+      "page": 15,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Income brackets",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "5.1.",
+      "separator": " ",
+      "pattern": "5.1. Income brackets",
+      "page": 15,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Geographical origin",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "5.2.",
+      "separator": " ",
+      "pattern": "5.2. Geographical origin",
+      "page": 15,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Scholarship amounts",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "5.3.",
+      "separator": " ",
+      "pattern": "5.3.Scholarship amounts",
+      "page": 16,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Students enrolled in years of regular course",
+      "kind": "subarticle",
+      "depth": 4,
+      "numbering": "5.3.1.",
+      "separator": " ",
+      "pattern": "5.3.1. Students enrolled in years of regular course",
+      "page": 16,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Students enrolled in the first year outside prescribed time",
+      "kind": "subarticle",
+      "depth": 4,
+      "numbering": "5.3.2.",
+      "separator": " ",
+      "pattern": "5.3.2. Students enrolled in the first year outside prescribed time",
+      "page": 17,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Degree prize",
+      "kind": "subarticle",
+      "depth": 4,
+      "numbering": "5.3.3.",
+      "separator": " ",
+      "pattern": "5.3.3.Degree prize",
+      "page": 17,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Free canteen service",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "5.4.",
+      "separator": " ",
+      "pattern": "5.4. Free canteen service",
+      "page": 17,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "SCHOLARSHIP INTEGRATIONS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "6.",
+      "separator": " ",
+      "pattern": "6. SCHOLARSHIP INTEGRATIONS",
+      "page": 18,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Students with disabilities",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "6.1.",
+      "separator": " ",
+      "pattern": "6.1. Students with disabilities",
+      "page": 18,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Amounts",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "6.1.1.",
+      "separator": " ",
+      "pattern": "6.1.1. Amounts",
+      "page": 18,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Period and methods of payment",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "6.1.2.",
+      "separator": " ",
+      "pattern": "6.1.2. Period and methods of payment",
+      "page": 18,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "International mobility",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "6.2.",
+      "separator": " ",
+      "pattern": "6.2. International mobility",
+      "page": 19,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Amounts for international mobility",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "6.2.1.",
+      "separator": " ",
+      "pattern": "6.2.1. Amounts for international mobility",
+      "page": 19,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "International mobility rankings and payment",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "6.2.2.",
+      "separator": " ",
+      "pattern": "6.2.2. International mobility rankings and payment",
+      "page": 19,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Contemporary enrollments",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "6.3.",
+      "separator": null,
+      "pattern": "6.3.Contemporary enrollments",
+      "page": 19,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "DEFINITION OF THE RANKINGS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "7.",
+      "separator": " ",
+      "pattern": "7. DEFINITION OF THE RANKINGS",
+      "page": 19,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Students enrolled in the FIRST year of all DEGREE COURSES and ALL years of PH.D and Specialisation Schools",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "7.1.",
+      "separator": " ",
+      "pattern": "7.1. Students enrolled in the FIRST year of all DEGREE COURSES and ALL years of PH.D and Specialisation Schools",
+      "page": 19,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Students enrolled in SECOND AND SUBSEQUENT YEARS of all DEGREE COURSES",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "7.2.",
+      "separator": " ",
+      "pattern": "7.2. Students enrolled in SECOND AND SUBSEQUENT YEARS of all DEGREE COURSES",
+      "page": 20,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "PUBLICATION OF PROVISIONAL RANKINGS AND APPEALS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "8.",
+      "separator": " ",
+      "pattern": "8. PUBLICATION OF PROVISIONAL RANKINGS AND APPEALS",
+      "page": 20,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "General ranking",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "8.1.",
+      "separator": " ",
+      "pattern": "8.1. General ranking",
+      "page": 20,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Second semester ranking",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "8.2.",
+      "separator": " ",
+      "pattern": "8.2. Second semester ranking",
+      "page": 20,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "PAYMENT OF THE SCHOLARSHIPS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "9.",
+      "separator": " ",
+      "pattern": "9. PAYMENT OF THE SCHOLARSHIPS",
+      "page": 21,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Payment methods",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "9.1.",
+      "separator": " ",
+      "pattern": "9.1. Payment methods",
+      "page": 21,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Payment times",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "9.2.",
+      "separator": " ",
+      "pattern": "9.2. Payment times",
+      "page": 21,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "First and second installment",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "9.2.1.",
+      "separator": " ",
+      "pattern": "9.2.1. First and second installment",
+      "page": 21,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Degree prize",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "9.2.2.",
+      "separator": " ",
+      "pattern": "9.2.2. Degree prize",
+      "page": 21,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "INCOMPATIBILITY AND TRANSFERS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "10.",
+      "separator": " ",
+      "pattern": "10. INCOMPATIBILITY AND TRANSFERS",
+      "page": 21,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Incompatibility",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "10.1.",
+      "separator": " ",
+      "pattern": "10.1. Incompatibility",
+      "page": 21,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Transfers",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "10.2.",
+      "separator": " ",
+      "pattern": "10.2. Transfers",
+      "page": 21,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "FORFEITURE OF THE SCHOLARSHIP BENEFITS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "11.",
+      "separator": " ",
+      "pattern": "11. FORFEITURE OF THE SCHOLARSHIP BENEFITS",
+      "page": 22,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Total forfeiture",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "11.1.",
+      "separator": " ",
+      "pattern": "11.1. Total forfeiture",
+      "page": 22,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Partial forfeiture",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "11.2.",
+      "separator": " ",
+      "pattern": "11.2.Partial forfeiture",
+      "page": 22,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "Consequences of forfeiture",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "11.3.",
+      "separator": " ",
+      "pattern": "11.3. Consequences of forfeiture",
+      "page": 22,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "EXCEPTIONAL SUBSIDY",
+      "kind": "topic",
+      "depth": 2,
+      "numbering": null,
+      "separator": null,
+      "pattern": "EXCEPTIONAL SUBSIDY",
+      "page": 23,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "HOUSING SERVICE",
+      "kind": "topic",
+      "depth": 2,
+      "numbering": null,
+      "separator": null,
+      "pattern": "HOUSING SERVICE",
+      "page": 25,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "AVAILABLE ACCOMMODATION PLACES",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "1.",
+      "separator": " ",
+      "pattern": "1. AVAILABLE ACCOMMODATION PLACES",
+      "page": 25,
+      "confidence": 1,
+      "children": []
+    },
+    {
+      "title": "General information",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "1.1.",
+      "separator": " ",
+      "pattern": "1.1. General information",
+      "page": 25,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Facilities available for students enrolled at the University of Milano-Bicocca",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "1.2.",
+      "separator": " ",
+      "pattern": "1.2. Facilities available for students enrolled at the University of Milano-Bicocca",
+      "page": 25,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "RECONFIRMATE THE ACCOMMODATION PLACE",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "2.",
+      "separator": " ",
+      "pattern": "2. RECONFIRMATE THE ACCOMMODATION PLACE",
+      "page": 25,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "NEW ADMISSIONS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "3.",
+      "separator": " ",
+      "pattern": "3. NEW ADMISSIONS",
+      "page": 25,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "DEFINITIONS OF THE RANKINGS AND PUBLICATION OF THE RESULTS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "4.",
+      "separator": " ",
+      "pattern": "4. DEFINITIONS OF THE RANKINGS AND PUBLICATION OF THE RESULTS",
+      "page": 26,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Definition of the rankings",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "4.1.",
+      "separator": " ",
+      "pattern": "4.1. Definition of the rankings",
+      "page": 26,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Publication of the results and appeals",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "4.2.",
+      "separator": " ",
+      "pattern": "4.2. Publication of the results and appeals",
+      "page": 26,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "ASSIGNMENT OF THE ACCOMMODATION PLACES",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "5.",
+      "separator": " ",
+      "pattern": "5. ASSIGNMENT OF THE ACCOMMODATION PLACES",
+      "page": 26,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Hospitality period",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "5.1.",
+      "separator": " ",
+      "pattern": "5.1. Hospitality period",
+      "page": 26,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Assignment",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "5.2.",
+      "separator": " ",
+      "pattern": "5.2. Assignment",
+      "page": 26,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Assignment for the reconfirmations",
+      "kind": "subarticle",
+      "depth": 4,
+      "numbering": "5.2.1.",
+      "separator": " ",
+      "pattern": "5.2.1. Assignment for the reconfirmations",
+      "page": 27,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Convocation and assignment for new admissions - BENEFICIARIES",
+      "kind": "subarticle",
+      "depth": 4,
+      "numbering": "5.2.2.",
+      "separator": " ",
+      "pattern": "5.2.2. Convocation and assignment for new admissions - BENEFICIARIES",
+      "page": 27,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Convocation and assignment for new admissions - ELIGIBLE NON-BENEFICIARIES",
+      "kind": "subarticle",
+      "depth": 4,
+      "numbering": "5.2.3.",
+      "separator": " ",
+      "pattern": "5.2.3. Convocation and assignment for new admissions - ELIGIBLE NON-BENEFICIARIES",
+      "page": 28,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Post assignment transfers",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "5.3.",
+      "separator": " ",
+      "pattern": "5.3. Post assignment transfers",
+      "page": 28,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "International Mobility",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "5.4.",
+      "separator": " ",
+      "pattern": "5.4. International Mobility",
+      "page": 28,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "TARIFFS AND DEADLINES",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "6.",
+      "separator": " ",
+      "pattern": "6. TARIFFS AND DEADLINES",
+      "page": 28,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "General information",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "6.1.",
+      "separator": " ",
+      "pattern": "6.1. General information",
+      "page": 28,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Preferential tariff and deadlines",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "6.2.",
+      "separator": " ",
+      "pattern": "6.2. Preferential tariff and deadlines",
+      "page": 28,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Tariff reduction",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "6.3.",
+      "separator": " ",
+      "pattern": "6.3. Tariff reduction",
+      "page": 29,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "WITHDRAWAL - LOSS OF THE ACCOMMODATION PLACE",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "7.",
+      "separator": " - ",
+      "pattern": "7. WITHDRAWAL - LOSS OF THE ACCOMMODATION PLACE",
+      "page": 29,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "End of hospitality",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "7.1.",
+      "separator": " ",
+      "pattern": "7.1. End of hospitality",
+      "page": 29,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Forfeiture",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "7.2.",
+      "separator": " ",
+      "pattern": "7.2. Forfeiture",
+      "page": 29,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "CANTEEN SERVICE",
+      "kind": "section",
+      "depth": 1,
+      "numbering": null,
+      "separator": null,
+      "pattern": "CANTEEN SERVICE",
+      "page": 30,
+      "confidence": 0.8,
+      "children": []
+    },
+    {
+      "title": "WHO CAN BENEFIT FROM THE CANTEEN SERVICE",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "1.",
+      "separator": " ",
+      "pattern": "1. WHO CAN BENEFIT FROM THE CANTEEN SERVICE",
+      "page": 30,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "REQUIREMENTS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "2.",
+      "separator": " ",
+      "pattern": "2. REQUIREMENTS",
+      "page": 30,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "AUTOMATIC EXCLUSION FROM THE CANTEEN SERVICE",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "3.",
+      "separator": " ",
+      "pattern": "3. AUTOMATIC EXCLUSION FROM THE CANTEEN SERVICE",
+      "page": 30,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "PRICE OF THE MEAL",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "4.",
+      "separator": " ",
+      "pattern": "4. PRICE OF THE MEAL",
+      "page": 31,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "TRANSFERS",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "5.",
+      "separator": " ",
+      "pattern": "5. TRANSFERS",
+      "page": 31,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "USE",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "6.",
+      "separator": " ",
+      "pattern": "6. USE",
+      "page": 31,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "FORFEITURE",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "7.",
+      "separator": " ",
+      "pattern": "7. FORFEITURE",
+      "page": 31,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "DEFINITIONS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": null,
+      "separator": null,
+      "pattern": "DEFINITIONS",
+      "page": 32,
+      "confidence": 0.8,
+      "children": []
+    },
+    {
+      "title": "EXAMPLES",
+      "kind": "section",
+      "depth": 1,
+      "numbering": null,
+      "separator": null,
+      "pattern": "EXAMPLES",
+      "page": 33,
+      "confidence": 0.8,
+      "children": []
+    },
+    {
+      "title": "ACADEMIC REGULARITY",
+      "kind": "article",
+      "depth": 2,
+      "numbering": "1.",
+      "separator": " ",
+      "pattern": "1. ACADEMIC REGULARITY",
+      "page": 33,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "ACADEMIC REGULARITY - PRE-UNIVERSITY EDUCATION AT FOREIGN SCHOOLS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "2.",
+      "separator": " ",
+      "pattern": "2. ACADEMIC REGULARITY - PRE-UNIVERSITY EDUCATION AT FOREIGN SCHOOLS",
+      "page": 33,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "PROPORTIONAL CRITERION",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "3.",
+      "separator": " ",
+      "pattern": "3. PROPORTIONAL CRITERION",
+      "page": 33,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "WEIGHTED AVERAGE",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "3.",
+      "separator": " ",
+      "pattern": "3. WEIGHTED AVERAGE",
+      "page": 34,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "CALCULATION FOR THE INTEGRATION FOR INTERNATIONAL MOBILITY",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "4.",
+      "separator": " ",
+      "pattern": "4. CALCULATION FOR THE INTEGRATION FOR INTERNATIONAL MOBILITY",
+      "page": 34,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "CHECKS OF THE SELF-CERTIFICATIONS VERACITY",
+      "kind": "section",
+      "depth": 1,
+      "numbering": null,
+      "separator": null,
+      "pattern": "CHECKS OF THE SELF-CERTIFICATIONS VERACITY",
+      "page": 35,
+      "confidence": 0.8,
+      "children": []
+    },
+    {
+      "title": "CHECKS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "1.",
+      "separator": " ",
+      "pattern": "1. CHECKS",
+      "page": 35,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "CONSEQUENCES IN CASE OF NON-VERACITY",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "2.",
+      "separator": " ",
+      "pattern": "2. CONSEQUENCES IN CASE OF NON-VERACITY",
+      "page": 35,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Sanction pursuant to art. 10, paragraph 3, Legislative Decree 68/2012",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "2.1.",
+      "separator": " ",
+      "pattern": "2.1. Sanction pursuant to art. 10, paragraph 3, Legislative Decree 68/2012",
+      "page": 35,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "Sanction pursuant to art. 38, paragraph 3, D.L. 78/2010",
+      "kind": "subarticle",
+      "depth": 3,
+      "numbering": "2.2.",
+      "separator": " ",
+      "pattern": "2.2. Sanction pursuant to art. 38, paragraph 3, D.L. 78/2010",
+      "page": 35,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "EXCLUSIVE COURT",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "3.",
+      "separator": " ",
+      "pattern": "3. EXCLUSIVE COURT",
+      "page": 35,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "GENERAL NOTES",
+      "kind": "section",
+      "depth": 1,
+      "numbering": null,
+      "separator": null,
+      "pattern": "GENERAL NOTES",
+      "page": 36,
+      "confidence": 0.8,
+      "children": []
+    }
+  ],
+  "heading_map": [
+    {
+      "title": "Index",
+      "kind": "section",
+      "depth": 1,
+      "numbering": null,
+      "separator": null,
+      "pattern": "Index",
+      "page": null,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "DEADLINES",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "1.",
+      "separator": " ",
+      "pattern": "1. DEADLINES",
+      "page": 8,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "PROCEDURE FOR SUBMITTING THE APPLICATION",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "2.",
+      "separator": " ",
+      "pattern": "2. PROCEDURE FOR SUBMITTING THE APPLICATION",
+      "page": 8,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "SCHOLARSHIP",
+      "kind": "section",
+      "depth": 1,
+      "numbering": null,
+      "separator": null,
+      "pattern": "SCHOLARSHIP",
+      "page": 9,
+      "confidence": 0.8,
+      "children": []
+    },
+    {
+      "title": "COMPOSITION OF THE SCHOLARSHIPS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "1.",
+      "separator": " ",
+      "pattern": "1. COMPOSITION OF THE SCHOLARSHIPS",
+      "page": 9,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "GENERAL CONDITIONS OF PARTICIPATION",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "2.",
+      "separator": " ",
+      "pattern": "2. GENERAL CONDITIONS OF PARTICIPATION",
+      "page": 9,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "MERIT REQUIREMENTS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "3.",
+      "separator": " ",
+      "pattern": "3. MERIT REQUIREMENTS",
+      "page": 9,
+      "confidence": 0.9,
+      "children": [
+        {
+          "title": "General requirements",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "3.1.",
+          "separator": " ",
+          "pattern": "3.1. General requirements",
+          "page": 9,
+          "confidence": 0.9,
+          "children": [
+            {
+              "title": "Grounds for exclusion",
+              "kind": "subarticle",
+              "depth": 4,
+              "numbering": "3.1.1.",
+              "separator": " ",
+              "pattern": "3.1.1. Grounds for exclusion",
+              "page": 9,
+              "confidence": 0.9,
+              "children": []
+            },
+            {
+              "title": "Academic regularity",
+              "kind": "subarticle",
+              "depth": 4,
+              "numbering": "3.1.2.",
+              "separator": " ",
+              "pattern": "3.1.2. Academic regularity",
+              "page": 10,
+              "confidence": 0.9,
+              "children": []
+            },
+            {
+              "title": "Academic regularity - per-university education at foreign schools",
+              "kind": "subarticle",
+              "depth": 4,
+              "numbering": "3.1.3.",
+              "separator": " ",
+              "pattern": "3.1.3. Academic regularity - per-university education at foreign schools",
+              "page": 11,
+              "confidence": 0.9,
+              "children": []
+            },
+            {
+              "title": "Documents of qualification achieved abroad",
+              "kind": "subarticle",
+              "depth": 4,
+              "numbering": "3.1.4.",
+              "separator": " ",
+              "pattern": "3.1.4. Documents of qualification achieved abroad",
+              "page": 11,
+              "confidence": 0.9,
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Students enrolled in the FIRST year of all degree courses",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "3.2.",
+          "separator": " ",
+          "pattern": "3.2. Students enrolled in the FIRST year of all degree courses",
+          "page": 11,
+          "confidence": 0.9,
+          "children": [
+            {
+              "title": "Access requirement",
+              "kind": "subarticle",
+              "depth": 4,
+              "numbering": "3.2.1.",
+              "separator": " ",
+              "pattern": "3.2.1. Access requirement",
+              "page": 11,
+              "confidence": 0.9,
+              "children": []
+            },
+            {
+              "title": "Ex-post merit requirement (only for first year students)",
+              "kind": "subarticle",
+              "depth": 4,
+              "numbering": "3.2.2.",
+              "separator": " ",
+              "pattern": "3.2.2. Ex-post merit requirement (only for first year students)",
+              "page": 11,
+              "confidence": 0.9,
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Students enrolled in the SECOND AND SUBSEQUENT years of all degree courses.",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "3.3.",
+          "separator": " ",
+          "pattern": "3.3. Students enrolled in the SECOND AND SUBSEQUENT years of all degree courses.",
+          "page": 12,
+          "confidence": 0.9,
+          "children": [
+            {
+              "title": "Number of credits",
+              "kind": "subarticle",
+              "depth": 4,
+              "numbering": "3.3.1.",
+              "separator": " ",
+              "pattern": "3.3.1.Number of credits",
+              "page": 12,
+              "confidence": 0.9,
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Proportional criterion",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "3.4.",
+          "separator": " ",
+          "pattern": "3.4. Proportional criterion",
+          "page": 13,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "Validity of credits and weighted average",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "3.5.",
+          "separator": " ",
+          "pattern": "3.5. Validity of credits and weighted average",
+          "page": 13,
+          "confidence": 0.9,
+          "children": [
+            {
+              "title": "Valid Credits",
+              "kind": "subarticle",
+              "depth": 4,
+              "numbering": "3.5.1.",
+              "separator": " ",
+              "pattern": "3.5.1. Valid Credits",
+              "page": 13,
+              "confidence": 0.9,
+              "children": []
+            },
+            {
+              "title": "Weighted Average",
+              "kind": "subarticle",
+              "depth": 4,
+              "numbering": "3.5.2.",
+              "separator": " ",
+              "pattern": "3.5.2. Weighted Average",
+              "page": 13,
+              "confidence": 0.9,
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Bonus",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "3.6.",
+          "separator": " ",
+          "pattern": "3.6. Bonus",
+          "page": 13,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "Students with disabilities",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "3.7.",
+          "separator": " ",
+          "pattern": "3.7. Students with disabilities",
+          "page": 14,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "Specialisation Schools and Ph.D programs",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "3.8.",
+          "separator": " ",
+          "pattern": "3.8. Specialisation Schools and Ph.D programs",
+          "page": 14,
+          "confidence": 0.9,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ECONOMIC REQUIREMENTS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "4.",
+      "separator": " ",
+      "pattern": "4. ECONOMIC REQUIREMENTS",
+      "page": 14,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "SCHOLARSHIP AMOUNT",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "5.",
+      "separator": " ",
+      "pattern": "5. SCHOLARSHIP AMOUNT",
+      "page": 15,
+      "confidence": 0.9,
+      "children": [
+        {
+          "title": "Income brackets",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "5.1.",
+          "separator": " ",
+          "pattern": "5.1. Income brackets",
+          "page": 15,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "Geographical origin",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "5.2.",
+          "separator": " ",
+          "pattern": "5.2. Geographical origin",
+          "page": 15,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "Scholarship amounts",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "5.3.",
+          "separator": " ",
+          "pattern": "5.3.Scholarship amounts",
+          "page": 16,
+          "confidence": 0.9,
+          "children": [
+            {
+              "title": "Students enrolled in years of regular course",
+              "kind": "subarticle",
+              "depth": 4,
+              "numbering": "5.3.1.",
+              "separator": " ",
+              "pattern": "5.3.1. Students enrolled in years of regular course",
+              "page": 16,
+              "confidence": 0.9,
+              "children": []
+            },
+            {
+              "title": "Students enrolled in the first year outside prescribed time",
+              "kind": "subarticle",
+              "depth": 4,
+              "numbering": "5.3.2.",
+              "separator": " ",
+              "pattern": "5.3.2. Students enrolled in the first year outside prescribed time",
+              "page": 17,
+              "confidence": 0.9,
+              "children": []
+            },
+            {
+              "title": "Degree prize",
+              "kind": "subarticle",
+              "depth": 4,
+              "numbering": "5.3.3.",
+              "separator": " ",
+              "pattern": "5.3.3.Degree prize",
+              "page": 17,
+              "confidence": 0.9,
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Free canteen service",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "5.4.",
+          "separator": " ",
+          "pattern": "5.4. Free canteen service",
+          "page": 17,
+          "confidence": 0.9,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "SCHOLARSHIP INTEGRATIONS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "6.",
+      "separator": " ",
+      "pattern": "6. SCHOLARSHIP INTEGRATIONS",
+      "page": 18,
+      "confidence": 1,
+      "children": [
+        {
+          "title": "Students with disabilities",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "6.1.",
+          "separator": " ",
+          "pattern": "6.1. Students with disabilities",
+          "page": 18,
+          "confidence": 1,
+          "children": [
+            {
+              "title": "Amounts",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "6.1.1.",
+              "separator": " ",
+              "pattern": "6.1.1. Amounts",
+              "page": 18,
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "Period and methods of payment",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "6.1.2.",
+              "separator": " ",
+              "pattern": "6.1.2. Period and methods of payment",
+              "page": 18,
+              "confidence": 1,
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "International mobility",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "6.2.",
+          "separator": " ",
+          "pattern": "6.2. International mobility",
+          "page": 19,
+          "confidence": 1,
+          "children": [
+            {
+              "title": "Amounts for international mobility",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "6.2.1.",
+              "separator": " ",
+              "pattern": "6.2.1. Amounts for international mobility",
+              "page": 19,
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "International mobility rankings and payment",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "6.2.2.",
+              "separator": " ",
+              "pattern": "6.2.2. International mobility rankings and payment",
+              "page": 19,
+              "confidence": 1,
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Contemporary enrollments",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "6.3.",
+          "separator": null,
+          "pattern": "6.3.Contemporary enrollments",
+          "page": 19,
+          "confidence": 0.9,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DEFINITION OF THE RANKINGS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "7.",
+      "separator": " ",
+      "pattern": "7. DEFINITION OF THE RANKINGS",
+      "page": 19,
+      "confidence": 1,
+      "children": [
+        {
+          "title": "Students enrolled in the FIRST year of all DEGREE COURSES and ALL years of PH.D and Specialisation Schools",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "7.1.",
+          "separator": " ",
+          "pattern": "7.1. Students enrolled in the FIRST year of all DEGREE COURSES and ALL years of PH.D and Specialisation Schools",
+          "page": 19,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Students enrolled in SECOND AND SUBSEQUENT YEARS of all DEGREE COURSES",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "7.2.",
+          "separator": " ",
+          "pattern": "7.2. Students enrolled in SECOND AND SUBSEQUENT YEARS of all DEGREE COURSES",
+          "page": 20,
+          "confidence": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "PUBLICATION OF PROVISIONAL RANKINGS AND APPEALS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "8.",
+      "separator": " ",
+      "pattern": "8. PUBLICATION OF PROVISIONAL RANKINGS AND APPEALS",
+      "page": 20,
+      "confidence": 1,
+      "children": [
+        {
+          "title": "General ranking",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "8.1.",
+          "separator": " ",
+          "pattern": "8.1. General ranking",
+          "page": 20,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Second semester ranking",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "8.2.",
+          "separator": " ",
+          "pattern": "8.2. Second semester ranking",
+          "page": 20,
+          "confidence": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "PAYMENT OF THE SCHOLARSHIPS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "9.",
+      "separator": " ",
+      "pattern": "9. PAYMENT OF THE SCHOLARSHIPS",
+      "page": 21,
+      "confidence": 1,
+      "children": [
+        {
+          "title": "Payment methods",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "9.1.",
+          "separator": " ",
+          "pattern": "9.1. Payment methods",
+          "page": 21,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Payment times",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "9.2.",
+          "separator": " ",
+          "pattern": "9.2. Payment times",
+          "page": 21,
+          "confidence": 1,
+          "children": [
+            {
+              "title": "First and second installment",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "9.2.1.",
+              "separator": " ",
+              "pattern": "9.2.1. First and second installment",
+              "page": 21,
+              "confidence": 1,
+              "children": []
+            },
+            {
+              "title": "Degree prize",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "9.2.2.",
+              "separator": " ",
+              "pattern": "9.2.2. Degree prize",
+              "page": 21,
+              "confidence": 1,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "INCOMPATIBILITY AND TRANSFERS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "10.",
+      "separator": " ",
+      "pattern": "10. INCOMPATIBILITY AND TRANSFERS",
+      "page": 21,
+      "confidence": 1,
+      "children": [
+        {
+          "title": "Incompatibility",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "10.1.",
+          "separator": " ",
+          "pattern": "10.1. Incompatibility",
+          "page": 21,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Transfers",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "10.2.",
+          "separator": " ",
+          "pattern": "10.2. Transfers",
+          "page": 21,
+          "confidence": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "FORFEITURE OF THE SCHOLARSHIP BENEFITS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "11.",
+      "separator": " ",
+      "pattern": "11. FORFEITURE OF THE SCHOLARSHIP BENEFITS",
+      "page": 22,
+      "confidence": 1,
+      "children": [
+        {
+          "title": "Total forfeiture",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "11.1.",
+          "separator": " ",
+          "pattern": "11.1. Total forfeiture",
+          "page": 22,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Partial forfeiture",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "11.2.",
+          "separator": " ",
+          "pattern": "11.2.Partial forfeiture",
+          "page": 22,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "Consequences of forfeiture",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "11.3.",
+          "separator": " ",
+          "pattern": "11.3. Consequences of forfeiture",
+          "page": 22,
+          "confidence": 1,
+          "children": []
+        },
+        {
+          "title": "EXCEPTIONAL SUBSIDY",
+          "kind": "topic",
+          "depth": 2,
+          "numbering": null,
+          "separator": null,
+          "pattern": "EXCEPTIONAL SUBSIDY",
+          "page": 23,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "HOUSING SERVICE",
+          "kind": "topic",
+          "depth": 2,
+          "numbering": null,
+          "separator": null,
+          "pattern": "HOUSING SERVICE",
+          "page": 25,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "AVAILABLE ACCOMMODATION PLACES",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "1.",
+          "separator": " ",
+          "pattern": "1. AVAILABLE ACCOMMODATION PLACES",
+          "page": 25,
+          "confidence": 1,
+          "children": [
+            {
+              "title": "General information",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "1.1.",
+              "separator": " ",
+              "pattern": "1.1. General information",
+              "page": 25,
+              "confidence": 0.9,
+              "children": []
+            },
+            {
+              "title": "Facilities available for students enrolled at the University of Milano-Bicocca",
+              "kind": "subarticle",
+              "depth": 3,
+              "numbering": "1.2.",
+              "separator": " ",
+              "pattern": "1.2. Facilities available for students enrolled at the University of Milano-Bicocca",
+              "page": 25,
+              "confidence": 0.9,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "RECONFIRMATE THE ACCOMMODATION PLACE",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "2.",
+      "separator": " ",
+      "pattern": "2. RECONFIRMATE THE ACCOMMODATION PLACE",
+      "page": 25,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "NEW ADMISSIONS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "3.",
+      "separator": " ",
+      "pattern": "3. NEW ADMISSIONS",
+      "page": 25,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "DEFINITIONS OF THE RANKINGS AND PUBLICATION OF THE RESULTS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "4.",
+      "separator": " ",
+      "pattern": "4. DEFINITIONS OF THE RANKINGS AND PUBLICATION OF THE RESULTS",
+      "page": 26,
+      "confidence": 0.9,
+      "children": [
+        {
+          "title": "Definition of the rankings",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "4.1.",
+          "separator": " ",
+          "pattern": "4.1. Definition of the rankings",
+          "page": 26,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "Publication of the results and appeals",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "4.2.",
+          "separator": " ",
+          "pattern": "4.2. Publication of the results and appeals",
+          "page": 26,
+          "confidence": 0.9,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ASSIGNMENT OF THE ACCOMMODATION PLACES",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "5.",
+      "separator": " ",
+      "pattern": "5. ASSIGNMENT OF THE ACCOMMODATION PLACES",
+      "page": 26,
+      "confidence": 0.9,
+      "children": [
+        {
+          "title": "Hospitality period",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "5.1.",
+          "separator": " ",
+          "pattern": "5.1. Hospitality period",
+          "page": 26,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "Assignment",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "5.2.",
+          "separator": " ",
+          "pattern": "5.2. Assignment",
+          "page": 26,
+          "confidence": 0.9,
+          "children": [
+            {
+              "title": "Assignment for the reconfirmations",
+              "kind": "subarticle",
+              "depth": 4,
+              "numbering": "5.2.1.",
+              "separator": " ",
+              "pattern": "5.2.1. Assignment for the reconfirmations",
+              "page": 27,
+              "confidence": 0.9,
+              "children": []
+            },
+            {
+              "title": "Convocation and assignment for new admissions - BENEFICIARIES",
+              "kind": "subarticle",
+              "depth": 4,
+              "numbering": "5.2.2.",
+              "separator": " ",
+              "pattern": "5.2.2. Convocation and assignment for new admissions - BENEFICIARIES",
+              "page": 27,
+              "confidence": 0.9,
+              "children": []
+            },
+            {
+              "title": "Convocation and assignment for new admissions - ELIGIBLE NON-BENEFICIARIES",
+              "kind": "subarticle",
+              "depth": 4,
+              "numbering": "5.2.3.",
+              "separator": " ",
+              "pattern": "5.2.3. Convocation and assignment for new admissions - ELIGIBLE NON-BENEFICIARIES",
+              "page": 28,
+              "confidence": 0.9,
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Post assignment transfers",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "5.3.",
+          "separator": " ",
+          "pattern": "5.3. Post assignment transfers",
+          "page": 28,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "International Mobility",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "5.4.",
+          "separator": " ",
+          "pattern": "5.4. International Mobility",
+          "page": 28,
+          "confidence": 0.9,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "TARIFFS AND DEADLINES",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "6.",
+      "separator": " ",
+      "pattern": "6. TARIFFS AND DEADLINES",
+      "page": 28,
+      "confidence": 0.9,
+      "children": [
+        {
+          "title": "General information",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "6.1.",
+          "separator": " ",
+          "pattern": "6.1. General information",
+          "page": 28,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "Preferential tariff and deadlines",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "6.2.",
+          "separator": " ",
+          "pattern": "6.2. Preferential tariff and deadlines",
+          "page": 28,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "Tariff reduction",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "6.3.",
+          "separator": " ",
+          "pattern": "6.3. Tariff reduction",
+          "page": 29,
+          "confidence": 0.9,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "WITHDRAWAL - LOSS OF THE ACCOMMODATION PLACE",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "7.",
+      "separator": " - ",
+      "pattern": "7. WITHDRAWAL - LOSS OF THE ACCOMMODATION PLACE",
+      "page": 29,
+      "confidence": 0.9,
+      "children": [
+        {
+          "title": "End of hospitality",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "7.1.",
+          "separator": " ",
+          "pattern": "7.1. End of hospitality",
+          "page": 29,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "Forfeiture",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "7.2.",
+          "separator": " ",
+          "pattern": "7.2. Forfeiture",
+          "page": 29,
+          "confidence": 0.9,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CANTEEN SERVICE",
+      "kind": "section",
+      "depth": 1,
+      "numbering": null,
+      "separator": null,
+      "pattern": "CANTEEN SERVICE",
+      "page": 30,
+      "confidence": 0.8,
+      "children": [
+        {
+          "title": "WHO CAN BENEFIT FROM THE CANTEEN SERVICE",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "1.",
+          "separator": " ",
+          "pattern": "1. WHO CAN BENEFIT FROM THE CANTEEN SERVICE",
+          "page": 30,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "REQUIREMENTS",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "2.",
+          "separator": " ",
+          "pattern": "2. REQUIREMENTS",
+          "page": 30,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "AUTOMATIC EXCLUSION FROM THE CANTEEN SERVICE",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "3.",
+          "separator": " ",
+          "pattern": "3. AUTOMATIC EXCLUSION FROM THE CANTEEN SERVICE",
+          "page": 30,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "PRICE OF THE MEAL",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "4.",
+          "separator": " ",
+          "pattern": "4. PRICE OF THE MEAL",
+          "page": 31,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "TRANSFERS",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "5.",
+          "separator": " ",
+          "pattern": "5. TRANSFERS",
+          "page": 31,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "USE",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "6.",
+          "separator": " ",
+          "pattern": "6. USE",
+          "page": 31,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "FORFEITURE",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "7.",
+          "separator": " ",
+          "pattern": "7. FORFEITURE",
+          "page": 31,
+          "confidence": 0.9,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DEFINITIONS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": null,
+      "separator": null,
+      "pattern": "DEFINITIONS",
+      "page": 32,
+      "confidence": 0.8,
+      "children": []
+    },
+    {
+      "title": "EXAMPLES",
+      "kind": "section",
+      "depth": 1,
+      "numbering": null,
+      "separator": null,
+      "pattern": "EXAMPLES",
+      "page": 33,
+      "confidence": 0.8,
+      "children": [
+        {
+          "title": "ACADEMIC REGULARITY",
+          "kind": "article",
+          "depth": 2,
+          "numbering": "1.",
+          "separator": " ",
+          "pattern": "1. ACADEMIC REGULARITY",
+          "page": 33,
+          "confidence": 0.9,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ACADEMIC REGULARITY - PRE-UNIVERSITY EDUCATION AT FOREIGN SCHOOLS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "2.",
+      "separator": " ",
+      "pattern": "2. ACADEMIC REGULARITY - PRE-UNIVERSITY EDUCATION AT FOREIGN SCHOOLS",
+      "page": 33,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "PROPORTIONAL CRITERION",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "3.",
+      "separator": " ",
+      "pattern": "3. PROPORTIONAL CRITERION",
+      "page": 33,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "WEIGHTED AVERAGE",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "3.",
+      "separator": " ",
+      "pattern": "3. WEIGHTED AVERAGE",
+      "page": 34,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "CALCULATION FOR THE INTEGRATION FOR INTERNATIONAL MOBILITY",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "4.",
+      "separator": " ",
+      "pattern": "4. CALCULATION FOR THE INTEGRATION FOR INTERNATIONAL MOBILITY",
+      "page": 34,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "CHECKS OF THE SELF-CERTIFICATIONS VERACITY",
+      "kind": "section",
+      "depth": 1,
+      "numbering": null,
+      "separator": null,
+      "pattern": "CHECKS OF THE SELF-CERTIFICATIONS VERACITY",
+      "page": 35,
+      "confidence": 0.8,
+      "children": []
+    },
+    {
+      "title": "CHECKS",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "1.",
+      "separator": " ",
+      "pattern": "1. CHECKS",
+      "page": 35,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "CONSEQUENCES IN CASE OF NON-VERACITY",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "2.",
+      "separator": " ",
+      "pattern": "2. CONSEQUENCES IN CASE OF NON-VERACITY",
+      "page": 35,
+      "confidence": 0.9,
+      "children": [
+        {
+          "title": "Sanction pursuant to art. 10, paragraph 3, Legislative Decree 68/2012",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "2.1.",
+          "separator": " ",
+          "pattern": "2.1. Sanction pursuant to art. 10, paragraph 3, Legislative Decree 68/2012",
+          "page": 35,
+          "confidence": 0.9,
+          "children": []
+        },
+        {
+          "title": "Sanction pursuant to art. 38, paragraph 3, D.L. 78/2010",
+          "kind": "subarticle",
+          "depth": 3,
+          "numbering": "2.2.",
+          "separator": " ",
+          "pattern": "2.2. Sanction pursuant to art. 38, paragraph 3, D.L. 78/2010",
+          "page": 35,
+          "confidence": 0.9,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "EXCLUSIVE COURT",
+      "kind": "section",
+      "depth": 1,
+      "numbering": "3.",
+      "separator": " ",
+      "pattern": "3. EXCLUSIVE COURT",
+      "page": 35,
+      "confidence": 0.9,
+      "children": []
+    },
+    {
+      "title": "GENERAL NOTES",
+      "kind": "section",
+      "depth": 1,
+      "numbering": null,
+      "separator": null,
+      "pattern": "GENERAL NOTES",
+      "page": 36,
+      "confidence": 0.8,
+      "children": []
+    }
+  ],
+  "summary": "The University of Milano-Bicocca's Call for the assignment of the benefits of the right to education for the academic year 2025/2026 outlines the application procedures, eligibility criteria, and deadlines for scholarships, housing, canteen services, and other financial aids. Funded by the European Union’s NextGenerationEU program, the call is open to all students, including those enrolling in specific medical and dental programs, with detailed merit and economic requirements, scholarship amounts, and integration options provided. Applications open from July 15, 2025, with key deadlines through September 30, 2025.",
+  "metadata": {
+    "title": "Call for the assignment of the benefits of the right to education",
+    "source": "explicit",
+    "year": "2025/2026",
+    "document_type": "Call",
+    "organization": "University of Milano-Bicocca"
+  },
+  "toc_boundaries": {
+    "start_line": 48,
+    "end_line": 249,
+    "marker": "(agent-detected)"
+  },
+  "processing_log": [
+    {
+      "action": "read",
+      "detail": "Read 1358 lines from /Users/omiderfanmanesh/Projects/DocStruct/data/Call for the benefits of the right to education a.y. 2025:2026 – UniMI Bicocca (ENG)-bando-DSU-2025-26 eng.md",
+      "line": null
+    },
+    {
+      "action": "detected",
+      "detail": "TOC marker '(agent-detected)' at line 48",
+      "line": 48
+    },
+    {
+      "action": "boundary",
+      "detail": "TOC spans lines 48-249",
+      "line": null
+    },
+    {
+      "action": "classified",
+      "detail": "LLM extracted 106 TOC entries",
+      "line": null
+    },
+    {
+      "action": "mapped",
+      "detail": "Built heading tree with 33 root nodes",
+      "line": null
+    },
+    {
+      "action": "summarized",
+      "detail": "Generated document summary",
+      "line": null
+    },
+    {
+      "action": "metadata",
+      "detail": "Extracted metadata: title='Call for the assignment of the benefits of the right to education', source=explicit",
+      "line": null
+    }
+  ],
+  "extracted_at": "2026-04-15T09:20:33.083297Z"
+}

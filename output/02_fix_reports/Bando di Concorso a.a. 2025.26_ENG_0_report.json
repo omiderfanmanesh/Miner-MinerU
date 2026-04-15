@@ -1,12 +1,10 @@
 {
-  "source_file": "data\\Bando di Concorso a.a. 2025.26_ENG_0.md",
-  "output_file": "C:\\Projects\\personal\\DocStruct\\output\\fixed\\Bando di Concorso a.a. 2025.26_ENG_0.md",
-  "total_lines": 1176,
-  "lines_changed": 103,
+  "source_file": "/Users/omiderfanmanesh/Projects/DocStruct/data/Bando di Concorso a.a. 2025.26_ENG_0.md",
+  "output_file": "/Users/omiderfanmanesh/Projects/DocStruct/output/02_fixed_markdown/Bando di Concorso a.a. 2025.26_ENG_0.md",
+  "total_lines": 1169,
+  "lines_changed": 98,
   "lines_demoted": 12,
-  "unmatched_toc_entries": [
-    "Participation limits"
-  ],
+  "unmatched_toc_entries": [],
   "corrections": [
     {
       "line_number": 3,
@@ -28,6 +26,13 @@
       "new_level": null,
       "matched_toc_title": null,
       "match_method": "demoted"
+    },
+    {
+      "line_number": 14,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Career check for candidates enrolled in an additional semester or in the first year",
+      "match_method": "llm"
     },
     {
       "line_number": 60,
@@ -72,13 +77,6 @@
       "match_method": "exact"
     },
     {
-      "line_number": 118,
-      "old_level": 1,
-      "new_level": 3,
-      "matched_toc_title": "Career check for candidates enrolled in an additional semester or in the first year",
-      "match_method": "llm"
-    },
-    {
       "line_number": 131,
       "old_level": 1,
       "new_level": 3,
@@ -93,7 +91,7 @@
       "match_method": "llm"
     },
     {
-      "line_number": 182,
+      "line_number": 180,
       "old_level": 1,
       "new_level": 3,
       "matched_toc_title": "Students simultaneously enrolled in courses of study and FIT (Education, placement and internship) courses at Universities",
@@ -212,13 +210,6 @@
       "match_method": "exact"
     },
     {
-      "line_number": 303,
-      "old_level": 1,
-      "new_level": 2,
-      "matched_toc_title": "BONUS FOR ACHIEVING THE MINIMUM MERIT REQUIREMENT",
-      "match_method": "llm"
-    },
-    {
       "line_number": 313,
       "old_level": 4,
       "new_level": 2,
@@ -233,13 +224,6 @@
       "match_method": "exact"
     },
     {
-      "line_number": 319,
-      "old_level": 1,
-      "new_level": 2,
-      "matched_toc_title": "REQUIREMENTS RELATING TO ECONOMIC CONDITION",
-      "match_method": "llm"
-    },
-    {
       "line_number": 327,
       "old_level": 1,
       "new_level": 3,
@@ -247,25 +231,11 @@
       "match_method": "exact"
     },
     {
-      "line_number": 329,
-      "old_level": 1,
-      "new_level": 3,
-      "matched_toc_title": "University ISEE",
-      "match_method": "llm"
-    },
-    {
-      "line_number": 335,
-      "old_level": 1,
-      "new_level": 3,
-      "matched_toc_title": "Composition of the family unit",
-      "match_method": "exact"
-    },
-    {
       "line_number": 345,
       "old_level": 1,
       "new_level": 3,
       "matched_toc_title": "Independent student",
-      "match_method": "exact"
+      "match_method": "llm"
     },
     {
       "line_number": 347,
@@ -273,13 +243,6 @@
       "new_level": null,
       "matched_toc_title": null,
       "match_method": "demoted"
-    },
-    {
-      "line_number": 356,
-      "old_level": 1,
-      "new_level": 3,
-      "matched_toc_title": "Independent student",
-      "match_method": "llm"
     },
     {
       "line_number": 366,
@@ -294,13 +257,6 @@
       "new_level": 3,
       "matched_toc_title": "Applicant status details",
       "match_method": "exact"
-    },
-    {
-      "line_number": 382,
-      "old_level": 1,
-      "new_level": 3,
-      "matched_toc_title": "Applicant with political refugee or stateless status",
-      "match_method": "llm"
     },
     {
       "line_number": 388,
@@ -719,7 +675,7 @@
       "line_number": 1087,
       "old_level": 4,
       "new_level": 1,
-      "matched_toc_title": "Modulo 1",
+      "matched_toc_title": "Allegato Modulo 1",
       "match_method": "exact"
     },
     {
@@ -728,6 +684,13 @@
       "new_level": null,
       "matched_toc_title": null,
       "match_method": "demoted"
+    },
+    {
+      "line_number": 1097,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "Applicant with political refugee or stateless status",
+      "match_method": "llm"
     }
   ]
 }

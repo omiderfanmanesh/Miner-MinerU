@@ -1,0 +1,829 @@
+{
+  "source_file": "/Users/omiderfanmanesh/Projects/DocStruct/data/EDiSU_Pavia_(Lombardia)_BANDO-BORSE-25_26-post-DGR_agg-27-08-2025.md",
+  "output_file": "/Users/omiderfanmanesh/Projects/DocStruct/output/02_fixed_markdown/EDiSU_Pavia_(Lombardia)_BANDO-BORSE-25_26-post-DGR_agg-27-08-2025.md",
+  "total_lines": 947,
+  "lines_changed": 94,
+  "lines_demoted": 84,
+  "unmatched_toc_entries": [],
+  "corrections": [
+    {
+      "line_number": 1,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 3,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 5,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 11,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 13,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 15,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "OGGETTO DEL BANDO",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 16,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "FINANZIAMENTO DELLE BORSE DI STUDIO - NUMERO BORSE ASSEGNATE",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 18,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "REQUISITI PER L'INSERIMENTO NELLE GRADUATORIE DELLA BORSA DI STUDIO",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 20,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "REQUISITI DI MERITO",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 22,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "REGOLARITA ACCADEMICA",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 23,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "REQUISITI DI MERITO - STUDENTI ISCRITTI PER LA PRIMA VOLTA AL PRIMO ANNO",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 24,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "REQUISITI DI MERITO - STUDENTI ISCRITTI AD ANNI SUCCESSIVI AL PRIMO",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 25,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "REQUISITI DI MERITO PER STUDENTI CON DISABILITA",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 27,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "REQUISITI DI REDDITO",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 29,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "STUDENTI CON REDDITI E PATRIMONI IN ITALIA",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 30,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "VALUTAZIONE DELLA SITUAZIONE ECONOMICA PER STUDENTI CON REDDITI E PATRIMONI ALL'ESTERO (STUDENTI STRANIERI CON NUCLEO FAMILIARE RESIDENTE ALL'ESTERO O STUDENTI ITALIANI RESIDENTI ALL'ESTERO)",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 32,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "TERMINI E MODALITA PER LA PRESENTAZIONE DELLA DOMANDA DI BORSA DI STUDIO",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 33,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "AMMONTARE DELLE BORSE DI STUDIO",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 34,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "INTEGRAZIONI DELLA BORSA DI STUDIO",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 35,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "PROCEDURE PER LA FORMAZIONE DELLE GRADUATORIE",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 36,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "PUBLBLICAZIONE DELLE GRADUATORIE PROVVISORIE ED EVENTUALE PRESENTAZIONE DI ISTANZE DI REVISIONE",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 38,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "ASSEGNAZIONE E MODALIT\u00c0 DI PAGAMENTO DELLE BORSE DI STUDIO E DELLE INTEGRAZIONI - REVOCHE",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 39,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "INCOMPATIBILITA - DECADENZA",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 40,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "TRASFERIMENTI",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 41,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "ACCERTAMENTO CONDIZIONI ECONOMICHE",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 43,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 45,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "CONSEGUENZE IN CASO DI NON VERIDICITA ACCERTATA DELLE CONDITIONI ECONOMICHE E/O DI MERITO",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 46,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "FORO ESCLUSIVO",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 47,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "INFORMATIVA SULL'USO DEI DATI PERSONALI E_SUI DIRITTI DEL DICHIARANTE",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 48,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "NOTIZIE DI NATURA FISCALE",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 49,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "INFORMAZIONI RELATIVE AL BANDO",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 51,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 59,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "OGGETTO DEL BANDO",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 72,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 80,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "FINANZIAMENTO DELLE BORSE DI STUDIO - NUMERO BORSE ASSEGNATE",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 96,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 100,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "CONDIZIONI GENERALI DI PARTECIPAZIONE AL CONCORSO",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 104,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "CONDIZIONI GENERALI DI PARTECIPAZIONE AL CONCORSO",
+      "match_method": "llm"
+    },
+    {
+      "line_number": 114,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 121,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 127,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 136,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "REQUISITI PER L'INSERIMENTO NELLE GRADUATORIE DELLA BORSA DI STUDIO",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 146,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "REQUISITI DI MERITO",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 148,
+      "old_level": 1,
+      "new_level": 3,
+      "matched_toc_title": "REGOLARITA ACCADEMICA",
+      "match_method": "exact"
+    },
+    {
+      "line_number": 166,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 174,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 182,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 188,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 194,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 198,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 205,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 215,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 224,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 231,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 252,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 256,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 286,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 290,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 308,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 339,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 345,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 371,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 378,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 389,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 429,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 443,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 450,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 464,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 468,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 481,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 491,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 499,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 504,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 508,
+      "old_level": 1,
+      "new_level": 1,
+      "matched_toc_title": "PUBLBLICAZIONE GRADUATORIE DEFINITIVE E SUCESSIVA DETERMINAZIONE FINALE DELLA CONDIZIONE GEOGRAFICA.... DI FUORI SEDE / PENDOLARE",
+      "match_method": "llm"
+    },
+    {
+      "line_number": 512,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 516,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 534,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 545,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 549,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 563,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 565,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 585,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 593,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 595,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 605,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 613,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 615,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 621,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 633,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 643,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 647,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 657,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 666,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 672,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 690,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 712,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 727,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 735,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 739,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 757,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 759,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 770,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 774,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 784,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 793,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 799,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 808,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 830,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 836,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 846,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 859,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 863,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 871,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 875,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 881,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 903,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    },
+    {
+      "line_number": 912,
+      "old_level": 1,
+      "new_level": null,
+      "matched_toc_title": null,
+      "match_method": "demoted"
+    }
+  ]
+}
